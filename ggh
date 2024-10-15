@@ -1,0 +1,54 @@
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/V5.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/V4.lua"))()
+local Window = redzlib:MakeWindow({
+  Title = "乌托邦丨Pressure Wash Simulator",
+  SubTitle = "欢迎使用",
+  SaveFolder = "乌托邦"
+})
+
+--Tabs
+
+local Tab1 = Window:MakeTab({"| 信息", "rbxassetid://18170270692"})
+local Tab2 = Window:MakeTab({"| 主要", "rbxassetid://17781992617"})
+Window:SelectTab(Tab1)
+
+Tab1:AddDiscordInvite({
+    Name = "请加入乌托邦交流群 ROBLOX",
+    Logo = "rbxassetid://72347864782725",
+    Invite = "https://qm.qq.com/q/4s2duWP6rK"
+})
+
+local Paragraph = Tab1:AddParagraph({"乌托邦共和国副领导人", "始祖​"})
+
+local Paragraph = Tab1:AddParagraph({"乌托邦共和国领导人", "始祖​"})
+
+local Paragraph = Tab1:AddParagraph({"本脚本永久免费！", "594229136​"})
+
+local Paragraph = Tab1:AddParagraph({"点击复制 前往qq进入!", "​"})
+
+Window:AddMinimizeButton({
+    Button = {
+        Image = "rbxassetid://72347864782725"
+    },
+    UICorner = {true,
+    CornerRadius = UDim.new(0.5, 0)
+},
+UIStroke = {false, {
+
+}}
+})
+
+Window:SelectTab(Tab2)
+
+local Section = Tab2:AddSection({"自动区"})
+
+Tab2:AddButton({"无限金钱+自动吸水", function()
+print("")
+_G.Clean = true -- Change to false to stop.
+while _G.Clean and wait(.1) do
+game:GetService("ReplicatedStorage").Remotes.RefillRemote:FireServer(true)
+game:GetService("ReplicatedStorage").Remotes.SurfaceCompleted:FireServer(math.huge, math.huge)
+game:GetService("ReplicatedStorage").Remotes.ClientFrameData:FireServer(math.huge , true, true, math.huge)
+end
+end
+})
