@@ -1,0 +1,73 @@
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/V5.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/V4.lua"))()
+local Window = redzlib:MakeWindow({
+  Title = "乌托邦丨大便模拟器",
+  SubTitle = "欢迎使用",
+  SaveFolder = "乌托邦"
+})
+
+redzlib:SetTheme("DarkRed")
+
+local Tab1 = Window:MakeTab({"| 信息", "rbxassetid://17781992617"})
+local Tab3 = Window:MakeTab({"| 功能", "rbxassetid://18170269266"})
+
+Window:SelectTab(Tab1)
+
+Tab1:AddDiscordInvite({
+    Name = "请加入乌托邦交流群 ROBLOX",
+    Logo = "rbxassetid://72347864782725",
+    Invite = "https://qm.qq.com/q/4s2duWP6rK"
+})
+
+local Paragraph = Tab1:AddParagraph({"本脚本永久免费！", "594229136​"})
+
+local Paragraph = Tab1:AddParagraph({"点击复制 前往qq进入!", "​"})
+
+Window:AddMinimizeButton({
+    Button = {
+        Image = "rbxassetid://72347864782725"
+    },
+    UICorner = {true,
+    CornerRadius = UDim.new(0.5, 0)
+},
+UIStroke = {false, {
+
+}}
+})
+Tab3:AddButton({
+    Name = "自动大便",
+    Description = "让你快速拉屎",
+    Callback = function()
+while wait(0.01) do
+local args = {
+    [1] = "poop"
+}
+
+workspace.RemoteEvent:FireServer(unpack(args))
+end
+    end
+})
+
+Tab3:AddButton({
+    Name = "自动放屁",
+    Description = "让你快速放屁",
+    Callback = function()
+while wait(0.01) do
+local args = {
+    [1] = "fart"
+}
+
+workspace.RemoteEvent:FireServer(unpack(args))
+end
+    end
+})
+
+Tab3:AddButton({
+    Name = "删除所有大便和放屁",
+    Description = "",
+    Callback = function()
+if game:GetService("Workspace"):FindFirstChild("poop") then
+    game:GetService("Workspace").poop:Destroy()
+end
+    end
+})
