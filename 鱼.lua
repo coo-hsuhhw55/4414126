@@ -100,7 +100,7 @@ alarmSound:Play()
 task.spawn(moveScanLine) 
 wait(2)
 
-typeText(textLabel, "ACCESSING SYSTEM FILES...\nPLEASE WAIT...\n", 0.05)
+typeText(textLabel, "10分钟后恢复...\nPLEASE WAIT...\n", 0.05)
 flashRed()
 wait(2)
 
