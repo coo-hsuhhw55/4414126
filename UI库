@@ -780,25 +780,44 @@ function Library:CreateWindow(Settings: { Title: string, Size: UDim2, Transparen
 		})
 	end
 
-	function Options:AddParagraph(Settings: { Title: string, Description: string, Tab: Instance }) 
-		local Paragraph = Clone(Components["Paragraph"]);
-		local Title, Description = Options:GetLabels(Paragraph);
+function Options:AddParagraph(Settings: { Title: string, Description: string, Tab: Instance })
+   
+    local Paragraph = Clone(Components["Paragraph"]);
+    local Title, Description = Options:GetLabels(Paragraph);
 
-		SetProperty(Title, { Text = Settings.Title });
-		SetProperty(Description, { Text = Settings.Description });
-		SetProperty(Paragraph, {
-			Parent = Settings.Tab,
-			Visible = true,
-		})
-	end
+    
+    SetProperty(Title, { Text = Settings.Title });
+    SetProperty(Description, { Text = Settings.Description });
 
-	local Themes = {
-		Names = {	
-			["Paragraph"] = function(Label)
-				if Label:IsA("TextButton") then
-					Label.BackgroundColor3 = Color(Theme.Component, 5, "Dark");
-				end
-			end,
+    
+    if Themes.Names["Paragraph"] then
+        Themes.Names["Paragraph"](Paragraph)  
+    end
+
+    
+    SetProperty(Paragraph, {
+        Parent = Settings.Tab,
+        Visible = true,
+    });
+
+ 
+    return {
+       
+        Update = function(newSettings)
+            if newSettings.Title then
+                SetProperty(Title, { Text = newSettings.Title });
+            end
+            if newSettings.Description then
+                SetProperty(Description, { Text = newSettings.Description });
+            end
+        end,
+
+        
+        GetLabels = function()
+            return Title, Description
+        end
+    };
+end
 			
 			["Title"] = function(Label)
 				if Label:IsA("TextLabel") then
