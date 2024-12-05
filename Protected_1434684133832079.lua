@@ -1,1 +1,5944 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _rebMKyzVijJo = a; end)); oBhoonrBoEdDgRnG=_ENV;wMJfjXKiwpyLfxt='C;m4>Dcp<Wk,ivZ&4E&mZ,Z>vvvWi&i<i;mvm<*ZkD{DWpW2<W<9pcp,p>cWcDmD;4yi><4J4&Z&m;;imYlv;4&WyD&iZpZvvpviv>v4,v,&,Zp;W&k>W,Dc<4<<<;4<cipbc,DpDtD<N&R<&,&W&mZ<Z>vkv>v;i4&&Z,ZDZ,k5vmi<,v,Wi;pckvWkW,WWD4cv<<pZpiccDvcpD;>WY4;inpZZ&,&ivWZDvki>vvipk&,,,&WkkpWv<ZiDipki,;&<k4WiWD<i<m<p<tpDp;4;;&;<D>4i>,&,mvm<mi;W;&(D;;(<&4&WZ4Z<Zxv&iWi,ikpvk,,_kpcm<&W><v>>p<pippc4Dic>;,;>=pSD&Z&>&jZcZjvvi&E,&p&;&pkivZv>iWiDiv<m,WkckpkDD&<i<k<>pvpccZcickDZDpDH,vk4Wvk3Wmm<;&;<;W<Z44k4&Z4EZp&,vWvmi,im4cZDZim;vpkv9iv>k4&cWm,4Z4W)Wiiv<2c*,<<4pik44Z4ZZmi;7pm<&W&mZ,Zmi>v;i,iZp>,4k&k,WvD;k;<><&4DpZpWc&cvDp>ZD<>m4kZ&4&mkmZ;,ii&mtvOc&ZviZpvZW>i4WWiZiD,ZWpp4,W,&WDvD<&<cp&p<p;ck>4i,WDDX>p>*cWm4pvZ>;<Dp;;X< ;&k&4ZiZD&m;pvUivim,,,>m;;&a&&vW;k;<4pipDci;km6;WgDi4c;pE,;p&p<Wvc<4Z<p>c4Dpmep;cD,ok;4iv4Z,&,<,;k<WZk4WiW;<v>v4,4>pVD<cp;p>W>>><4D4,m;mvm>o&;D&&}>&i&,ZDZpZcWWipiii4pZk,,*kWcSW>W<W4p&p<<)4p4Am4m;;k;B3igm&i&WZ,mp;4^v;4i<&k&)ZDZ;ZWWZvDimi4i;p,p4kDk^k>W;Wppv>4<>pDp;c4DpDcDmD4><&v;p4mm<mc; Qp;;&,&4Zp,4k&k4WiWD<&<Z<4p,pkpmccc4DWDpD;4&pcp<Dvcmc;D>>v>c4v4,4cmcm>m4;p%Z7pLw&W&mZ,Z>vvvcv&i<i;,k,;mDv>,Z%&kv,v&kkpk&ZcWipmv;WWc<>4>&4DmZmp;Z&Wac;_.m&D&v&mZpvDv_i,,m,vi4ihkiW&WkW,W<<v<cp&v,vWi,vDDicW>Z>p>r4pZDZ,Z>v)<&>&4ZpWmWmZc>-m;;Dmmx;W<4pipDkv,cW&W<W;<<ciDkpk>WD>>i4m4vmm>^;;4>mvmD;<;k;<si/D&Z&DZkvvZmv4vcivick&pkW4Z8WZvvWp<Z<p<tpWpmc,D>WiD<>&><>;mkWkZ>i>D&;p;Z}W/m&,&mv&Z,vpiv,;k<i&iWWZkkk>pvW,Wmkc<>pvpccvZIk,W&ii<mD<,pp&>Zk;4vDZ<Z4,>pp<m,u,c4mZmp>ZZWZW<vci,m,4k>WvWc<vc,<ycZcWc>>;DDDpDc>W>m4,kpk;W<<<<cp<tkD<&i&DZZZDv,ZjvWiZik<kp<p;kvWDk>D><c<;<Dpmp<DZckc;>iDm4i>;4W4<mmm>m4vcn>qWo-,,Z<ZvZcWvv;vDv5,i,D,vp>cvc-DZDp>v>W4&4W4cm<c>D >kD5PD4pmvmm;Zmcv,;m&& ?&Z,<kpihkvWmk<WzpvW4<vp;k<kk<&W>kp<cp&p<c&>kcDDZDc4>4&4cm,;<4mmW;W;p_W+Zvi&cZkZ4vvv&k,vpvhip,v,>kvkcW&W<W;<ki4piv,cZcpctDp>vDm>,>F4i&iZkZ4;&Rp;cic&<&4&pZ>Zkv viv4,Zi>kZ,4k,kkW>WcWD><pcp,pmmvDkD&D<!&>4>p>mmZmpm&Zcv&vmvfiW,&,,,;k,k<Wkvcim,iimppkWW&W>WjW<>v<>p;pmp#mk>>D&DDD44v4>4Zm<m#;>ZpvWvDv?ic,v,p,>kpk;W<WmW;<4pvppcik4kD<kW;<<<;mkW;;vkv>&W<DJW,>m4,4>m,m;mc;&;>;6vG,Z,pZ<Z4Zpv>vkig<D,4,<k&ckWpWiWD>i<_<>p&c,c>cim4;is&.vPc&i&<ZZZ<ZDvp;4&,#k,,&pZ4vvZ4W<iki_,D,;,WcZkDWmW4W;>,cD<_pcp>DZDDD&>W>;4D(D&W&m&;ZcZ;v<iiu4hDZkZ&&;Z;vkv4ikiii),v,pkZWZWi<Z<vicp&p<p;c<DZc4DiD;>v/v&,&>mDm(m>;;;p&vim&+&DZikpv>vWvm<W,vi;,ik<k;kWcHDW>i>k>44W4Dm,mDmm;>DL4<>p&<4>m_;kmfvD9p&v&mZZ&ck,Zmi&vPiZ<<id,c,4kk,mWiWD<Z<DDkp;pW>ZcWD&>vDp4Z><;c4>mDmp;Zmm;H!Wtm&WiZZDZviDvIvcv4,&,mkvkZkZk7WWWm&;&4Z&v,v_i,iWDkD<>i>D4Z4D;;;vmm;4;>;;hc&&&<D4c4Dp>;vDvvipi#,W;c;Df&f<vp&<iivWi*iiickvvTkmkc>W<c4,4>mvm>;k;&;<lv9WiW,p,nZiv>Z4W4iDidi>,;,pWvkWk/<,W;p,<{p<ppc;c4cm;D>4><4&&k;W;3&pZpvZvWiWiL,,&pZ4vvZ4W<ikia,D,;,WcZkDWmW4W;>,cD<bpcp>mpDZce>D>i>44iDDD&Zi>km<D>wv{>&v&cZ&Z<Z;44;4iim<,Z,p,TkpWvkmW,WY<i>i4k44c>D&c4DzDc4in;m&4>m,Zc;4;<;;i<&i1j&,ZpZ.Z<W&W<<,<W<mp<p>ckc>c;D4<&pp<c4pp4D&DWD&;>>c4i4;mv4DZkm;5Z:&hvip,&&;Zi&JvvZ4iW<&v!i;,vk&k4kmWZW&W>>Wc4pZp>pmDiD4Dv>p4&442>&Z&cZ,Zcvkv;)<=kZ&&><,Zcv&v<i&iDiki4,<,>p>cmD,Wpp&<Z4ZpRc,c&Dicm><D>>,4c4imcm,m4mm-i*Z:vi{ZZ&4ZkkDi>,,kmWm<W<>p>c&c<c>DZD4>&>;>m4,mimZmDmz;HXvrcum&i&;Zvv&Z4viikiii*,v,m,mkxkmWcWc<><<pvpmc<cDDvDpDp>D>p4v4pmWmc;Z;>;>;m5c >&;&:ZkZ>v&vcv;i,iy,Dk&k>kcWkWp<kic,mki,mcpWW<&<><H<<4vp>c;cmc3;k4>>&>D>4mvm>mZ;<;KF>v;i,in,&,<kvkck*WZWm<Z<D<4p4pPccDiW4WDpk<;p<p;gc;cp4&>D&<W>m,WZmD&p4DkvcZ,>k24&k&4#>;c;k,kv,b,im>i,>kvkcWvW4W<W;<c<m>m4jmWcD>vDi)i4Z4W4vmk4(;cmm;WL>^k&>&W&;&6vkviv,<Z,ii;,<p4Wm<Wptc7DpDm>m>m4,m,m&m<mRY&;;t<y4&4&mZ,vZZmv,iiimip,,,Wkvk<W<WiW><&pipZpDpKc_c%Dk>,>,><4Z4Wm<mDm4;,;r;r&Z8-&p&mZWv,vvv>ivi<,<,4Z&v,vDv,W-im,<kvkW,;ccWv<k<,<W>4Dvp<cZciDc>vDp>;4Wmv&&&cZiZpZmv<v6iWi0,,,;,mk>kDWZWp<D,i,Zk4k<ZiWkW4<i<4pWpZppcic<m<;c5&>,44>m&mm>;&m4; ;c&iM<&&Zk&Tvkv&vpvcioimi;p>kmkpWZDW<c<,<>4,c&p4cZDkD4D,;mR,&Z&i&DZ,Zpvvvpv>icPmZZZ<ZZk4vDi,ia,ii>pW,GWvWZWiDc<p<{pkpkp;ckv4ppv:vk4p<;4,4mm,m>kpZZiii,>mcW&4ZiZD&:;WvsiWimZc,>kvkckDk,W;<k<4</pDc&cpc;DWDccm>>4v4c44m<mm;k;pm4aD&Z&pmXZWZ4v,v>>cic,&,<,;kkk4WiWDiD<p<;pWpmc,c>DvDcD9><>;4k44mimc;Z4p4<gW=m&,&>Zv&Zv&Zkviiki>,iiDkZkpk-k,W4<,<cpvk;c&c<c;cOc<>i><4Z4p4Mmkmm;i;>bv4m&&&<&;Z,Z4vivDiZ&pi(,,,mkvk>WZWck;k;<;pip4p<cDDZDpcmc>>m4Z4>>kmc;&;<4;;404&&&D&;ZpZ;vWZ>Z<i>i;,c,4k<k;Wk,4k4<D<mppp>cW<kD,cccc>c>>4<>Zmkm4;i4D4c?pGD&W&pZ,&pvvZ<D4i<ip,kv_kikDWZ,pWc<W<<p,pkcvWaD&D<D&>k>k4i4DmZmpmtm,m<w,5i&vfcZ&Z<Z;ZiZDiiiZ,Zij,^kWkmkvk;<vW(p&W(p;ckc4cfc>>Z>&>)Dk4mmim>;vWD?&;>L;&&&4ZiZDvZDkv7vcimic,>kvkcW&,4W;Wc<4pZpDp_cpcjcuDmDm>>><4c4,m<m;mD;4;4JDLk&p&,ZWZc>pv>vDicvk,<,mkkk4,>WDWc<p<<pWpmc,ckpmDcDp><>m4k4>mim,;Z;p4i:W/m&,&cZvZcv&v<&viki4,i,WkZkpkOWW,Z<,<>pvpZc&c<c;Dkp&>i>D4Z4k4:mWmm;,>G2vtc&&&&&;ZkZ4viY;iZipia,k,mk,k>Wv,W<&W;<;<mp4cicDDZc4DHD4>m4,4>mvmc;&;,;;;4_4&Z&D&TZpZUZWvmi,i>ic,ck&k<k;kcW4<i<D<)ppp%cWcmpmD>>v>c4&4<4;mkmp44;D0ZQpcZ&W&4Z,&cDDvci&i<vc,k,4kiiD;kWpW+<W<mp,<icvp<c&D<D;>kcp4i4DmZ4W4<;W;m},;W&v&cZ&V<&4vkv4iiiD,Zvp,5,,,DW,W><vWDp&p<p;ckp,DiDD>Z><>24W4m4vm<;v;cI&mp/;&k&4&ZDvvZvpv%Z4im,,,>v4,4W&W<W;ic<4pvpDpDcpc>pRDm>,>>pW4c49m<mD4;;4siQD4,&p&;ZWZm&kv>ivici),<,;kk,D;>WD<Z<pWcpWpmc,<>cvDc>&><>;4kDkmi4pm;;p;mqW;>&,&>ZvZcZkv<v;ikiD,i,pkZipkZWWWm<,<>pvWic&pkp,DkDD>iD,4Z4p4G>W4Z;,;cQvy<&&;>&;ZkZpvivDiZiWiF,,,mi,iiWvWc<&<<<;k4p4cZ,DDZD<D}>,>m4,4>mvm,;&;k;;(ku4P<&D;ZZ,Z2v,vmZ>i>i8,cv&,Dk;WiW4,v<D<^ppkEp&cmDvD>Dm>c>v4<c;>mm4;Z;D4l#pm4&Wmm)<Z>v&vczmi<&;,kZ4,-kDk?Wpkp<WkZp,k>i>ccc;D<<<>kpp4icD47mpmm;W;kT,4W&vmc&cZ<Z4vkYDiiZk,ZZp,kkWk>W,ik<v,Dp&k<<pckcDDiD&>Zpc>fcW4,m,mc;v>4*&mcY;#i&cZiZ<vZZvvfiWimv,vBkvkWW&W,W;kc<4piZ,cZckceD,Dm>Z>>>4D4m&m,m;pZ;4wv*D&Z&p&>)5Zmv,v>4;iciI,<,;mWk4kTWD<&<p<jpW<>k&c>cmDcc3><>;4k>D4ZmDm>;pm,hWum&,&>-pZcZcv<v;iki4,iip,ekpk<WWkc<,<>pvpc<Dc<cpDkDW>i>v4Z>W>cmWmW;,;&tvlc&&-k&pZkZ,viK4iZipih,W4;k,kvWvWW<&<<<;pk,<cicWDZcGDj>k>m4&4kmvmc;&<c;;=,.4&ip>ZZZ,Z7vkvmi,i>i&&kk&kvk;k,W4<i<DWupkpHc&cmc;D>>v>c4&D>4;4;m4;i;DdZxp;mAi&m&4Z>Zkvci&i<i;i;,4,mkDk>WpW<<WW>W<p>p>ccckD<D;>kDD>&4D4cmp>Z;W;mf,;cDc&c&<Z<Imvkv4iiiD;;,p,>kWk,W,WD<v<cWZp<p;ckc>DiDD>Z>p>44W4mm,m>;v;cM&VkG;&k&4Zi>ZvZvpvqiWim,,,>kviDW&W<W;<,<4pipDc&cpc3DWDmDm>>4v4c4;m<m;;k;4bi9D&Z4p&mZWZmv,v>ivicm&&<,;k,k4WiWD<i<p<DpWpmc,v<,Z,<,,kv>;4k44mimDmj;p;M{W+m&,&>vvmDv&vZv;iki4m&mWmB;%6ZX=i<<,<>pvpcZ4c<cmDkD4>i>D4Z4pk&mWm>;,;>}vjc&&&<cZZkZ>vivpiZiWiuv&i4k,kDWvWi<&<W<;pZp4pnpiDZDpDa>&>m4i4>4;4v;&;<;;;pt4&v&DZZD,Zavkvmiii>,v,ck&mpk;WiW4<i<DpZpppcpZcmDZD>>v>c>24<44mkm4><;D/Ztp3V&W&mZ,Z>c<vci&i<i4,k,4kikDZ4WpW;<W<Dp,pDcvckppD<D;>kpp4i4cmZmpW>;W;4j,_>&v&cZ&Z<c9vkvDiiiD,Z,p,%kW;&W,WD<v<<p&pkp;W#p>DiDc>ZDk>P4k4m4mm>m;mvK&L<h;2v&4ZvZDZmZZvwiWimZ&,>kZkcW&=pW;<,<4pipDcZcpcZvZDmD;>>D>4c4!m<mm;k;pm4fD&Z&pKpZWZ4v,v<Z>ic,&,<ZDkkk>WiWDXm<p<;pWpDc,c>DvDck4><>44k44mimD;ZmW;<YWrD&,&kZvZcv&ZkZiikip,i,,kZkpkeWWkc<,<Dpvpkc&ckc;<1Di>i>c4ZDc4Lmkmm;Z;>;;;v&&&<&;_WZ4vvvDvmvZin,W,mv&k>WZWck;Z;<;p,p4p;cDDZDpcmkm>m4v4>mZmc;&;<;;pW94&&&DZZZpZQvWZ>m>i>i;,c,Dk<k;WkWp<&<D<*ppk4cWc4D,D>ii>c>D4<4mmkm4;i;D>eOpsp&W&cZ,Z>vvvcv<i<iW,k,pkikDWZWpWv<W<,p,ppcvccD&D<cm>k>v4i4DmZmpmK;Wm,d,=&&v&,Z&Z<Z;vkZkiiv;,Z,i,skWkmW,k><v<&p&<>p;cic4Dii,>Z>&>R>;4m4>m>;v>> &;; ;&&&4ZiZDvZZiv%v;imi4,>,ckc,&WiW;Wm<4<>pDp:cpc_cWDmDm>>>>4c4pm<m;mv;4jvOD9>&p&pZWZc>pv>i&icZ4,<,mkkk4ZkWD<&<p<mpWpmc,c>k,Dc>&><>44k44mimD4v;p;J-W94&,&>ZvZpZzv<v;iki4,i,DkZkvkSWWWm<,&cpvp<c&c<c;DkD4>iDp4Z4k43mkmm;,;>Sv;,&&&i&;Z,Z4vivDiZviiV,i,mkvk>W&Wc<&W&<;pip4cicDc;DpDKc>>m4,4>mZmc;&;<;4Ak24&i&D42ZpZ9vWv>i,i>,v,ck&k<PkvkW4W;<DpZppcZ>mc>DiD,>v>&4&4<4;m<sk;>m ;DZv&ixcZkZ,Zivvvci&ick>,Wkp,<Wvk4WvW3Wc<mp,p>c,DxD4D>D<m4>D>;2,mWm4;&;u;>M,N>&v&cZ&Z<;&;kvDccDZDpDg>W>m>,vkW>Wm<cp&p<c&D;D,cpDiDO>p>d4W4mm,m>>vDc;;f<J;&k&4ZiZD4i;pv)v;im,,,>k,<&Wp<ZW<<i<<>;pDp<cpcIDWDR4m4&4WmimvmW;Wm*;WIiEk&Z&p&wZp,kviviivici<,<,;kkk;p<WcW><Zp>pkc<c4ccDvDc>&><>;,kp>cimp,<,IkWkmW,W>,vmiZcZWv<v;iki;k4,&kcW&k;p&<ZW<pipvp&c&c<c;D<4,m<m,>D4i4mmp;k;,;<0v5c&&&cv4&mZkviZmiZipij,p<<kvkWWZ<ZW>cvpDp;c&p>c,DZcZD9>W>m4W_Wm;;i;v;m;cAi0,&vZivDZiv>vkv<iZ,<imkZ,VWZkvWkWv<i<DpZpDDpc;cvcm44>;4,4p4p44i>,i,DkZkpk/,W4<&m&cZ>vvvcivk&,WiD,k<mkpWvWWWD>&<4pip>ppccD&D<>&mv>m4g>;mcmi&km;dZR,A,&v&cZ&Zc,,vivkip,W,Z,p,<kWkmW,Wm<c<,<;p<Dc>>4<Dic;>Z>p>/4pHcmi;k;<;<;>Z,B4&c&>&4ZpvZvpv-iWim,,k>Zik<W&W<W;<k<4pikWkZcpccDWDm>,>m;44<mZmkmc;i;4Yi-D&Z&p&)4mmmv,v,ivic,&,cW>WZk<W>WcWD<p<cpWpmc,cm4cD,>4><4W4i44mimD;Z;p;r(W>m&,&WZvZcv&vc,picv),>,D,4kpkfWWW_<Dp<pvcZc&p>c;DkD4>km>>5mvm>m</D;k5<;W&Zy>&km>;v;cq&P<V;Wk&&,,,mk,k>WvWc<&pxi/pk<4cicDDZDDmD>,>p4mmi4m i;,mDdWZv&&^pZvZvZpZvvWvmi,imkmkZ,Dklk<piW>pm<<pm<;p;cWcvD,D>>v>>;W4k4<mD;p;iZk;wKc&p&WM4Z,Z>vvv>k>,i,p,<kv,;kpkcW<<pD&<>pkpcpmmiD&DiD;>k>44k4cmc4;m2m>;mT,u>&,vZi,imZciZiki<,v,&,Z,0k&kmW,W><,cZDcp>p;m&c4c;DD>Z>p4Z>4mcmpm,;v;,=&}<2;&<vWZ<ZcvcvWv*iWim,,,>kv<cvZW<Wc<k<4pip4Dc4ZDiDWDmDW>>4v4cmv&Zm4;W;D;;Z,&c&,&<Z;Z4v;iiiviv,&,<,;k<pWWZW>W?<i>cpWpic,c>DvD>4D4Z>c4mm,mv&&mc;4;m0W1m&,&>ZvZcm4;<vmiki4v,,DkZkpWZc&WkW;<,p&pcDPckc<Dc>i><4,4m4Zmim,m4gD;d;>r;Zm&v&4Z>Z<v>v,v>ipiD,W,mk,kmpZ<k<&<y<;W.p4cicDDimvDm><>>>b;kmDmkmp;/;m({&,vkZv&kZkZmvDv4vmi>ic,ck&k<W&pvWDWm<;<Dp4pmckcmcpD>>v>c4v;&mW4DmkYc;kBm!kS4&;ZWZvZ>vvvci&i<i;,k,4kZkDWZWpW5<WcmZk,>c&44m,m>;v;c/&m<p>mZ4/mh;W;m*WZivWii&;ZvZmvmv<i;iD,Z,pimiZkmkSW>W,<cp&p<W;c,c4c;DDD4>pcZ4W>>4Wm>m4;c>cd<s;&k&4Z&ZDZ4vpvmiWi>,,Z>,Zkck>W<ii<k,vpi<pc&cpccDWp<>,>>4vDc4Zm<mp;k;WqiqW&Z;p;<ZWZ<v,vkivZv,&v<&;kkkWWiW,<Z<i<x<,p&c,ciDvpF>&><>;4k>fmim,;Z;&;=q,^me,R4ZvZ,v&&kv;v9i4ZiiIkZkikwi>Wmi><><&<mc&cZc;c<D4>i>DDZ>,46m&mmm;;>4,Ic;;D;&;&;Z4&&vDiZipi/vm,m,;k>W&WcW;<<W4<>p4p4cD<ZDpD8>Wcm>W4>4>mcmc;<4&/k;D=,&D&cZpd<vWvmi,vcv<,c,<k<ZMWkW4<iWpW,pppkcWk;D,D>>vD<Dm4<4imkmv;i;D^ZKpc;&W&WZ,Z&vvv<i&v<mp,k,WkiikWZWZW!W,W;p,p,cvWcD&D<D;ck>&4i4imZmZmT>p;m;v;>&v&ZZ&;,Z;vkv4vZiZ,Zix,+Z<kmW,W>W&W<p&<mp;<;c4DiDDc7Dk>y>>4mckm>;v;cS&cW(;x;&4&pZDZBvpZy4cimi;,>ZkkckcW<k4kD<4<4pDpWcpceDWpmD;>>>>4c4cm<>&;kmDmcrD%c&pm4ZWZmv,Zci&ici<,<&Hkkk4WiWDWD<p<ppWp,c,ccDvccDv><>p4kDXmimi;ZmW;OVW3W&,mkZvZcv&&<Zcikik,i,ikZi4k^k,km<,<ipvpic&c<c;cick>i>Z4Z4v41mWmmmv;DJv;j&&&Z&;ZkZ4vivkiZiZiUi4,mkvk>kvkm<&<Z<;kpp4p4cD<ZkZD:>&>mDd4>4vmc>&c&;;;0e4mc&DmvZp&7m4vmv;i>v&,c,>k<,4W&W4W4<D<ippp!cW<mD&D>D>>c>c4<D&mk4D;Z;D;c p>m&W&mZ,Z>&Wvcvci<i4,k,Dki,pkDWpW<<W,cp,p>cv<ccDD<DW>k>,4ic4mZ4WpW;W;,G,;,&v&cZ&&k4&vkvviiz>,Z,p,JkW,cW,Wi<vWGp&pkp;pkpWDiDi>ZD,>e>;4m4,mp;v;v}&mk6;3J&4&ZZWvZv&vOvpim,,,>iv,mW&kGW;Wm<4kkpD<?pDc%cmDmDv>>4v4cm&kDm;mm;4{Z}Dd0&pmOmpZmZ4v>vWicZ4,<i4,ek4kDWDi><p<apWWmpWc>ccDcD<><Dv4k>D>pmDm<;pDSXW m&,Lcr4ZcZkv<;;iki4,iipiykpkiWWvm<,<>pvpcpDc<ckDkD&>i>p4Z>pp<mWmk;,4>_v%&&&^<pmZkZ,vi&piZiviti,,vk,kvWvk><&<<<;Wkp,cicZDZcTD_pp>m>v>&mv4G;&mZ;;NkG4&i+vZZ&GZtv,vmivi>ivvmk&,;k;kmW4<i<DWQ<kp_p4cmc<D>>v>cD&cR4;4>m4mc;D;SYpml&&&m&DZ>Zpvc&,i<v;ip,4,DkDkQWpWk<W,m<Dp>pccccmD<p(>kDD>,4D4<mpDc;W;mR,m>;;&c&WZ<Z,vkZ&iivpiv,p,,kWZmW,W><vW<<Zp<pvckk4DiDD>ZDWWW4W4&m,c>;v;cL&5<Dc&k&vZi&mvZvWv0vWi&,,,vkv,ZW&kmW;,k<vpipZcZpic0ppDmDv><4v>Sm&D<m;;k;4mi{<&ZQ;&a&4Zm{Wv>v&Z4,&i4,;i<k4WiWDkzWc<2<Dpmkkc>DvDcc;k;>;>p44c,mD;Z;pmmcpEm.W&>&4Zcv&v<v;ivi4ic,D,ikpkmWWkmWW<><cpcW>c<c,Dkc4DZ>D>p4pDmmWm<;,mcm42cjW&<&&ZkZ4vi&Dvpipik,W,ik,vmWvk<W><<<ipk<WcicDDZDpiv>W>i4,4cmvm<;&m<<&jkxv&i&vZZZ<Z3Z,ZWi,i&,vi4k&k<k;,kWW<iW=pZ<mpqc,cmp,cv>vD;4&>44;>Dm4mimp8Z;;s9&,&m&cZ>Mvv<i&vmi;,v,4,DkD,/W<W7W><m,;p>cvccp&<mD;DD>4>p4D>kmp4mm4;m;pQ>&Z&cZ&Z<&4vvv4vWiD,&,p,*kW,>kDW>W,<c<0p<p;ckc4ptDDDW>p>Z4W4>m,4>44;c;W_<;W&k&ZZi;DZ>vpvkiWvp,,vmkv,<;cW<Wi<k,4pipDcZ<pcmDWDv>,>&4vc>m&4k4m;k;&9i>>&Z&p&a&,&>v,Z;iv?D,&,<,;,i,&Wik4<Zic<spWpmpvcDDvcD>&Dp>;4k44mimk;Zmm;?;<^m&v&>&v>iv&Zmv;tpi4ip,Di(,mk%k>Wm,,<>pvpc<&<>c;cDD4Dp>Dci4p>m4tmmmp;>m,ac&&&<X4E;Z4ZWvDJvipi?,Wi>k&k>k,WciZ<<<;pk<DcZcDcvDp<<>W>m4,4><Zmcmk;<mTBkrD&izD4cZpZkvW&pi,i&,vZc8ck<k,Wkv;<iWZpZ<p,kcWciD,pc>v>i4&>k>;mkmZ;im4yZLpBa;WuDZ,Z&vvZ;i&&ci;iiipki,;WZ,kW{<W<mp,pWcvp;D&DkD;>i>4>Z>ZmZ44mh>W;mr,P>;vI;Z&&>Z;Zcv4&kiDvI4m,a,ckmviW><v<cW;<Zp;p<c4W,DD>Z>pDm>p4m4km>Di;c?&S<;4*Z&4&iZD&vvpv7iWimi4,>,Wkck&W<W4<kW4<mpDpWcp<DDWDZ>,Dc><4c4,m<D;;k;4yimDmc&p&iZWZZv,Nmivv<4k,<,ZkkkkWiWD<ZWWW4pW<Oc,k4DvDc>&Dk>v4k>mmi>Z;Z;p;U;,;i&,r>ZvmDv&v<v;ikv,,ii;kZ,pkuW,WmW,Wmpv<;c&kDc;ccD4DZ>v4Z>445D&mm;,;>mvmZ&&#>&;&cZ4&<vDZ!mXiBic,miik>WvWck;Z;<;<<p4<vcDDZDpcmkp>m>k4>>Zmc;&;<;;;kq45<&D&vZpZmvWZmvvi>i<,cvik<kvWkk4Wv<D<WppWmcWc<D,ccD>>c>,4<4&mkm4;i4DmDSp_i&W&ZZ,;mvvZ<Z<i<iZ,kvckikDWZWpkW<W<Zp,pccvc<D&ckDZ>kDM4icDmZmpmS4Wm<6,;;&vP4Z&;cZ;ZiZ>iiv4,Z&c,JkWkmkvWv<vWDp&,pp;ckc4cZc4>ZDp>ADp4mm,m>m&m<n&;W8;4W&4ZiZDvZ4<v%vcimii,>k&kck&ZUW;Wc<4k;pDp,cppmDWDmD<>>p44cm&m<>;4c;4;W1Df,&pgiZW&>Zkv>v,ic&Z,<,;kk,DkcWDWv<p<;pWpmc,pccmDcD&><<V4k44mimDmi;p;v W;m&,&cZv&c&>v<vvik&},iimkZ,pZkWWWZ<,kcpv<;c&pkckDkc+>iD44Z4p4V>Wm&;,m;Xv;4&&mc&;&i&DviZ4iZ&cil,W,mk,,ZWvk4<&<k<;pip4pZpDDZcDD:pZ>m4,4>>v4k;&mc;;;<X4mk&DZZc_Z}Z<vmiii>,v,ci;m:k;kkW4i<<DpZppWU,<cmc,D>Dv>ccv4<>4mZm4mv;D>v?pJK&Wo>wmZ>Z&vc9Di<i;,kv4,,kD,-Wpkm<WWZp,<c<^ccpmD<W^>k>44i>p4Zmp4>;W;4M,X>&v7<&>Z<&cvk;miiiD,Z,p&;kW,>W,kW<v<cp&p<,ickp4DiDD>Z>W>s>,4&m,4D;vDmR&%<G;;kNZZi&cvZZ<v0&pimiv,vkv,<W&,cW;<k<4<ZpZcZpkce<&Dm>,>>DvDmm&4,m;mv;4m<}D;!;;&j&vZm;,v>ivicv;ZW,;,&k4v,WD<Z<pWm<Wpm<;c>WiDc>&><>;>;444&mD4>;p;^_W-mTZ&>&ZZcv&v<v;iki4vc,D,vkpkbWWW4<,<>&kpcpvc<c4DkDD>iDD<c4p4vmW>m;,mmxv;c>p&<&ZZk!DviZ;iZivvD,Wi5k,k>WvWp<&<i<;pkW&cicDDZc!De>W>m4,cKmvmc;&mm;;6k-4&im;ZZZpZ/vvvmi,i>,vZmk&k<k;W&W4<i<DWLvJpsp<cmWkD>>v>c>D>p4;4Wm4-Z;Dn&Op-4&W&cjmZ>vvvci;i<im,k,44mkDkZWpW&<W<Dp,W>ipccpjD<Dv>kD>4i>p4>mp44;W>mN,s>&v;c&DZ<&>vkZcii&4,Z,pi>kW,cW,k><v<cp&<k<;ckp<DiW>>Z>p>u>,4&m,4k;v4>E&z<#;=i?cZi&ivZ;cv5iWim,,;Dkv,WW&k&W;<i<4<Z&ZcZp,cMciDm>,>>>&4Zm&4vm;>i;4Yi%D;/a4&V&&ZmMZv>ivic,&,i,;i;k4WvWD<Z<p<Ip,pmpic>p>DcD0><c;Dc444,mDmv;pmZMW;>&v&>&ZZc;.v<v;iki4>m,DiIkpkmWWWD<,<>P>pc<lc<c4DkD>>i>WDD4p4LmW&&;,;D v5cpZ&<q;Zk&;vivDiZipZv,Wimk,kDWvWp<&<<kXpkp4ciccDZDpDj>Z>44,4>mvm&;&;<;;Okl,&i&DZZZD,pv;v<vmiW,&imk&,Dk;WkW4<k&vW,kkZ,,W,mv4WDci,&DkD,4;4Dm4;i;DxiIcYmZvZW&;Z,Zmvmvtimi;,&,4kikDWiW;<><Wpkp,W9cvccD&Dcik<kpW,>c>cWkr4iD4<v4&m4ppm>4#c;;>&>>ZZ4&m4pZcZ&ckc4DiWc<v<cp&p<p;ckc4WiDDD4>p>b4W49;m;im<;v-&;nU;&k&4ZkizZDvZv4k4,kim,>,mkcW&W<<&W>ppp<pi<4cpcQDWDmiD>>4v4cm&m<m;;k>4m;0D&Z&p&pZWZ>v,v>i&ic,&,<,mkkk4WiiDW&<p<MpWpWc,cWDvDcDp><>;4k4DmimD;Z;vmcoWXm&,rmZvZpv&v<v;iZvk,i,DkZ,Dk-WkWmWv&ipvpcc&c,c;DkD4DZ<I4Z4<4rmvmm;,;>mvm;&&&W&;Z,Z4Z>vDiZikig,i,mkvk>WvWc<&<W<;p,p4c&cDDZDpD?>v>m4,4>mvmcm;;<;;;We4&i&DZ&ZpZ;vWZ>>4i>,v,c,<k<k;WkkDv<<Dp&pppccWcmD,D>c4>c4&4<44mkm>;i;Dm;7pVE&W&DZ,Z>vv&cvDi<i;,k,4kikcWZWpWi<W<mp,pccvcpD&D<Dk>k>44i4cmZmpmf;W;m/,t>&v';q_RRwGHRuxQxBWvLM='8fXbdIq_;Yy{tW!Lb;Lftq;WI?fXYXYqq{Xy!I{t__dbS;;;Yff;!CyqqtXWbqLL{Y_Wd!t;tLqLqqXL!YyW_!L;fXYLYqILfYWWy!X;d1tLtq;LdYgWW!I;qqLLLq{L_YbWT!;;YdXLXq!LyYqWb!{;tyILIqfLWYYWq!!;LbYfdtfdWLYWq_bbXyLbyW_fdX{tW^qIf!!L!qyLqYXWL!_;;XXfXI!W_f_bXyLf{y_YLy1!yXqfXY!tY!y;_YL}JdYYY)fbWLyL{fq;XLL;{_b;dt!oYyy;XY!t{qq;qLdXL!;6;{ff!XLwyXbIX{tt;qYdf;!TWXIdI!XLyq{ydLdqtYYIdyIILbydy_bXOdtt;ydYi{!byqqLb_!dLq{L_YbWv!;;YfbfX;y{y{Xtb{L!;q;Y4L!K!!q!b;L!td_WIqf0f!YWqIX{Lfyd{!_;b{9y;X;WX{WtWLqybqddtb;!;f*WtLyZy!bXLX!WyLbdIfR;tLY;I_W;!t;sbyd;t_;tI;D;lL!XY!XmX{{f;XY2iLgIyQqdbX!tLyytdfCq{ytdYIStXl{IytXLL{{1{{IY4yJWY{qYXtLYyL_fdqGYWfYtILfuXX!{yIqYby{dtqIWIdW_W_I;q_Xy{X{Ib{0tfyYYqqI;!tyY;dbtdyL{YdIWgyXdW!yf_G!;LbYfdXdIWeYtyyXyL_yWqLdUd!tLYXItI/Wd!qyLqYXWL!_;;bXfWty_q!bILqy;{__yLyJ!WIy1fXftWYyYq_ddL!tfY,5;fXtLYLIW+b{ttydYL!Byy_ybqyX!!{{q_I,LLLt!;yxtf_!d{fqYbbLq_q;f5_Wy!t_fXy!eLy{d__dq{!tYq_f;f{y__X;xLLtWYfdYQ{Wt!yYYX!X_{t_3;Xd{3ItYYyfdfL{W_ybWM;ttY_ddIbfqYqyy_fbty!{;_IdI)b!DYyIWXtydy!q{b{LYYLI;qq!IYy{Xdbd_9LYb;bIXr!YFY{q;bI!Wq!_Yf_t;t{IqXXb-{f_;b!LY{{;tYyfWfXyWY{X9bdtYtmdb.LtdWqYLIYfW!!q;_bfft!YXI_fL!_Y;y_qy!yL!tIYAoX3ttYYYI_bd!!{f;lL;QX{L;LdWLbyt{ybY!!,;Y_;_d{XvW;YWqtbyyy{f;dd)tXtLYbq;X>!I{d;XLytfYY;YI;fdYqyf_hXty!{Y;;ddtqWfY!q{Xb!W{Abrb{tfYdyqX{!dYy{dq!bfCz_;;bXfWXWIqfXtby{Y;f_ypbtIYqydXy!W!b_tXyd_L!tI;!dWt!!X_qb.b!{!;d_!L!zIW;YdfqXfy__;;qOIL!tfIqX;!XLjybq;Ly{/{y;{,Xfqy{yXXILfyq{fdL0)?b;!qGX*!{yIq_bL9ft;Y dgIXf{WIYYqy!dLq;W;dc_n_;;Y_Iy!X!Iq{btdytYYFIyftWY{X_YbXdvt_;_d{+2fyWdY_qqW!!Y;_b;b{tYYXyKfL!IybqIbqddtb;tIqfttyWtyIILXbLdq!_Yf_W_YqIWXY!{Y!yW_kL ,dt{Yql;fXtLYLIWbyLd{_;qL!l;tIYIIbLY{Xt4bLLd/!YWd!IyXf!tI!_;LbLftd;}nXc_{b;XID!CLI{!bXdtWYtYY;IdWq!fy!_{bbLWt&dCd{Wfyd{qb{Ldyytd_!dffs;;Ybbf!X!I_4btdytyYe;_fbWIyq{db{Xt!L;tbydtfItLYbqdW!!Y;_dYnYW9Y_I!}!fW!Aqr_db{7q_;;XbLELtWyyqdX_Lqq!_;bIVItbqYXXb1yLqdqLb!Ly_t;_IdXfWYIyqIEb{d{_dba!ftY{YbX{!Iy__;;q#ytyY;;{-tX9{IytXLL{{wtX;{dI5YWyIdILLW{t;IdIpy{!tWY:f6Xd!{{qX;bX!L{L_WIyfdW_yqf!X;!I{I_bfYWX!jILfdfL!!yyXtb_oqtXdddLf!WyItq_bd0f{YbydI!bYdY_Xb!!LtytdqLLtfYXy5XX!IWLyXXqbytLtqdYfIty!_Y!qIX!!Wq!;XfqWSW!ILXX!WY!yI_;bd{qtfd_f;Xqy;Y{bXLqt;;XYRfwWYY{q>fqX6Lfq;_tffT;;{I_Vtf_{IqqqYLItX;!dWl{tWyoqWbXL0{qqt_!d_TftIYqfUfY{Y{wbbbb{dtb;q-!ffY_q;_qL_tm;dd!(I!ayII!qt!{!X_;d<LX/ttq;YI;W>W{_YXyXW{;;dYXfXWWyXI{fW!!Lty!dfby{tt!Y_IffI!qqrq{.Yt_;!Iqf_!XY+YLqX!XLq{W;;LyjdtfYfdLXt!qyY_;LgLy{_;_dI!{yd{Xbf!qLd;LbybyW;tqq;IX!W{b_!qycIt{Yf;XfW!by;YybIL{t_{XdWfX!ftyqWbXft{__tdbbdtLYII!dt!_yt__qdLLtI;y_tf_WtyyYdXLLq{tytd_VtWItdq_X{fq{__Lq;B;tL{yIddq!qWXqWbbLW!y;Id{fqnXYWqbXtfy{I_ydIbXtWYbI;dy!Iyy_bqX73!!YfI_d4W{y&qyI;L{{LyydIV{WdtXqbXXfd{I_dqq+ft_;L_!XNWLW5_XbIXXtb;d_dfdWttqqqXWf;{XydddbAt{YfI{d;!byY_dq%L{tf;y_;fbW;ybYEX{Lf{qy;db/;WftQIWdt!_yW__qdLLtIYf_tfL!dt!_fbIX-tf;b_XmWWXYt;yXI!y{MyXdbj;Ld;LIqfyMty!_jI!LLtf{#dybtWtt;qbXYLb!3_{dfgtL;YbIYXXfxy{_2b{X;tb;Yd!d3W{yaqYI;Lq!d;_dtbqWfY;IWd!!YyL_yqqzftq;W_!fYWLy_YqbYLq!;;yIebyWIYyqfIXLX{{yddq+_LqYfI_Xkn!yYq!bYXqt5{XIfb!WYYLqyIqLY{Wy;d{fHLyYIIyX;fXyW_XbYXyty{qIYfLu;ybqYXLXw{{;fdqb;W{yf;yXWLfWt__bWp;LdYqIqdq!fy_qLI!&Mtf{Ed{f&Wyt;qbX;LX!%;fd_bXWIYY;dfL!I{fYtbqX;t_{ddLfI!2ttqLbbf!tf;q_}w{WvY!;;Xb!;yLy4d+Xtt_;tI_ddWLyIqyItL_{W;__dpLWdY{;tX_!W{qydbLOIWJ{tI_fW!{WdqLbqLt!t;WI2b!W!yqYTX{Lf{{y;dbA;tLtnI{X3!qW;_YbyXytY_tI{d{fyWqI;qbb4LW{I_LdXtXtWIbXqb;{W_qXtdq ^tbYXEyfI{bqdq_LI{!tt_WfbtLYfqX_PLq{y_W_XLq0;Wf;{dLXRYyyIdbVXt{;!IbfYtyWYYtftbHL_tXbdb!L{t{;YqqXo!b{XXybdLftf_LXIW!!tq{XjX_tYtq;_dtfYW_YXI{X!{WyW_tb;{ytIYXILf_Y;ybdfLXLI;bdtIyWLydIWfLLCL!;ddboY{!WXq_I!!fyWqX_dbWL_{{;t4qffyLqybBL;{t;XbqdIh;;;YtqbX!yTyyq_b_LIWX;tdLf!Yqy<IWXW!{YfdyI;W_;tY!bIXdLY{;_bdypIWfYqfqX1ybyt_IXLLbtdb!dY!_y>y!XtLby;{y;bbW>fWXdtI;XW!ty__!bYgItydXdtWq!XqbqIhbLf_W;qL!fqtLydq{X!L)q;_y(!/WWI;;fdf_yIytb9XL{W;qYdfXWYY_YYq;Xdyqtb_ydfgytYdyqdX;Lfy_X;bXSb_y;tII0LWbydf!bXt_{db!2tfyY;ILfWXb!qq!_yOLWI;u;nfLWXYL{%qyXWLt_d_tIXh{tWYWf;XbLXy!bMdX:{tI;YIyWdWL_WqtLyLdWfYXdYWXWdI!Xtby{;_LbW9bptWI;LIbXdY!yYd_bd{!tfd{IffdYdy;bW)by!y!dyATf;WXYIqdWt!_;I;r X4bt!YXqqfYWY;Wd_LXLI_L;fd!f{WbYWq<!1Ld;YdLLyLyY_dtqdf!!f{SX;bbWf{LY!Xbt!t!q;X/XYLqtb_{dIE;;;YtbfL_yXyXdXLdMttq;YI;WT!yY_q_XIt{{y;Ld!^Y!&Y{q_XtytyLbtddtIWd;WqXXY!ty!Xqb_{yYrdyIXfbWtqXq_!!Lq_y_Y<bZIWdYnfXfW!y{_qLbYLt_tYNXI!{YqYqbd!;)C{y_WdttdtLqWqyf_!_yI_bdKMWtI;LIXWX!q_{df!t!t;qb!Iqf5WbyXfyXItbtjqWbWL{{L;!f;ftyyyd;fdXLY;X;dQ!Wt!yq;XL!W{b_Y_bf_%_WqYXfdXq!LyYqWb!{;ttqfd!W;yq{dbX,g{_tq_Id!xbyYY_f;XbLXy!bMb{nytqd;IbXXW!qnq{byLq_;;bIXE!Y^Y{qyXqy;{b;Xb!tgt{qYfyfWyY_{dfod{L;fIdf!!}y__&XuX{Ly{qb;dyttWXIYbfX;Lfy{qLds{yt!qbq_XL{byd_bbt{={{IYfXX#Y!qJXyb;!t{XbXbthW;dYqILfYWWy!X;bXWfttd!XtLX!b;YIbNtt!Ybb!dft{ybYtdLfLWW;b_0TWwq{Y;;d_!WW{__q_bqLX_d;qdL}YtWY!f;XdLY{;_bdy1IWfYqe!f_yXyIXLb!L_ttYbIqf;YRydI_X_!I;Y_Yd;Bd;qY;qff{WL{7XybbWb;d;;IWftW_y!qYbILy_y;bJyfiYbYtqIfL!b{dX!bttqtdqbftXyy;qLb^Lyo;;_dt6XfdWWY_I{Xtyq{ydLIbfY!fIqq{bby;{W;Id{AVtY;bd_f;YXytb{Lf{yt;dq}WtXWdYWI_f{!tqq_fmLt;WqIdf{W3!Xy{qIXYLy_d;jfWff;tyYq?X_LRyLbGdyj!W_;Ww!f;!YqR_dX_tXW5d!f_=_t{y;XyXbWf{q_;Xqf;{y_IfyXdyyyYbqL;LtWfY>d{XXWWyYq!!!{I{_IIdqtLtLI9q;XfLq{W;kdX{ytIIbftXyy;qLXdXLL!{ydI0yWfY_Yfb_!;!ttf;4b{fXtWYYI!W!yI{qdIdX{L;yY;fqWWYXyyqbb;LLtX;dLtfq;;YbqXf!yYq!bIb{L!_!Y;X_!WY!qt_yL;Ld_W;!d;/{WyIXqtL{yqqt_dfbttWyI;f!!dYyyX_;bfLbtbb!dYf;WdIqqfbh!tq!;}dY.bt_Y;fXXt{{q__qLe}Wtd;{IdfbYdYLbtby{_;XY1h!WI;yYdqIWtL-ybb!dttyYX;bd_fqWI_{_qL;LfYL;ddqLd!q;;db!;LX_;__kdtqtyYLI!fYL0y{__bt{t;b;IXbfdYWYWf!bq!Ltd;{d!f5;;YbXf!yL;_qbWLXLWtt;;fbW;YLqIqq9ILX_LdyI;WqYWIXqfXdydy!bIjqfdYXIyX{Lfyy{;bqLt{Xtt;qdYf;Y7YybYLXg#_!ddLyfXYdybqt&XtX{_qLbdW!;dYZdbW!!tqybfXb{;_y_{/qttYXI;qdf_{Xt(b!w_L_{{Ydd_!XL^q!bqX_!{;qYdfXW;t{YfqYbXyq_t;ya;t!;WIdXBX!yW_XbfLY{tt;_{fqXdyXq{I{fLL;y{dqIdWXYy;{dL!yL;_qbWXLLItWYq/y!r!!qtbXLf{Y{ydblIWq!dqbX;!!yW_bbYffzXYLYbfYfy{IyI_dbE{X{W;td;ty!XY{_6b_Ly{tbddtt!{;YWdIXT!qYfq{dI{!ty_Wf;Xqydq{IW!LLftn_tR_WLWqI;IY!d{d_Yd_ae{tYfYUbLfftW{bqtLLWtyW;If&t{WyYyqtfb{{yf_;df-q;_dWqXX9!qYIIWXI!{yLd!b{f;tYydXfbdLdtI_Iff!!{{YyqYXd!Y{{_Xbt!{tdYYIi!ItWYbq!!{!ftqdYdqf1;L;_I!My!b{q_Yc{{Lt!YddfXq!bYbXYdf!I;W;qdWfq!Iqdd;XtLd;b;qdbLb{{_;XX!W!d_X_Rbq!Yt!;fd_0WWtqLbIbX!{_I;1bfWX;WYtq;fy!f{W__Xer3yt_YI;f{!dyqq!fq!LtX;dd{fXWy;YqLf_!!qLdWb!LbW_YLdbXX!dytILLttX{f;tIXLL{!;{IfXt!YYtbYbf!!Whysf_Xd!qyL_qXIL_t;IYf;LtWLy;I_bdtb;L;qbIW{!fy_dLXdWY{QdIX{{Lt!Yydbf!!d{II{Xb*d;qdfIafbWqIYdLXtLW{y_tbfLbW;yfq_Xfyfq__tdX!YWf;{bWfdWW;WI_bXL!tX;ybIL_Wt;IIIXqLfy_dbXTDt;!q_I;X_!yy__YX!tIy{_bf5WqtWI_qtXq!tYLbId%Lft!YXdLWYWbYIbqLt#H_W_LdIF{!_qWXtf{Ld{Y_!d;u!t!YdI!XbLX_{_qb!tWyb_{bqW!YYy!__fWWy;YqWd;fXYyYtqdfW!y_;_yX{v;y!;qX=XYWY_Iq!Xb{I_{_fdyfbtIYLqdXtWL{_q{dJ+tttY!d_,{ty{YIW%dLIyL_YfWfyWW;aXbbXWLyYq{d_QtYL_tdX!yLdy!__%LDtyY_XIXS_yLy__YbqWtt6;Id{fyW;;_qLbI!LtfbIEWV;YXYXItX^!X_WX{dbLytb_IIsfdW{ydq;!_!f{qq{XLf_{{YyqYff!YYWbyb!!dt;;WdfXXYY;LqffWWy{t;bb_WIWX_!d_KyWY{dqLbtffY_IWffW_y;{XI{bI{Itd_fb_fLtIYtqdbd{q{_b_LWfXWZ;fb!7WWbY{qYbY.{;yI_bdfyyXYYqWL{WLtd;WdtL1Y;I!dWbY!tY{qbb!Lf{IY{b;0_yqYWqtbp!_{!;Xd{Wb!wYbdLbI{{Y;qI<qLbWqILqXX;tLy!_Wb_!-Yldbb{Wyy_;LIILXLt{yq{b{v!WFY;XXpqy!ytb;d_!{tqYYIXhIWLyI__fL!b;Y;bdYfyW!YfqXb.WYYLq_dX{Lttd{I;!_!dYbXYdf/dtrIbb{fr!Iqdd;XtLd{q;!ddLbt!qfI!!Wytq_XWLb!{tX;;dWXSWtydbI!Y!{_I;ObbWXWLYqI;!I!tY{qWXYLfytIYlLBY!dqfqybqLy{I_{d;LdtIqXqXX;{{Y;_;b!!?YtYbdbftLfY_Idby{_;LYqInfyyR;{_CbYLXy_;{pyfdW:Yyd{fY!q{XI_LIL_YbIYbqi_t{yXqtbLtb{!_fIILYWdy_dLfIWY{FdId{{Lt{YydWf!y_YL_{f;te;q;;4_fdWtyXbXX!LWyI;YELL_Ydyfd_!W!_q__tdX!Wtqq!IWWtyYqLXbLfLX{{_!bWL_{q;IqXLf!{y_;bdYt;;!YCI;.I!y_bIYbXtI;{q;bIfdtWyKqXbXL{{qdFdWtft!YXdLXXWb__bqfy,lyqqYbY>fWyyWq_fB{;{td{d!L_t!Ifd_XI!;YY_qLI!W{f_{IbW!WtyX_tfW!ftY;qb_LYYyYfXqX_LP{X_yLY!LYFYyIyi_WY_IIXXb{I_{Ybd!fqtIYtIfX{WdYyq{bYt!tIYXfI7{ty{e_)dd!{Wf_Ybd&WWWyLqqLdL!;R__bILYY;qIIIfb{_q{_qd>Lf;!Y;IXX_W_;yqt!{WtyYdybY)!ybquqLbIyY{ddOXdSdYXYtItXX!I_;X{&b!_tI_IbYfdWf;dq_bl!Y{y_Ibyfdt_YyXYZL!YYXXLLIgy{b;WIXWbYY;LI_fW/b{t;bdYW{WXydqXXd!!yYqIX{1dt;IqI;!XtW;tb{bIL!YL_fb_fLtIYLqIX;Lft1_yddfX{X_Lq_f_LHY{IWL!tttdq!bdfdWyyXXffXWLtddWbW%WtYYYILX!WY{yqIbb!Wt;IdXffytWYIbYbd{bt{;Xf_LyWyYbdqbIWXY;_;&qfbty_qd;X;tL_&IWXb!{yWdbf{!ft_;Lq_XyLM{y;{b{A!{dY_f_BWyb{BbYX_:b;fYYGWLt!k;;_XbWTb;Yd;dt6!W!_!qXXyW#YLItd{{LW_YdXffy!qYLbddfLtt3_bdbfX!IYtXyfILdyI;qLWLbWF;fX_FdWf_XIWbtH{t!;;d_LytYyX_IXL!b;I;Vd;LoYLYqqyX!LdY{dbbtgLyt_Yfyf{Y{{e_qbq!b{L_{IdWWWd;YdWX;WX_y_!b!LbWtI;dLft!d{_IdLt15tX;tI;f!W;Y__JbYLLyb_IbfW_{LYyqqXX!yy!ILjyiW{bIYIX0_ydy;q;by{t;X;bdtCtt{y_q?bH!W_!_qb!<Xty_{dIV_yLy;_;bd{ItW;;fYfLYbyXdLL_WWyfdYdqeYW{;bdYW{WI{q_dXL!YtXq!XqWfWtyLXb#f{y{;_!bb?b{qyIfY-;WIYdqfGXmtYIY;IIff!yyyIYbRWt;dq;dyffWyI_qbbXLby{qIdWLbt!YXdLWYWb;{bqfy=oti;yEYXf!_y?IbfjLR{Y;{dX2{WX;fd_XdLX_{_qLItWt;_{bLft!{y!q{X_LqyY;oXtL{WIq_XqXdLq{Lb!b!{!;{IfXYXVyXybX!LWt;;{dy:qf{!b_{X{XfLW_f_yXqLd{Iybqt5ftfYf_LfYfOYbq!b_Lft-YYXLfyLXYLqtbWLftY;db!WL!;y_;;X;WL{d_XILXtY{{fI0fq{bYLYqff!I!IyYbWb_{dYfbIdq!b{UYlbtLLy{_f_LXX!Py_;qI{LYtq;{d{XbyW{qYFXIfI;{Ifq!XNtI;Lb{Xq,Ly{_bdYLb!W_y_IL_!W{yqYbdLt{Y_!qL,_t__YqdXy!;Wtq{bffbWYyq_YbL{IyIY;bbfW{b;Xd!9{y{Y_;_X!tbyYYXq_f!tW_b;IdI{YWf_f3{Lb!_IW_I}Y{{;fYXbXfYyW;LbY7f!f____X;GLyLycb{XI!L{f_Yfb!dY{ILX!XX{{y!qLbbWX{LI{f{fb{;_!bbL{W{qIq!fWWW{YqIX{L{{!;I_bLbWYYI;IfLtIt_yId;LLLIqYIYf{!Iyb_;bqfq{Y_LqfX_WWY_IWXI3I!fyYqLUbtY{uIYI9W_Yf;!bbMRtq;tbIX{!f;tq{I{tWtd{0qL=_L{_WqffWtLWYYLfIXWL;{{bYXL!y{!qIbfXbWyyL_IbWWfY!IWI;L;yL_bdyWLtI{L;ffW!!Wbd!b{!f{{;WdYf_QIt{d{^ILt!;yYqLSLP4{X;_P_fIyYqWfbX{t{Yf_{f{!2tG_LpYL{!tyLIXXbtWty_IXILfWLIbf_XLtL{W;qdIWWyyqYqfLI{{;IXIb{B;{yILXILy{Y_IqL<{!{{LIIdYWL;I_dq;W_{L;YIXL{W!t{_WXWLYYLyqdfb_WyYWqfdWLLtIybb{fftbYb_iXLf>tfIfbffd{_;b_IfbWft_;{If!WWvILbLwft_yL_dXfWW{LYYqqrfy!q_X_bLWLtWYfIIW_Wdqb_dXqDEYfI_fq!f{a;YIq/yLb;LIfLf!{yYqYIYXf!_Y!_;b_LWtbbYX{ft{d;Wq{!Y!qYyXLd_!IWI;yIWLtWtILd{b{WbtYqqdq!L{IyIqWXdtWYb_baIfbWYYtqffy!L;I_Wff6tt{YfXW!W!IYII{fqWdY{qbdL!Y{I_{qILWyf;_;dft*YyY_qI!X;!;_L_;LIWfyq;{Ibf{{Y_Ld;LLyIy_;IXfWLyY_Xf{L{tIqWqbf!LqYL_{I_W_{yI_d_!LWb;L;_XI!bWYYcfbLYYL_fq!LWp_YWqWI{Lf!Y_Wq{ffyWYW;WXYWyWL_yq!bd!q;{_Xb;!_y_q_dYLLWIyXXdLf{_;L_!dyffW__bqf:XWtY=qYb6!dWd_bddLf!,{I_dXLPqtf;WIXWXWIILqf!y{5_{;qC;!qWXYbIYLWtb{q_tL{{!tXY_Iqff!;ybqLbd{d_{;ddWE_t{YtfqX;y!{qd{dqt;y_YIqqXX!_yW_tk!{tt;dyI;fLtI;!qfX;!WtIdW-?RdWYY;IbXy!I{f_qLq4;;q;IfXfyY!YtX_XY{X{Ib!dft!Wqd!IIX;!dqq_CL!Lt;y;YfbWtW{qdqqLdLt;v;!^tfyYII!It!qLXqy_fddE7;XYqfyXXyqyIXqXWNi{tb!d;Wq!dIqIWbu!tq!;Xpbttt{Idq*!d!X_*qLLtL{;Id{dWftW;qbX;Xt^ft&_{IX#WWYY!f!Xfy!ytbybytqWddLIIf;Y;yydXbt{!tdqbddwY{{Yt_fX;yqt>_ybW:t;dYtIIXyLf{d_q!!LY_y;IIdf3YXydb{bP{ItXddIXfY{L;;I{XX!_{LXtdAWI;qYXfdXXydyb_;CW:qyb;qdtfyYII_qy!tt_yXqfXqfXyW;LIYWd!byqX!by{_tydtb{!{Wq_yIfXtW{tIbWfqfXYd_{q_XI!dY_qWdyL__tYqIHfb!XIyq!Pb{dtOdbIGWXW!_bq;kdL;yX_YX!tb;IY;fyfqW{ybItfYWY{;;LBXfyWby;qLbXLdqt__ai<X;tY!f4f_!yyqX;bXtOtodNd_fyWqI;_XL}LN_t_{AIt!ttIqq;!q!d_X_fL!LW;_I#IBW;W{q;_qLdLX;w;x7YWXWfIyqt!yL;qy_fdd7g;X;Wfyf;yqyqXLLIL_tdYfdYty!XY{_3b_Ly{tbdbLtvt{YyIqW;LeyY_!dIV;tydXdtt!WYy;qdLXLXt_;qdff;WbYLqd!d!__d_Xn?l!;t;tfIf{W!I!_4U;PX;d;XXIettb_YIf}bWrqt;qduQbWXdyqXf{Lc{__ybt{dt!d0d{fyWqI;qykfLq_{;;ryf;WL;Id!Xf!;yW;ILXcqY{dtI;W{!;qydYbWC;yd;Ydt2ItLI{fWb#{X{{_bdWLXWb;yILXyYyyYqtLdoO_WY1fXfY{{YYI{bbLLtIILgbWtybY!X>r!!b{YItfXL;{dqdK;XXWtYLq!!qLy;LdHdttLWtI!_VOYtIy_I9fWz!tbdLffXdyqydqIbLWWY_IWdWf_;!yqILbdL{{!;}L;-X;d;LItXY!fqX_ybb.;tLYXIdtt!qq6qX!tL9_t_tE;H_YdYXfW!q!Iq!_xL!at;yY;fqfdYqYW_KXty!t;dbdffdWNIXIW!q!y_q_djXkf;!Ytf_!#WLq;qy!tLbtq;XQd:LYtYyX;X;{dtXbW:qEI;!Yff!f!Y!yI_;bd{qt5d!dtWyWYqbXYX{Ly{qb;Iv=YW!yIq;XyyXy!bqbYtXtIIXq}W!WWqyq;Lb{t{{ddd_WdWbIdI{X!!yqt;qwdvbYTYHfY!XLNqyqtLyP;;qYdfXf/Y{qdqX!t!L_t_y1;fqYdyXfW!b!I{d_1L!L!WbYXdWXdWLy{_JLhLb;a_!TtfyY;Y;XfX_!yqy_tfdh!Y*_LbXL;L/;W_WbS!b_;YXdt0LW!Iqq!X_Lttb;qd;tztydtI_Xq!Xqd_qOWiX;_YdfqXd!{YfIyXWLd{YYfL!fXy_I;qd!qLd_qIIXd<WWfq_bdfd!dq_XYbt{!Y{_LX;L_tI;t_flIyq{I_;7*<t;YYtf!f!tIyWqLdiWIWfqf6L!yyLyyXtbULIYq__dbf_thY;fdX!!;y{_yLXCytbY;ILXX!dItq_LlLX_t_LoPv_WyYqf;bX{v{!btb{t;tqIffyf;yXydbXbf{!ttdyd;WbYtY{XdXq{dtXbdb{n!tydtI_!d!d_SqLLYtXtXdydWWyWyqq_d!q!WtZ_tL!K;YqydfqfWLzytX!bYtb;Y;{I;XIWWI!_qXL&dt{;!Ikt;WbIdILX!!yqt;dbWfXWYYtI!Wq!XqXqWbtL;;q;qI{fyWIytq_bbL;_;_{c;/qYdYdX:X!yYyL_XLX1dYtYqf;S_{y;c_;fI,I{;q{7GfyWdY_qqW!LqyL;dd{i!W#d;IdWdWLy!qy!tL!YI;yZLftY!yt_bfY!X{I_tdffY;qYyXL!1!t_f_tL!PfyJYXX{Lq{;y{q_!L{ftddqXfc{{L_fb;DdL2{!X!bWPc;;YdffXdyq;;qbb!!Yy!_qIqXfY__%qt!!WyY_;IdtLLWY;WqXWqLzyyqWbt{dtt;IIyXf!dyqf!X;{X{db!d+tXtYYtI;WyLd_X_.L!LW;y;;fbff!dy6XXXt{q{YdqdqWXWXI!qt!_{*yLb;dyt;WqIdqX!jWLqrq_byLq_;;b5WWqWII!qf!!!W_y_yLyVfWdYHfXfWyyyyXybfkdt)dXItW_ywy!X;by{;{_b;bLfXt!IkIy!;!;_d_XLWtbtIYXILf_Y;{6qYb!kIt;;yGXpt;!YYq;Xdyq{!__dtfbWqY;f f{Yty__qbX{Wtt;IIyXf!dyqf!bXtI{I;dd#t{Y6I_fW!b!I{d_^FW!!yYYqbXuytL;XIy0tL_YI;Id{f=W0qL_bb&{XtdIWdfW!yW_fI_Gtyq{Xbdb9rfyt_Lb;LytfyW_YLWLd{W__b{Ht;qYfXL!Ry{{qb;bfL;yYqqb_Xdtby;X{!!LXt_;qdff;WbYLqd!dy{{d_Wb_L{ttdqqUW!WW_{_qL;W_tIYqIXf_WWytb!!tL;_y;;dLLI{!YfI;fWLI_WbmbdNYt;;bIyfI!fyqXqXY{q{ddXdyt{WqIqqX!X!d_X_fL!Lt_!;II;fdYqyfX{LdLt_t;;6tfdY;YqXffLLXy!b+b{tdt_IdIb!EW!qgq_byLq_;;XgWWqWII!qf!!!W_y;XHbafWdYcfXftyqy;bqbItXtyd{fffb!XY!XY!!LXt_;qdff;WbYLqd!d!!_d_X+v<;;Y;LIXWX!t_t_qL;!kYW;_IX!tWXY;qq!,Ly{d__dq{!Wq;LqdX{!!{eX;bt{d{L;!dytt!q_I_X!LLt_!;tIbLYtXYIItXfLYqq_fSLt9tbIfItW!WmyXd!dS!dydq{dWtLYfydXqfXt_YY;qddWW{XYIi!fW!eq;q{Lf+d;q;WdYfL!f;YdqXWWW__I7dtt!tLyfb!fWtY;yqddf{qW5;ydWftYdytqIby6ftd;qL!N;;yYIqXXL!_q;;3bY#!WIY;IyWXWtqqq;LXLd;X;;7!7tY_q+q;!;LX_;;mQdry;WIqIdW!!;q!_qLyz(;bdYd{fyWqI;_hXYL!tI;;dytXttIqqX!X!!_X_>L!Qd;_IFd!W;!dq;_?LdLy_d_{d!:y;tY!Xf!yLX_X_tiXl^;!Yqf_WWWLy!qyL;L;tW;td_f!WYyIqy!yLd_y;X*q=d;LYII;W;LX;X_tL!!tYW_tXLL;{W;Wdf!qrE{y_WdttdWtYIqybfLd{qX!b;{ytIYdINWX!t_{_;LIHX;dYXIYLLt;Y{qXX_LLqt__fItqtYIdqX!d{L;!dWdILI{Y;{dyWIY_yyXtf{LtYYq;dcfIWyybfdXb!qq!_fL_gy;tq!I_X_{W;LIyb!!?_WI;IXWdWt_!IfsYW_YX;qdI{tWqYAIbXXYyyIdbLdL_;bY0fXL!tL__q_4;!X{tq;nbtIW;IybqL!WXYyI_ffvuWqdXIyfb!;yL_XbdyttRdHdtttt!Itqd!;L,_fbyb;tXtdIXIyW!!dq_qIb;Ld_q;yzyfdYyypXqX!yL_;_qDEBt;d;{I!fyYtyqbdbttl{!dYuLffW!y{qb!dLt{I;yIffdWqd!qJWy!I{d_BLXAytbY;ILXX!dIt_ !;LbtX_!#t0t!fylI{bX!W{Y_!L!p;;!;tfyXXybyYqt!t<qYqYkfXzY!X;XqqxL^/tqqqLyfdt!Yfq2W;L6yY_!dI/;tydXdtt!WYy;qd!qeh;L;tmYfqY;yqqWfbWtyL_qb{fb;};{XYWyWWq;_qL;?;yy;{b_LI!dY{dL!Yy{{!d:XbLd{;;XIW2ttfY;X;b_Ly;X;I%{f!yZ;IdbftWXyfqLXI:IYfqybfXty!;{IbfyZq{s_uIXSYYq{:qyXWLt_d;tdIfy!fydqqW!LX_X_tL!#1;!YdfyX>Yyyf_dbv{X{td_dIf;WdIqqv!yLq_y;XMq5!;LI;I!!n!y_4_;LtLy;Id!IdWqW;qqq!LXLy_{dfdbf/WWYIfqX!!_{t;bdq4;;2YdEtf_!qyXXdbtLItyYfIdfq;!yXfyXILd{Zb{dyKbW;YLqXXdYty_dbbb-X{!dYJ!WIY{ydqWX_!{{tbqdtWLWyItbyX_Lq{b__b!4_tdddIYXXYqy!ba1WL{{!_fXq/t{q_qbbXyLbyW_fdX{tt!;WX{Wt!fyI_ybXL_tqYdOWfY!XI!qXb_Lq{f;;dboLWdIdf{Xy!b{;_LdXOd_t;fXWLttyIyqIbdL#_{IbdyfbtWYfqXWtLq;I; 1XjBtfqtdf3dtyy!qtSILttI_Ldbfd;!y.b_bX{dYdqqdW!!WX_fIyL;{_y!__bfLItqdzd!!Y!dqqq_XbLLt;IWX!L_WYqYqsXY!by__;LXLLY{Yqf;Xq!WYbItXLLq{{Ybf{fXW{YIIYXyyd{E;IddLLWqYfIWXXYy{dq{Ldcf;ddtfXW;YYyXq{XI!Y{ybddWWWtYIdI_!dyq{Lb;L!tdWYd{dbWLWfqXX_!W{I_{IbdyfbtWYfqXWtLQ;I;s1X!ftLynItXf!_{qd;6ITX;d;yI{LItXY!qWfLW!_d_;dWxtt_Y!IYXI!yqybfd-tXtqqfb!Xh{W;ydqzW{X_Y;dfYfPYby>XXb7L_YWqqbY#stIYWgyfI!dyvX{bdLW{__{dttqWXy_qqXfL;{b_Ldd{tt_I7Ib!%W!qYqLbX{X{tb!I;fXWIydftbd!WtX;Ydtm!;qYyfXfW!ty;dIb!WbtfdWIq!YWYy;qd!qL;tf_{bLf9;yYdXXXyy!y{d{bLtXWXIdbbXfLXy!_bbY>;Yyd;dWWdWbqcqW!tL;_y;bbXLqtYqLdbX;!Iq{dbby7b{W;fIXttW;yWqtX_L!{Y;IdytXt!IqfWXq!LyYqWb!{;tXI1I;!W!;qy_bXX!q{YILbbf;WIIyq{!y!Y_X;X1dfXWY_Ld;f{!Xy__LL;&d;qqqb;fLt9yddbXtty__dTbLt;W;IyIWLttb{;_Wdd!Itbd!IyWtWq{dI+f;WqYW;FdbtWYIyXXdXX!b;!qbXq!tW5;!fI!WWWqq_qL;Lq{_qXb_LytpydqX!Ytf{!__dtfbWqY;f;Xdyq{dbqfWL_y__XXyfoWY;YX_!L!!;{_{dy)qybYyqbfW!f{XXtbLWIWXYqILfI{fy;_fX{!LtwbydW!bW!q:bLXWL!{y_LdIfdyqd;IyXbWWyf_X!tL;tW;td_f!WYyIqy!X!__qbWdq-LtY;WI!W;!b;f_;L;{LY_;!I_ffWIyqXVbdtYt.do-_WLWqYLIYfW!!q;_yff t;!Ytqb:YWXyIqtbf}YYf;;If7{tLy,fybdtb_d_qnCOtYuYtf!XtLbYYqXbILttfYYfXf!y<;ddyX_!u{__{bbK{YfI;ft!tW!_Yb!L{tf;Y;YXIft!IYLqbbdy!{YI_ddt!WyI!Xy!L{0_WdfLLW_t!Y_IffI!qqs_dgY{y; d{fIWbt!YyXdbS{d;fdq,btYyfYII;! !b;fd_Fj{LWo;ydWftYdybqq!!7s;LIId{tWW!Y;I{XyyX{y_bd;5LWXYd,tX>yXq!bLXLLttY;fRXSWy{qIbIXttb_tdWbWEtt;qIIIXX!Ly__fbd{t{LIWXbW!yXqtbI!WL!{;_{dytXWyYbq;XLLX{dbddqWIY{Idfbff!dy}Xybq{;_td{#LWqYII{q_bmyt{;byL!ttYfI;f_WW{IyI_dbwtWty;bI;fL!Xydftbd{qYfI_b{!YW;;dbbbfyq{XbqbItb;WIXfy!fYWqdX;bX{__y;t1WttYt;!X{!!y{_fb_kLLLt!;yX_f!!_yfqIbq{et{IYIA!bWyybIWXfLXqt_;dWctt_Y!IYXI!yqXqyLqhX;b;tII.LWbydf!X;tI{Y_tJdfGW_yXfdX;yY{y_db_4q_!YXX_XIY!qIbWbfLd_t;;fW!bYtI{qtXq!Y{;b4d;#fWqYWq>XXyfq_dfbf)P{tIYdYf;Wd_fq0LLLy_t_IXb-;ty_;qy5tt_qt_WLtL{;dIbfd!fYWqqqI!!tf_!d!V_tLW;IWX_!I{WyWbqdXtbttYIdLfb!dI!qY0_{X_;;XIffy;!yXb_!;{____L^fty;_;!fBfy!{qXqW#{LY;;d!I;WyWb;fqqX;Wqt;qyXItyttIyqX!q!!qL_fd<Lt_!YqdLXd!{y!_u!;Lb;L_Ld!Pyy_Y!q_Xf!I{qb&d{WY;IYyftX!t_y{d;f_W{tf_qotD{Y;IWI;Lqtf_t_jP!W;;WIIf{bq{{_IXybt2I{L;bIdt!WY__q!OfL;tf_{bLf^;yYqq{Xy!I{t__dbr;;VYyIfWyyqqtbXLbAX{{YaI_fyWtyLX;!!{dtYb!dyttWfYqIdX1tqy!dyXR{t;fdb0WW;yiqqXt!W!L{!_yLtw!W_YfIIXqyoyt;fdnL{WX;WIYf!Yqykq_LE{_t>;YdbF_W;IXIWL{LLt_d{dXK{tI;YIyWdW{_W;fdYtWtd;Wd_+{WtIqqLLL}bt{dLdqeLtY;WI!W;!{;f;IdbtX{Wd!Iqf_!?qqqIdbt_{!;_dflIWqI6I{LYL4_Zb_d)eYtb;_I;WX!;_{_Ld_LqtI;!BXfty{qIXqXIyq{V;fL;1yWb;WIfXXYtyqdIbf{t;bI{IXf{WIYYqy!dL;;{_LdXtyttq{bf!{yY{y_db_Kq_!YXX_W;WYqdX{dqt{__YIIWtLy_Y_qdbf!Y{b_qL!GaYLqIX^WW!!y;q{by{Xtd;Wd_k{WtIqqfLL!__qbWfIoYttdtq_W;WL{Xq!Li ;;y;Wb_f{t;yL_fbb!{_y;ymtf!{_Y{b;4_t{{fqqLtLL;YIXfb!Uy-Yyb;JX{{_LdgZYWf!XYtILX!yq{fdLdytttY_!q;UtWIYfI!bb{t{LdYXfff!jYtf!bXt_{IIfdf>!W{YbIWXky;yydYELt;;_Y;IXfI!dIt_N7IL&_tdbf{/{WyYqbbX!WL{!qWfbmyYW;WItf;{Iyq_Ib!{X{YI{fIWqW!I!XIXqL_q!;BdYPbt_Y;fXfW{{y_bXLYWftI;;f)fXYtYLXtL_{;;bdff{!fYyIYqyXd!_{qX!dTZYtb;_I;WX!b_{q;LXLI;Xd!x!W{Y_qLqqXL!YyW_!L;fEyf;!f;f{y;_qbdTd{WYI;tIISLWbydf!XYt_t{_t(dt{YdYdft!byt{d_Ib!tdtt;WIqXW{fyIq;LRLYYfI_fetL!2YyIWXtydyLq{dXLYYL;!fqWW{IyIqfbd!LYI;dktWby{Y{q;bI!W{__y<Xu{ybqYfIbbyLtfbbddL!tfYRh;fbtLyqIW2bLy_ydffYSYWqybI{XI!;_E_YffW_tL;ff!FLyf{XqtXLL!_q;fbWfdt{_fq;!;yL_YbyDyLtYIq/fYf{!;{IqWb_Ly;X;{Xb!Y!fYbbfXf{btd_!dffM;;YbdLXqWW;b_yLytf;{dtftF!y__XX{XW!Y{t__fWMtYdI{bbXbLXy!d{bL:X;y;tfqXqyq_fbXLW{{YII{fIWb!dY!qfbHy;{bqLd!LWybYtdWfWWY{;q_XWL{ty;ql;f_WyqXqd!!L!_!dy?yWqYbqWbb!Wy{{t_qbYr;;A;{d_f!WI_{_dXILI{f;;bLpIWbyXI!!m!L{XbybttqWqIqXb!XyLq{dI^{tI;bYdd!ff!JI;qbfLLXyWIbdtLWtW;YItf_WWy{_ybq{;Wf_Ld{AW{byfbWXWLt{;bydIfdW:qWqIfY{_y_dWbYtd;{qbIdXb!tqFq{-Ytb;d;t2tWbWdyIftXb!b{bdf5Xtb!fIWqL!fW{;fq!bI{!;IIWdWftW;_I_XX{eSt_;ydttdW_q{I{Xy!q;b_ydbLWtfYXltf;!Wytq_b!LYtI;yzXfqWbItI!!tLd_;__^f&yWb;WIfXXYt{qdIbttLtq;LdYrWW!I;_XVf!L;{;;dffqWWyOqXWy!fq!_!xo/byWYfb!XI!_yYqfL*/l;X;IXLfbt+y_qYX{!b_Xb;IfV!Y&Yqq_ift!yy_YX{!y;^;XRWX_YYYfX!fL{d{tbWuqlI;LIII_Xq!Xqd_qbLLY{W;!?;fd!Yy;qbbyLItf;qL!gbYXYII{!;!b_d_fLWMqtL;YdWf!Y;yd_Yb;Lbty;IIffq;!yXIL!;{d_ydgof*yWb;WIfXXYty;bdd;tm{tdtIdffY!y_XybX{qtbdXdqt!WWIyqW!q!W_X_ KWgdtW;_d{ftYqyfbLL;tYt{;XdYfXWfILXYLy!Yqy_ddI{tt{;!:!fY{;_WbY!tcqtR;bIXtyWYYtftL_tq{bbdd!:;t{YyfXXf!dqdqL/!Wb;YIbJ;XXWtYLq!!qL!{_;;dbsIW!I3ILXXyXyWdt}_{yWd;!IfXPY;{_dfbt{!tb;;dqfX{;ycbtfXy!_bbILLtyYXI;f!WLyY_bdbb{WfWIYWXf+!!dYWILXLtI{I;ddQWWWXq{qLb_{{{{dYdWtq;tIXq_!{!{yy_qbfLy_d;!IXf{WfqWIWXyL_yLbud:WYWWyIXYXY{_{{bdLyt*WIIYdYf;WdIqqfX!L{{bbddb=q;qYfXLLI{dqd_!b;L{tydXdW!{yfqtb{X{L;tI_WL!%;y_Y{f!Lby{;b_bdXL!;=;{IyfqY;yb_mbWLI_q;Id;t;Y!_=IL!=Ly{d__dq{!tWYQfsf{{Y_LbY!!P;tX;IIdttWd_IqY!tt3_tdtfdt!Y{IyXILbyty{_fL{WbtWqfI!fIYqyyq_KI{!;L_LdtfYWfIXqqL{{f_!dfff>LYLIIfL!LWLy!qy!tL_tdYfdYtyWq_bq_!y{!_ydWffttY_I;X_L+yyyYqLLYWfWqILIbWqyyqqbdLY{;;dddf_WVtLYIfLL_!_{q_XLdLLt!;y:tf_{IybXLL{t{{{;ydq!bWdybqt!4!{;YdXldf_;d;!ILWq!Iy;bQbbWXY_;XQLX(WyYWqt!dLdy{_{QYodtIq{qYfI!I_fbWXLWbtbYxIWfIYqy?IWXW!{Yf;Lb{s{Y_qbIILY!Y{;_dffpfW6;tXYXQ!Yybq_b;{XWfI{IWW_WXqfXW!XLd{W__b{/t;qYfXWXd!Wy_q{bt{qt_IWIdfWW_Y{qt!qLXt_;qdff;WbYLqdWtL__JbtsXt;;YYWIdf{!dybXdb!)Xt{;fRXEtWWIdILX!!yqt__dq1X;dyfI;fL!;y_X;dX0qtL;IwqfV!fI;q_Xyyy{!IX*YWqY;d!q;XX!I{dXtdCWIttdLf!!XYqyf_=Xty!{YI_dqmfWy;LbbXYtfyLq{bWLYYWYfIdWd{f_EdX}YLW_;YXdt&LW!IqqIX;y;{YIZ5{W(Y{dtqqXh!b{XXybYLt_tIyf!!t{fyIX<byLd{_;qL!aWWDI^qfLy{Y_LX!d;%XtIYdPtf{W!I!qL7;tW;!d!RXftWqYYq;!A!L{XbXfsWfyQYIf3Xy!dy__q!!LWt*d f!!f{Bybf!b;LX{I;dLtD!W_YfIIXqy6{;d_b;}_W^ddII!Wyqq;bq!;LXtbbydYKt;tqdbdL{!Lqy;db!sfWid;I_fyYyy{ddGYtI_;YXdtGLW!IqqIX;y;;fIff_1{;qyvIyfW!tqd_tJWL{{_YqdIfXtLytIWQbLMyW;yb{ttWyI;Iy!;Ld_bbLCULL{{YXdYW{yfytdfb;{{;_I_d_!IWd;Lq;fWtf{f_!d{<b;dYbIqW!!eYWqWXY7;{__Wqd!YW_YbqqXf{btd_!dffo;;YtbfX;y{__d_b_&dWf;YJyf!{byfIWbd!{;L_Ld!ayy_Y_qqXXydyL_tdYzf;X;tfqfYWI{dqbL;L_{b;ydfWby{ydbYb:{b_LdLbLWWtt;_qnfI{YyY_;bd{qtf;!I{fbYdybqqLb{L;!;bL!f;WXYIqdWtLdyW_!bYL{WddqIIf;Y;q!dBbI{Mty;dd_fq;!Y;XXXI!ftAqL dCb{LYqdWWL{_{rdIbt{L;{I{d{!YW;YbqtXftI{X;;df(bWbqYIYX;!d;f_zXWLW{YY;d_ W{by2IWXW!Yt9__bW!fWyqLqq!Y{I;I_Ifb%X{WYqd{!L!Ly!_ybIL!_;YXIqfLWI_fqfX!L{{bbdb!t;t{;_qqfIyyyYqIbtLb;IIWIq!{!XqIbfAfLf;L_!bYfXt_q{I{Xy!qq;_bdXL!;N;{IyfqY;yb_cbWLI_q;Id;t;WY{Xb_L;{{qt;qdsobWXdyIdff!fYW_tX{LfY_;ddffftWydI{Xf!I{I_fddLLtIqYIYXqLby{Xtb!o_tf;IIqWz!;__q;b_/E_d;IfWWqY;q;f;XXLbqy_Ybt{tYdqqX{fLYy{dq!bf,B_;;_dytyyr_Xq_!XLt{q_Yd;tatLYXfXXbLt;fb{L)6ytd;_Iqt!W;YIqIXfEcyL_IbYkYtIYtIbfY{LyWqYbtL_Y{YdXYX9ybqLbLXLtW{t__IO4IyYYYqqbb!{qt_qbb/b{LY!dWfbW_y_qbbyLf{_IWdyV_W_YbqqXf!_;{;dfYfiYbILXLfL{Wytq_d#LIYY;YI;fdYqyfq!b{Lb_d;tfWn{t_yqIIXXWL{tqWfbi3{WYyd{Wt!yq;qyL;Hd;bdLfvDLt{yXIY!{{f{tIfd;t{Y_q_I_LI!dYL_;XWWftfY}dtt!WYyq_bX{yt{{_!L!-LyqqIfqbl!yyW_tLd&btqIbfW!!{IyYXdb!L;{{;y&X !WWyqfybXtb_WdYFdWqYWdyIdXIYty{q!!!t;W;IWIftt!qyoqbbXyy{d_fdfLWWt;{IfL_!byf_fXWPd{{;fXIf!{byyXWLYtY{YI_dq#fWy;LbbX1LqyL_fdfW_t_YqIX!LW!Y{q{X_Mq{I_{XfK!t{Y{I_X!!Iy{qLbLL{t!;YdLLb!t;f_;L{t_Y_;_XIfdtLy;IWnf!!td_WbL&LyIYIqdX#{WyW_yd_LL;p;yd_f_Wb{XqfX_tW{Y__d_/bWyYfI_L{Ld;Y;HpbtLYL;LXWftW_{UqI:YLYt;;dsqffW!y{qb!dLb{qbqf6W!Wbd!q;XX!I{dXtb;Q_W&ddIX!Wy__,X!7ftI_d_!dLtqWIY;f;XYtr;Zb,dyodt_YqH!f;yXyIqfd7!L;d;bbLfqtWILb_bEtI{tbLc{W{t{qYI;fb!tyfdIbXK;tf;bIb!YWYy;qd=fLO_y_WbYf;t_ItI{f_!!yIb_lLLtWX;{dWfW{byb_XX!t{{{;;II=W;!Y;XXXI!ftxqL6d&b{LYqdWWL{_y__qbX{d{L;!dyttW_yqqX!d!L{!_yLtK_WqYXfdfL!!yyXtb_ndWf;Y}yfYWtItbYgfty{LbyIdB!WfyDf;bZ!Y{y_Ib_f(;XYfIdWd!I_!b!L!{Xtt;qdYf;Y4yXq{XI!Y{ybdd;WWt{;_qqfI!XYL_;XW{!ttdydtWy!XqIbfLXLfyW;db{tWYbYXq;Xf!b{bdYbYn;tdqfI;XfW{YL_h!y/XYf;XIffy;!YLb_LQ{X;XbXbtEW;dYbIqWq!__!b{!!(;tX;IIdttW{Y!f!XLt;;Wd_LtfqWVYbqXWy!YytXtbWWq;!ddI!f;W{yyXXbyLbtd_Ldffy;tY{I!W!!L;qdXLqf)ty;WItWdW!q;q{X_.q{IdydYlIWtYbXILWLq;{;XsIWfyfYfXLf!WY{Xq_x{L;t!;_dYfYyLYLq!Xyt_tdIIdbLLW!;WIyf_LdyId{b;LIWX;bfdXXy>yXbjbt{{;_d;d_ebWyYfXb!YLd;Y;*.btLYL;LXWftW_{nqI:Y.Yt;YddLf;YXyt_obY!L;{_{d;fItWd!I;!X!Iyf;9XLtdtb_LIqNWYL___E>ILt_Ld{f{o{yYY;IbXt!f;I_Iddw7;X;WIyX_WLqxqyLdL_{bYXdfWqWIYfq;fL{f;Y;Xf_T!YfIWXWfW{{yyqIb!LbY_;_IqfXYdYLqtbYLf_X;fddtdY!q!bbX_yX{t_qbYz;;G;LIXWXyt_tqL!yHd{!;fI<t;WX;LILf{LyyYqLbb^b{LYqdWfb{Yyqqbbb!LtX_Wdb!_!V_Iqt!L{{;{_{fY0;tbYtIfLI!I{X_Lb_{;tX_LdLJ{!yYYIL=ILfyL_Lb{fXtY;LbbXttf{;b{1_W_t_qIIdHL!;YWdfbf J{tb!dYfq!bY{ftX{!!q!d;fq0{;qyuIyfW!tqd_tbIKqtf;bItt!WWycXKbf<y;LdWL!f;WXYIqdWt!q_}_bXLM!{WIXIfZW!dY{XWQILXt;;fdbfbyYYYq;Xdtf{BqWbWLYW;;_dWLb!cYWqWXY,c{__WdffftWyFI{XftI{!IbdytWYYqYIYL_!qyf_yXLWbWbYXI!fY!XIt_qbyhb{YIIdIfXWLY_f;XXWLyLq{dyLY{LqIIXzLWLY{_XXY!L{b;bbLfXtWYbb_bRtI{tbLo{W{t{qYI;fb!tyfdIbIUdtcdXdWftW;IyqIbdLB_X_Wdtv;;yyIqdbD!{{dX!d;ltWI;{X_f_!d{fqY!yLttI_Ldbfd;!yXb_XI!ftkqLbtLYWX;_f;Xqydyqbdbt{L;{dtd{D_W!YIX_!W!L{!_yLt1_WqYXfdfL!t{Y_fLX<ftdddII!ty!qtXXbtLq{Y;;=:mLWXIXqbbttf;fd;Lqfoty;WItWd!qyLqYXWL!_;Y.fufyYtY_X;XL{dtfd4dIW{ttY{qdW;!Y;fbyLttt_t;qI_t!WWyvXjbfty;db;IXlttLY!fqXI!;q;dXfXW_t{dqqvfyWWytXdbbLq_q;_fL!IyfIdq!X;!{{ybXbtLYtY;IqdfbWY_LqtXYLY{I;tdbMYtWYWIYXt!_yWIfdyWLWqIYXILI!I;b_XXW2q{{ILdLft!YyfXXbbt{;dIII_Z!WIY!IWW!!L;;bWi_{ttqY_D!fW!Gqr_fnytL;{b!I;fXWIydftX{!!q!d;f;WWWfdtqqXC!b{XXybYLt_tIXXd!{WLIy_dX!Lft5b;ddfbWtIAI{LY{I_{byKttt;u;yI{WX!fydXdL!s!Yb;_rXftWqYYq;!mLb;Y;dbbLLtfqIIXX;!fyb_b<YLYt;;dXffLyLyyIYbd!_;{_;d!j_tYYYXLfL!!yyd_b_%dWf;YPyXb{by!IWb;!{;L_Ld!0y;tY_qdbf!Yqy_Ybt{ttWqIX{!YYy{dq!bf3?_;;XltfWYtybXILW!W{y;_bLtpWfqYfL!y{YyY_;bd{qtfY^dtt!WYyq_bX{yt{{_!L!WdyqY{fqbi!yyW_tLd}btqdqI_L:{Iq{bq!yad{!;fI3t;Wdybqt!.!{;YdI^!tyY{ILfufy!{qX_fbd{dtIY!XbW!YXytqqXYL;_);qfYfqybYrqqfL!f{fd_b_5qtXILd{!W!X__qdbyLb{I;If{/{WyYqbbXbLE{W_ILq=tYLYtXYfY!;ydXqbfL!t{;bDdftyWY{b_X_Lq{XbdbLP!tydtIWLI!YqLb{LvL{ty;qn;ft{fy;X{L_t_{_IIddLLW;;WbfXfLCytX!bYCqWb;{ktf{W!I!qL/qtq_qY0dy#WWtIdqILW{q;_;Ydg*_Wj;LfiXf{yqLbY!!L;tYdZdLfXYXqybtTfLI_(;ydd#_Wqd!IWX0yM{fdyFX{;WX;tdLf!YqyIq;LItfY);IxNfyWdY_qqW!LqyL;zb{LWWqd;I_fyYyy{;dRYtd_;YXdtNLW!IqqtLLLt;Y_qdt0It_Y_XWfW!ty;dIbfWbt;IWIWft!;ybqt!qpxtd;WdbWLtLYtqYXfyX{;d{d;WItIYdI,WXWWyy__XL{6t;IYd_!bWbyXI!!V!{{;;IbW{!tWYkf9!y{y_L_b!!D;tX;IIdttW{Y!f!XLt;_Wd_LtfqWvYbqXWyLXy{_tb_LYWXddIbfqYqy_b!Lty!t;;XdIfd;tYLbIb5WLy{qWffL!Wd;WdLfL{IyI_db tWt{I{IqmI!?Ybb_b_LqtX_WdqthWyY!q_fW{YyY_qdbL{_tYIXIXFtLyyIW7fLft3_tL!=YWqybI{Wt!{y!X!bLf;YWItstXq!hyb_X!yLd_!;Lx!fIY_qLILXtLY{fbXdbW{YfItX{f{!yyqX;bb>X{!drd{fyWqI;qYcfLI_{d_Ltp_WqYXfdX;{W{db_DbWbtbqfIO}{!dYYbWXWLyt__Lu>ffyYqXbbbI!t{b_tb{{ttWqqf{!IYyyd_I!tL{{!b!dL!qybIq_NXy!W{tbddbZq;qY_X!LIy!qd_!b;L{tydXIy!{WY_IqIbXLL{_b;d_Ey;yY{bd!Y{dq;;XbtLLt!dqI!f_!;ybqIb!{#{L;X)XWY!t_fqI!>Ly{d__dq{!tIq_ItLfW!{dqWXLLLYI;IIdflyWy;b{b;tItI;dI3^{Wdd!q;XtLIy{d_b_VdWf;Y/yXG{b{UbWXWLt{;bydIfdWnIXIWXyL_yLbubLMX;XItXtLf!Iqw_ybdL_tqb!dWfUY&yfby!L{Yq!;;dXOIWddtqdfW!!yYq{dd{qtI;;n;!f{3yIX7byLd{_;qL!f_y_yXIfXtWL;b_%dqLLtfYfX_f_!qyXbLb_tWt;__db=IyYyYq;bd!L{;bXdtf-WY;LX{f{!;{IqW!!9fY_YXdfcWtL_bqbbX!!_F_{d;fItWd!IWX&y4__d;oL#b_!Y;IXfI!dIt_dXWL!{Y_{IdtqWIY;f;XYtX_Lb?dyZdt_Yq6!fL{_qWb;F_Ldty;bdIfIy{Y{qyXqtb{XbtdWttWbIIXWXW!t{;_bbt{qW/YdIWfbyLYLqtbYLf_X_t3qf_YqYWfLL_!_{q_XLdLLt!;yKtf_!qyXXdbItWtfd_fbt;WbyXI!!c!{{y_qL;vbWX;!f2f{!;{IqW!!LWt?d&If!yyXI;_XXt!L{!bqdI,;;;YYbX!_{fqq;^byLWttddItfI!qyfqbbty!{W;El^ff!yqLXYW!L;{X_Idd{ttq;bIb/L!!YWqb YLI{b;bbLfqtWYbb_bUtI{tbL9{W{t{qYI;fb!tyfdIbX(;tf;bIb!YWYy;qd>fL_;Ld;fYf{WXYYqXXfyX{bdt/ft{;G;yI{WX!fydXdLWttYb;_%XftWqYYq;!R!L{XbXdbWtY;dyqdf!!f{aX;b_Ly_yIqXdf_YXytqqXYL;_R_y dfIYdY{fWLI!I{X_Lb_{;tYqff_!X{fyf_JXty!{Y;qIb%{;tY{I!!{{It;dWdf{tWqY5IbXXYyyq_Ib!{X{WI{f_!XYtqWX!!X!t{Wbddb<q;qY_bn!{Y!{;_XbI(d_tYIXIXctLyyIWVf!!td_WbLSLyIYIqdX9{W{Id{dqLItf;bX_fd!yybqIbIt{{{;ydq!bWbymqWXIyq{LdLdyLYWd;_X{f{!yyqX;bbRX{!dVd{f;!IYWf!XWLk_edqf;2W;;yXItfL!!qq_Ib;{;tYqXf_!fYq{nqyXWLt_d;tdIfqWfYbqtW!!W{AbvH_W;tWd;qXftWLy!XqXWtLtdIYdqftWIY_q_LW!W{t_;fIfDybysXWXW!t{;_bbt{qW<YdIWfbyLYLqtbYLf_X_Yf{fvyIYIqdX:yXyW_yd_LL;<Y;XYf_{byb_XX!{4{{;ydqt;WY_fqI!{{_qt__dqsX;dY;XWXdy__bdbbbWft9_{IdUYyWyWqtb;Lb{tbqIFfdWWYbXLfL!t{Y_fLXLt{Y;YdIXdWbYYbLX{!Y{Y_IdtJbtYqWqqL{LX_Idfff(fYL;!dYXXW__{q{byLq_;;bISfWWIIqq,fW!WyY;;b_LWybY&dWfWWY{nq_XWLftf_WIwc{Wf_Iq!%bLy_WdYfYAYy_YqIfXyWL;b_bdXL!;S;{IyfqY;yb_XX!{n{{;;IIKW;!Y;qY!/L;{f;qdWf-WXdyIdff!fYW_tX{Lf{L;!dyttW_yqqX!d!L{t;YdftXWfYdfdXIL!;bddVX{;WX;tdLf!Yqy}IWXW!Yt;__bW!bWn;WIWfYL.y_qWvf}?{W;WdYftW_YWdfbfL!t{;bed3!t{Y{I_bq!Iy{IfbYt;!e;_I_fb!yyfq_Lt&dtI;!fdffYW_IqIbdLw_X_Wdt*;;yYIqdX5yXyW_yd_LL;B;LIXWX!b_ydf}ftb_qY6dy4WWtIdqbXqyq{_Ig&LtL;dY!I;f{!yqX_fbd{dtII!Xb!Xy{I;_XXt!L{!bqdXffWyd!qXL_{d_!b;O{tL_!;;IYW*WLyXXXLLt-WXI_d{tq!0YyIWXtyd{q_LbYLWt!d;IbLfWLY{_yXYL!t_;fdIfqYCyyX;bAtI{Wbtb!L{t{;YfyX;yqy;bqbItf;Wd!I{W_YWqb_b0bLy_W_W+{WI;yYtqIfL!b{dX!dXW_YeqfIXXf!yI!qY4_LI;X;LOX4tWWIdq;LWLd__dbfbMX{L;LdWLbL6YW_qX{tL{L;!dy!_WdyyqbXILI;{_{dyJqybYXdLfLW{{yqYXLLbtb_LIq7WWb_YqqXbLbyL;XbW<by_YdqyXb!I{Id{b{pytqqbIbX^!WyIXqb;Ef{{_LIUtyWI_bqffWLty{;VdY(bt_Y;fXXtyy{Xd_bL{!t)_WdW>{YtyyX;Xy{;{_dbaLWRWWIYfL!ILI;I_tLLLL;WI_Utf!!_yfqIbq{VtdIYfX!bWdybqt!H!{;Y__adff;d;!ILWq!y_L_qLYtIYI;ddffftL_I_XfLL;yWIfdffDttqYIYX;!dqq_fb!2{tbddIbfqYq_XbY<dLY_d;!d;0{WyIXqyXbLdyL_fdy{tt{;!V!!{yy_t_f!tlqt+;bIXtyWtyIILXbLdq!_t.qSqYX;Lf!XyyyyLdIbt^I{L;bIdt!!X__bCCf b{y;fdyQY;yY!bd!Y{bq;_Xdb{ytY;tNt!I{qytXdb!L;{{;yDXffWdIdX{Lttb{ybXdt+qtYY;fwfL!XqX_qdtWf;_IbRqXwWyYWqt!dLt{I;qdfZbWtd!IWXFyS_;dyd:{;WX;tdLf!YqyXbLbttY{q;tdIV_W_qWIWXt!;;I_bfb.;YWYWItX;!bytXqdKJdtW;bfLrLWtyYqf!X!!;{;;fI.IWdYRfXfW!y{_qLLEL!YY;_Xbfb!XY!XJX{L;tI_WL!1WWHI4XyLy{L{qX!d;3XtIYd=tf{W!I!_Xd;tW;YbtIqf%WbyXfyX{tb{dqWb!L{YL;LItXY!fqX_yr{Lt{I;bdb!_W_yqqX!d!L{t;YdftXWfYdfd!t{t{dXtdqsUtbYX5yXXW{ytq_XY%X_d;bdqtqWy{ObILdyd{!_;b{ly;X;tfqfLyq{XXL7_Ldty;bdIfIy{Y{qyXqtb{tIfl_WXyfyfqrXt!_{uXydd ;Wf;_Xbfb!xyWqI!qL2_y;b,yfqYbq{I{Xy!qq;_bdXL!;N;{IyfqY;ytdfb;{{;_btd_fqWXIdItbX!{yW_WfbAbWX;!X{fL!XqyqWXYc;{_Itdy:_W_YbqqXf!__Y;yddT_Wqd!qXL_!Iyf_;XLWbtbY9IWfIYqyybLbq{Y;IIIdIfdW4qWqWXtL;{b_tLqf/WdYWIb!LWLyt_Ybf{Xtf;dOtuLt{yyIYL!!tyY_YbIi;tb;Yf{Xt!qyY_;LZ6dYY;_dbfyWf_IqIbXLL{_b;dt!fW;I{X_L_!_{q_X>LLLt!;yvtf_!qyXXdXLLttY;f=XffWdIdbfLItX{_bXdt(qtYY;fFfL!XqX_b(tt{;Ld:IyfdW_yqf!bq!Lt3_{bWfq;;Y_IyWy!{;ddb*;{;WX;tdLf!Yqy6IWXW!Yt;__bW!b;LYqIbXbWL{qqWbbW_tdYyIbfI!I_{q{byLqYb;yIbvWWfyXftXW{dt-dLb!t;t{;_qqfIyyyYqIbtLb;IIWIq!{!XqIbfEfLf;L_!bYfXt_q{qfLY!_yb;XbfL!{{YfdYWyWtYYqLLItf{bdII&!IWtILX{L{!{;Y_;bbxttfqIIdff!fYW_tX{LfY_;fdffftWydI{XftI{!IbdytWYYqYIYL_!qyf_yXLWbtYqfdLH{!yYYbWbyt{{;_IdI(fW;;LIILY!;yI_{>ftW{LqIqU!LW!Y{_fXYtLty_YdY?IW;YbIYLWLq;{;X>IWfyfYfXLf!WY{Xq_C{GfYY;_dbXXWfY!I{bf!Y_y_tbYFLYIqfIb!IL>;I_tLLt{Y{;{XYf;Wbytqf&ILdtIbtId,W!XyYqtX!yq{f;VbtWYWYY;qdfL!;qX_tdwgY{LI{d{f;!IYWf!X;!I{I_fIELLtIq{f_f!W{y{q_b!LI{{ILdLf!WyItq_bdVf{YbydYGt;tYWbqL{{{_yb=dykdt_Yqm!XqWL{Gq{XWxq_;;_dytyy_q{byXWy;tX_tbL1!;qY;qff{WL{gXydXWftXYfIyt!WL__beLXtX_X_tdWtdWbYqfqX_{!;Id*Lda!t;;{IyWX!fydXdL{ttYb;_+XftWqYYq;!>!L{XbXiYftyfYIf9Xy!dy__q!!L;{I;IdfXGtLYIb{X;!I{I_fd;LLtI;YIYfI!;ybqYkW}qY{YXfI!f{fyfbLX!!YtX__f{0{W;yIIWW!!;yI_IbffE{L;IX{f_WIyIqfb;!L{IIYIX!_W!qfXWLW!W;{_ybIj!tbq_I_Xq!XqdqLbt:YtfdXdtKYWYYI_dXb!YyW_WbYfzt_;WbbXTWWyWqYbtL_{WqfIy!L!qqYbI4ILIYb;XbWfqt{qLILX!!yqt__ddfftYdyIYftYt_qdq-{LL_yYdd!ff!#I;q_Xyyy;bIbfYBW;;yXItfL!!qq_VLyLW{YY;d_WtW{Y_q!XI{_;L;;fWfdY_qbbbXbtf{Dq{ddLYYW;WIyX_WLqi_;PYL_{bYXdfK!t{y;IYLL!tyY;qb_t;ty;_qd!byLyfbbb!WbtydWfY!YWY__qqXfLyyLIbdbfXt!IDI{X;LIyWX!bW1o; I;X;!L!bI!_;bXLItdbtd;f_!KIdqtLW{__Lb!K!Wf;d;!ILWq!Iy;X;bYfXY_II+qXSWyYWqt!d!!y{_{b_fqtI;{bff!W{y{q_b!LI{{_LdLm{W!YYILebL?tq_Ldfffy_Y_qqXX{Ly!q{b{L_Wq;Id{LfWWY{q{X_L!{I_{fLf;yWydX_Lbtb{bIfdcL{Wd;YXWfyLRyYq{b{WftfYzdt!YWYyq_bX{yt{q_bdbLLW!;WIbLY!Iyb_bXLKq{W;bX_X5{IytXLL{t{{{IYd;VbWtYfbIXILd{BbXbW1tt;dyIIXd!TqXqWbtL;_y;XI;ffWbybbYXYL;{dIfd;fft{;LqeWyLX;f_Xdfpy_!;LX_!vyX_XXXXtLW_d;bdqtqW__iXyW!L;{X_Idd{tt{;!H!!Y{;y{XqdCLy{W;tVdfbWqIqX!L!tI{Ybdd!z;t{YyfXXy!b{dqLbfBy_t;{d!t!WL{;bWLyyttq;,dbfX;yYdf!XfWW{tq{x/LL{{YXdYW{{bytdfb;{{;_I_d_!IWd;Lq;fWtfy!;dbWLLtLqIIIXd!e_WqtXYLY{IYddb#YyLY{IYXY!I{t_bbYWWWqq{qX!I{f;f_f LL!{YYXd_!{!{yy_qbfLy_d;!IXf{WfqWIWXyL_yLbwbyL_t_;bqXffW__WqYX_L_{b;ydf2_y{ydbYbM{b_LdLbLWWtt;_q9fI{YyY_;bd{qtf;!I{fbYdybqq!q{L;!IIdYtdW!Y;I{XyyXy!_Wdq{yWXqbf!!Xyd_Iby!yLdtIbtd{n!;!qy_;LWLfqt;qd27bWXdyIdff!fYW_tX{LfY_;ddffftWydI{Xf!I{I_fddLLtIqYqXL_!!_fbWlWLWY{;ydIf!Wb__qdbyLb{I;If{e{WyYqbbXXytyLq{dyLY;!;WdYX}W_qYdfX!9d{W_LdL!IWIydqKLW!W{y;_bLt%ty;_I_fbLXyfq_lWLy{_;_dbfyWfY_I{X{!_{y_Ib{WLW;qWqd!_{b;b_bff C{{YddY!WWWytq;!yLItd;w2XgWWyy_IL!e!L{XbXdbWtyfI{fmXy!dy__q!!LWtTdJIfXyyLqYf!b;LX{I;dLtsqtbYbdLX!WWybdYbqLbtb_LIqiWWbY_q_XbLq{f__f{fdyYy)Xb!L{LyLdWbtL_W&;IXYfY!q{bq{!tLq{b;bbLf!tWYbbYXI!b{bqLdqLWtbq_qkLI!tqLb{S{L{YY;;dbftWf_IqIbdL0_X_Wdyf_tLI)q;LY!_yb;XbfL!{{Y;dY!LWtYY_qX_{;tqdddqWd!vILX{!tLY_Ib{dqW{WXIIXfLf!f_Lq!XYsX{_I{d{fyWqI;qbbX!!_g_{dy/q;;ybqXX!!Y{XXtdq.yWb;YXIfI!XyLq_!;Lytb_WdffX;tydbbXdLb{tbhdfWYYXIdXdWdW!yLXqbIL;_;;YXXWtYCyyqdX_Lqq!_Wd#tlY{qyIWW;LXytqLb!{qtI;;0;!z{k__q{!qC%{y_WdttdWtYIqqXf!b{tX!bWQV;BYfqy!LytI!_;bXLItdbtdqWJWb;Lq!fW{X{fqWddL{;WqII!Lb!yqWbY<YLYY_;qdffytL_bq4bq!L{f;ff_Z_WqYXXLf!W{y{q_dqLI{{qfdW^{W{Y_q!XI!{;L;;fWfdY_qbbbXbtf{Qq{ddLYYWYWItX;!bytXqdE(dtW;bfL=LWtyYqf!X!tyY_YbIfdtb;YXLf{WYyYqIbtLb{YIWIq!{!XqIbf}fLf;L_!bYfXt_q{I{Xy!qq;_bdawWtIdqIIf;Y;_fdQ7_L{_qYndy+WWtIdqGXLL;qt;dfIW(YdIqX_!tYtyq__!!LWtMd(ftXyyLybf!b;LX{I;dLt,qtbYbdLX!WWybdYbqLbtb_LIqzWWbY_q_XbLq{f__f{fdyYy^Xb!L{LyLdWbtL_W#;IXYfq!tyIq_b_tW{W;td;!IWdI!qffWLty{d2bLL{WX;Yf{Lb!.{qqLbf}fY_;_IqfXyLYLqtbYLf_X_tbY+YtIydIbfY{LytqYbYLItt;bdYNWWWYYqtX_!WYf;yfLfqYYqIbIXItb{XqWdqL{YL;LI!fyYty__qbX{d{L;tIYffYXyfqd!dLI;!Ib9WtXWtYqIYX;yZyL_XLXPbWtqff{Wh!yydq_bqy!{;_IdI-f!i;LIIL{!;yI_Ibf,;{L;IdYfYWIy;qbXYtWtqI{IXWIyf_fqfLL!!yY;Xb_W{t{Y;qIfWY!y;qIbILfWk_LdI!{W_YIqIXfL;yL_IfYfXy_Y!Xf!W{WyWd{byLIt!;bX_f_!qyXXdXLLttY;fmXfyy{YYIIbd!b{.qWdyL{yf;!d{X;WYqy_;LqL;;qYXffWWY!y{X_!WL;;W;dO_WbybYbbfXRW{{dqY>WLWtt;;AyfI!dywXXXWLt{;bydIfdWlIXIWXt!;qy_Idd&);X;WItf;YyyI_XbLL__;;_dytyW{_XbIL;y;tX_tbLl!;qYII;W;{__Id;b{{qW%;ydWftYdybqq!qL_YQIIfqWW;yydI!XfL<q;__by{yY;IWX;fWY;{XqtXLL!_q;XIffy;!yqb_Lb{q_;dyff{!t;YYf.fL!XqX_bRytW;ydzIyfdW_yqf!b<LY{b__d;tXt!IyIt!q!{_XqLL!ZyYYY}IYfbW_y;XXbqt{;dIII_7!WIY!IWW!LX;;bW+_{ttqY_:!fW!?qs_duytL;{b!I;fXWIydftX{!!q!;Xf;Wd;qyaIyfW!tqd_bbq{qYXqDIqt!!;yXqIbdyt{qdRI.WTtWIYbfXf!!{{_bLd=;YWIbf!!WWWytq;!yLItX;Ld_t;W_YyfyX!td;YddL;fXtt;LI!Wq!X{f_y!!LYY_IffqW;y{qWf!X;LY_ _LdXtXWqytbf!!y/{y_db_5q_!;_X_fqWfy_ILcbL/tq_Ldfffy_Y_qqXX{L{tdWbtL_ty;IXYfq!tyIq_b_tW{W;td;!IWIyXqLX_y;tiIfd(L{t!;YXWfW!ty;XybI6dt.dXdWfy!_YLX5XLLX_X;qft!fY{I&qyXd!_{qX!bWuR;WI;X;X)Y;{XqtXLL!_q;XIffy;!YYb_Lb{y_;dy^t{!t;YYfCfL!XqXbydtWft;dgIyfdW_yqf!Xtt_tdIfb!fdtW;LILLI!I{d_FZW,bY{Y5XIfX!;yfqbbbtY{Y;;dd!fWfY!q{Xbyd{IdWdXW_t_YqIXWdWLyt_Ybf{X{!I{dY!IWIydqo!X!W{t_;Lyh!ybYyfW!YY!yY_;bd{q{!YddWVLWL_IqIbdLA;W;ddWs_t{YtfqX{y!{WbybLtq{LIXd!W!!Xqy_!LqL{;X;_9!fyYyy_XqXW{XyWb!d;WYtyYYqXWq!__Lb;Lyty_y;dIIttW{Y!f!XLt;;XbqIarytWYtfdXb!qqqdffi%b_!Y;IXfI!dItq{X!y!{LI_fWWy;tyqq<XbLXqy_{fbttYWYLIqfW!qyIXqb_W);IdLQdN!WLIqqIX;y;{YIXf_Wb;qy4IyfW!tqd_bbq{qYfI!XIfYYdy!q;X{Ly_X;fddtdWIqWbbLXyX{t_qbY9;;^YfXYWLyy_YqYbqZb{{btdqWlW!q:I{!Ytf{f;Gbt{!tYYqqbf{Yty{q!!!LLW;IWfbWWYXytqqXYL;_7;;dffXtW;Lq;Wy!YytXtbWWqYfddI!f;W{yyXXb;t{tq_IIb<by_YdqyXb!I{Id{b{gytqqbdLLf!tY{_bXYtWtW;tI;fbWtIq_ebdLW{bdLbL tWYYffXX;{{{qqIdbLbY_;_IqfXYdYLq!Xyyt{_;dIfCY;yYYItWt!W;qb!Ld}!t;;{IyWX!fydXdLyttYb;_^XftWqYYq;!,!t{{;dL;ObyfI{X;!X{b_yX;bX-b_y;YdtttWW_dbj!dL!{;_{dytXW{q{q;LI!X{;_fbbGbYY;YI;fd{fyYbLbdtY{q;tdIs_W_qWIWXt!;;I_IdXuLt_d;I{Lf!q_{q{byLq_;;bI+fWWIIqq!LL!W;Y_Yd;ld;qYfqTftY!yLd_b{tf;WdXdWftW;Iyq!2bLy_WdYfYAYy_YqIfXyWL;b_bda0WtIdqI_!Ly;_Y_{bXLYtX;flXfbytqfX{!x!y{{bXdfUd;dYIX!!YYt{q_nbbNX_y;YdtttWW_db{LYyytd_!dff ;;Y_IyWy!{;ddY1I{;WX;tdLf!Yqy!q_b;Lb{I;!3D5LWXIXqbLy{Yqy;db!-fWed;q;Lf!dY{_;X_Ld{I_{fL#t!XY{IWXWtb{b;Xb!W{WqqYqdfbWWyfdIdIwdWB;{Idt!!;yt_IX{t_{_;dIf:Y;yyQbbX!WWy_q{cLLLt!;yctf_!d{fqY!yLY{tbtdW!qy{q_fybd!!{f;VL;fztYYyIIf_LOqX_fbd{dtIItfWtt!qycqbbXyy{d_fdtLLyIy;XLftLXy{qWbWWbtbYXd!!{!f_YXLLytYtY;;IdPLW;IXqtbkLYyLd{b{<;WI;W)!fL{_qWb;C_L_tq;XMd0LW!YyftX_Ldtf_YLy#YttdtIWLqyLqd_!b;L{tydXIffdyfq{btbfyttq;,dbfX;yyXI{Xt!_yY;XLdabtqdqfLL+!bI!_;bXLItdbtdd!IWyqLItbX!{yW_WfbEbWX;!X{X}{YyqdbdbEXt!;YIXtt!qyy_bXYtI{I;XdL _;;YAbfXq{{y{_ybq{;tbY)IWfIYqyIq;!;LYYXI_eWW_;tyqq*XbLXqy;Xb{Att_;YqXWd!byqXqb_fNYId!xdf!W;Y{qy!X!_;{;;fIQXW;YfIbXb{YyY_;bdWft!ILdW!Y!Yy;_dXLL;_X;tIAfYtLq{I{X;LIyWX!dqW_tIqfIfXoWtI!qYb;Ld_q;fIa-t;!YLb_X{{f_WbXbW7tt;dyI!Lb!yqWbYxYLYY_;qdffytL_bqbbX!!_h_{d;fItWd!IWX(yZ{f;yMLt!_!Y;IXfI!dItqW6I{!;LYfd;JLW;Y_f;XYtX__dfLqG3Wfd;I_fyYy_XddjYLW_;YXdt0LW!IqqIX;y;{YIwA{t^WyYdI_XqY!{qd_bIWftf;!I{fbYdybqq!q{!Y7;bL!f;WXYIqdWtLI;I;XNLLLttYYIfWX!I_{_0BILItd;NzXDWWtY;fyXILX{L__L;p_tydyXdLd{YyWX;dXLt{L;!UqfIW;I;qYdXt_;dbqI2AytWYtfdf{{W{;q_bLLIYY;YIqXbW{It_XeI<}yL;WbW!fWfy3ItW!!Y{q;bb{{tt{;!S!!q{q_W_f!t,qtJ;bIXty!XY{qtX_!YtXbddbcq;qqXb?XbY!{;_XbI5d_t;qfaf!yDY{XYCf!!td_WbL}LyIYIqdXa{W{bd{nfttY{Y{IyXq!fyyXdb!MXt{;ffWAWWyy_IL!NLf;YbLPyWYtYY;IdWq!f{wqt!!LYt;;dKqf_yLybXYLIyy{I;dd0tXWqq{qX!I{f;f_fzLL!{YYXd_!{W{y;_IXWy!{LI_f^!f!bYyqfXy!Yqy_{fdtYYbd;IXXbYyyYqt!tLWYdI{fqty!dY!qfb<y;{__yLyWfyXqYIWW;LXytqLb!{qtI;;-;fY{?qtXZbyLd{_;qL!f_y_ydbfXf!!{{_bLdA_YWYXX_f_!qyXXdXLLttY;fsXfyy{YYbIXILd{CbXbWVyW_;LfNfL!XqX_b)yWf;!d3IyfdW_yqf!XWL<_DdqIyWLWbd!q;XX!I{dXtddLWt!;Yd{XdYqyIq;!;tXWXI_d{tq!OYyIWXtydy{dWd;L_tL;IXYfq!tyIq_b_tW{W;td;!I!#_bq!fWL{y{dLdLh!WyYII!W;LX{q_LbIWftf;!I{fbYdyybWb;!_tI_IfY3YW;YdfqXf!!{{_bLdgbtqdqI_LwyyI!_;bXLItdbtd;f_!EIdILLW{Y_Lb!/WWX;d;!ILWq!Iy;X;bYWX;LdVIyfdW_yqf!XLt__Wd;f_gdWyYbIIXI{{y{_ybqWbtXdtIyWtW_qIbWXy:N{Y_{d{!fWfy}ItLY!Y{q;bb{{ttqINI!!zW{qYdfbfOA{tb!dYf;WdIqqfb/!tq!_Lf_i{YfIWfXfW!ty;XybI,dtudXdWftW;IyqIbXLL{_b;d_*y;yqfbdX_yX{t_qbYa;;>YIXYf_Wb{Xqf3I4IYb;mbWAWtYy%I_fWtf{SqWd_tYYI;_XWX{{_yqqbbWLfY_YIdffftWy,I{XftI{!IbdytWYYqYIYL_!qyf_yXLWbtbY?IWfIYqyIq;!;LYYXI_}WW;;tyqq(XbLXqy;Xb{ztt_;YqXWd!byqXqL!WZtbb!I;fXWIydftXq!b{bqLd!LWtbqYIIfb!bYL_qXWLbY_YpXIftYLq{b{X{tY{;_bdt0fyIYXq;Xf!b{bdYbY6;tdqfIiCWWWYY_;X_!WYb;EbW,WtYyeI_fW!f{fqWd)L{tfqII!Lb!yqWbY<YLYY_;qdffytL_b_bbXL!{Y;XLtfqWyybIYLI!I{X_Lb_{;tX_LdLh{!yYYIL/ILXyL_Lb{fXtY;LIbXbWL{XqWbbW_W2qIItWLy{_{q{-YL;{b;tdf!IWIydqP!X!W{t_;Ly-IWdY-fXfW!ty;XybX3;tf;bIb!YWYy;qdjfLf{!;{dbtdWqYLIYfW!!q;_WF-Lt;tYff;X_ydYWbpdd{ttZd;dWWdWYqVqt!tLY_;_bxd){Y=YyX{ft!{{dX;bYWf;ydtftttWqy_f!XWL._m;ffyWd;;yXItfL!!qq_Ib;{;YbqXIIWe!yydq_bqy!{W;ckUffyYqLXtW!L;{X_Idd{ttWqIf!!LLfy;qLb;L__;;YXXW_yfIqqzbfy;{__yLym{ydqYXIW;LXytqLb!{qtI;;Q;!b{w__q{!q+0{y_WdttdWbYqfqX_{L;IddLd2!t;;{IyWX!b_{bfLtt{{{;;II3W;!Y;XXbn{X{Yb{fbZbWX;!flf{!;{IqW!!LWt2dJIfXyyLqIXL!dL!{;_{dytXWyYbqdfL!f{yXtb{L!_!;LX;!bYq{7qyXWLt_d;yfWf;t_yIIILY!q{t_Ib_#_YW;WItf;{IyWdbb!!W{Y_{fLfLW!yyqIX!y;tX;qdL+IyfYfI!X{!bqd_y#WT;{_YIdI!YWYy;qd!qLftg_tL!,YWqybI{Wt!{y!X!bLW;Y9dqq0fyWWytXdbbLq_qdtf!!IWYIdq!X;!{{ybXb!JWWqdyIILbyW_ybdZItt_y;dIIttW{Y!f!XLtq;XbqIkzytWYtfdXW{W{yd_bdMytb;III!{W{yyqq1b!LYf;qf{/;W!Y_IYXY{LyL_!byW_t_YdqffYYyyfdbb;tW{W;td;tyWIyXqLX_y;t&IfbLW{t{YyIqW;!b{Xq!LFEfYY;WfbWLYdYLq!Xyytt<IIdttLY{q{I{LY!;yb_tbfWItIYXILf_Y;yYdfLyt{tW;dd{fdWbIdqIL!{b_WbXbtnW;dYbIqWq!_;Db{!!M;tX;IIdttW{Y!f!XLtq;Wd{LtfqW^YbqXWy!YytXtbWWqY{I_-yXdW!yf_)!;0*{Y;ydI._!SIXqfXdyd{Idtu{{tWqY6IbXXYyyydbdq!Wty_YdbH_tW_fI!bd!WyL_LfIEIWdY4XWX;{{{qqIdILbY_Y_IqXXWWyqX<byL!t__WfYTYWqybI{WtLX;I;9XLuL{WqfIfXlWtI!qYbqkb{{btd{.!;!YLb;LW{Yqt;qdNebWXdyqXf{!ty_qYdX{dtb;q6qf_y!qLf!b;LX{I;dLtQqtbY!IfL_!y;fq!ddLW{L;LXIfI!dy?bWbbt{;fdtf{f{WyyqqfXyyd{!;Xd{ifYW;WIyX_WLql_fRY{L;yIYdYf;WdIqqfb.!tq!_Ydqfbt{dtI{f!Y!yLd;Nf{qW=;ydWftYdybqqLb{W;!;bL!f;WXYIqdWtLdyW_!bYL{WddqIIf;Y;_fdXbI{Qty;dd_fq;!Ybb_Xttfy!;dbWLLtLqIIIXd!)_W;Xc{L;YIYIIdX2W{ydf!b;LttI_{f_<_WdyfIYWyWL;b_;#WLWtt;;DyfI!XyLq_!;L_{ybyd{!dyYILXYW!L;{X_Idd{tWd;WI!fYW{{dXqbIL;_;;YqX!_yxIq_zXy!W{tbddLWWWyq_IdXy!byI_I<{L{ty;qXbX#{fYLb{b{Lytq;fdytdW!yXq{Xf{WyW_yd_LL;:Y;XYf_{byb_XX!{i{{;ydqt;WbyXI!!uLf;Y_WmbtL;d;LI!fyYt{kdIbt{L;{I{d{!YW;YbqtXftI{I;dd#tXtWYyq_fLySyL_XLXHbWtqfXzWO!yydq_bqy!{LI_fp!f!bYyqfXy!Yqy_{fdtYYbd;IXXbYyyYqt!ttdYqI{dLty!dY!qfbly;{__yLyP{yXIWfXXt!qyY_;Lg0;YY;_Xbfb!VyWqI!qLI{;b;fF!XWIIJqyXd!_{qX!d_W_WdqfIff!!{ybXdX{tWtXI_d_fqWXIdILX!!yqt__ddfftYdyIYftYt_qdq>{LL_yYdd!ff!lI;q_Xyyy{{YdfYWq;;yXItfL!!qq_Y%L+y{Y;Id_!{W{y;_IXWy!tdI_IXjfWL;LbbXbLXy!bib{n;WI;Ww!fW!2q*b;+;tLtbb!I;fXWIydftbd!W{!_Yb{fd;qYII;W;{d;X_IL=gytd;_Iqt!W;qX_zLXLY_{Ibd:fqtLYfqfL_!_{q_XOL,IYWIbf!!W!Wyt_;bbLt_qYVIdfWWbqLILXtLY{fbXdbW{YfItX{f{!yyqX;bbrX{!d)d{fyWqI;qYGfLI_{d_LtB_WqYXfdX;{W{db_9bWbtbqfIRT{!dYYbWXWLyt__LD>ffyYqXbbbI!t{b_tb{{ttWqqf{!IYyyd_I!tL{{!b!dL!qyWq;ftbqLK{b;XLyxYttdtXbLd{{yLXyddL!tfYcz;f_WyIyq{xX{!_X;tdqVYW;I9qYLYLq;b_bdGuWtIdqdW!L!d_YqYb;Ld_q;fd!f{WbIdqtLW!{;___dqZX;d;LItXY!fqX_fbd{dtIItXb!%YXytqqXYL;_&_LdXtXY;ytbfXIy3{y_db_cq_!YqdLXcW{YW_q!;L_{ybyfdXdyYYWf;bX!tyL_!LqwYYLYydYfIW__{q;b!L_{Y;YfL%LW!Yyb_bXtItkqLdWLWyfyfq Xt!_{KXydd?;Wf;_Xbfb!jyWqI!qLt;L;ybYf_t_q{I{Xy!qq;_bd)9WtIdqIIf;Y;yYdXLt{uty;dd_fq;!YyqYbXyq{fdL6{WfY#ILXdWq!m{fX;b_Ly_y;{Xd!fYXytqqXYL;_T;ffYtLYyqYIqXt!Iy___+WLWtt;;XIfdY!ytX!bI{_;L_tIXr{tWYWbbXbLXy!d{b{);WI;W^!f;yX{=bXbY{{Yb;bIX2!Y/Y{qyXqy;{b;Xb!tBWfqYIW!byLqdqLb!Ly_t;_IqfXYdYLq!Xyyt{_;dIfoY;yYYItWt{b;q_YLdZ!t;;{IyWX!__{qYXIjd{bI_dd!IWX;LILf{LXyYqLfb7X{LYYf{!_WY_LqyBYL;{I;Ldb!YWdYbqbfLLXyW_bf_fiyIYtfL!{{{y{dYb;Lbtt;fXIfI!XyLq_!;L_{ybyd{!dyYILXyW!L;{X_Idd{tWd;WI!fYW{{dXqbIL;_;IMXXfIY>yyqdX_Lqq!_;bIsItfy/dLfI{{y_qIbILft;_LdI!Y!X__q!Lf{W;W_Wf{NytIY!IbL_!d{y_bbI/IY{;{Iyfq{byXILXL!{ty_YbL!IWX;LILf{LXyYqLbbQb{LYXdWfb{_{wdIbt{L;{I{d{!YW;YbqtXftItI;dI>^{Wdd!q;XtLIy{d_b_zdWf;Y5yfdWfyfIWbt!{{fI_ddnfWf;Wqdf{!fyI_Ibfrd{L;IXYXX{_y!bfLWtW{WI{dyhIW!Ybb_X_Lq{XbdbLE!tydtI_Xq!XqdqLb!Ly_t;_IqfXYdYLqtbYLf_X;fddtdWIqWbbLd{Yq;;XbtLLt!dqI<iWWWYY_;X_!W{f;fbWfdt{Yfb_XI!f{dqLfbxbWnYWIIWq!;{fq{XLx#_yYXfXf{Y!y{XyXI{q{WdXd_t!WWqYILL_{>;f;bby+fty;Ylyf{{dqYbb!;LXtbbydYBt;tYWbqL{{_qy;db!rfWUd;I_fyYyy{ddOw{Xtt;qdYf;YsYLqX!X{{ttIfdItaWyYdI_XqY!{qqLd0L{{WYqz;f_WyIybIKXL__X;tdqaYW;ITqfLYyL_ydYbqgttI;_I_!WWWytq;TILd_!;Yh!JYY_qLqLX!Ly{I_!L;fXWqYLIILf!fy!_{bb{d{!d;IbW;WbqfbYXYL;{dbqdf0!W{YbfdXb!qqqbW)!^b_!Y;IXfI!dIt_dXWL!{Y_{IdtqWIY;f;LXzX;__{LqfVty;WItWdW{_W_;X_^I{IIYdqftWIY_q_LW!W{t_;fIcWybY!dWX_W{_L_Lb!^ytI;!0;XX!qyLqIhfLf{!;{dbtdW_qWq;f_LfyIdYbY*;tddqIfX+WtI!qYbq&b{{btd{h!;!YLbqLfyqt._ybWVt;dYtXWf{{_y__ddfLY_y;YdtttWW_Ib{Lqyytd_!dffA;;yfbfXq{{y{_;dILW_!YbX_Xd{fyf_ZXty!{Y;;ddtqWfypItW!!L;__{gftW;X;WItf;Yyy!dbby{W;YIYdY!_WqYfqyfLtb{YIfhyW{WWYdI{Xd!bqd_I(!tb;WdXdtfWYdybqq!q{LYD;bL!f;WXYIqdWt!{y!X!bLWqYfdqq?fyWWytXdbttW{{I_d_fd!fYYfyXY!t_YddIqW{tLdyqdf!!f{ X;bdHbttd5d{!YyIq;XyLy{!_N_yd{tXWfYdfd!{L!;b__LX ttq;YI;W,!Y_Yq!ZbLCtq_Ldfffy_Y_qqXX{L{YdWdyW_tdYyIbfI!I_{q{byLqYb;bIxfWWIIqqLLLLd;Y_Yd;Hd;qYfqDftY!yY_qdbL{_t;{d!t!y;_qq{!qGl{y_WdttdWbYqfqLX0*;I_YLd<!t;;{IyWXWtqq_fLqLf_LI_d_fd!fYYfyX{tb_YddfbebWX;!fif{!;{IqW!!LWtAdvIf!yybI;_XXt!L{!bqd!K_W;YbIIX!y2yL_XLX4bWtqffWWC!yydq_bqy!tfI_IX}fW{;LbbXVLqyL_fdfW_t_YqIX!LW{_W_;X_kI{IIYIYf;!dYLq;!XLtt ;YbLW{t{Y;qIfWY!yId_dXLftL_LXbfb!XY!XuX{Ly{qb;dbfXt!IRqfLY!W_bbLLdLLt!;y.tXj{IytXLL{t{{{IYd;=bWtYfbIbItb{fqWdtL{t;;IqIfb{YyqqbdbLf;XYij!f:Y!yWXYLI{q{I_fd;LLYfI_qXL_!!_fbW+WLWY{;ydIf!Wb__qqXbLbyL;!bWnbt_Y_IbXy!fy_dWbyL_t_;bIqffW__{_d6Yx<;bdLfLsLyWYtI_be!I;Y_;bIoItfy2dLfI{{y_qIbILft;_LdI!Y!X__q!Lf{W;W_Wf{.ytIY!IbL_!qyb_bXL/!{W;bXYfqWbybILbq!W{b__d_BbWqYfI_L{Ld;Y;U1btLYL;LXWftW_{CqI#YLLY_IgXfXbWyyfqyXYyy{{IdHYWb;;YXqbWy!YytXtbWWqYVddI!f;W{yyXXbfLd_d;IftW{;tyqqaXbLXqy_Ybt{ttWqqXCWd!!y;q{by{Xty;bIdnLWfyyftX{!!q!d;f;E{;qy IyfW!tqdq{%Wi;{_YIdI!YWqytqIX_L_;W_WdtM;yIYWbbX!WW{_q{5LMLt!YyIIf!Y;{X_qbLLIYf;fd!f{WbIdI{LWL;y_;IbIWYtYY;IdWq!fy!_{bb{dtb;qmq!fyL_IqY!dL!{;_{dytXttIqqf!q!fqLd_b_sdWf;Ykyf{{bqYbdlbLbtX_!U)/{WyYqf;XbLk{W_ILqaIt;d;IYLXyyqp_ybdL_tqb!dWfsY0yfbYLL{Yq!;;dX7IWddtqfLILX_LqLbt-YtfdXI{!{!o_IqIbdLu_X_Wdyf_tLIlq;LY!_;b_bdXL!;z;{IyfqY;yYdfbI{{;_btd_fqWXIdILX!!yqt__dqhX;d;LItXY!fqX_fbd{dYbIbXdf_YXytqqXYL;_e_LdXtXWbqtbfLb{vqq;FbyLWttddItfI!qyfqbbty!{W;PK-WLY!{JbIXYyd{!_;b{%y;X;!IWXqYyyIdbbf!Wtt_{fS#Lt{yXIYXqL_q!_;bIAItbqYq=Xf!y_LqLb!LyY_;dIyfbWIyIb{X{Ly{qIbdyfbtWYfqXWt!_;I_bXLF!{W;yd_f_WI_{q;XILI{bddIXW^WXq#IL!{{__;;I&ft_WYY;qdfL!;qX_tdNaY{LI{d{f;!IYWf!XyLYtXbqdfWLtW;Yq;f_yty{q_b!LItXYb-yfdWfyfILVILt{W;qf{+{WyYqbbXbLXy!bzb{V;WI;W !fW!HqH_fT;t{;tb!I;fXWIydftX!L_{f_IdqtRt{qYI_fbLXyf_qbLLY{W;!o;XXyoy;bWbI{d{q_bdbCfYXyOf!X2y!yWbYaItqWbdLfIW{!{_{_XLILI;bdWUXfdWWY_I{Xtyq{ydLo;WYtyYYqXWq!f_LqWLy}__y;dIItt!E_Iqt!L{{;{_yb_N_tIq{q;fI!!ybd_b_TqtXILdLft!YyfXXbfLd_dIbff!XW_IXqtXq!Y{;b-d;>fWX;WdLX;YyyYqt!tt{;WYtXffIYryyqdX_Lqq!;mdY^bt_Y;fXXy{Yyy_YdX{qt_ILf;WyyyIyqdbIyt{{_!L!ULyqqWX;WtLq{n_bdX{ytY;totfW{q_{bI!ymd{!;fIJt;W_YyfyLXzd;Y_WL;fXtt;LI!Wq!!_LqWXYO;{_;ddff!tL_IqXfLLtyWb!dttyttIyqq!I{f_X_fXWTd{{dWfbf!{byyXWLYtY{YI_dq fWy;LbbXbLS{W_ILqr({W;WdYX;W_YWqfbf!Wtd_{df!_WdYfqffWL2y{_ffI3!ybYyfW!Y{YyYd_bqLfty_LXbfb!XY!X4X{L;tI_WL!Z;YXYIIfbzWL_d_bXL7q{WdLX_X9{IytXLL{t{{{IYd;*bWtYfbIXILd{gbXbWxyW_;LfvfL!XqX_b-ytY_yYdd!ff!RI;q_Xyyy;fIXd_tXWtYqIYX;y5{;_fdXLW{LY;pyfYWtItbIdqt{{LbyIdR!Wfy<f;XXWLyLq{dyLY{LqIIfPLWLY{_XXY!LYb;tXff;Y{q_b_X_tI{dqLd;LWyf;!qdfWWLyLdIbIxdtFIWdtiYWYYI_dXb!YyW_WbYfFt_;WbbXzWWyWqYbtL_{WqfIy!L!qqYbIeILIYb;XbWfqt{qLqLX!Ly{I_!L;fXWqYLIILf!fy!_{bb{d{!_{d{<_!qYII{9f!Wy{_{b_N!tI;{XLX;{W{db_?bWbtbqfIC}{!dYYbWXWLt{;bydIfXWLY_f;X_!yqyddIdWYtWd;qXftWLy!Xqb!L_t;;bdIf!Y-YLqX!XLbttIfPLtRWyYdI_XqY!y;bXbILfWr_LfdfbtLyqIW!Lt_{d;ydb)IWIq{I{Xy!q;b_XXLLL{{YydY/L{IyXILXL!{tX_YbLcbWb;LqXfW!b;_;xfI^t;LI{X{f{{Yy;qbbtLfYIYIIdX3W{ydf!b;LttI_{f_*_WdyfIYWy!dyf_fXW3t{{;fX_fdWfyfIWbd!{{f_IdIcfWd;LIILYLX;__!AftWYW;WX{fyWIy!qb<_L_tq;XwduLW!YyftX_Lq{XbdbL5!tydtIdXy!byI_Im{L{ty;qXbfXtLYLI{by!YyLII q9YtIYtIbby{L_;b_mLQLt!YyIIf!Y;{X_qbLLIYf;fd!f{WbIdI!f{!{y_;qbIL{yfIXIIff!;YL;qG{td;bI{d{fyWqI;qbbX!!_T_{dy*q;;YbqXf!y9y{_;dILW_!;WI.W<yL_Ib!bby!t;;XdIfd;tY{I!W!{I_ydXfXWYtWd;qXftWLy!XqbIL;_;dLfdWWyt_bq_!XLt{q_Yd;tStLYXfX!Yy!_q;;RWlf_tYqI0fb!XIy_XX{Lt{__YIXtdWbYqfqX_&};IbLpdt!;2YyIdf_!qI!qWbC{;{y__d_Mb!XYfI_LWtb{fqWd*L{;WY!I;f{!yqX_qM{*X;IIfXfffW!y{qb!dL;;W_{b_Z!tIqYIYX;!d;fq!ddLW{L;LXIfI!dygbWXt!Y{Y_IIdpbtYqL_bb{{L{L_!dyHIt!d;qXXq!LyIdfbfL!t{;bCdfbWqI!qofW!WyY;;b_LWybqYI_fb!qyfbbddL!tfY,=;ft{fy;X{L_t_{_;dIfNY;yY!bbXfWW{dq{NLLLt!;yX_f_!qyXXdXLLttY;fSXfdWWY_I{Xtyq{!b!d;tyWfIqIf!X!Lq!_bkYL;{I;IdfXTtLYIIYXY!I{t_bbYWLtt;YIYfI!;ybqYgW2qY{YXfI!f{fyfbLX!!YtX__f{Gyt_Y_IbbX!fy_dWbYL_t_;bIyffW__{_d2Y*-;bdLfL^LyWYtI_b#!I;Y_;bIOItfy3dLfI{{y;qIbILft;_LdI5YWYYIq;Xb!Y;W;qf{fXYIqfbfXf{Ly!qYdXL_Y{YfXY!X{b{IqtbbLt{{btdW!qY{qIfyXdLIqt_{b!{!Yqq;XWXfYt{q_ebbeX_y;YdtttyX_dqY!dL!{;_{dytXWfYdfdXI{!_bbWLXDttq;YI;Wh!;yf_XXW!Lt;bydYmt;tYW_qL{{Iqy;db!sfWxd;I{Lf!q_{q;b!L_{Y;YfLKLW!Yyb_bXtItXdLdLx!WyYII!W;LX{q_LbIWftf;!I{fbYdyybWbyt_{_;qdXtdtLYtqYXfyX{yd{bYWItIYdI(WXWWyy__XL{u{L;X-Xfbyy_fX!!>Ly{d__dq{!tWYkf>!y{Y_L_b!!j;tX;IIdtt!I_I_lfLLyyWIfdfp!W{Ybfdf{{W{;q_bLLIYY;YI;fdYqyfq!b{Lb_d;bdqtqW_{ bILbyd{!_;b{oy;XYbX{!fyt_{q{b;%I{Wb!d;WX!bqXIW!{tb{b;Xb!tMt{YyIqW;!b{Xq!L^sfYY;WfbWLYdYLq!XyyttuIIdttLY{q{I{LY!;yb_tbfWIt{qbft!W!LyqqWbqLI_q;_XeWIYLIdI!XLyq{I_;L;&Yy,IWf:Xy!dy__q!!LWtod)f_!;yLybf!b;LX{I;dLtH{t!I{X_b;{W{fXtdqe5tbYX,yXXW{ytq_XYcX_d;bdqtqY!{&bIXYyd{!_;b{Cy;XY;X{X;{IyX_;bfLbtbIYdYf;Wd_fqYLLLd;Y;Yd;fdtLY;fXXtLO{YqLr{L{t;YIdWt!!f__qtxfLft/_tL!4YWqybI{WtLd;I_bDLLLt!;yctf_!d{fqY!yLY{tbtf_!qWYIdq!X;!{{ybXdf&dYfI{XtXfYt{q_Cbb%X_yYXd{ftW_YY_X!dLb{qbqZLXAyIYYfdX!!;y{_yLX^{Y{YqdIXBWb__qdbyLb{I;If{?{WyYqbbfLtf{tq{dbLYYWYWItX;!bytXqdazdtW;bfL)LWtyYqf!XL{;{;qbIf,tbq_I_Xq!XqdqLbtEYtfdXIffdYdqt_!UbL__X;tdqRYW;IaItX{Ldq;_bfft{YwIXXI!dY;yX_b!yLY{tbtf;Xqy{YLfybd!!{f;NL;/X;tYWftf_yI_WqydVLY{{;{Xfff!6YtbYXLt__Wd;f_}dWyYbIIXI{{y{_ybqWbtbYHIWfIYqyTXyb{{y{Idbf{k{WyYqf;XbLXy!b%b{4ytqd;IYLf!Iq{b_!tL_tq;X*df;yWydX_Lbtb{bIfdiL{Wd;YXWXb{{_ddId_L!tI;!dWt!WL_;XWL_yt{q;_L!wWWrIxqfLy{dq;;XbtLLt!dqIIf;Y;yYdX,_tI_qYCdynWWtIdqbXqyq;OYefIoY;dY!I;f{!yqX_ybbhd{L;fIyttW{Y!f!LyU;;W;fLtfqWOYbqXWy!dq!_LL!LY;_ILdtXXW{YWqWpbLbtX_!f{ffyYILXyLYLY{;;dbLs;;XYtq7XYWL_{q{b;PI{Wb!d;WX!bqXIW!{tb{b;Xb!t*t{Y;qIfWY!yW_zLatyYy;Wx;XXWtYLq!!q!W;L;ybYfft_q{I{X;LIyWX!d_W_WX;fItTL{byb_XX!{J{{;ydqt;WbywqWXIyq{I_;L;tLy,q_I{WqLMyyqWbt{dtb;qfbW!y!ybf!b;LX{I;dLt(;W_ysfdfL{W_;dmL!W0Yfddd!fLYqyIq;!;tGWXI_d{tq!+YyIWXtyd{ydWdyW_tdYyIbfI!I_{q{byLqYb;{Xffqy{Y;q!X_!Y{YdLbLH!tyq_I_XdLfyYXydHWbWGIWdWftW;IyqIbXLL{_b;I:!ftLq{I{Xy!qq;_bdXL!;cYfXYfWybqLXdXLL!{ybtIu!IWtILX{L{!{;Y_;bbGttfqII{Lbyt_W_LbqLWtq;I.qf_{aqIXL!d!!{LbqdIl;;;YYb3L_{Xqq;CbyLWttddIbfqYqqWb!oILY_d;!d;G{WyIXqfXdyd{I;!fbtW;XYtIqfY!;qx_b YL!Yb;bIcfWWIIqqtLLLt;Y_Yd;Vd;qYfI!X{!bqd_t9WL{Y_;_IqfXYdYLqtbYLf_X;fddtdWIqtX{WtLq{>_bdX{ytY;tmtfW{qq{bI!yDd{!;fIat;Wdybqt!4!{;YdbfrtyYyqRfKfy!{qX_fbd{d;WItIftt!qyZqbbXyytbIbd!LWW;;{XLftLXy{qWbWWbtbYXd!!{W__Y_dXbL{{fIIdXf;WfYbqbLY!Y{;_dfflft!Y{IbWd!W_W_;X_nX{IIYdYf;WdIqqfX!L{{bbddb<q;qqn_CLI!Yqd_!b;L{tydXIyfb!dYLqfbyyt{{_!L!ML!;qWXtWtLq{>_bdX{ytdd!ILW!WYq_bLXtPX{{_WdW!bWbyXI!L{Lf;YbL=yWYWYY;qdfL!;qX_td9JY{LI{d{f;!IYWf!XLt__Wd;f_G_WqYXfdfL!!yyXtb_HqtXddII!W!fq_bb!;LbtX_!6hN{WyYqf;XbLk{W_ILq,It;d;IYbX{__Yb!!t%qt:;bIXtyWqyIq!!XLq;{d_fzttY{qefXft!Wqd_bbq{qt_yuXIWLydq{XUbyLd{_;qL!fFWYYbI_X;yX{qd{bYLIWd;bX_f!!_yfqIbq{:tyIYdqQbWb;LqqfW!b;__qbbUt;LI{dWLbLn_WqtXY9X{_IWIyR_W_YbqqXf!_;{_;d!M_tYYYXLfL!!yyd_b!._tf;IIqWrWt_Yq_Xb1X{fIIdtfItLYbqdW!L;;_;{IbW_t;Y_q<WdWL_Wb_L;{ItIb!d;fYYFyXq{XI!Y{ybdbLWWWb;_I_fI{Yyy_YdX{qtyILf;WyY_YLXaXyL{_X;ddW?_t{YtfqXf{LyWqYdXL_Y{YXI{fIWYyyXdbqtW{{__fbBIyYyMqYXb!_{;bXdqW{tY;IXXfb{_y{q!!!lEY_IWdyttWbyqqX!dL;;!IbdXtXWtYqIYX;y/{yq_d9LIY{Y2dIf!Wb__q_Xb{L{fI_Id!fWfyZItLY!Y{;_dffMfWz;tXYfq!tyIq_b_tW{W;td;!IWIyXqLX_y;{y;bbWxfWXdtqqLI!bYL_!XWWft;Yfd{gL!uIyq!7bLvyW_WbYfRt_;WbfX+WW{tbY(IL_YWYdX_fqWb{Xqf._L!{f;fbWf:t{YfbIXILd{ubXbWatt;dyIIXX!Ly_X;b_Ly_y;{XX!IyyI;_XXt!L{!bqdI/;;;YYbXLb{dqq;4byLWttddIwfL!;It_uvItH;ddqf_W!;tYqq_W!!W{SbP.LWXY!Yb,!X;!XyI_d!tL!t_;fdIfqYGydbYX_!btX_fb!L{Wd;YXLftWY{Xq_L;kq;d;qfdftYLq{XtX{!_{!_IJ_tWttyXI{fW!W;b_bdXL!Y{YXI{fIWYyyXdXLtW{{__IqJIyYy_b_XI{ftIbLJYWYtyYYqXWq!y_LqWLy2__y;dIIttW!y_qfXILq_e_{fY)ttbYtXffLWW;f_-XWZq{{qfdL!{W{yyqq4bLitq_Ldfffy_Y_qqXX{LyL_tdYof;XYdIWf_W{ytXqbytL{W_YI;0_WdYfqyfLtI{XqLd;LW;!Ytfyftyy{XbI4ftXtf_WIdj{YWqbqIbdLu_X_Wdyf_tLIxILXXyX{b;tffWbYqdqq4fyWWytXdb,LLt;btd;!IymqtXqL;{Yqt_qd_{!tWY0f<XfLy_LdfA_{dt!;;d{fyYXyfqd!t!!y{_{b_fqtI;{bFL_!dyf_fXW34{{;ffbXdW!yf_l!;LtYf;;O{W_y_Y_qdbf!Yqy_!fbKf{WYdd{!LWLy!qyN_Ldty;bdIfIy{Y{qyXqtb{y;bbW+fWXdtI_LI!bYL_!XWLy{_;_dIWqW;YIqILf{WyLdfd%fqtLYfqfL_!_{q_X7LLLttYYIfWX!dyWq_X{Lt_q;ffL^WtYy;I_Xd!f{fqLZGxX{L;Lf{!_WYq{qWbtL;_y;IIdfsYXYWqtX;yy{I;dd>tXtWYtI;Wy!I{X_Lb_{;t_;y.y!fy;q!b!sILY_d;!d;#{WyIXqfXdyd{Id!:_tLYXd;qXftWLy!XqbIL;_;;YX9!_yfqYb&!XLt{q_Yd;t tLYXfX!Y{f__dq-W f_tYqI1fb!XIyqYXtyt;bd{U!!CWII6qyXd!_{qX!by<YWXdqIX!Lyy_db1<ftb_q;CIft;W_YyfyLf{Y;UYTfIgY;dY!I;f{!yqX_fbd{t{L_{IyKYy!YtIYXY!I{;_bbYt{WtYqIYX;yA{ddYb_Lbty;fXIfI!XyLq_!;LtYf;;w{W_y_Y_qqXX{Lyt;Xb{LWtWqbIbXXW!_{qyX_L_{bYXdf7_yWYyI_X_!b{y_fb_tLty;_I_fb!qyfq_-{L;t!;_dYfYyLYLq!Xyt_{_;dIf.Y;yYdIfXfWW{tq{bfW_td;fIfEW!dY{qfLYLd{f;fbWfHt{YfbIXILd{EbXbWNyW_;Lf,fL!XqXbYjnttYqIWIftt!qy+qbbXyy{q;Id!tXWyq{XI!Wyt_WbWLXLttWddIbfqYqqWbILy3tYf;IQ}fyWdY_qqW!Lw{Y_bb_A;;XYyXYfy!Y{XXqb_tL;;dyf_tyWdyIftX{!!q!_LfqWX;qyMIyfW!tqd_bbq{qt_y3XIW{y;Iy_dX!Lft2b;I^)YWyYII_bQyX{f_dLdt{W!qbI_WX!tyqqYb;{+{y__d_?b!XYfI_LW!yy___bb)ytf;_X{Xd{Y{RbbLLtL{LIWdtk_!uYIbYXqLt{I__d_WWtWYtI;LILX;b_fXWjt{{;;dIXXWb_YqqXb(V{fdXdd%fW!IWXYf{yW{;dWddt_YbqbIbLf!=Y{_dXYtWtW;tI;fbWtIq_EbdLW{bdLbL,tWYYffXftWYyYqIddLb{YILdtJYWYYIqtXb!Y;W;qf{fXYIqfbfXf{Ly!qYdXL_Y{;{IyfqY;yb_HbWLI_q;Id;t;WY_XX_LXyqtx_ybWgt;dY#ILX;Yt{ddIMXt;;qIqfLttWqy_f!XWLA_?;fIyWLY{d!q;XX!I{dXtbqLbtb_LI!DWWbY_qqXbLbyL;qbWVbtYqLItfY!YyI_;bbLYYWYqX{XXyI_fdfbftL{!_YIX3_y{Y;q!X_!Y{YdLbL*!tyq_Iqfb!bYL_!XWLb{_;qdbfbtLyqIWXb!Y;L_tbYgYtIY;IbfY{Wyy;<bYL{t{qfIfXEWt_YqYbqQb{{btdqJbWb;Lq!fW!by__qbbBb{LYqdWfbWY_LqtXYLY{I;;dbiYyWyqb{bX{I;fIfdfWLt!;YqXf_{{y{_ybq{;tbYXd!WvW{yyqq!;Lctq_Ldfffy_Y_qqXX{L{q_LbYLWt!d;IY!2!tqt_qU_Lq{b;bbLf!tWYbbYXI!b{bqLdqLWtbq_quLI!tqLb{v{L{YY;;dbftWf_IqdXfLfyW;tb{rfy_YdIfXfWW{dq{bfLItI;fId*LWI_Y_Xh_L!;fdWfWOWy{YyIIX!!b;__qbbHb{LY!dWfb{Y{W;IsY6XY_;!ffWWyWYWb{Xy!I{!_bf_}qYaYbdLX!WW_X_fXW&d{{dWXIf!{byyXWLYtY{YI_dqzfWy;LbbXXytyLq{dyLY;!;WdYX(W_qYdfbytLtqdYfI!IWI_bqXfWLqy{dLb!t;t{;_qqfIyyyYqIbtLb;IIWIq!{!XqIbfzfLf;L_!bYfXt_q{qfLY!_yb;XbfWIWXqbIm1W!bY{_dl_Ld{f;_+WWyt{qLqbXqy!{tIN=;t_W;YXIIXdYty{q!LqJqY;;ddff_YWqYI{!WL!{;_{dytXWqq{IYfI!tybd_b_KdWf;Y(yfdWfy_XWL{!{Yf;tf{^{WyYqf;XbL?{W_IbLwX;yYyXyf;WIy{bfLW!L;fYXdtULW!IqqyLL!WyY;nb_W{t{Y;qIfWY!y;qIb{tf;L_LXIXTyLYLq!Xyyt{d;ydbmIWIq{I{Xy!q;b_bdTxWtIdqI;XfW{YL_r!yiXYf;XIffy;!YLb_Lm{X_LbXbtAW;dYbIqWq!__!by!!p;tX;IIdttW{Y!f!XL5;;WdbfmtXWtYqIYX;yP{;_fdXLW{LY;%yfYWtItbbdqt{{LbyId?!Wfy6f;XXWLyLq{dyLY{LqIIX,LWLY{_XXY!LYb;tXff;Y{q_b_X_tI{dqLd;LWyf;!qdfWWLyLdIbI9dt6IWIy!{WYYI_dXbL1yW;yb{!ft!;{q;fYyyytqYdqtIYf;bfIXK{IytXLL{t{{{IYd;RbWtYfbIbILdtE_{dd{!W;YtqIf{{_y__ddfLY_y;ddffftWytI{Xft_{d_fdfLWWd;{IfLI!!;b_yLWtYYY;YX_fqWfyyILVbLbtX_!PO,{W;yIIWW!!W{cbZdfWy;LIyQ!X;!XyI_d!tL;t_Y^&dftyWqyb7!!{!;_bdb!5L;qYII;W;!YtXd_#b{qWA;ydWftYdY!I{X{!_tq_Ib{LLt!;{I{f_!!yIq{bfW_td;fIfKW!eY{qfFIL!Yb;y>WWYyYYYb_Xq!f{yqLfbu7Wq;LIfXf{_y__qbXtL{!_{d{z_!qYII{fL!!y{_{b_D!tI;{IfL_!dyf_fXWM:{{;fXIfX!;yfqbbbtY{Y;;dd!fWfY!q{Xbydy!q{b{L_Wq;Id{:LW!Y{q{X_L!{I_{df!_WdYfqffWL+y{_ffIG!ybYyfW!Y{YyYd_bqLfty_LXbfb!XY!XmX{Ly{qb;dbfXt!IMI{Xy!qq;_bdXL!;?;{I;XIWWI!qWbo{VtfI;fLWYyfqyfybd!!{f;2L;M_tydyI{bd{Y_bb{,X{dt!;;d{fyYXyyqbbd!L{f;yLt>{t!d!ILL;{f_YdfLXOttq;YI;W WyY_q_XbKX{f__fW+yt_Y_IbXy!fy_b{byL_t_;bIqffW__{q;b!L_{Y;YfLCLW!Yyb_X!L_{f_Idqt)t{qYI_fbLXyfq!X{L{{Ydydt9YWYqIbfXb{It_;qIX WWqIOqyX!L_yWdYbY}qWb;{ltf!!_yfqIbq{G{{IYd_Ob!XYfI!f{!{yYbybtLYtYIIXffbyIy__qbX{d{L;tIYffYXyfqd!dLI;td_2LWy;;yXItfL!!qq_;dfL{{LY< yf{{fyVXyXW!Yt;__>t^{t_Y!II!_{L{;dWddt_YbqbIbLf!RY{_dXYtW{tdqdYNI!dYbX;X_!b{y_f+bW{WdqYq>!byL_LqLHWLt{_YZdI!YW;qXqIXf#pyLdddbLLWq;WfLL_L5;I_tLLt{Y{;{XYf;Wbytqf^ILd{f;fbWftt{Yfb_!;!{y__!bIftyfIyfYLf!y_L_qLYtIYI;IXbfXtWyqI{LLLI;W_{b_fqtIYXdLXIWWq!_tLyLt;y;LfI!fyXyfIWbd!{_Wdbd!!bWyIWXYLY!Y;__qbfvy{LqbIX9LWLY{_yXY!LYI;XbL Lt{yXIYfL{b{bqLdXLWyfYyXLXqyY_IdIbIWbtX_WIq9{yLY!I{X{!_tq_Ib{!ftW;{I{f_!!yIq{JLLLttYYIfWX!fydXdbItWYbdWfI!A;!y;qXXILdqt_!d_)ftIYqfkX;y;yLbddftztydtd_W;WWqdqWLL!!y{_{b_fqtI;{bffWW{y{q_b!LI{{ILI;!W!dq_bb bLbYf;zb{fdtYqWItfY!YyI;dbbLYYL;tdYfYWIytqbXY!W{W_Ydt6_tW_fqyLLLq_YdIfI)IybYXdWXqW{_L_I?WtqY_YYInf_!kYLXJbfty_LdYL!T;WYI?ILXXyX_ydybL{yWd;!IfX3Y;y_qy!ytdYX;_hXftWqYYq;!<!L{XbXFyWyyfYIf1Xy!dy__q!!iq{LY d{.W!qI;q_Xyyy;qYdfYxW;;yXItfL!!qq_SLyLY;yYdfb!{W;y!q_XYLY;L_Ld!Kyy_YWbI!{{q;I;IddfFt{Yd6!X;!t{Iq{?_L_tdYfdYtyW{_bXYLdtb{b;Xb!t*t{Y;qIfWY!yW_PL+NfYyIX.;XXWtYLq!!qL!{_;;dbVIW!I%ILXXyX_{dybL{yWd;!IfXDY;YLdfbt!{tb_YfW y!aYYI{X{tf{f;(btWYWdq_qXff!LYLdbdb#Xt!;YIXtt!qyy_bXYtI{I;XdL?_;;Y!bfXtW{{YqYgWLWtt;;OyfI!dyvXXXWLyt__L6#-LWXIXqbLy{Iqy;db!.fWwd;qrLfWL_{q{b;cI{Wb!dWf>Y q_bYLLLbq!;;dXuIWddtILLILX_LqLbtiYtfdXI{!{!0_IqIbdLg_X_WdtV;;yYIqdXkyX{bd{bLtIYfdqIfXkWtI!_XR_L!;fdWfWFWy{YyIIX!!b;_;ffI4b{LY!dWfyW_{fqI2{L;{I;LdbWdWqYbqW!L{{yWbLdyWLWqIYXILI!I;b_XXWRq{{ILd!F{W{Y__qXI!{Yf_Wb{+{t_Y!IIf{{L{;dWddt_YbqbIbLf!-Y{_dXYtW{t_YdY?I!dYbIYLL!tyY_YbIMttb;YdWfWWYytq_XWWftyILIqWYyI_IqIRbLXyW;qb{WLWIqWXqL_LY{1__d=LL;?YfXyWLyYI!q;bY{N{L;XSXW{yy_fqI!=Ly{d__dq{!tWYEf+Xf{;__X;dXLt{L;!FqfIW;I;XLdXt_{{bqIR>ytWYtfdXc!L{;Xtb_WIYXIdfq!qyqItqqb_y!{W;,KFWY!yqLqbW!L;{X_Idd{ttbqIqP.L!_YWdfX!cd{W_LdL!IWIydq7LWL;;{;qbIfbtbq_IdXy!byI_Ix{L{ty;qXbfb!?yWqI!qLt;L;ybYf_t_q{I{Xy!qq;_bd*lWtIdqIIf;Y;qLd=N_L{_qY)dy#WWtIdqtXILq{f_bdt{!tWYAfpXfLy_LbW!!r;tX;IIdttWW_IX{LqtI{X;;dfwbWbqYIYX;!d;f_ULyLY;yYdfb!{!{yy_qbfLy_d;!IXf{WfqWIWXyL_yLb7bytdtbIdI!WW{IyI_dbs{X{W;td;tyWIyXqLX_y;{__yLyZ{yXqYXXW;LXytqLb!{qt!ILdW!YWYyq_bX{yt{{_!p{Wq!;qWqfWtLq{c_bdX{ytqYII!WXWW_{b_L!{t;LIfaX^tWWIdqbXqyq_!YlfIMY;dY!I;f{!yqX_Io{z;YI;XI;ffWbybbYXYL;{dIfdLWLWdqYIqXt!Iy___}WLWtt;;XIfI!XyLq_!;L{Yf;!f{O{WyYqf;XbLXy!b4b{Uytqd;IYLf!Iq{b_!tL_tq;XPdPLWtyYqf!X!tyY_YbIfdtb;YXLfYWYyYqIbtLb{YIWdWftW;IyqIbdLp_X_WdtZ;;yYIqdXPyXyW_yd_LL;0;LIXWXyY_=byo;L{_qYudyeWWtIdqbXqyq_Wdd}{WtyfYIf&Xy!dy__q!!LWt dSf_WWy{_db{XLyytd_!dffj;;YdqbXtyA{;dY6Itt;yIYf!WzWyy{XXbfLd_dd{fXW;y;YWf;bX!tyL_!LqD;Wf;{dLXMYyy{dfb^{y{W_YI;e_YtY{I_X!!I__dLd;WWWdI_XbLb!b;f_kX{+d{YIWdtWqWYYI_dXb{;{__bdyMfYbq{qdLYLZ_bbL}LLLYW;td_X1WI_Yq;LXLI{fY)bLWdWb;LqqfWyL;_;cfIut;LI{X{f{{Yy;qbbtLfYI;dc!fftWytI{Lu!Ly{;XbYt{ybYtbfX;y{__d_b_WItd_LI;aW{fy_bLXW!Yt;__ddBfW_;LbIXXWL{IqWL!:t;y;tfyfLyI_fbXbf!Wtd_{MWWbW!_bqy!W{Y;Y_Yf_rqtfYydLLb!XYLqLX{hy{Y_LdbfbtLyqIWXbtY{q_bdbLLWX;WIbL_Lh;I_tLLt{Y{;{XYf;Wbytqf<ILd{f;fbWftt{Yfb_Xb!f{fqWddL{tfqIIXX;!fyb_beYLYt;;dXffX!fyyf!XLt_;+dXfftXttYWfdXb!qqqb!Q!vb_!Y;IXfI!dItq{X!y!{LI;fWWy;tyqqNXbLXqy_Ybt{ttWyqX{!qYy{dq!bfUD_;;dIbftYAY!bYLI{;_ydY*!t?tyY{fXXf!dqdbLu!+f_tYqI>fb!XIyqdXfLfyW;tb{pfy_YfIfXfWW{dq{bfWIt!qbIyWWyY_YqY+_Lq{f;ybL!bW/yqILXfLf;___dqGXYLYbIqWq!^YWqWXYU;{__WIyfdW_yqf!bXt_{!dfrWWWtWYyq_fLyT{ddYb_Lbty;fXIfI!dy2bWXy(:{Y_{d{!fWfyHItLY!Y{q;bb{{tt{;!7!f;WIyIqfd0!L{IYXdt}LW!IqqyLLLq_YdIfI6IWXYLI_W;!t;fqLX{xX{YIWdWftW;_IqIbdL(_X_Wdyf_tLImIyf_!_yb;XbfL_{{;{d_f!WIY{dfXL!{{!_YfWfqy{yXXILftf{fdLb!LYWX;_X{f{!yyqX;bbE,tW;IsqfIW;I;qY+X{y_H;yddh_Wqd!IWX7yW_;d;1L1b_!Y;IXfI!dItq;b_hC_d;tfWW;Y!I!XLLIydy!_LLqSIt;d;IYLjytqw_ybdL_tqb!d;mIWIYf_KfL!IyY_YbI7ttb;YXLfWWYytq_p{ldYYY0fbWLyLYLbWXt!_t/_IfYkqWtYII_X_{WyW_tb;WItd;fIf7W!tY{qfu_Lf{f;fbWfdt{YfbIX!tb{ybWiYWYtYq_Iqff!yYLdbbacq{L;fIf!_W_yqqXLL!L{t;YdftXtt;YIYfILdybqYXWLW{YY/d_vW{byfIWbk!{;L;;fWfdY_qbbbXbtf{(q{ddLYYW;WItf;YyyI_XbLL__;;XbLTLt{yyIYfLtIyLqLbLL{WX;YdLLb!t;f_;L{t_Y_;_XIfdtLy;IWgfLfto_tL!RYW;YdfqXfLeytX!bqCttI;_I_!WWWytq;UILItX;Ld_t;Wdybqt!BLf;YdXHdWb;d;!ILWq!Iy;X;?oWOtId-IyfdW_yqf!XWL+_V;ffyWLYtd!q;XX!I{dXtb{L!_!;Lq;!Wy;It_qbGLbtXbydqfIW!IXq2L{{__ybt {W&;X;tIWWd!byqXqCfW6tbb!I;fXWIydftXq!b{bqLd!LWtbqYIbfb!bYL_qXWLbY_YJXIftYLq{b{X{tY{;_bdtHfyIYXq;Xf!b{bdYbYg;tdqfIIf;Y;yXILXL!{ty_YbLftWqYYq;!jLd;Y;%:btLYL;LItXY!fqX_qv{LY{I;tdb!_W_yqqXLL!ttX_{bW^WybYbqXf!{{y{_;dILW_!;WI}W=WyY_q_XboX{f__IdJ!Wfy f;Xttf{;b{R_W_t_YdqffYYyy!dbbf!Wtd_{fLeLW!Yyb_X_Lq{XbdbL7tWYYffXftWYyYqIddLb{Y_WdWTY!>Y_IW)bLfyW;Hb{WLW;qWqd!_{b;b_bffO2{{YddY!WWWytq;!yLItX;Ld_t;W_YyfyX{td_tbXdtOqtYY;f.fL!XqLbyUyWftIdEIyfdW_yqf!XyLYtXbqd!WLYyqDXeLf{_qq_adf{;t_;yFyf{{Xq!XXbtLq{Y;;ehMyt_Y_IbbX!fy_q{b{L_t!;Id{LfWLY{q!XYtWtqI{IXWIyf_fqfLL!!yY;Xb_W{t;Y!I_fY!Y_LqLb!LyY_;qdbfbtLy!IWXbtY{b_bdbLLWq;WIbL_Lk;I_tLLt{Y{;{XYf;WbytqfuILXt;;fdbfbyYYYq;Xdtf{f_!d{1b;d;!d{f{W_{qqIX{!L{L_{IXQYtL_IqbfLLXyWIfdyWLWqIYXILI!I;b_XXWTq{{ILdLf!WyItq_bd+f{Ybydd>fWf;Wqtf{!f;__fbfFf{WYdd{ff{Iy!dbby{W;YIYdY!_WqYfqyfLtb{b;Xb!t)t{YyIqW;!b{Xq!LzL{ty;qu;fb!oyWqI!qLI{;b;dY!fy_qfX;L2yX{t_qbYN;;Z;yd_f_Wb{XqfX_tW{y__d_ibWyYfI_f{!{y__ybIL{YLY;XWXdy__bdbbbWftZ_{IdoYyWY{IYXY!I{t_bbYWLtt;YIYfILdybqYEWhqY{YXfI!f{fyfbLX!!YtX__f{Ayt_Y_IbbX!fy_dWbYL_t_;bIyffW__{_dFYD5;bdLfL-LyWYtI_bC!I;Y_;bIAItfyZdLfI{{y;qIbILft;_LdI/YWYYIq;Xb!Y;W;qf{fXYIqfbfXf{Ly!qYdXL_Y{;Yd_f_WbyyqfX_tW{y__d_Db!XYfI_L{Ld;Y;SwbtLYL;LXWftW_{,qIcYL;{I;IdfX,tLYIb{!t!Ly{;XbYX2yII!fWLI!!;b_yLWtYYY;YX_fqWfyyILBbLfyL_Lb{fXtY;LbIXXWLyLq{dyLY{LqbIbXx!WyIXqb;Hf{{_LIztyWI_bqffWLty{_;bI ItbqYIqfb!byfbXbdLftfdWfYo{YWYLq!Xyyt{_;qdXtdtLYtqYXfyX{f_dLdt{YXIWX;fWY;{XqtXLL!_q;Id;t;WY_aX{LX{Lqt;qd(RbWXdyItXIWLyb_d!!l_Y_YydffftWydI{XftI{t;IbL=bWdd!qdLI!t{IqLbbld_!;LX_X{Lb___X,I<};X;tXYLIWdydq;fdLd_X;{Ibt;WW;_dWfW!;ydq{ddtL{!YbIXgW!dYLq{bP{B{td9bLtYWXY{IIfY!yqdqLuWsf{_;_dI!Y!qYL_db{L!tcb;dbLLY{;WIfXfWW_yq{bfWItIYdI&W!W_YW_XXL(_{L;ydq,W!q_fqabILdyL;qdf:WWXIXId!X!fq!_qL_NvtY;bd_f;YXYWb{XL!I{I_bdfLWYY;{dLfLW{_;qYXLWIttILdLf!Wy___LLftY{y;YIXtq!/qLXY!y!YyI_;bbl0Wfd;ItLf!;q{b_1_L!t_;fdIfqYgY{bYX;!b{t_ffIZYttdtI_fb!Iyfd_sWtyYpdXItfqWYy;Xpbf!_tqdI,L/fy_y{Iy!;!_yb_ybff_Y{;{I;XIWWI!qLXIwd;bdWbL!I!YYIXqXI!f{;qLIIWYtYY;IdLf!YYWX{b{{L;{_WXbf_yWYWqtX;tI{d_fdfLWWt;{IfL_WLq!_LL!x;;y;_fb!{W{y;_IXWy!{W;lSBff!yqLXYLN{Wqy;db!+fWOd;IX5LWLY{_yXY!LYIdqdY>IWtYb_yLL{;__dLbL1tWYYffXXd!Wy_q{bt{qt_IWdt%YWYYI_dXb!YyW_WbYf4t_;WbbXDWWyWqYbtL_{WqfIy!L!qqYbIlILIYb;XbWfqt{qLI!f{!{y_;qbIL{yf;Wd{f{W_y!qIX{tLt;IWIdW_yb_bqb-fLny{;dbYWWtt;YIYfILdybqYpLLt{Y;YdIftWbYYIWXW!Y{t__bW!fWyqLqq!Y{I;I_IfbxX{WYqd{!LW!q;q{X_hq{IdydY)IWtYbXILWLq;{;XPIWfyfYfXLf!WY{Xq_F{RfYY;_dbXXWfY!I{bf!Y;L_tbYpLt_I;Iyf_!W_bbLbftbt!qbIyWWyY_YqYJ_Lq{f;ybL!bWX;LILf{LyyYqLbbDb{LYqdWfb{Yyqqbbb!LtX_Wdb!_!C_Iqt!L{{;{_{fYM;tbYtIfLI!dyf_fXWCt{{;fX_fbWfyfIWbd!{{fIIdIfdWzIXIWXt!;qy_IdXNLt_d;I_fyYy_fb;Hft!YI;Y+df!W;Y{qy!X!!{W;qLyfXybILXy!d{I_dXybd.I_t;{d!t!yIqtb_ddtY{Wb;IXBttLY!fqXVWWyWqYd;L_{W;fIf6W!dY{qf4_Ld{f;fbWfRt{YfbIX!tb{ybWlYWYtYq_Iqff!yYLdbbX!L{L_{Iy3YtL_IqffL!Ly{;XbYLLybYtbfX;y{__d_b_WItd_LI;VW{fyDIWXW!Yt;__bW!bW^;WIWfYLAy_qWbf%f{WYed{ff{Iy!dbby{W;YIYdY!_WqYfqyfLtb{XqLbLL{Wy;YdLLI!XYLqLX{#X{Y_LdbfbtLyXIWXbt_tmIIdttLY{q{I{LY!;yb_tbfWItd;fIf.W!tY{qfXILI{f;;bL<Iy{Y;IIXI!f{dqLbIWYWXq_I!!fyW_WqWv{Ly{I;!db!_WqYbqbfLL!yW_bb_E_tbYyIff_{Wy{q_byLIYYYXX_f!yfqWbWXWt{{y_Id!pby_YqIbXbWL{!qWbbWYtI;bIbBL!qYWqbw_Ldty;bdIfIy{Y{qyXqtb{y;bbWBfWXdtI;!d!f_1_tLtL!;;;Wfdf!yLyqqLXY!W{!b;dt!fYyq{qWXd!{{d_bLd2;Y!IbfWWXWtyWXdbbLq_qdLf!fq;!y;qXXILdqt_{b!{!YYq;XWXdYt{q_:bb6X_y;Ydtttyd_dqt!dL!{;_{dytXWyYbqdfL!f{yXtb{L!_!YXX;!dYq{eqyXWLt_d;yfWvtt_YIIILY!q{t_Ib_c_YW;WItf;{Iy{dbbd!W{!_YIqj_tW_f_fb)Lt{_;cLyfdW;yfI_Lb!b{<_WbI{qt_ILIw/YWyYI_XXb!Y;W_Wdt<;;yYIqXXL!_q;__by{yt!qdXY!qY;{XqtXLL!_q;XIffy;!YYb_Lf{{_;d_:W{!t;YYfsfL!XqXbLdtWft;dSIyfdW_yqf!X;!Itl_bfY%WybY.qqfL!f{fd_b_VqtXILI;!Wybq!bWXy4Z{Y_{d{!fWfyuItLY!Y{q;bb{{tWMqIf{!q{IyI_db%{X{W;td;tyWIyXqLX_y;{__yLyh!ydqYXdW;LXytqLb!{qtI;;#;!T{*y;XSbyLd{_;qL!kty_YdbfXf!!{{_bLdCtYWYXX_f_!qyXXdXLLttY;fAXffWdIdq;L!tb_YdIL;fXtt;LI!Wq!!y__;bbLIt!d7dLfXYXqY_t,fL;_g;ydd-_Wqd!IyL_!I;fq!ddLW{L;LXIfI!dyBbWX{t{t;IIIIfd!mY{qdW!L;{t;Ib{W_t_YdqffYYyybdbd+tW{W;td;tyWIydqc!X!W{t_;LyN!ybYyfW!YY!yY_;bd{q{!YddWALWL_IqIbdLz;W_Wdyf_tLI,Iyf_!_yb;XbfL_{{;{d_f!WIY{dfX!!{{{__dyQIt{qLq;LWLd__dbfbZbyfYad{XdWY_WqtXYLY{IYddbeYyLY{IYXY!I{t_bbYWWWqq{qX!I{f;f_fCLL!{YYXd_!{WyY_q_XbhX{f__fW0yt_Y_IbXy!fy_q{b{L_ty;Id{!L!;_W_dL_tbYb;bXff5t{ydIYLW!tyY_YbIfdtb;YXLftWYyYqIbtLb{Y_WdW2YWtY_IW=fLy;L;qaYWIyIYIbbXXWW{qq{oLL!{{;{d_XqWIY{ILXL!{tX_YbL!IWX;LILf{!!yYqLfb(tyfY;f{!_{_y_dIbd!Lt;_WXffktWYWIYb;!_yW_fdfLWWd;{IfL_!Iyf_dXLWbttqfI;W{y___q_#ILdyL;;bW!fWU;WIWfYL;y_qWfbLL{W;WdYXCW_YWdfbfGN{tb!dYf;WdIqqfbg!tq!_Yd;2d;qYfI!X{!bqd_bbq{q;WIbfy!yWLIy_dX!Lft=b;d_Zy;yY{bXLY{b_YddLd9!t;;{IyWX!fydXdbIt!;_dWfqt;!XYtILX!yq{I_;L;tLYIqSq!Lb!_qX_tbqLYt;diIXf{WIYYqy!dLt_t_YT;nLYd;LXlXWyt{fb;dfWbtYqffy!{!Wydq{bdLb_d;If!WbYWIXItXWyd{b_qLqtLY!qIIYWd!!y;q{by{Xtf;d3dfIyt_bbM!XLt{q_Yd;tBtLYXfXXb{t_dXyddL!tfY^4;XRWYyyqIX_9l_X;fddtdWIy!bb!LyX{t_qbYi;;*YYXYXdWbyfqfKILXt;;fdbfbyYYYq;XdtfyWdLdyLYWf;_X{X{!y{q_fby{dt!YXI{ffyWYWqyb_!L_p;YfYfdtbYfIfLI!I{d_(LXLWtyY_dLWsWLyXXXbbtt;IbyId#!Wfywf;XdLb{tb2b{WYYdILfy!{{,qiqyb{{Xtf;d+dWL!!_bq_!XLt{q_Yd;tiWfqYfL!y{Yyq_tbIL_t_IWdWftW;_Iqd!!LL_!_YV_WLttyXI{fW!W;b_bdXL!Y{;{I;XIWWI!q;LXmb;X_WD{!bWbyXI!!O!{{y_qL;abWsYWIIWq!Iy;X;L!W1tId9IyfdW_yqf!XWLB_j;ff;Wd;;yXItfL!!qqqL2L.tYY;YIqXbW{ItqLxILy;L_Ld!xy;tY_qdbf!Yqy;Xfb6fYW;WItf;YyyI_dbk{XtbI{dLWIyfIqqfb^!tq!;Xf_N!YfIWXWfW{{yyqIb!LbY_;WXIW!yL{fq;XLL;{_b;dY!XY_qffqX1Lfq;__by{yYXqdXYfWY;{XqtXLL!_q;Id;t;WY_Nb_LSyqt9_ybWxt;dYtXWf{{_y__ddfLY_y;YdtttWW_qX{L_yytd_!dff*;;y:IYXy!Iy_;9LXNftdddII!!y_It_qbDLbtXbydW!bW;qWIybe!Yy{_{ffmfWE;tXYf_{_{ddfdfj?tt;_I)ty!dy;_fX_tb{b;RdWoI;q;LXLXt{YyY_;bd{qtfYxdtt!WYyq_bX{yt{{_!L!ELyqqWXyWtLq{3_bdX{ytY;tat!X{dyYXdb!L;{{;yQXfyWbydILXfLyqt_{b!{!tLqqXdWqL:yyqWbt{d{{IWI;r_WLYIbYXqLt{I__d_WWtWYtI;LILb;b_!XWL{{{ILILf!!yyIq!!;>Xtq;LdI!fWfY!q{Xbydy{dWd;L_tL;IXYfY!;ydXqbfL!t{;brdfbWqIqq_-M{Yq!;;dX4IWddtqdfW!!yYq{dd{qtI;;e;!dLX__q{!qE1{y_Wdttdt!I;qY!;!b_fdYbqjttI;_I_!WWWytq;FIL{YbdYfd!b!byXq!XYLXqt;qdyfbtYqIIIXX!Ly_X;bYWf;_IXXfff!ZYtf!XYL;{dbqdff=ttd!ILL_!{_fbWLXLWtt;;&yf!{byyXWLYtY{YI_dqQfWy;LbbXYtf_yd{dWTdt{YdIbWd!I_!bbLW{X{t;W/dfbWqIqq_L!{{q!;;dX?IWddtI{f!Y!_ddqb{{qWe;ydWftYdybqqLb{!WSIIdYtdW!Y;I{XyyX{y_bddLLtfYyBtf{W!I!bIQqL{_qYJdyiWWtIdq_LWLX;__ddyObtIYIX{f{!yyqdbbfWft!I{I{fy!qyfqy!dL!tX;{dfWWtWYyq_fLye{bdYb!WbtbYXd!W W{y;_IXWy!tqI_dI!fWfyCItW!!Y{q;bb{{tt{;!o!fL{;_Wb{!tQqth;bIXtyWYYtftLqtd{Ybdd!3;t{YyfXXy!b{dqLbfKy_t;{d!t!yy_;q{!qN.{y_Wdttdt!I;qY!;!b_fdYbqUttI;_I_!WWWytq;rIL{YbdYfd!b!byXq!XYLXqt;qdyfbtYqIIIXX!Ly_X;bX{ttWdtd_WIyWYWqtX;yy{I;XdL>_;;Y_IyWy!{;dbtLX:ttq;YI;WjWty{_d!;LbYfd!fqWXydq{f;XXLbqy_Ybt{ttWqdXXWd!!y;q{by{X{YI{IqGIWWYbb_XdLy{b_IdIW{t{YyIqLbLf;f_tX{LY{YIWdyX}WYY{q{)fLft&_tfYQYWqybI{WtLI;I;<XLLW{WqfIfXnWtI!qYb;Ld_q;fI:mt;!YLb_X{{f_WbXbWAtt;dyI!Lb!yqWbYhYLYY_;qdffytL_bqYQf{y;{;WddA{WdYbfdXI{!_bbWLXLttWddIbfqYqq!d0EILY_d;!d;,{WyIXqfXdyd{Id!fbtW;XYtIqfY!;qmqLbX{L;yYtXffIY1yyqdX_Lqq!_ydYfX;qYfXL!ty!_*df4f{qt=Yf?;f_WyIyq{ddtY;bb;IXrttLY!fqXY{L{ddYbq:ttI;_I_!WWWytq;?ILbYbY*fWBy!xYYI{X{tf{f;AbtWYtYYqqbf{YtyIdIdXtL{L;!dyttW_yd_fXYyytXIbdfWWtWYtI;Wy!I{X_Lb_{;t_;yPy!d{Xy_XXbtLq{Y;;OJeLWXIXqbL{tf;jb%dy}dt_Yq !fL{_qWb;D_L_tdYfdYtyWdI!qL!!!Y__dLbL/!tydtI_XdLfyYXybYLt_tIdqq!{WLIy_dX!LftKb;ddfbWtI?I{LY{q_Wbyx{tL;c;yI{WX!fydXdbI%!YbdL&XftWqYYq;!jLY;Y;dbbSftfqIIXX;!fyb_bHYLYt;;dXfgWyLyyIYbf!_;{_;d!>_tYYYXLfL!!yyd_b_DdWf;Y6yXb{by!IWX{!{;L_Ld!4y;tY_qqXXydyL_!by{ttWqIIYWLy{qlq{byLq_;;tXff;Y{q_b_X_tI{dqLd;LWyfY{XLfWWY{;q_bdLft{_LXIfXtLyYIW!!Lt_y_t6yfbYIqfXXXfWW{dq{LWtbt!qbIyWWyY_YqYF_Lq{f;ybL!bWX;LILf{LyyYqLbbeb{LYqdWfb{Yyqqbbb!LtX_Wdb!_!._Iqt!L{{;{_{fY6;tbYtIfLI!dyf_fXW4t{{;fdIfIWfy;ILXIt{{Y_Id;sby_Y_qdbf!Yqy_dbf*f{WYtd{ff{_yfqfbf!Wtd_{df!IWIydqU!X!W{y;_bLt*tLYXfXXb{t_Ib{Tf{qW1;ydWftYdytqIbqLf{b;tL!CWW?I0qfL;{b_YdXLd)!t;;{IyWXWtyWXdbtLItyYfIdfq;!Y;IIXI!ftrqLbI*bWX;!fgf;!!y_qYbYtL{L;!dy!_W!y_qfXILq_P;;B;ffYdybX5XWyt{qb;bLtdtYI<dW!{WyY_q_Xb}X{f__fWc_t_Y_IbXy!fy_d{ddWYWrIbfL!LWL_WqtX_F%{IIYd;+IWIYf_KfL!I;{_IbIRItfY;dLfI{Y{Xd_b!tf;WIWdW!{WyYIq!Xbt_{WIIk!WL!fY;ILX;!_q;_YfXt_YfdqIEXfY;y_qy!ytdYd;_GXftWqYYq;!9!L{XbX(YWytLdyqdf!!f{&X;b_Ly_yIbqd!YWWI;_XXt!L{!bqIfWLWdqYIYXqLby{XtdIWItXILdLf!WyItq_bd>f{YbydYgtYYqqbdXYyd{!_;b{>y;XYyIbXdWLyf_y!tL{{!b!dLX;yWq_ftbqL3{b;XLyfXybYfXWfyL-yYq{b{WftfY*dt!Y!b___dxf9ft3;td_fj;yydq;bf!_;b_bd%nWtIdqI{!L!t_YqYb;Ld_q;fImAt;!YYqqbb!{qt_{b!{!tLqqXqWqL5yyqWbt{dtb;qnqW!L _IqY!dL!{;_{dytXt!YWqqWy!I;bb!g;tdYIIIoyfd!IItq{X!y!{LY;fWWy;tyqqpXbLXqy_Wfb:!{WY_d{!LWt{Xq{XWLWYb;bIXc!y{yqbYbI!btaqLdLLWtbq_IdXy!byI_Is{L{ty;qXbfb!%yWqI!qLt;L;{bYfqtIyIIbfY{WyW_tb;{ytIYXILf_Y;y_qy!yL{YdIfQXftWqYYq;!pL;{f;XbWLLW;dyIYftYtyW;qQ{t{_yYdd!ff!#I;qXfLL_yWIbdtWWtyy}IYf{!{;f_fd)LtYY;LX_WWy;____bq.X{W;q5KfyW!y_IWLY!Y{q;bb{{ttq;bI{ff{_{ldfbf)Q{tb!dYf;WdIqqfbZ!tq!_Lf_z{YfIWfXfW!ty;Xyb!WbtydWfY!YWY__qqXfLyyLIbdf!ftL;{qyfY!qyb_fbfW_td;fdL.Ly}yXILXW{{;__YA{fqy{yXXILftf{fdLb!LYWX;_X{fyW_y_qbdXLf{__{dyF_W_YbqyXf!_yWIbd%LWtW;YItf_WW;f_yuLeq;YIIXIfI{byXIWbq!{;L_!dLtqW!Y_qtbbLq{;bVb{wytqqbqbXX!!yY_X!tTqtyYbdY!IWIyXqLX_y;{y;bbW.fWXdtqX!dLb_l__LtzY;;YdfdfWywyIXtXYt_{q_bdbLLW!;WIbLY!byb_bXLRq{W;bX_XT{IytXLL{t{{{IYd;SbWtYfbIXd!f{fqWdtL{tfq_Ifff!fYW_dX{LfYI;!XbfyYWqYbYXYt_{q_fdyLLybYYbf!y{{{W_db{KdtbddII!!ybqWXXXtLW_d;bdqtqyO_(qbW!L;{X_Idd{tt{;!Q!!I{qy{Xqd,Ly{W;tRdfbWqIqXLdhtI{Ybdd!7;t{YyfXXI{{{udIbIlXtL;_r;Xf{fY!b{X{Ly{qb;dbfGWWYIfqXI!;_IdXfiEI;4YyIdf_!qI!_qXL2m{{_WIqt;W_YyfyX{Gd;YdbL;fXtt;LI!Wq!t_LqWAYLqtt;Id_f_yWYWqtX;tItIIbIoWWWWYtq;Xb!tqq;idduWtbILdLft!YyfXXbWt{t;IIdIfdWZIXIWXt!;qy_IdXZLt_d;I_fyYyy{dX.X{Xtt;qdYf;YhYLqX!X{yttIfdItiWyYdI_XqY!yy_YdX{qtfILfy!dyG_fbf!qL+tfb;d_vy;yY{_dLY{qq;;XbtLLt!dqI{!L!;YY_YX_t{{;;!d_TYWYqLILX!!y;_;dfIff{LYyd{XbWYYLdbbT0q{L;fIf!_W_yqqXLL!L{t;YdftXWyq{q_fIL?yf_YXLLIYY;YI;fdYqyfq!b{Lb_d;bdqtqW__1XWW!L;{X_Idd{tWd;WI!fYW{{dXqbIL;_;;YqX!_y_Iq_0Xy!W{tbdb!L{WI;YXLXy{Yyq_tbIL_t_IWdWftW;_Iq{Vb{Y;dIbIbfXW!YYqXWtLq{y;bbYWItIYXILf_Y;yXILbY!WYb;!fW*WWtY;fyXILd{CbXbW&tt;dyI{Lb!_qWbY!!LYt;;dEqfyyLyqXYLItI{IIbdXLWWq;{XLfW{Wy{q_dqLItX_LdWzW{bySIWX{!{_t_!b{DYY_qbII!_LX;__!.ftWYW;WX{fyWIy!qbp_Lq{b;bbLf!tWYbI_Xq!b{bqLdqLWtb;YXLftWYyYqIb;Lb{YIWIq!{!XqIbf4fLf;L_!bYfXt_q{IyX{yX{y_bd;QLWXYdKtf_!qyXbLXLL!{ybtd_fqWXIdILXtLY{fbXdfCd;dYIX!LbyW_bdf!!M;tX;IIdttW{Y!f!LI{t;<IXfYjW;;yXItfL!!qq_Ib;{;;LIqf{!!!fIt_qbhLbtXbydd,fWf;Wqtf{!f;__bbf}f{WYdd{ff{IyI_XbLL__;;XbLJLt{yyIYfLtItYYffIKIWdYlfXfW!y{_qLLnNXt{;IdYfyYdytb{XtL{tdb;dY!fYyItXtWt!q{_X!bW#A;NYfX;!LyyI!_;bXLItdbtd{l!;!qIbqLWLfqt;qdQHbWXdyIYftYtyWdIi{tq_yYdd!ff!%I;qX!t!Ly{;ybYt!tW;Yquf_yY;f_ycLAq;YIIXIfI{byXIWbq!{;L_LdtfYWfIXItfY!YyI;dbbLYYL;tdYfYWIytqbXY!W{W_Ydt9_tW_fqyLLLq_YdIfIhIybYXdWXqW{_LqLb!Ly_t;_IdXfWYIyqdXfLfyW;tb{Ffy_YbIfXfWW{dq{bfWIt!qbIyWWyY_YqYF_Lq{f;ybL!bWbyXI!!p!{{;;IbW{!tWYQfG!{{;_L_b!!P;tX;IIdttW{Y!f!Lyt;{{bqI^KytWYtfdf!y;y{q_dqLI;y;YdIftWbqIbWbqt{tXdIff!fWfqLI!fYLXy_d{b{=;WI;W(!Xq{_yIqfd7!L{t_YIqu_yWYyI_bd!I_q;dPX9dYXY!fW!YyyyYqIbtLb;Id{dWftW;IyqIbXLL{_b;d_uy;yqdbbLY!Wq;;XbtLLt!dqIUWyWWYY_;X_{t{{__d!+IY_qLq;LWLd__dbfbjbyfYud{XdWY_WqWby^_{LdedyWdW_Yb_XXf{q{I_fd;LLYfqYqXL_!!_fbW^WLWY{;ydIf!Wb__q_bqLX_d_Ld!7y;tY_qqXXydyL_!by{tt_YqIXWdWLyt_Ybf{Xtf;dudfI!!_bXWLb{Lq!;;dX3IWddtIqfb!bYL_!XWLbYY;qdbfbtLyqIWXb!_{q_bdbLLWX;WIbfY{WyW_yd_LL;+YXI{fIWYyyXdb!tW{{__IqRIyYy}qYXb!_{;bXb!W{t;;Iqdfb!;{fq{XL4#_y;;XbfKtWytXYLq!_;{_LdXtyWQqtXd!bLdy!_fdz{;t_;yfXfq{dyBIWbt{Y;I__3YfyWdY_qqW!LX;__IbfJ;{LqbIbXs!WyIXqb1!WttdYf_&_yWYtb_X_Lq{XbdbLNtWYYfI{f!yqyydqbdLfWHdWfY}{YWy!q;X{Ly_X;qf{/YtIYtIbL_!_{d;fbY{ytd;fqEWWy{Y{dfbit{{{;ydqt;WbyXI!!7!{{y_qL;lbWX;!f4f{!;{IqW!!LWtQdPf_Wty{_db{XLyytd_!dff0;;Y_IyWy{f__btS!Tb_!Y;IXfI!dItq{X!y!{LI;ffW_YtIXqtXq!Y{;bvbtr{Wdd;ItLfy{_YbXmft;_;;XIbtyWYYtftLb{Y_LIKdItTWyYdI_XqY!y;_YL,B;tfYqIWXR!XIyqIbdL);W_yI0QYt{Y{bfXfLTytdYb;LItI;fqQ9LWI_{X_X!!{{{__d!,It{qLItbX!{yW_Wfb(bWX;!X{f{!;{IqW!!L;{I;IdfXetLYIb{!_!!y{_{b_B!tI;{XLfL!!yyXtb_4dWf;YMyfYWtItbbLY{!YX;Ig.fyWdY_qqW!LN{Y_bb_H;;XYyfyXbyqyWbXbL{!{YdydLWq!I_fq0fW!WyY;;b_LWtfYfdWXdW{yfd_bdLftf_WI<:{Wf_Iq!abLy_WdYfY<Yy_YqIfXyWL;b_XXLLL{{YydY*L{IyfILXL!{tX_YbL!bWt_fq;!{{_;___fIEd{LY;dWLf!EYWqWXYw;{__WXbfktWYWIYb<!_yW_fdfLWWe;{IfLI!!;b_yLWtYYY;YX_fqWfyyILGbLYYfdyf{fWWdY{qdXbyd{Id!GbtW;X;tIWWd!byqXqb_t!;{b!I;fXWIydftX{!!q!dIfqWWWfdtqqXA!b{XXybYLt_t;WXd!GYdy!q;X{Ly_X;_f{f;yIYIqXXL!_q;_{ff.qY{;{IyfqY;yb_BbWLI_q;!fL9WyYYYq;Xdyq{f_!d{mb;dYbIqWq!_;cdIsb{dt!;;d{fyYXyfqd!dLI;!d{LtfqWpYbqXWy!{;bbYgdWbtbY5IWfIYqycXyXY{yt_dbf{c{WyYqf;XbL&{W_ILqMIt;d;IYLXy{qV_ybdL_tqb!Iq+L!(Y{IWbqy;{__yLyr{yXqTfXXt!qyY_;LHeYYYYddbf{Wf_IqXb;Lf{b;bfY2YW;YdbffW{L{yqYdbL_Y{Y{IyXq!fyyXdb!/Xt{;ffW0WWyy_IL!nLY;Y;dbb-{tfqIIIXd!rqXqWbtL;_y;IIdfJYXybb{XL{I;fbqdffhttd!qXL_!!_fbWHWLWY{;ydIf!Wb__qWnI{!;LYfd;uLW;Y_f;XYtX__dfLqF^Wfd;I_fyYy_XddcYLW_;YXdtFLW!IqqIX;y;_!I*dItGWyYdI_XqY!yW_nLzNfWyILfyt!!;yXqIbdyttfIIIXWLtLYtqYXfyX{Id{d-WItIYdIDWXWWyy__XL{.t;IYd_!bWbyXI!!e!{{;;IbW{!tWYrf%!y{y_L_b!!V;tX;IIdttW{Y!f!XLt_;WdyLtfqWsYbqXWy!f;b_!XW6_{{ILdLft!YyfXXb{t{tq_IdWTby_Y_qqXXydyL_tdYFf;XYfIdWdy{_t_f!tQqtJ;bIXty!XY{qtX_!YtXbddb(q;qY_bH!WY!{;_XbIJd_t;WXIW{yq_IqXb;Lf{b;bfY)YW;YdbfX,yyyYbyd_tbY{Y{IyXq!fyyXdb!*Xt{;ffW6WWyy_IL!+!y_d_b(dff;WqIIIXd!7qXqWbtL;_y;IIdfOYXybb{XL{I;fbqdffAttd!qXL_!!_fbW0WLWY{;ydIf!Wb____oILbyL;!bW)yt_y_IIL{!;yI;IbbtdWXI6IX!c!Lq{b_L;L_{b;ydfWbYYydbYbU{b_LdLbLWWtt;_qTfI{Yy;qIbILfWS_LdI.YWYYIqtXb!Y;L_tbYoYtIY;IbfY{WyW_yd_LL;*;LIXWyWtYYqYXIZd{b_Yql!IWb;LqXfWyLt?_ybWJt;dY;XWXdy__bdbbb54tW;IBqfyyLYWIYb9!_;{_{dy-qybYbqXf!ycy{_ybq{;tbY2IWfIYqyIq;!;LYYid{fJWW;tyqqAXbLXqy_Ybt{ttWyqX{!Iyy_XXqd0Ly{W;tUdftWIyqqfXbLtq!_WdAtPY_ItX;bq{{yLXyddL!tfYFc;:LtLYLI{bX!YyLIIdXLLtL;{qyfYWL;b_.dqLLtfYfX_f_!qyXbLbqLL{Y_Wd!t;Wt_fILf{LyyYdWdd<Wt_;{ItWqLa_LqtXYLY{I;tdbVYyWYtIYbX{I;f_bfYfqybYXdLX;WW;b;sXWLW{Y;td_)W{f{f_AbtL_t=byIdf;!fY_bbXbLZ{W_ILqp;Wf;{dLXCYy{ddbbf!Wtt_{fLfqWLYYIWX!y;{tIfb!L{t{;_I!fIW{_Lq!X{uy;_IbdI!{!X_IqdXfs(yLIIdtLLtL;{I!fYWL;b_bdXL!;h;{I;XIWWI!qWb}{/tfYyfLWYY!qYfybd!!{f;mL;fAtYYyIIf_L,qX_fbd{dtIY!XbWWyXqLf!b;LX{I;dLt^!W_YfIIXqyR{ydYb_LbWX;fXIft!IYLqbbdy!{tI_ddEf!RIWXyf{{L{q_LbYLWt!d;IdLfW!Y{_yXY{WtFIYd;)I!dYbbYX;tb{__ySX?;ydItf{Xt!qyY_;L,LLtXdyd!!y{fY!I{by{_;b_I*_f;WXYIqdWtLk;I_bXL:q{WqfIk.W!tqYb_X_tW{tI_d_fqWXIdILXtLY{f_{b!tqtyq;XWfyW_{qbbLLLf;bYdd!ff!sI;qtHf!Ly{;XbYWWtt;Yq;!I{bybdYb;WbtbYXd!WmW;y!q_XYLY;L_Ld!Myy_Y!q_Xf!I{qbRddWYt_;bqXffW!Y{_dXYtL{t_YIXp_Y;yqXdXq{d{tbL3{ttt{;_I!fIy_qW_Lb!#ytI;!i;XX!qyLqIufLf{!;{dbtdWqYLIYfW!!q;_tffLL{{YydYfqWbytqfM_Ld{f;ybLWcW!ItI!!tLd__dbjd?b{LYqdWWLyIy__qbX{d{L;!dyttW_yqqX!d!L{!_yLto_WqYXfdfL!!yyXtb_4dWf;Y yfYWtItbILtty{LbyIdH!Wfy)f;X_!yqydI#_W;tWd;qXftWLy!XqbIL;_;;YXJ!_yqqqftbqLO{b;XLyxYttdtX_!W{t;f_ILO4ytd;_Iqt!WWyGX-bft;;LdWfftdW!Y;I{XyyX{f_dLd^IY!I{f!WX!tyqqYb;{DtX;{dICYWyIdq,LW!{y_;qbIWYWMYYIbf_!;qX_d-{+LW_I{dtf{!dI;qbnf{{_tbYdYtXttYWfdXq!LyYqWb!{;tbqfI_G{W{YYbWX!LWtqbyd!!bYtI!f{Xbydy!_LLqE;Wf;{dLXFYyyIdbbf!Wtq_{fLfqWLYYIWX!y;tXIfbLL{Y_;YXWXd!Wy_q{bt{qtyILdWxYyqY_b{XLLX_X;tf{!ft!I?I_Xy!qq;_tfXW_tqdqq+fyWWytXdbq!{td_YfLfttYyXI_L{!{y_dbbIW{WGqIIIXd!^_WqWbtL;YI;IIdf4yWYWqyb_!L_i_yb_=_tbyXIff_W{yyq_b_Lbty;fd_AW{byJIWXW!Y{t__bW!fWfy?ItW!!Y{q;bb{{tt{;!m!!Yy!_t_f!t2qtz;bIXtyWtyIILXbLdq!;E+qF;YXY_XWf!!W{qXybbWb;td!fYt!W;yYX(XLLX_X_{It!fY{IOqyXd!_{qX!d=W_tI;fq=NL{b{fdfbq{{tLdYfb!bWdybqt!S!{;Y_!vdff;d;!ILWq!d_L_XXYLY;_;tdb!_WqYbqbXft_{;Ifdff.ttqYqXL_!!_fbWUWLWY{;ydIf!Wb__q_bdsf{Ybydt!bWf;Wqtf{{L{IdWbyL_t!;IXYfy!Y{XXqbftLtddYfIWq!bIqq,bfy;t,dXIffy{N_gqIfW!X;tbXb{tXtS_WdWM{YWYLq!Xyt_{_;qdXtdtLY!IyWt!_{d;fbY{ytd;fIfjW!tY{qf&_!L_!YqbWjWtYyrI_fW{X{y_{ddtyt_IbX{f{!yyqX;bbTX{!dgd{f;!IYWf!XWLP_-;ff;W_yPd!q;XX!I{dXtb{L!_!IYfL!t{by_XXbtLq{Y;;)Rf;WfyXIWfLL;qy_Ybt{ttWyqX{!Y{fqN_ybdL_tqb!IjfYWbY_q;!X!Y_y;_pqobYXY_f!Xyyy{dbqbqWft;Yfd{wL!2Iyq!jb{t;W;LdqHWWqYIfqXytM_IbLLdL!tLdqIIf;Y;ytd?LW{:ty;dd_fq;!YWq:!%{_;y;hL;fXtt;LI!WqWW_L_tkY&_Y_;tXf6LyLyObYXYLqtb_{LtH{t!d!qXL;{W_bbLLX0ttq;YI;W)!;yf_XXW!Lt;bydYRt;tySbq!Lyd{!_;b{%y;XYyX{fLWI{bqbu_Ldty;bdIfIy{Y{qyXqtb{YIfbLW{W{YyqqXf!yqd_!dX,{tfIWdWfy!_YLXRbftY{_IbdbfXt!I5I{Xy!qq;_bd,:WtIdqIIf;Y;ytd0LL{vty;dd_fq;!YWq !x{q;;dLdq{!W;YXIIXdYty;__dr{d{LIWf_!XY!qWbf!d!!{LbqdI?;;;qfbxX;yh{y_db_Bq_!;yX_fdWfy!ILmbLdtb;t:HZ{yYqbXbb?{U{Iq{bYLYtqY_P!fy{_yqbdLyLq{b;bdf!IWIydq1LW!ytc_Yb{v{yfYfq/ft{Y{dd_b{Lf{W_LXbf.!qYLqfbft_{_;qdXWLtLYtqYXfyXy!d{b;LIWX;bX_f;!_{=XdXLtW;_d_IdWdWY;LIWfW!y{{bXb!W{tyI;f!fyW_y_qIBYLYt;;dXfff!cYtf!XYLqtb_{Lt={t!d!qXb;{W_YXtdq<5tbYXkyXXW{ytq_XY^X_d;bdqtqyX_3qqW!L;{X_Idd{ttq;bI!ff{_yqdfX!5d{W_LdL!IWIydqhLWLq;{dfJtW{W{YyqqXf!yqd_!dXz{tfIWdWfy!_YLX^Xy!_tX_If{SyyIYIqdX(yXyW_tb;{ytIYdI2WX!q_{_XLItf_q;fI<:t;!YqqtXI!_{_dWbW6tt;qIItXIWLyb_d!!LYY_;IdfXVtL_bqybb!W{f;XLtfPyIYXdLfLWW;f_Xdf0y_!;YX_fIyfqWX!b{y!{;;Yc6f;YyyY_X:;t;{W_Iby!d;yYqfyf;WIyIqbLIL_tq;XfLfLW!yyqIX!y;tX;qdL7IyfYfI!X{!bqd_qbLLY{W;!^;Xfy/Y{Xtbq{;{WddIFWCtWItItL_!!{__fbI9q;7YdXY!X{b{IqtbbLt{{btIg!qY{qIfyXdLIqt_{b!{!WXqqXbWqLZyyqWbt{dtb;qKqWW{3yqf!b;LX{I;dLtfIyIyXXLf{{W{Xd_dXWItqILdLft!YyfXXbfLd_d;;f!!bYYqIf;bX!tyL_!Lqj!t_Y;IbfI!!q#qLbX{XtqItfIty!dY!qfb y;tgIfdIL{t_;YXWfyLiyYq{b{WftfYmdt!YWL__qI*fZft/;td_f1;yydq;bf!_;b_bd>RWtIdqI_!LWW_YqYb;Ld_q;fIG3t;!YYqqbb!{qt_{b!{!WXqqXIWqLhyyqWbt{dtb;qNqWty!_Iqt!dL!{;_{dytXt!YWqqWy!I;bbWh;tdYbI_.yfd!IItq{X!y!;_Iqd!tq!UYyIWXtyd{FdWbyL_Wd;IXYfy!Y{XXqbftL;YdYIqWqW{YfqtfL!t{WbddnWWttIyX^ftWYyYq_u{L{ty;qXbfj!qYLqfbft_{_;qdXWLtWqWqff_LIyIdYbqVttI;_I_!WWWytq;6ILItX;Ld_t;Wd_fI!f{L;yYdWb!>WWqdyIILbyWqW_yLyLL{IY:dbf !fI;qd#fL/_!dddBLWtW;{XLfL!!yyd_b_zqtXdddLft!YyfXXbfLd_d;;I!!bYLIXqtXq!Y{;b#d;3fWX;WdLX;YyyYqt!tt;Yq;tZdf!W;Y{qy!X!tyY__b_WWttq_IdXy!byI_I%{L{ty;qXbft{fq_bXBf/ft*;td_fi;yydq;bf!_;b_bdzuWtIdqIKKWW{Y{dfbNt{{{;ydqt;WbyXI!!K!{{y_qL;*tyfY;f{!_Yty__qbX{d{L;!dyttW_yd_fXYyy{Y_tLtW_yfqtILWyLdy!_fdc{;tf_LdLu{!XYYILSILXyL_Lb{fytY;LbbXbLN{W_ILqlIt;d;IYbX{__Ibt!t&qt-;bIXty!XY{qtX_!YtXbddb0q;qqXXXbq{{yLXyddL!tfYl#;fy!bYWqfbXyt{Wddd{WctYItI;!;L_;b_ddbot;mY;XY!Xyd_bXdX!LL_q;Id;t;y,_=qt!9Ly{d__dq{!tWYVf0!y{;_L_y!!n;tX;IIdttW{Y!f!bqt;;bbqI<jytWYtfdXD!L{;Xtb!WIYXIYfq!;yqItqqb_y!{W;}m+W{!yqLqyW!L;{X_Idd{ttWqIIbeL!!YWqyX_LW{II{d;mIW{YbXdbX{*{XdodIt{Y_I;qI!fy_{Xd_b!tf;WIWdW!{WyYIq!Xbt_{d;ydbUIWIq{I{Xy!q;b_XXLLL{{YydY^Ly&q_bLXt?X{{_WdW!bWbyXI!L{!{{;;IbW{!tLq_IIffL^YLqtXYLL{_IWdyc_WWYIXqbd{X{ddXd_tWYYIyq_!byY{ddYdhtb;LILdL!WWtY__VXItY{Y;;ddtqWfY!q{Xbyd{IdWb{L_Wq;IdW!0Wt_W_ILdLq{b;YdfWX!(I!qz!!Lb_YdIVqeItfY;dL!fy_qW_WjWL;;_;WfIWLYdyLbWLqt_{;;_IGtdtLqWqf!;LIq;_Xdb{yWIqbqfWWyY_Yq;XILI{bIYdfjb!bYfbIXILd{=dWdqW{WXIIXfLf!f_Lq!XY2X{_I{d{fyWqI;qbb4LW{IbqdIC;;;yrbXL_{fqq;9byLWttddIbfqybqLb!DIE>_d;!d; {WyIXqyXbLdyL_fdy{tt{;!.!XqL;_Wb_!tmqtR;bIXtyWdYfqffWLty{_ff_gftfYfdWXdW{yfdIb!WbtydWfY!YWY__qqXfLyyLIbdxfqtLYfqfL_!_{q_XGLvIYW;{d_XqWI_Y_fj_Ld{f;fbWfdt{YfbIXd!f{_bWEYL{yfY_X{fyW_yWqIr{Sf{I;IdffdtLYIbYbXt_{!df=WWWtWq{IyfI!!ybd_d_wqWX;WIqWg!yy!__XWtY{Y;qIb){;tYWbIXbWL{!qWffgYYL;tdYfYWIytqbXYtW{t_YdLWIyfYbbYXLtb{XqLdILWybYYdWfWWYytq_XWWftyILIqWYyI_IqIzbLXyW;qb{WLtLY!IyWt!_{d;fbY{ytd;fIfzW!tY{qfl_Lb{f;fbWfdt{YfbIX!tb{ybWCYWYtYq_Iqff!yYLdbbbNX{!dzd{fyWqI;qbbX!!_3_;d!v_tYYYXLfL!!yyd_b!B_tf;IIqWO!;q;_ILd!L;k;_+tfIY;YWXdbb{L{IdWSqW_WYY3I_X(WLq/_f%y{L;Yb!d;fYYaYLqX!X{{;yIfdIt#WyYdI_XqY!yW_ LsEfY;ILftt!!;yXqIbdyt{{_!L!Wd!;qWqfWtLq{E_bdX{ytqYII!WXWW_{b;LW{t;Ld!5XltWWIdqbXqyq{_d!:t{!W;YXIIXdYtyLdIdC!L{{_WXfM!!dYWILXLtI{I;ddwWWW_q{qqfILbybd_bdJytb;III!{W{yyqqobLbt+;WdItqWYqLqyfY!Iy_d{b{sytqd;IbX)!WyIXqbIL;_;IXX*!_W{Iq_.Xy!W{tbdd?FLW;dtI_LIyL_qbq<Ity_t;qI_t!WWyGX?L{.y;L;bL!f;WXYIqdWt!W;Ib{3qWItXY;Iffb!b_YqYb;LdYf;D,yf_YyyfXbL{!;{!__bYzYYL;LI!fy{_y__ddfLY_y;{XbWYyd_bqbbX!!_E_{dyAq;;YbqnXW!Iqq_Ib;{;tYqgX_!<Yq{wqyXWLt_d;tfW {y_Y_qdbf!Yqy_Ybt{ttWqqf{!IYy{dq!bfv-_;;dIbftYjY{bYLI{!_ydYfft6tyY{fXXf!dqd_Ijtt;_tYqI0fb!XIy_b:boP;W_yIu<Yt{Y{bfXfLuytdYbIW_ttqfd!XdWWYLqLmILItd;*fWVWWyy_IL!sLY;Y;qfbpbWX;!f*f{!yyqX;bboX{!dDIf!YWWqbXL!d!L{!_yLtf.yIYtfL!{{{y{dYb;Lbtt;fXIXI{byfIWbt!{{;_III<byYYqIbbb!f_X;ML!T6;!YWfY!IyqyIqfb;!L;fd_IX!_W!qfXWLW!W;{_ybIA!tbq_Iqfb!bYL_!XWLb{_;_dbfyWfY_bWXy!_{__bdqDft_q{qdLYLF_bbLxLLLYW;td_X%WI_Yq;XILI{fY bLHItYYYIIXt!byYdLbtLYtY;II;fbWY_W_q({}X;IIfXfffyLY!IYbX!_;{_yb_3_tbyXIff_{WyYq_b_Lbty;fd_!{!d_Y_?Lb{L;L_LfWStt_y<IILY!;yI_Ibff^{L;IX{f;WIyIqfb;!L{I_YdYvIW;YbIYLWLq;{;XQIWfyfYfXLf!WY{Xq_n{&fYYIXXbXIWtybqtX{yt{WIq%{WI;yYdqIWt!{y!X!bLW;YXdqqAfyWWytXdbbLq_qIff!!IWYIdq!X;!{{ybXdfMd;dYIq!Lb{gqX_tbqLYt;d1I;ff!XYWILb;yy{Y_tLtpWyqqbfdX!!;y{_yLX+bY{Ifft!{W;y!q_XYLY;L_Ld!iyy_YqXBXW{ {_bYffffWoYtI_XhYy{d_;dfL_Yb;bI>fWWIIqq_LL{I;%dLbLA!tydtI_XdLfyYXybYLt_t;Wqq!{yfq{XObyLd{_;qL!ByWYyXfqXf{L_td_ZoWfYIdqIpXfY;y_qy!ytbWdIYdWt;!XYtILX!yq{{dLdyLYW_;_X{f;!!y_qYbYtL{L;!dy!_WL_I_.fL!{yWIfb!fdtW;LILLI!I{d_c2WLWtyY_dLWw!I_Y_dXbBf{fIIdIfdWjIXIWXt!;qy_IdX?Lt_d;I_fyYy_Hdd=YLW_;YXdtELW!Iqq!LL!W;Y_Ydqfbt{dtI{f!y{__;;/W/f_tYqIufb!XIy_XX{Lt{__YIXtdWbYqfqX_{!_yX!d;sXtIYd tXI{I{XbLXtuX{{_WdW!bWbyXI!L{!_;Y_!fbfbWXY!IYXXYt{q_ydbLYYI;IIXfLW_I;_f5fL!;{_{dymq;;YbqXf!y)y{_ybq{;tYqfIIW{y_Itq_bqLX_d;Ld!fyWIY!f;bXLq{L_Iffvft!Y{IbWd!qyLqYXWL!_;YVf&fWYtyIX;Xb{d{{d%dIttW{q_IWLIy!_L;fb;LLt;;_h;fY{Xq_bf!qL}tfb;d_9y;yqbbXLY!Wq;;XbtLLt!dqIIf;Y;yYdQp_td_qY<dygWWtIdqbXqyq_tYJfIrY;dY!I;f{!yqXq!bWTq_y;IXb!2yIqdb_Lqyy{d;ILt+{t!d!ILLq{dqq;AbyLWttddd{!W!;Y__fXItY{q;tdI<_W_qWIWXt!;;I_WfbR!{WY{d{!LWt{Xq{XWLWYb;bIXH!y{Y{q;bI!Wq!_If_fXtfY{dLLb!b{Xq!LRL{t;YIdWt!WWycXaLyt;;L;bL!f;WXYIqdWt!;{_;vLdLLYWI_f!W!yW_XXdX!LL_q;Id;t;yb{Xb_X{yqt}_ybW/t;dYIXW!by!_Wqyd}LY{{;{Xfff!hYtbYX;{X{WdXbWt{ybY?qqfL!f{fd_b_BqtXILdLft!YyfXXbbt{;fdtf{o{WyYqf;XbLXy!bVb{g;WI;W:!fW!QqE_fV;tL;;b!I;fXWIydftbdtI{bdLbLTtWYYffXXf!dqd_I#!tb;WdXItfqWYy;XNXtL{tdb;db!fYWqqXXLf{Yq;_Xdb{ytY;tRtfW{d_zXdb!L;{{;yEXf{y{y;bIXXL;{f_bdbWYtYY;IdLf!{_L_d1YLqtt;Id_f_yWYWqtX;tI{I;XdLV_;;yfbfX!{{y{_ybq{;tbYXd!W:W{yyqq!;LYYf;I%{W_;tY_qqXXyd{;dWddt_YbqbIbLf!3Y{_dXYtWtWI{dYJI!dYbqcfWLWy{Ifb!L{W{;YfyX;yqy;bqdItf;Wd!dWKY!SY_XY!LLy;L;qAYWIyIYIbbXXWW{qq{2LL!{{;{d_XqWIY{ILXL!{tX_YbL!IWX;LILf{!!yYqLfbPtyfY;f{!_{_y_dIbd!Lt;_WXff0tWYWIYb;!_yW_fdfLWWd;{IfL_!dyf_fXW&:{{;fXIf!{byyXWLYtY{YI_dq}fWy;LbbXXWLyLq{dyLY{LqIIf LWLY{_XXY!LYb;tXff;Y{q_b_X_tI{dqLd;LWyfYrdWfWWY{;q_XWWbtE_WdWoY!HY_IWXfLfyW;Ab{afyIY!bbXyyW_YdYbYW_tq;fIy7L{byYdfLyt{tW;dd{fdWbIdqIL!{b_WbXbt?W;dYbIqWq!_;/by!!H;tX;IIdttW{Y!f!LYtq;W;fLtfqW=YbqXWy!YytXtbWfqY{I;>yXdW!yf_U!;99{Y;ydIQ_!NIXqfXdyd{Id!x{{tWqYDIbXXYyy{dbLYtdYb;)IqjLWfyfb_X_Lq{XdLb!t;WbI;Ib!f{Y{Y_;ddLLt;dXItXK!YYLb{X{L;tI_WL!+Ly_IWX;L_!_{q_XLdLLttYYIfWX!fydXdbI7!YbdYfbt;!XYtILX!yq{X;fdy{!tYq_Xd!Ly;_YbW!!L;tYd4dLfXYXq{_tufLI_r;yddg_Wqd!qfL_LXyf_LXLWbtuYqdLff!f__q_bqLX;L_{fWf;t_yfIILY!q{t_Ib_R_YW;WItf;{IyI_XbLL__;;{Xfftt{yYIYLW!W{t_;LyHIWdYBfXfW!y{_qLLsLLtXdXf;!t{fyIXTbyLd{_;qL!fqy_YIbfXf!!{{_bLdObtqIbfLb#{IyYXdb!L;{{;yNXfyWbydILXfLyqt_{b!{!tLqqXXWqL9yyqWbt{dtWIWIy!_WdyyqbXILI;{_{dy#qybYWbfXq{{{{_ydq.ftyddI!XX!{yfbWXWLyt__LupfYyYyqbbXbLXy!bib{Sytqd;IbXXW!q}_fmYLW;bdLOdiLW!YyftX_Lq{XbdbLz!tydtI_Xq!XqdqLb!Ly_t;_IdXfWYIyqYXtyt{WIdfdWY;yydI!XfLrq;__by{yYqI;Xy!L!bI!_;bXLItdbtd{n!;!qYbfLtLfqt;qd.NbWXdyqXf{!ty_qYdX{dtb;qxqf_Lp_IbdLIyytd_!dff3;;YyqbfW!f{XXtddWbtdYbItWc!f_YbXLdtd_d_!dLtqWIY;f;Lft1;__{Lqfnty;WItWd!byqXqb_WzYIIbwdf!W;Y{qy!XLf{dbdCLf!ybY_fXXt!qyY_;Lu7;YY;_dbXXWfY!I{b;!Y;L_tbYfqt_I;qq!d!q_d;kLLt{;t;{d_f!WIq_XWXLLttY;fcXQtYqYYIIbd!b_;__bbGytfIbX{Xd{Y{mbbLLtL{LIWdt0_!PYIbYXYL;{dbqdf^!W{YbfdXb!qqqdrvLWItYddI!f;W{yyXXXt{q{Y_IIdZbY;Y_IbXy!f_bd{ddWYWZIbfL!LWL_WqtX_Zx{IIYdYfq!bY{ftXq{S{bqLd!LWYXYfdWXdW{qWdIb!WbtydWfY!YWY__qqXfLyyLIbdbfXt!I*I{Xy!qq;_bd=0WtIdqIIf;Y;yYd#L{{lty;dd_fq;!Y;IIXI!ft^qLbILYtY;IItfbWY_LqWXYLt{_I{Id!Y!iqbXLLL!L;W_tb_fRtIqYIYXqLby{Xtb{L!_!IIX_!W!fIt_qbkLbtXbydd7fWf;Wqtf{!f;__bbfTf{WYdd{ff{Iy!dbby{W;YIYdY!_WqYfqyfLtb{b;OdWcI;qY:dWfWWY{;q_XWWbtl_WdW+Y!4Y_IWXfLfyW;,b{(fyIY!bbXyyW_YdYbYW_tq;fIyiL{byb_XX!{s{{;ydqt;WbyXI!! !{{y_qL;UVWq;LIfXf{_y__qbXtLtq;LdYFWW!I;_ LLL0{L;;LtgWyII!X4LMy*yy_{LXEftdddII!t{bq!XXbtLq{Y;;OunLWXIXX;Lttf{IbEdy#dt_Yq>!f;yXyIqfd:!L;d;bbLfqtWILb_bCtI{tbL0{W{t{qYI;fb!tyfdIbIjXtL;_.;f_Wyq_bbddtY{Wb;IX4ttLY!fqX!!_{;_bbI3!;1;LIXWX!b_tbI!yjd{!;fI:t;WX;LILf{LyyYqLbb7b{LYqdWfb{Yyqqbbb!LtX_Wdb!_!Q_Iqt!L{{;{_{fY(;tbYtIfLI!X{;_fbbRbYY;YI;fd{fy!bLXW!Yt;__ddafW!;LbIXXWL{tqWL!xt;y;tfyXqyI_fbXbf!Wtd_{9WWbW!_bqy!W{Y;Y_Yf_iqtfYydLLbLb{X_!bYkX_tYqIyXbWY_IqIbXLL{_b;dXLLtL;{qyfYWLyb_bXL0q{W;bXYfqWbybILbX!W{bI_I}!IWtILX{L{!{;Y_;bb<ttfqIIIXd!VqXqWbtL;_y;IIXfLW_I;q_Xyyy{{IdfUtXWtYqIYX;yGyL_XLX(bWtqff!WD!yydq_bqy!{y;YIXtqW!qLX{Lg{7;>d5Lqa&Wfd;I_fyYy_IdXb_{Xtt;qdYf;YnYyXdX_!btX_f,qJItfY;dL!f{Yyq_tbIL_t_IWdWftW;_IqdXfLfyW;tb{kfy_YdIfXfWW{dq{bfLItI;fIdlLWI_Y_X<_L!;fdWfWTWy{YyIIX!!b;__ddynbtIYIX{f{!yyqdbbbD*tW;IGqfUtWYWIYb;!_yWIbdSLWtW;Yqvf_WWyf_fXWKs{{;fXIf!{byyXWLYtY{YI_dqgfWy;LbbXbLXy!b>b{v;WI;WJ!fW!,qkb;dytLtbb!I;fXWIydftbd!W{!_Yb{fd;qYII;W;{f;O_IL6uytd;_Iqt!W;YIqIXfVCyL_If{,_tIYIIfX;WLyIdYdXW_t!IffW!WWW_{qyXIL!{bI_ddfyWbYIqIL{!{{y_qfbwX{L;Ld{XyWYYLqbbb!Ltq_Wdb!YWqYbqbfLLXyW_bf_f.yIYtfL!{{{y{dYb;Lbtt;fXIXI!d{.q{bdy!t;;tIIi{y_Y_qdbf!Yqy_dbfNf{WYtd{ff{_ybqfbf!Wtd_{df!IW!_bqy!W{Y;Y_Yf_TqtfYydLLb!b{Xq!LhL{ty;qo;fb!XY!X5X{Ly{qb;IbfXW!YYqXWtLq{y;bbYWItIYXILf_Y;yy_bXWLftXbtId!bWdybqt!QLf;YdXCdWd;d;!ILWq!Iy;X;/fWCY_;{wqXaWyYWqt!dLb{qbqd_!RyIqbfdX!!;y{_yLX4ftdddfLX!{by_XXbtLq{Y;;63f;yYY_IbbX!fy!q{d;LYYL;tdYXqW_q;_qLdLq;dYOgLW{YtY{I_X!!I__bWbLctWYYffXftyqyYqIddLb;;;_dbfyWfqbb{bdtYt?dbvLWLtLqWItf_L7yIdYbY5;tddqIff!!{ybXdbbLq_qIhfL!IWYIdq!X;!{{ybXbttqtY;Iqdfby;y_qbbyLf;bI{Id!Y!sqbXLLL!L;W_tb_f%tIqYIYXqLby{Xtbqt*tb_LI!FWyXyfIWbd!{_WIId!!bWyIWXYLY!Y;__qbfhy{LqbIbXXW!q/q{byLq_;;bIPfWWIIqqIX;y;{YIEn{trWyYdI_XqY!y;qIbILfW7_LdIoYWYYIqtXb!Y;L_WbYntt_q{qdLYLg_bbL6LLLYW;td_XCWI_YqYbqOb{{btd{j!;!qIb_LWLfqt;qdlpbWXdyIdff!fYW_tX{LfY_;bdffftWydI{XftI{!IbdytWYYqYIYL_!qyf_yXLWbtbYPIWfIYqyuIWXW!Yt;__bW!bWn;WIWfYL3y_qWbfBf{WYcd{ff{Iy!dbby{W;YIYdY!_WqYfqyfLtb{b;Xb!tgt{YyIqW;!b{Xq!LlL{ty;q^;fb!XY!X)X{L;tI_WL!*WW#InXt!LNn;I_YLdS!t;;{IyWX!dyWq_X{Lt_q;!/!fWYyy_XqXL{XyWb!bytyWfIqI{Lf!X{f_y!!LLY_IAfX!XYXYtqW!dLb{qbqd_W!Y{d!q;XX!I{dXtb{L!_!IdXqf{Yq{wqyXWLt_d;bdqWbY!{xbIXYyd{!_;b{ky;XYyIbXdWLyf_y!tL{{!b!dLX;yWq_ftbqL,{b;XLyfXybYfdWXtW{y;qIdXLbYY;qdbXoWfqX_k!!LC_!;y/YWIYqYIIfX;WL_fb_dXW_t!IffW!WWW_{qyXIL!{bI_ddfyWbYIqIL{!{{y_qfb.YyfIyX{XW!dy{_dbb{dtII!fbWWYXYtqW!dLb{qbq)!!&yIYYfdX!!;y{_yLX6ftdddII!ty_It_qbULbtXbyIb!bWfqWIWXyL_yLbrbLDX;LI{XyLf!Iq}_ybdL_tqb!Iq}L!jY{IWbqy;{__yLyWX!dqYIWW;LXytqLb!{qt{ILIt!YWqytqIX_L_;W_Wdt5;yIYfbbX;{W{W_td;ObttdqqgXd!WybbLXLLttY;f3X3Yy{yBbIXILd{GbXbWUtt;dyIIXX!Ly_X;b_Ly_yIdXd!YWWI;_XXt!L{!bqdI%;YIILbnL_!{qq;/byLWttddItfI!qyfqbbty!{W;&OTWy!yqLqbW!L;{X_Idd{ttdqIqfKLW{YWdfX!ed{W_LdL!IWIydq0LWLI;{;_bIhLtbq_q_XqLXyW_qL0jyt!Y_dW!YWYyq_bX{yt{LIIIfLLWY;WbfXfLPytX!bYFqWb;{6tf{W!I!by-_tWtfbtIqfGWbyXfyX{tb_YddfbibW+YWIIWq!Fqy_ILyLq;bI{d{fyWqI;qbbX!!_p_{dy:q;;YYbfXIy{__Xtb_1qtXddI;!W!dq_bb9bLbYf;Sb{fdtYqWqWXtL;{b_tLqf}WdYWIb!LWLyt_Ybf{XtyI{dYsI!dYbq+fWLyy{Ifb!L{W;;YfyX;yqy;bqdXtf;Wd!dWGY!EY_XY!LLy;L;q%YWIyIYIbbXXWW{qq{+LLLt!;yitf_!d{fqY!y(XYb;fbWftt{qLqLLW!yy___bbEytf;_X{fyW_{dbbLLLfY_YIXff*tWyyI{sfLLy{_{b_TytI;{XLX;{W{db_sbWbtbqfIA5{!dYYbWXWLt{;bydIfXWLY_f;X_!yqy_{fXWf;XYtIqfY!;qoqLbX{L;YIyXffIYryyqdX_Lqq!_ydYfX;qY!XL!YyL_zbLv;{qtgYfr;f_WyIybdddtY{Wb;IXpttLY!fqX<WWyWqYd;L_{W;fIf6W!dY{qfg_Ld{f;fbWfRt{YfbIX!tb{ybWRYWYtYq_Iqff!yYLdbbFTq{L;fIf!_W_yqqXLL!!y{_{b_fqtI;{dLfLW{{XqYXLWItb_LIXZW{fyybLbq{Y;IIIdI!bWX;Wqqf{{Lyt;Xb{LWtWqbIbXXW!_{q{b;%I{Wb!d;>IWIYf_TfL!IyY_YbI^ttb;YXLfWWYytq_#{5dYYYcfbWLyLYLbWXt!_tk_IfY5YW;YdfqXf!!{{_bLdibtqdqI_b({I_bXdb!L;{{;yAXhttYYYIIbd!byYdLbtLYtY;IItfbWYYWqWXYLt{__WXfffW!y{qb!d!!y{_{b_fqtI;{bffWW{y{q_b!LI{{ILI;!W!dq_bbAbLbYf;Hb{fdtYqWIWXt!;qy_Idd<9;X;WItf;YyyI_dbH{X{W;yI_QLY}YLqX!X!tyY_YbIfdtb;YqqXD!b{XXyb!WbtydWfY!YWYyq_bX{yttMIIdbLLWq;WbfXfL,ytdYbYn;tddqIfX,WtI!qYbqpb{{btd{R!;!qyb7L!tb{_bXdt qtYY;fifL!XqXb!gffXY_;{JqX2WyYWqt!dLK{L;;LtmyyIqXXt!q{q_WXtbqG__!;WIGWpyt_f;j)ILY_d;!d;9{WyIXI!XWLqqy_;fbtt;!IY,!f;!YqKqLbX{L;tIydtty!dY!qfb^y;{d;bdtt1WfqYXI!{yy_Wb!LKLyt{dXIffdYdq{_!VbLd_X;tdq YW;I:Iyf_!_yb;XbfL_YW;Yd_f_WbyyqfX_t{tdIYI^WbYLqLILLW!ty_;2bIWYtqYtIIf_!__WqWbtL;YI;Ydttt!Gy__X!d!!y{_{b_fqtI;{q;XX!I{dXtd:WIttdLf{!{W{y;_IXWy!tXI_dI+fW;;LbbXbLXy!d{b;B!t_;YIY!LWLy!qyv_L_tdYfdYtyWYYtftb.L_tXbdb!L{t{;_qqfIW{{;_XbIkd_tYhXIftYLq{b{X{L;tI_WL!fXy_YIIfX;WL;b_bdXL!Y{;{IyfqY;yb_XX!{&{;;!d_6YWYqLILX!!y;__!d_uftIYqf,Xd{Yy_qbdXLftq;LdYJWW!I;_XLe!L;W;IgdpqtbYtIf!XLMq!_4L!aq;YIIfqfIWfy;ILLf{__W;WfWV{Y_yhXI!Lyd{q_LbYLWt!d;IbLfyy_{qtb{Qd_;;tXff;YtyYftXqL_q!_Yf_RIYfIWXWftWY{Xq_xW-y{_;_dI!YWYy;qdNf!!td_WbLQLyIYIqdX?{WyW_yd_LL;:YXI{fIWYyyXdb;tW{{__IqlIWyybIWXfLXqt;qMd5byfYYf;fyW_{mqILqod;X;dfXfyYWqYXyXY!I{t_bKIt{YfyfbffLy{{dbY=b{;tyYbdWff!XItq_ZI{!;L;GdLf;;tyrbIXt{h{Wb%by9{;X;WX{fYyI_fdfb5!Wtq_{Xff!t{Y{IYLW!W{t_;fI*IWdYFfXfW!y{_qLL(LLtXdXf!!I{lyIXKbyLd{_;qL!gWWTIzXtLI{L;I_YLds!t;;{IyWX!dyWq_X{Lt_q;dfWN!WWyqfyX{tb_tb!sY{!t;YYfGfL!XqX_botWf;_Id9qX3WyYWqt!dLj{L;;LtfdyIqCX;!q{q_tXtbq:__!;WI0WHyq{ybLbby!t;;XdIfd;tyMbIXbWL{qqWffL!Wd;WdLfL{IyI_dbBtWt,I{dYQI!dYbqBfWLPy{btdyt;tyI;Iy!byL_MqLX{3X{Yd{ffft{fy;X{L_t_{_IIddLLW;;Wbff!LdyWqLbLWItIYdIQ!WWWyy__XL{g{!IYd_ib!XYfI!f{!!yYbyd;tqt;IqI;!fyWq!qWXYDm{_dY=LfyyLyqXYLItI{IIbdXLWWq;{XLfL!!yyXtb_ZqtXdddLft!YyfXXbdLW{__{dttqW!I!qbLY!;_X_Ibff9{LIdIbaL!qYWXLn_,vYI;tCLW{y{Y{bYX;!b{t_ffIJd;!YfdWXtW{_nqLX{OX{Yd{Xbft{fy;X{L_t_{_IIddLLW;;WbfXiWWyWqYd;L_{WqbI5TWWWYY_FX_!WYf;yfLfqYYqIbIXItb{XqWdqL{YL;!f;f{W_{qqILyLY{I;tdbWIyWyqb{bX{I;fIfdfWLt!;YqXf_{{{;dYb_Lbty;fXIf{{by IWby!{{y;YIXtqWfqLqy!Y{I_q_IbfFd{L;tIWWd!I_W_fLyte{t_YdYM_y{Y{qyXqtb{XqLbLL{Wy;YdLLI!Y_L_;4WEd;_IbXbfb{fy7I{bd!Y;W_tEq}YtIydIb!;!_yb_ybftbY{YdXYXsybqLbLXLtW{t__IPTIyYY;XXXI!ft-qLudwb{LYqdWWL{_y__qbX{d{L;tIYffYXYtIYXY!Itd_bbYLWtt;YIYfI!tybqYXLWItX_LdLM{W!YYILhbLbtX_!R<5{WyYqf;XbLXy!b&b{Cytqd;IbXg!WyIXqbIL;_;;YXX!_ydqYftbqLj{b;XLysYttdtXq!L{tyLXyddL!tfYTr;f_WyIybdLyt;{Wb;IXottLY!fqXI!;q;dXUqf;YWYf}tXq!.yb_X!y6X{{;td_PY!XIdqbXqyq;9d;IqW{tLdyqdf!!f{#X;bX!L{L_{IyMYtLqpX_LL!ttX_{bW+WybYbqXf!{{{X_{bILYtyddIWWt!bq;__LdU,;.;yztfIY;YIXdXY{L{S_Ld;{ttWqIf!!-y!qKqyb{{Xtf;d&dfIytq;ftbqLl{b;XLy.YttIYXdLd!Yqd_!b;L{tydXd!fW!qIy_Xkb{W;{ddfdWI;yYdqIWt!{y!X!bLW;Y.dqqGfyWWytXdX!!{{{__Iq9It{_fI!f{!{y__!bIL{;L;!d{f{W_yyqIX{tLt;IWIdW_yb_bqbhfL(y{;dbYWWtyyhIYf{!{;f_fdMLtYY;;dIfIWf{hILXIt{{I_IdIBfW;;LIILYLX;__!HftWYW;WX{fyWIy!qb=_Ldty;bdIfIy{Y{qyXqtb{b;,dWpI;qYOdWfWWY{;q_XWWb{W_WdW/Y!&Y_IWnfLy;L;qGYWIyIYIbbXXWW{qq{eLLLt!;y.tf_!d{fqY!yLY{tbtfI!dy{YLfybd!!{f;vL;p_tydyI{bd{Y_qX;dXLt{L;!sqfPtWYWIYb;!_yWIbdDLWtW;YqTf_WWyf_<XWLW{Y;td_9WWb___P2ILt_Ld{f{x{yYY;IbXt!f;I_IdXoLt_d;IYLfyy_{_WbdL{td;bpdfIy!qbXW!X!t{WbddbZq;qI!X!XbY!{;_XbIxd_t;{d!t!WL_;bWL{yttq;DdbfX;yYYItWt!W;qdfLd9!t;;{IyWXW!yW_q!yLIYbI/fbWdyIqYfyXdLIqt_{b!{!tLy;XW!tYt{q_/bb=X_y;ddff{tL_IqfLL!ttX_{bWoWybYbqXf!{{{fdYLLtyYY;qItfIW_y_bWXWLt{;IIdIfXWLY_f;XYtf__dXffefWv;t&!fY!q{bq{!tL{{!b!f;X;yWyfftbqLj{b;XLyTLybY!dWX{W{_LqLbteYtfdXd{!{W;YI_JXbt_{;;_IptdtLqWX_!_LX_d;hXLvL{W;yI{WXW{_{q_L;{!{y__d_)IyYYYq;Xdtf{f;-bt{!tYY;IdWq!fy!_{bb{dtb;q?qf_{<_IXL!dL!{;_{dytXWfYdXf!tL!;b__LXQttq;YI;W,Wty{_d!;LtYfdWf;WXyfqqf;XXLbqy_Ybt{ttWqdXZWd!!y;q{by{XtyI{dY!IWXy;qfXbLb;Y_Yd;xdyfYtXLXyWY{fq_N{L;t!;_dYfYyLYLq!Xyt_{_;dIf%Y;yyXbbXf{WyW_tb;{ytIYXILf_Y;{fdfb!t{tbIYd!!b!b_fqXL{!{{y_qL;BbWX;!f>Xf{YyWbbLL{d{L;!dyttW_yqqX!d!L{t;YdftXtt;YIYfILdybqYTLLt{Y;YdIftWbYYX_XW!Y{t__f{fdyYyzXb!L{LyLdWbtL_Wi;IXYfY!;ydXqbfDA{tb!dYf;WdIq_fbcLt{_; LyfdW;yfI_Lb!b{ _WbI{qt;Yfd{JL!xIy_bLXL{_!;I yfqYqyHXXbfy!y{bybLWItqYII!WX!b_{bdLqtd_q;FIft;W_YyfyX{tX_!bXdt,qtYY;f=fL!XqLbyxyLL_yYdd!ff!3I;qdbbLt_l;;fYWbyfIyXy!{yCyy_{LX?ftdddII!!yqIt_qbVLbtXbyddrfWf;Wqtf{!f;__dbfAf{WYdd{ffyIydqfbf!Wtj_{df!IW!_bqy!W{Y;Y_Yf_&qtfYydLLb!V{qqLbfMfY_;_IqfXyLY!I{X{!_tq_Ib{!ft{;{I{f_!!yIq{kLQ;YWYdf_!b{bybdfb2!{td_YfW7y!>YYI{X{tf{f;^btWYtYYqqbf{Ytyqqbbb!Lt!_Wdb!YWbYbqbfLLqyW_bf_f(yIYtfL!{{{y{dYb;Lbtt;fXIfI!dyuXXXWLyt__LiA6LWXIXX{Lytf{IbedyHdt_YqV!fW!<qv_fdytL;tb!I;fXWIydftXq!b{bqLd!LWtbqYIqfb!bYL_qXWLb{_;qdbfbtLyXIWXb!Y;W;qf{fXYIqfbfXf{Ly!qYdXL_Y{;{I;XIWWI!qLh_tjYfYbdyffWyYYfyX{td_YdbL;+XWbdyIYftYt_dddbY{dt!;;d{fyYXyfqd!dLI;!IbfftXWtYqIYX;y5yL_XLX5bYtI_>yXdW!yf_n!;Ldtb;tB,6{yYqqXY!y{{_LbPbyh{;XYfIdWd!I{!dbiX{Xtt;qdYf;YHYyI_b_!I;{__fIPXW;YfIbXb{YyY_;bdWft_ILfI!}yLYt_XX{!W{WIbdbfXt!q{I{X;LIyWX!bLW_;WI;X_f_!qyXXdXLLttY;fvXffWdIdX!b!tb{_bXdt.qtYY;f,X{{Y{dqbdfLfYI;IIXfLW_I;qf*f!!y{;qbYWWt!YWqqWy!I;bbWLWA;;yYqdIfWWbyS_f!;LfYf_Wu!WdWv;WIWf{{LyL_!byW_t_YqIXWdWLy!qy!tL_tdYfdYtyWYYtftXWtq;{dILyfdt!YfqnW;!_yyb_aXfdYY;W+;XXWtYLq!!qLXtf;yL!fXy_qbX!!;{__tX!b;iY;U;LIXWX!b_ybq!yGd{!;fI?t;!x_fILL{!;{!__bYnYYL;LI!fy{_{XdId#!LtY_WXf-!!dYWILXLtI{I;dduWWtWYyq_fLyN{;dYb_WbtbYXd!W+W{y;_IXWy!t_I_Id!fW{qLqdLYLf;__;ffsfWH;tR!fY!;ydXqb_tLtbdYfItyWIydq<!X!W{t_;LyDIWXYLI_W;!XYLqLX{Ay{Y_LXIfXtLYLI{bX!YyLbWdbLLWX;WbfXy{L{qbYJIWItIqbIXkW!qY{bLXLL!{ybtd_fqWXIdILX!!yqt__dqCX;d;LItXY!fqX_fbd{d;WIYqd!YWWI;_XXt!L{!bqd!g_W;YbIIX!ykyL_XLXttYXqXIIWe!yydq_bqy!{;_IdIif!V;LIIfY!YyI_tbbLYYL;tdYfYWIy;qbXYtW{yY3dYs{W{_fqfbi!t;Y;}dY-bt_Y;fXf!yy{dbqb;tXt_d!IyWyW__IqtbI!L{b;dL!fXy_qQbfbb!y{f_ybY{yt!qdfY!bY;yX_b!yLY{tbtIa!qyfIdq!X;!{{ybXdf*d;dY;Xt!tYt{q_Qbb)X_y;YdtttyI_db{bXyytd_!dff,;;ySIYXy!Iy_;BLXDftdddf!!t!dIt_qbQLbtXbydb!bWX;Wq;f{{Lyt;Xb{LWtWqbIbXXW!_{_;0YLW{b;dbLfXtWYbb_b_LqtX_Wdqt=WyY!q_fW{YyY_qdbL{_tYdXIfYtLy+I{X!!YyLIbdbfXt!IFI{X;LIyWX!bW)U;1Ydqy!LyWI!_;bXLItdbtIdhWW!YYI{bdyq{I_;L; tyXq4f<Xy!dy__q!!MXY_dWf;!_WdyyqbXILI;{_{dy7qybYXdLfWWW;b_!5WDWttY;IbftYq{0_dbWLb;L_LdtfYWfIXqqL{{f_td{b{(ytqd;IbXXW!qPq{b;mI{Wb!dWfeYOq;b;LLLqq!;;dX3IWddtI{f!Y!{Xd_QWtY_tYqI-fb!XIyq{(bLa;W_Wdyf_tLITI!LY!!;b_bdXL!;F;{I;XIWWI!qWb={ktdYyfLWY;!y;qXXILdqt_;fI bYL;LItXY!fqX_;o{K;YI;IIdfnYXYWqtX;yy{I;dd#tXWqq{qX!I{fqq_fdMLt_!YYI;XdWLy;XXbtmVtY_Lf{r{W;yIIWW!Ln{Y_bb_4;;X;!fyXdyqy;bXb_{!tydyd_!IWtyIILXbLdq!;Xf_WkyfybIyXf!yyYXyb!Wd;YIbj;fX!bIyqYXtyttuIqfftdW!Y;I{XyyX{f_dLd+;YtItxtXq!Myb_X!yLY{tbtfI!dy{yXfybd!!{f;*L;fStYYyIIf_LsqX_fbd{d;!ItIdtt!qyHqbbXyy{bIbdXLWW;;{XLftLXy{qWbWWbtbYXd!!{!;_YqWXbLdyL;XbWTby_y_qqbX!W{qbidyH!W_;WXYfY!q{bq{!t dYI;YbLfet{Y!IYfLtb{b;Xb!t2t{Y;qIfWY!yW_EL9kdWyILfWt!!;yXqIbdyttd_Wd!AYt{ydfqXI!;q;_tfXW%;hYyIdf_!qI!_X%_{W;;I_ddfyWbYIqIL{!{{y_qfbKX{L;WdWLb!!_W_WbtK;tb;t(qXn!dyWqbLL!L{t;YdftXWqq{Xf!t{{y{_ybq{;tbYXd!WVW{y;_IXWy!{W;<)QW;y;qLqqW!L;{X_Idd{tt{;!R!XX{__WbY!trqt};bIXtyW{_bqaLW!W{y;_bLtht!qYI!Lb!b{Xq!L5L{t;YIdWt!WWywX.bdMy;LdYL!f;WXYIqdWt!;;I_beLLLttYYIfWX!;_{_;1ILItd;v3XQWWtY;fyXILd{obXdqW{WXIIXfWq!f{vqt!!LYt;;dcqff!RYtf!XYLqtb_{LtD{t!d!X;LX{t{fXtdqr2tbYXnyfYWtItbq7fty{LbyIdh!WfyMf;X_!yqydI?_WYYLYbc!X;!XyI_d!tL!t_;fdIfqYcy;b_X;L_tVbddIWWYqI;X;W;!X{bXybYLt_tIdXq!{WLIy_dX!Lft&b;d_2y;yY{bdLY{bq;;XbtLLt!dqIIf;Y;qLdfi_L{_qY-dynWWtIdI!!;!{y_;qbItytY;IItfbyI_W_qG{*X;IIfXfffyLY!IYbX!_;{_{d;fItWd!I;!X!Iyf;jXLtdtb_LIq>WYL___05ILt_Ld{f{?{yYY;IbXt!f;I_Idd,p;X;WIyX_WLqkqyLdL_{bYXdfWqWIYfq;fL{f;Y;Xf_M!YfIWXWfW{{yyqIb!LbY_;_IqfXYdYLqtbYLf_X;fddtdWIq!bbLfyX{t_qbY=;;H;LIXWX!b{tdfer{xty;dd_fq;!Y;IIXI!ft/qLbILYtY;IItfbWY_LqWXYLt{_I{Id!Y!OqbXLLL!L;W_tb_f#tIqYIYXqLby{XtbqLbtb_LI!EWWb_YqIXbLbyL;qbWsby_Y_qqXXydyL_tdYrf;XYfIdWdyy_t_f!tEqte;bIXty!XY{qtX_!YtXbddb.q;qq>_nLI!Yqd_!b;L{tydXIy!{WYYI_dXbLxyW;yb{!ft!;{q;fYyy{;bqb;tqWXIffWW!WWYY_>X_{Y_L;yfLfqYYqIbIXItb{XqWdqL{YL;tqXf{WWyWdbbbPX{!I{dyg_W_Yb_XXf!_y{_{b_A!tI;{bff!W{y{q_byLI{{ILI;!W!dq_bb/bLbYf;ub{fdtYqWqWXtL;{b_tLqfrWdYWIb!LWLyt_Ybf{X{t_YdYgI!dYbIYfW!WyY;cb_LWybYhdWfWWYytq_XWWftyILIqWYyI_IqI?bLXyW;qb{WLtLY!IyWt!_{q_XLdLLt!;yAtf_!qyXXdXLLttY;f.XfdWWY_I{Xtyq{ddWbtLYtY;IqdfbWY_LqYXYLY{I;tdb%YyWyqb{bX{I;fIfdfWLt!;YqXf_{{yyq_b_LbWX;fd_!WW_Y_q_XbLy{f__f{fdyYyVXb!L{LyLdWbtL_Wk;IXYf;WIyIqfdM!L{II{dIGIWIYfq;fL!I;Y;Xf_H!YfIWXWfW{{yyqIb!LbY_;qdbfbtLy!IWXbtY{q_bdbLLWq;WIbL_L0;I_tLLt{Y{;{XYf;WbytqfGILd{f;fbWftt{Yfb_Xd!f{fqWddL{tfqII!Lb!yqWbYuYLYY_;qdffytL_bqXfL!Ly{;ybYLLyIYXdLfLW{{XqYXLWbttqfI;W{y___q_*ILdyL;;bW!fWdqLIWfYL;y__dbfDd{LqIIX*L!XYWX!bt{y{tdydtWIyfqXqffWLdy{bWBb.IWdYmfXfW!y{_qLL>xXt{;IdYfyYdyXXtX_{;{LdddYWPWLq{ItX{Ldq;_fffty;tIyCtfq!_I!qWbr{o;;IydIt;!XYtILX!yq{I_;L;CfyXI_XdWqLDyyqWbt{dtt;IIqffWbytf!XWLR_K_YIyWLY;d!q;XX!I{dXtbqtBtb_LI!jWyXyfIWbd!{_WIId!!bWyIWXYLY!Y;__qbf%y{LqbI*XqWLyf_fA_L_tq;XfLr!Y;Y{I_bq!I_y_YbIHttbIIXWXq{{{XbI9fWftfILd!+Y!XY_b{b{Lytq;fdytdW!yXq{Xf{WyW_yd_LL;4;yfdf_Wb{XqfLqLI{f;;bLWfyYyXb_X!{f_WdWbWW{ty;II!fb{_y__qbX{d{L;tIYffYXyfqd!d!W;tdYLtfqWRYbqXWy!;;b_fXW*t{{;IfqfW{by{XyXt!Y{t__D;fqYdYqXdXqyL_{btb{L_t!;If_WWyb{bdbbY{Wt.d{fItyW{_bXtLW!!{W;qLyxIybYdf!X{Y!y;_YLpTfYY;WfbWLyLY!I{X{!Y;L_YbYaLt_q{I{Xy!q;b_tffZ;;{I_X_f_{IydILb;!WYf;fd!f{WbIdqbXqyq_LYSfIVf;dY!I;f{!yqX_vj{LY{IYddb!_!__IqXfLLXyWIfdXffWyd!IYL_!;_fbWL!/{_!;;IYW%!;qy_YdXW;Y;;WdIMy{dIyqW!y!;yI_IbbtIt_YqIX!LWLyt_Ybf{Xt9I{dYPI!dYbIW!!LI;{;b,XzdtfYddL!a!!qtq!LtL!;_IbfdXfYWqbXYbYtY{LdbdqWfY{IeqfLY{X;b_ddbHt;R;{XYfyyd{fXdX!LL_q;_fLfbYYqIbIXd!f{fqLfILL{LYIdWLf!f{&qtBYvXY_;!ffWWyWYWb{Xy!I{!_bf_n_WqYXfdfL!!yyXtb_SqtXdddLf!WyItq_bqLX_d_LdtfYWfIXqfXdyd{Id!+yWb;XYtIqfY!;q)_Xb{LI{Y;y/dfIy{yfbYX_!btX_fb!L{Wf;YfyftWYyLbIlfLb;IY5XIftYLq{b{X{tY{;_bdt(fyIYdIfXfWW{tq{bfW_tb;fIf,W!dY{qf0IL!Yb;ygWWYyYYYb_Xq!f{yqLfbuX{L;Ld{XyWYYLdIbf!L{L_{IX=YtL_bqtGfL;_{d_f_3_yIYddLX;WW;f_<XWLW{YY;d_4W{bykIWXW!Yt}__bWUfWf;Wq3f{!f;I_!fb^y;WIYXYfY{_yqqfby!LYb;XbL7Lt{yyIYfLtI{fqLbLL{WX;YdLLb!t;f_;L{t_Y_;_XIfdtLy;IWifLoyW_WbYf;t_;WbbX&WWyWqYdSL_{W;fIfPW!0Y{qf6IL!Yb;y#WWYyYYYb_Xq!f{yqLfbHX{L;Ld{XyWYYLdIbf!L{L_{IX.YtL_bqbbDLW{IbqbWLWtW;YqNf_WW;b_UXWLW{YY;d_)W{fyf_cXty!{Y;;ddtqWfyDItW!!Y{q;bb{{tt{;!H!!_{b_tdbb_{Xtt;qdYf;YgYLqX!XLb;yd;/{tUWyYdI_XqY!yW_JLh.fWyILf{!bYdy!q;X{Ly_X_!dWfq;yY!bb!W{X_ddI>_{ytdYImtf{W!I!qLd;tW;ydtjXftWqYYq;!}!yy___bbfXtf;_XWfyW_y_qbbyLf{_dId{V_WyYIbYXqLt{I__d_WWtWYtI;LI!dyf_fXW,t{{;fX_fdWfyfIWbd!{{f_IdI?fWd;LIILY!q{t_Ib_<_YW;WItf;{IyI_XbLL__;;XbLhLt{yyIYfLtI{XqLbLL{WX;YdLWW!bYL_XXWWftfYodtt!WYyq_bX{yt{{_!L!nL!;qWXy!WyX{t_qbY:;;pYXI{fIWYyyXdbIt{{t;{Idt;!g_fXy!t{tqt_qd_{!tWYlf:X;{y_dX;dXLt{L;!#qfIW;I;_m3Bt_;dbqITxytWYtfdXb!qqq_!f?t;_!Y;IXfI!dIt_dXWL!{Y_{IdtqWIY;f;LfVX;_;XLqfaty;WItWd!I_Wq{X_Oq{I;XbLfItW_bq,fWLby{btdyt;tyI;IW!byL_5qLX{0X{Yd{ffft{fy;X{L_t_{_IIddLLW;;Wbff!LdyWqLbLWItIYdIP!WWtqqqYXITd{bd;d_ebWyYfXbL{Ld;Y;h/btLYL;LXWftW_{PqIMY=Yt;YddLf;YXyt_2bY!L;{_{d;fItWd!ILL_!Iyf;xXLLt{Y;Ld_!WWyY_qWXI{qtddXddWXW_IWXY!y!YyI_tbbtI;{YqX{XXyI_fdfbftL{!_YIX:_y{Y{qyXqy;{b;hdW^I;qYII;W;LitXd_?I{qWj;ydWftYdY!I{X{!_tq_Ib{LLtL;{qXfYWL;I_bXLKX{WqfIff!!{ybXdX!!{{{__IqwIt{;LILf{LXyYqLfISX{L;Ld{f!WYYLdbbtWft;d{f_!_W__IqdfLL;yWIfdffCttd!IYX;!dqq_fb!}{tbddIbfqYqy!b!LYy!t;;XdIfd;tYqIbXbWL{!qWbbWYtq;bIb^L!qYWqbX_L_{b;qdf&_y{ydbYb4{b_LdLbLWWtt;_q>fI{YyY_qdbL{_t;{d!W{yI{;bWb;yttq;odbfX;yyXI{Xt!_yY;XLdlbtqdqI!b5{I_%Xdb!L;{{;y<XFtYqYYIIbd!b_;__bb.ytfIbX{Xd{Y{obbLLtL{LIWdtR_!9YIbYXqLt{I__d_WWtWYtI;LI!dq!_fXW>t{{IDdLR{!XYYX{ObLtYf;;R{W_y_Y_bIXdWL{;qWffffWiYtI_XAYy{d_;dfL_Yb;bI<fWWIIqq9!y!WyY;;b_ttt{;_I!fIy__L_;sWOd;_IbXbfb{fy?I{bd!Y;W_Wdt6;;yYIqdXoyXyW_tb;{ytIYdIKWXWWyy__XL{M{y__d_=b!XYfI_LW!yy___bb4ytf;_f{f{W_yyqIzYLYt;;dpqff!EYtf!XYLqtb_{LtJ{t!d!ILLq{b_WXtdq<3tbYXMyfYWtItbILttyYf;I^&fyWdY_qqW!LqyL;kb{LWWqd;I_fyYyy{ddLLt__;YXdt6LW!IqqwfW!WyY;;b_LWybYPdWfWWY{eq_XWtftf_WI(D{yLYt_XX{!W{WIbdbfXt!q{qXX{!IyY_yLdhI;tY;f;fbydy!b+XW{ttYd;dyWdWWq5IY!tL._;_d:df;Y?YLX{f!{Y_XdbdILttb;td{ttWy_qX{LIyy{d;ILt%{t!d!ItLq{dqq;QbyLWttddIbfqYqydb!gI{L_d;!d;z{WyIXqfXd{f_{dtb!{tWqY)IbXXYyyq_Ib!{XtqI{fIW{Ytq!bd!X!t{Wbddb0q;qItX!XNY!{;_XbIcd_tYdXIXXyLYt_XX{!W{WIbdbfXt!q{qfLY!_;b_>dqLLtfYfX_f_!qyXbLXLLttY;f*Xfyy{y;bIXILd{lbXbWMyW_;Lf%fL!XqX_#iyt__yYdd!ff!*I;IL*fLq;{_{d;fItWd!qdL_!d;f_fdNLt_!;YI;fdYqyfq!b{Lb_d;bdqtqWdq!bILbyd{!_;b{My;XYfIdWdy!_Wdbbd{Xtt;qdYf;YiYYbYbX!b{YqLb{LWtbq_I_XdLfyYXydbWbt__WIy6{yLYLq!Xyyt{_;dIfUY;yYYItWt!y;qd{m_{yWd;!IfX,Y;{OqYbyLI{_Y}RXffWdIdbfb!tb{dbXdtaqtYY;f9fyW_{IqIF{L_YI;XI;ffWbybbYXYL;{dIfddWLYIq?XLXL!!{y_Ib!{;WXYqILfI{fyfq!b{Lb_d_!b{fYtYqLI{LY!Y{;_dLq9fWg;t#!fY!;ydXqbdtLt<dYfItyWIydq7!XLq;{;XMIWfyfYfXLf!WY{Xq_<{L!YYIXXbXIWtybqtX{yt{yIqz{WI;yYdqIWt!{y!X!btWqYddqqxfyWWytXdbbLq_qdWf!f);!y;qXXILdqt_{b!{!Yqq_XWf!Yt{q_>bb1X_y;fXbf;yWYWqyb_!L_v;qfYcqybYbqXf!yDy{_;dILW_!;WI,W.y__YbLb?y!t;;XdIfd;tydbIbX{LyL_tdYFf;XYbX{fY{IyI_db3{X{W;td;tyWIyXqLX_y;{__yLyWIyXYdfXXt!qyY_;L*LLtXdXI=!tyyIy_dX!LftOb;dq!fY_qXbfXf!!{{_bLdL!{{YYdY!LW{_YqYb;Ld_q;fd!f{WbIdqbXqyq;sY/fI<q;dY!I;f{!yqX_{n{LL{IYXdb!_W_yd_fXYyy{bIbdtLWWb;YIIf_WW;f_fd*Lt_!;YI;fdYqyf_OXty!{tI_d;WfYWIXIWXt!;qy_!fb}y;WIYXYfY{_yqqfby!LYb;WXf9Lt{yyIYXq!b{W_ff_AdtfY{dL!/!XYL_YL{t_{Yd{Iq!{!XqIbfGfLf;L_!bYfXt_q{I!LY{X;b;Ibtzbtt;{%tfy{qq{bI!yLdtIbtd{C!;!q;b;X;yqti_ybWjt;dYbIqWq!d;KdIP-{dt!;;d{fyYXyfqd!d{{;tIbddtXWtYqIYX;y/{;_fdXLW{LY;uyfYWtItqydqt{;qbyIdM!Wfy9f;X!tfy!d{b;/!t_;YIY!LWLy!qy0_LbYI;yfLfLW!yyqIX!y;tX;qdLHIyfYfI!X{!bqd_yrWLyY_;_IqfXYdYLqtbYLf_X;fddWfY{y!bbXdyX{t_qbY-;;hY;IfXXWWYL_;!yLY{tbtdy!qY!Idq!X;!{{ybXdyW{W;qIIXX;!fyb_blYLYt;;dXff_yLYWbYbYL;td_Ld;tXWty?qYfL{{y{_;dILW_!;LX_fI{fyf_lXty!{Y;;ddtqWfY!q{Xbyd{b_qLqWXy/YU:!X;!XyI_d!tL{{!b!f;!_yWY!ftbqLJ{b;XLypbybYtdWXbWYyIq_XWWftf;!I{fbYdyWbWbf!_td_IfYoYW;YdfqXf!!{{_bLd2btqdqIdbp{I_IXdb!L;{{;y?X1ttYy_I_LW!Y;___ddfftYdyI;LbyY_ddbbbzX{!dBd{fyWqI;qbbX!!_D_!fYMyYbILfdfL!!yyXtdmWIttdLf{!{W{_Yq;XbLt{fIIddfI;tydIWbXLY{t_!LqNm{W;WdYX;W_YWq{byLq_;;tXff;Y{q_b_X_tI{dqLd;LWyfY{XLfWWY{;q_o{LIYYYWqI!YWyyY_X!qLf;LdYMyt_W_IkIyX{yX{Xd{dfLItI;bX_f;!_{NXdXLtW;qd;wIfX;!Y;qY!v!;;Y_tbbPbtfqIqyLbW!YWbYX{tLtLIWd;/_ydYIbYXWLv_lY1fYWLttd!IIX;!dqq;ffpWItWddI!f;W{yyXXX_!YtY__fWXZt_y_IILY!qyIdfbbWYtfqbIbXXW!_{q{byLqYb;bIXv!y{ydbYbv{b_LdLbLWWtt;_q fI{Y{Xd_bILft;_LXbXb!Xy!qYbXyttq;yIb5YyIYIqXXL!_q;_ydbLWtfYXxtfWyd{fblbY{ttqd;dIWd!Qq:qX!t!__;_tpdf;YsYLftfIy;yddbbqWf;yI{IWfdW{ydqb!dLX;!db&WtXttYWfdXb!qqq_d)!tt_!Y;IXfI!dItq{X!y!{tIqfWW_;tyqqRXbLXqy_YbttYYbqdIqWd!!y;q{by{X{!;WIqtyW!_bXWLb{d;qdtLyOdWIdtI{f!Y!_ddqb;{qW7;ydWftYdyWbWbyt_{d;ydbnIWIq{I{Xy!q;b_YffLLY{;;I!f_WYyYbLXLL!{yI_d_fd!fYYfybbtbtvdWbWgtt;dyIIXX!Ly_X;b_Ly_y;;XXWLYXytqqXYL;_w;IfY.!ybYbqeXW!Iqq_t1LLtYY;YI;fdYqyf_JXty!{Y;qIbD{;tY{I!W!!t;qdW-{{tWqYhIbXXYyyYqt!ttqYII{dtty!dY!qfbBy;{fIfdyL{Wf;_qffIW{_LqLbtDYtfdXIy!{WLYI_bXbt_{_;qdXtdtLYtqYXfyX{f_dLdgXY!qbfLWX!tyqqYb;{ot;;fIX:WtLy;fyXY!tqtdYIqW{ttdyqdf!!f{nX;bX!Ltt_WXb=LyWYy_zXY!{{{Ifdff2ttqYItL_yW_;d_d_kqWX;WIqWa!yy!__XWtY{Y;qIbc{;tYqIbbh!f;__bffQfWU;t7!fY!;ydXqbfQ*{tb!dt!_W;qfXW!X!W{t_;Ly&!ybYyfW!Y{YyYd_bqLfty_LXbfq{fqyb{bWLd{{;ddbtdWXq!Xb!WyXyt_WLdibtqdqId!!ytI!_;bXLItdbtd{1!;!qIbqX;yqt:_ybW9t;dYbIqWqy!_LdIbq{dt!;;d{fyYXy_b{bOtI{I;XdLl_;;Y!bff!{{y{_ybq{;tbYgIWfIYqyIq;!;{LYfI_d;tq!-YyIWXtyd{WdWdyW_t_YdqffYYyy{dbbftW{W;td;tyWIydqo!X!W{y;_bLt6tLYXfX!W{yytXyddL!tfY%K;f_WyIyq;NdtX_X;tdqnYW;I+I!LYyL_ydYbY<qWb;{otfqWb{0qf(_LbYf;fIREt;!YYqqbb!{qt_{b!{!Y;y;XWf!Yt{q_/bboX_yYXXbf_tWy{I{LL!L{t;YdftXt{q{qdfI!{yf_{XLLIYY;YI;fdYqyf_uXty!{Y;;ddtqWdqLq^!Y{Iqy_Idd7,;XYqX{XXyI_fdfbftL{!_YIX/_y{Y_bYX_!btX_fb!L{t_;YXLftWYyIq_L;Ly{_;bfbWLWfqbq!2bLy_WdYfYPYy_YqIfXyWL;b_qfftyY{YWIdf{!dybXdbXt!;bdWhXltWWIdqbXqyq;zIFd}{!W;YXIIXdYty{q!!!LtY;IWf;tt!qyrqbbXyy{Y_tLtWbydq{ItWyLdy!_fdi{;Wx;YIyfIW_{0XXbfLd_d;XI!!bY!IXqtXq!Y{;bxdqWYtqqbI%XqWLyf_fg_L_tq;XfLfYyWyXb_b_LqtX_Wdqt5WyY!q_fW{YyY_qdbL{_tYXXIfXyLYLq!Xyyt{_;dIf(Y;yYYIt!Y{btqd{bt{yWd;!IfXaY;{-qYbyLI{_YHQXffWdIdqXL!{qqt;qd5QbWXdyqbLbLV_WqydZLY{{;{Xfff!:YtbYXLt_{IIfIff4WtY_qGWyLd{;;fb_WbtbY1IWfIYqy_bLXWtY{Y;;ddtqWfyjItW!!Y{q;bb{{tt{;!-!!y{;y;XqdrLy{W;tBdfbWqIqbiLLtI{qbdd!%;t{YyfXf{{{{dqIb{Lft{_LdI!YWYyq_bX{yttdIIdYLLWW;WbfXfLFytX!bY,qWb;{+tf{W!I!qtd;tW;WbtIqfuWbyXfyXd!f{!qLfIAfYL;LItXY!fqX_Jo{tf;tI{d{fyWqI;qbbX!!_n_{dy<q;;YqbfXXy{__Xtb_-qtXddI;!W!dq_bbpbLbYf;Pb{fdtYqWItXWyd{t_IdyffWdYqv!f;WIyIqfdA!L{I;bIXU!YxydbYbS{b_LdLbLWWtt;_qafI{YyId_bILfW2_LXbf;{f{I_WJfLXtf;yL!wYy_qfXXWL!Lq;_Xdb{yWyqbIYnWWWY{bLbKLLt;btd_!IY!qofWbyyq{C;fL;fbyfydd{f{WY_Wq_s{aY{IIfdb!_Wd_I_bfL{tyWIfdI1;;;;WbfL_!dqqqWd0Lt_!;qX;!WW_It_qbOLbtXbydyrft!;LbIfWWLytqWffff{WIYd{Lf!d_{q{byLqYb;bIXp!y{Y{qyXqtb{tIfd;t{Y_q_I_LI!dYL_;XWWftyILdW+Y!/Y_b{X{Ly{qb;dbfJWWYIfqXI!;q;df}Yf;YWYfutXq!%yb_X!yCX{{;td_rY!XIdqbXqyq_LdYIqW{tLdyqdf!!f{UX;byob{W;fIXtt!XqdILLiLW_t;fe;fdYdYfXkXx{{{X_{bILYtyddI;!Wyq___YbFL_tp_Lm<fdyyILXYW!!;{Yb(bLSX;XIyXtLf!;qH_ybdL_tqb!dWf/YlydbyLXy;tX_tbLc!;qYII;W;!ttXd_sE{qW-;ydWftYdytqIbqLf{b;tL!DWWJINX_by{L{qX!d;lXtIYdMtXd{IyYILX{!WYf_!Id6WtLYLbIXILd{mdWdbW{tYqIqIXdL,y{_d!!U;ttYId{!_W_yd_fXYyy{{IbdfWWtWYtI;Wy!I{X_Lb_{;t!qfI!!{W__Yq!EbNfYf;Xf{N{WyYqf;XbLR{W_ILq=It;d;ItL(yLqz_ybdL_tqb!dWf:Ywyd_yLL{tq!;;dXrIWddtIILI!YYL_yXWWftf;!I{fbYdyAbWXy!_td_IfYQyWYyXfqXf{L_YbYdqtqt{;fIL#LWtyWXdbvtW{tdyfovttYYYI_L{!{{y_qfb.bWX;!fxf{!;{IqW!!LWt:dvfyXyyLyqf!b;LX{I;dLtO;W_y7fdfL{W_;dfL!tLYfddd!fLYqyIq;!;tdWXI_d!tq!2YyIWXtydy!q{bYLYYL;!XYfq!tyIq_b_tW{W;td;!IW!_bXYLdtb{G;qbLlfWfq_I_Xq!X_LqLbt.YtfdXdt>YW_Y_bWXtt_{_;qdXtdtLY!IyWt!_{q_XLd+;YWYdf_!bY;yb_XX!{7{;;!d_&YWYqLILX!!y;__!d_iftIYqf+Xqy;yLbddft>{{dtIIW;WWqd_*LLLK{L;;Lt,WyII!X6L0yhyy_{LXGftdddII!tyYIt_qbCLbtXbydY4t;tqbbdL{!Lqy;db!^fW*d;I_fyYyy{dbJYtb_;YXdtTLW!IqqnfW!WyY;;b_LWybYrdWfWWY{+q_XWLftf_WI*?{Wf_Iq!MbLy_WdYfY#Yy_YqIfXyWL;b_bd-RWtIdqI_!Ly;_Y_{bXLYtX;f*XfbytqfX{!T!y{{bXdf^d;dItXtXfYt{q_Kbb5X_y;Ydttty__qqY!dL!{;_{dytXWfYdfdXI{!;bbtLXMttq;YI;WH!;yf_XXW!Lt;bydY&t;tqq_qL{!Lqy;db!cfWkd;dLLf!yY{_YXYtW{yY+dY#{W{_fqfb<!t;Y;bf_fgtfYYdLLbLb{X_!bYoX_tYqIyXbWY_IqIbXLL{_b;bL!fWy;{qYfY{WyW_tb;{ytIYXILf_Y;y_qy!yL{YbIYf_t;!XYtILX!yq{7byd_tytIIbX{f{!;{IqW!!LLY_dWf;!_W_yqqX!d!L{!_yLtc_WdyfIYWy!YytXtNbWdY{;L>yXdW!yf_Z!;L_{ybyd{!dyYILXyW!L;{X_Idd{tt;Y_qSWdWL_WbyHd{!;WIqGdr!WLIqqIX;y;{YIX5{tuWyYdI_XqY!{_d_btWf{!YddW2LWL_IqIbdL2;W;If{f;yIYXq;Xf!b{bdYbYn;tdqfIff!!{ybXdbWtWtXI_d_fqWXIdILXtLY{fbXd;W{tYqIIIXd!*qXqWbtL;_y;{Xbf_YWqYf!XYL;{dbqdyWLWqIYXILI!I;b_XXWaq{{ILdLf!WyItq_bdsf{Ybydd3fWf;Wqtf{!f;__bbfmf{WYdd{ff{Iy!dbby{W;YIYdY!_WqYfqyfLtb{b;Xb!t%t{Y;qIfWY!yW_QL1tyYyILIbt!!;yXqIbdyt{{_!L!gL!;qWXyWtLq{?_bdX{yWXqbIf%W!tY{q;XIgX{bIYdq/b!:YfXXXd!f{!bW,YL{;WY;XWXdy__bdbbbWftD_{IduYyWYWqyb_!L_i_yb_3_tbyXIff_W{y{q_b!LI{{qfdLv{W!YYbWbqt{tXdIff!fWfqLI!fYLXy_d{b{uytqd;IbX(!WyIXqbIL;_;dLX4fIYgyyqdX_Lqq!_ydYfX;qY!XL!Yy!_gbL}q{qtNYfn;f_WyIyq{Gdtf_X;tdqOYW;I2Iyf_!_yb;XbfL_YW;yd_f_WbyyqfX_!{{{__dysIt{qLItbX!{yW_WfbVbWX;!X{fyW_y_qbdXLf{_IWdYT_W_YbqyXf!_;{;dfYf4YbILXLfL{Wytq_doLIYY;qItfIW_y_bWXWLt{;IIdIfXWLY_f;XXWLyLq{dyLY{LqIIfzLWLY{_XXY!LYb;tXff;Y{q_b_X_tI{dqLd;LWyfYfqwftY!yY_;bd{qtfYOdtt!WYy;qd!qhft>;td_fv;yydq;bf!_;b_bdDmWtIdqI;XfW{YL_7!yCZ;X;{,!fyYyYIXqXW{X{_b!d{WYtyYYqXWq!__Lb;Lyty_y;dIIttW{Y!f!XLtq;bbqIn,ytWYtfdXb!qqqbW1!WItYddI!f;W{yyXXbfLd_d;IfW!bYWIXqtXq!Y{;b&byL_t_;bqXffW__WqyX_L_{b;ydf=_t{Y{I_Xy!Iy{dLd;WWWdI_XbLb!b;f_pX{zd{YIWdWfy!_YLXFbftY;XIbII2tWbYtI{Wt!W;qb{QI{ytdYIztf{W!I!bq1qL{_qYody<WWtIdqbXqyq;fI:db{!W;YXIIXdYty{q!!!LLY;IWfqtt!qy:qbbXyytX_{dt3_tYyXfdXb!qqqdsIpWItYddI!f;W{yyXXXYt{td_IIXDby_YdqyXb!I{Id{b{AytqqbI{Lf!yY{_IXYtWtW;tI;fbWtIq_)bdLW{bdLbL7tWYYffXfY{{{dqIdXLbY_;_IqfXYdYLqtbYLf_X;fddtdWIqWbbLfyX{t_qbY};;h;yfdfLydYLXWVILItX;Ld_t;WY_fX_LXtf{f;&bt{!tYY;IdWq!fy!_{bb{dtb;q%qWWy!_IqY!dL!{;_{dytXWfYdfdXI{!;bbYNd{;WX;tdLf!YqyX_fbyy!{YI_fdW!Y;q_bnW!!;{YbZbLzX;XYbXt!IYy{dq!bfO?_;YcXffqy{Y;q!X_!Y{YdLbL%!tyq_qfLILX_LqtdXL{{W;WXbfb!XY!b{X{L;tI_WL!fqy_YtbfXfLZytX!bY(qWb;{,tXX{IybbLXLL!{ybtd_fqWXIdqILWLf__dbL;6bWX;!fQXd{Y{ZbbLLtL{LIWdt-_!aYIbYXYL;{dbqdf>!W{Ybfdf!W{y{q_dqLI{{qfdWG{W{Y_q!XI!{;L;;fWfdY_qbbbXbtf{sq{ddLYYW;WItf;YyyI_XbLL__;;_dytyyd_dbYXWy;tX_tbL<!;qYII;W;!YtXd_ad{qWg;ydWftYdyWbWX{!_tq_IdXLLWW;WbbXuWW{{q{LtL!{{YYf_!bWIq__XO_L!;fdWfW1Wy{YyIIX!!b;___ddfftYdyIdff!fYW_tX{Lf{I;Idff;tLYIb{XY!I{;_bf_f/yIYtfL!{{{y{dYb;Lbtt;fXIfI!dy=XXXWLyt__LOVzLWXIXXYLy!Lqy;db!0fW5d;IdXb!tqP_;.Ytb;;dyfY!.YNYyq{!XLf{dbddIW!Y{dtqqX>!b{XXybdLftf_WItS{Wf__qdXfLfyW;db{ZftIYIIfXdWLyIdYbqEttI;_I_!WWWytq;hILd{f;fbWftt{Yfb_Xb!f{fqWddL{tfqII!Lb!yqWbYeYLYY_;qdffytL_bq0bq!L{f;ff_,_WqYXXLfL!t{Y_fLXLt{Y;YdIXdWbYYbLX{!Y{Y_Idt*btYqWqqL{LX_IdfffFfYL;!dYXXW__{q{byLq_;;bIX?!YgY{qyXqy;{b;Xb!t>t{YyIqW;!b{Xq!LJL{ty;qF;fb!XY!XxX{Ly{qb;dbfxWWYIfqXI!;q;_YfOt{Y_dqqDfyWWytXdbbLq_q;_f!!o;!y;qXXILdqt_{b!{!Y_qqI{WqLcyyqWbt{dtb;q)qf_y!q!f!b;LX{I;dLtU{t!d!ILL;{W_YXtdq03tbYX2yXXW{ytq_XY+X_d;bdqtqW_{GbILbyd{!_;b{sy;XYdIWf_W{ytXqbftL{W_YI;1_y{yXq{XI!Y{ybdd;WWty;_I_fI{Yyy_YdX{qtfILdWWYyIqq_b!qLetfb;I?WX!fyydMkBLIyW_XfttXt!IXIUhWWWY{XWXLL!{yI_ddfyWbYIqIL{!{{y_qfbedWbYtf>Xf{Y_Xbdcd{d{!;LmqfIW;I;bF+Xt_{{bqIM}ytWYtfdXb!qqq__fst;_!Y;IXfI!dItq{X!y!;II_fWff;tyqq#XbLXqy_dbfaf{WYtd{ffWIyIqfb;!L{II{dY IW;Ybb_bPtI{tbLT{W{t{qYI;fb!tyfdIbIgXtL;_G;fXtLYLI{by!YyL_bdbLLWq;WIbLY!_yb_qbfWIt!qbIyWWyY_YqY7_Lq{f;ybL!bWbyXI!!o!{{;;IbW{!t;;IIIffL>YLqIH{DLW_I{Id!Y!VqbXLLL!L;W_tb_fNtIqYIYX;!dqq_fb!){tbddIbfqYqy_d (Itb_d;!d;w{WyIXqfXdyd{Id!fbtW;XYtIqfY!;q*_;bfUX{W_LI;tyWYYtftL;Sq;{_LLyfdt!YfqQW;!XYLqLX{ky{Y_LdbfbtLyqIWXbtY{__bdqEfyIY!bbXyyW_YdYbYW_tq;fIyEL{by:_qXLLftfI_d_fqWXqLI!f{!{y_;qbIL{{L;Ld{XXWYYLdIbb!LtX_WXfXf!5ytq_b1yytd;;IfE_ybYbqZXW!Iqq_<XWLW{YY;d_uWWfyfIWbd!{{fI_dI6fWd;LbbXbLXy!b?b{3;WI;Wk!fW!7q0_fE;tq_;YXdt2LW!IqqKfW!WyY;;b_LWtfYfdWXdW{yfd_bILftd_LXbft{fy;X{L_t_{_IIddLLW;;WbfXf!!{{_bLdL!{{;{d_XqWIY{ILXL!{tX_YbL!IWb;LqXfWtf{ydLdqtYYIqIIILb!XYW_qX{tL{L;!dyttW_yqqX!d!L{!_yLt&_WqYXfdXL!!{y_Ib!{;WXYqILfI{fyfq!b{Lb_d;qdLNYtWY!f;XbtfyLq{dyLYYWYdIWf_W{ytXqbytL{t_YdY5_y{Ytq{bdy;{bIfbLt{Y_I;qIW;!X{bXydXtdWbYtbXLX!_YLqd(!{dtGdddXLLtL;WfLXfLsytdYbY>;tddqIff!!{ybXdbbLq_qIff!fb;!y;qXXILdqt_;d_fH;dYtXW!_yLq!b!jb{d{!;LNqfIW;I;bIdXt_{{bqIh7ytWYtfdf!W{y{q_dqLI{{qfd!R{W{Y_q!XI!{yL_Lb{4!tY;LbbXttf{;b{T_W_t_qIId}L!;YWdfb0!W{W_YI;E_tWYfqffWLdy{_ff_RdtfYfdWX-W{yfdIb!WbtydWfY!YWY__qqXfLyyLIbdXLLtL;{qyfYWLyb_bXL<q{W;bXYf_WbyqqfrIL!Yb;y2WWYyYYYb_Xq!f{yqLfb)X{L;Ld{XyWYYLdIbf!L{L_{IX(YtL_bqtHfL;_{d_f_m_yIYddLX;WW;f_DXWLW{YY;d_)W{byJIWXW!Yt%__bWSfWf;Wq6f{!f;I_!fb&y;WIYXYfY{_yqqfby!LYb;XKtSLt{yyIY!!!WyY;Vb_tYyfYyXLXqyY_IdIbIWbtX_WIq9{yLY!X;X{!_tq_IPyQYtIYtIb!I{Wyy;/bYL{t{qfIfXsWt_YqWbe{Ktd;{Iqt;WX;LILf{LyyYqLdtUqtYY;f7Xd{Y{AbbLLtL{L;tIYffYXyqb{XY!I{t_bf_=_WqYXXLftLXy{qWbWWbtbYXd!!{W{y;_IXWy!{W;2(ZfdW{yqf;XXWLyLq{dyLY{LYtIqfY!;qw_dPY-U;bdLfL,LWtyYqf!XLq;{_YbI*ttbq_I_Xq!X_LqLb!Ly_t;_IqfXYdYLqtbYLf_X;fddtdWIqtbb!WyX{t_qbYK;;n;LIXWXyY_tqL!y:d{!;fIUt;WyybIWXfLXqt;dfbcdWbYtf%Xf{Y_XbdCd{d{!;LSqfIW;I;qYOXt_;bbqIF)ytWYtfdXb!qqq__v!WIYXddI!f;W{yyXXbfLd_d;If!WbYWIXqtXq!Y{;bzd;cfWX;WdLX;YyyYqt!ttIYd;YGdf!W;Y{qy!X!t_q_YbIfdtbI;I_fb!yyfbbA{wdYYYNfbWLyLYLbWXt!_tn_IfYBqWtYII_X_{WyW_tb;WItdd!If>W!tY{biXL!{tX_Y:{!bWt_fq;!{{_;___fIPd{LY;dWLfLf{D_tb_,B_yYdI;XfW__bqbb2LW{Ibqd#tytW;Yq;f_yty{q_b!LI;_ILI;!W!dq_bb9bLbYf;wb{fdtYqWIWXt!;qy_IdX#Lt_d;I_fyYy_fdX0YLW_;YXdtpLW!Iqq!X_L;{b_Id!tNtLYXfX!!{tyLXyddL!tfYAw;XZ{fYLI{by!Y{q_bIeNfy_YdIfX!WL_C_!LtL!;tY;f_!bydybILbq!W_LdII.!IWtILX{L{!{;Y_;bbZttfqIIXX;!fyb_bMYLYt;;dXffhtWYWIYb;!_yW_fdfLWWd;{IfL_!dyf_fXWTT{{;fXIXI!d{uq{bdy!t;;tIIO{y_Y_qdbf!Yqy_dbfEf{WYtd{ffWIyIqfb;!L{II{d;7IWIYfqdfL!I;Y_Yd;rd;qYfqGftY!yY_qdbL{_t;{d!t!WL_qbf!q+#{y_Wdttdt!;{I{f_LqyIq{ffLW{{;{d_f!WIY{bLb;tWtdd_fb!bWb_fq0f{LdyYdWbW&yW_;Lf1fL!XqX_b/tWf;ydzIyfdW_yqf!XyLYtXbqd!WLYYqdX-Lb{fqq_Kdf{;t_;yUy!XLd_YqW!;FX{t_Ld!tqWF;WIWfYL;y_qWfbDB{W;WdYXMW_YWqfbf!Wtl_{df!IW!_bqy!W{Y;Y_Yf_>qtfYydLLb!U{qqLbfEfY_;_IqfXyLY!X;X{!_tq_I3yRYtIYtIb!I{W{qd{dXtIYfqfIf!LW!YY_XX_t{{;;!d_3YWYqLILX!!y;___ddfftYdyIdff!fYW_tX{LfY_;ddffftWydI{Xf!I{I_fddLLtIqYqXL_!!_fbWiWLWY{;ydIf!Wb__q_bqLX_d_Ld!#y;tY_qqXXydyL_!by{tt_YdqffYYyyYqt!tO3t_YXmdR!t{Y{I_bq!Iy{;;dXkIWddtq<LI!tqLb{^{L{t;YIdWt!!X__qIXfL;yLIbdbfXt!q{I{Xy!qq;_bdHcWtIdqIIf;Y;yYdf0_tX_qY0dyEWWtIdqBXLL;qt_WfIt!Y)q/f%fy!{qX_fbd{d;WI!Iftt!qySqbbXyy{Y_tLtWXydYYfdX!!;y{_yLXoftdIff{X!{by_XXbtLq{Y;;5cf;WfyXIWfLL;qy_Ybt{ttWqdX2Wd!!y;q{by{X{t_YdY2I!dYbIYfW!WyY;Gb_LWybYfdWXlW{_L_;JWNd;_IbXbfb{fy3I{bd!Y;W_yIvCYt{Y{bfXfL9ytdYb;LItI;fqc=LWIYYqYXILt{b_YfLnWtYYtI_L{Ld;Y;.cbtLYL;LXWftW_{HqIHYnYt;YddLf;YXyt_9bY!L;{_{d;fItWd!I;fI!Iyf;,XLLI{Y;YdIftWbYYbLXW!Y{t__f{fdyYy7Xb!L{LyLdWbtL_WG;IXYfY!;ydXqbfL!t{;bFdr!t{Y{I_bq!Iy{qLbLL{WX;YdLLI!bYL_XXWWftyILIqWYyI_IqI0bLXyW;qb{WLtLY!IyWt!_{d;fbY{ytY;t*t!_{d_{qL!yEd{!;fIwt;W_YyfyLqtd{_bXdt-qtYY;fpfyW_y_qbdXLf{_IWdY:_W_YbqyXf!_;{;dfYf6YbILXLfL{Wytq_d1LIYY;YIqXbW{ItqqXbLbyL;!bWrbyYYqIbXbWL{qqWbbL_t_;bIqffW__{q{byLq_;;bIzfWWIIqqIX;y;{YIXj_Wf;qyPIyfW!tqd_tbIMqtf;bItt!WWynX-Lyhy;L;bL!f;WXYIqdWt!qyb_bXLS!{W;bd_f_WbyyqfX_tW{{__dyiIyYyXb_X!{f_WdWbWW{ty;II!fb{_yd_ybbLItII{d{fyWq_bqXfL!Ly{;ybYLLtbYbdLXqWWybdYb_Lbtq;fXIf!{byyXWLYtY{YI_dqKfWy;LbbbbLX{!_YdX{tWqYyqbfY{IyI_XbLL__;;XbLSLt{yyIYfL!b{bqLdqLWtbqYI_fb!qyfdIb!WbtydWfY!YWY__qqXfLyyLIbdbfXt!I3I{Xy!qq;_bdXL!;4;{IyfqY;yb_9bWLI_q;;Ifj{tLynfybdtb{fqWdtL{YLYqILfYWWy!X;bdWf{!_{IyCYW!y_qfXILq_C_!fY7qtbyXfL!tWW;f_Ib;tOtqqXfyWY!yydq_bqy!{W;&-;1tyyYqIbbXyL_{qWLLfBty;WItWd!;_Wq{X_L!{IIYdYfq!bY{ftXq!btXbL&WLWybYXXWfW!ty;XybInXtL;_IffdYty)btXy!_tqdb(LmfYbydI!XfLGq;_tffLL{{YXdY!WWWyy__XL{7{y__IqWbyfYfb_Xqtf{f;obt{!tYY;IdWq!f{Pqt!!LYt;;d9qffW!y{qb!dLb{qbqEWWdydq{ILWyLdy!_fdC{;t_;yryf{{d_YbbLty!t;;XdIfd;tY{I!W!{I_!dtdf{tWqYBIbXXYyyYqt!tLWWqI{fIW{Y9yyqdX_Lqq!;qbLfOt{;WqqW;!_yyXyb{fdYYIbf!t!!;yXqIbdyt{{_!%qF;tIYIIfb,WLyIdyffL!{{;{d_fyWIY{XWb!L;{{;yKXfqy{yXXILftf{f_!d{7b;dY;XWf{W_y!qI*YLYt;;dXfD!!dYWILXLtI{I;dd3WWWdYWI_f{!tqq_!L!U{;yYffqfLyXY!X!bW{y{Idqd{!fWXyfqyW!!L;_do9XWX;X;tIWWd!byqXqb_t!YIIUsdf!W;Y{qy!XLf{dbde{WtybY_fXXt!qyY_;LwLLtXdXf;!yWLIy_dX!LftZb;IT7YWyYII_b}yX{f_dLdttW!qbI_WX!tyqqYb;{GtfIYfX!b!IYtqbXt!{qt_Wfqt{YIdyIdXIYty{q!!!LLYqIWf;tt!qyEqbbXyy{Y_tLtMWyqI!fdX!!;y{_yLXPftdddII!W{bq!XXbtLq{Y;;:1U;yYY!bbXbLS{W_ILqn{YLYtXYfY!;ydXqbfL!t{;b,df_yWY{b_X_Lq{XbdbLFtWYYffXXf!dqd_IjtWbYedXItfqWYy;X*XLLX_XdyfyKL;yydI!XfLKq;_ddbkt;+;{XY!qy;qybYLL{w{y;{6XffWdIdX!b!tb{_bXdt^qtYY;f>X{{YyLqbbALfYI;XI;ffWbybbYXYL;{dIfbWWLWI;Yqbf_{{y;_!b_LYtYILdLf!Wy__q_bdNf{Ybydf!bWY;Wq_f{{LyL_!by{tt_YdqffYYyyYqt!tLWYqI{f_ty!dY!qfb<y;tk_Ydy.It_y4fXXf!dqdbLd!Wbt_dXItfqWYy;X-bftY_LdyfYZqWtYII_X_{WyW_tb;WItdd!dWW!!Wq_bLbLL!ty;Id!t;!XyqqLXItf{f_!d{zb;d;!f;f_y;{_bf%YLYt;;dFqff!kYtf!XYL;{dbqd_WLWbIYXIWy!I{d_mLX:qY{YXfI!f{fyfbLX!!YtX__f{&;W!Y_IYXY{LyL_!byW_WdqIIbHL!!YWqyX_Ud{II{d;#I!XYbXdbX{N{Xd>dtt{Y_I;I_fb!yyfbbLY1dYYY&fbWLyLYLbWXt!_tz_IfYfYW;ydILX;yX{t;zdYLLY{;{I;XIWWI!_qD_LI{fY.bL3ttYyqI_LW!yy_;dbItqWdIXId!X!!qWbYLyLY{I;tdbWIY{yqb{bX{I;fIfdfWLt!;YqXf_{{y{_ybq{;tbYnIWfIYqy!bLXW!Yt;__f{fYyYYqIbXbWL{qqWbbW_tq;bq WLy{YWdbbLtW{t_YIqH_yWyYI_X_!b{q_fb_W{WdqYq?!byL_LqLuWLt{_YjdI!YWYy;qd!qLf{!;{dbtdWbYqfqX_{!;IdXLd*!t;;{IyWX!fydXdbIP!YbIRHXftWqYYq;!>L;;Y__bbfXtfqIqbLb!eYWqWXY)h{__WXffAtWyyXYLI!_;W;Yf_vqtbyaIfL_Lbyf_fXW=r{{;fXIf!{byyXWLYtY{YI_dq5fWy;LbbXbL,{W_ILq2z{W;WdYX;W_YWdbXL!W{W_YI3p_tW_fqyLLLq_YdIfI4IybYXdWXqW{_LqLb!Ly_t;_IdXfWYIyqYXtyt;;IIf{.L;yydI!XfLFq;;hffLL{{YydYfqWb{7qf:_Ld{f;!bLWoW!ItI!!tL;__dbHd4b{LYqdWWLyIy__ddfLY_y;ddffftWytI{Xft_{d_fdfLWWd;{IffI!Iyf_dXLLIYYYXX_f!yfqWbWXWt{{y_Id!sby_Y_qqXXydyL_!by{tt_YqIXWdWLy!qy!t>_tqYXdWfqYeyyq!b_!W;Y_Ydqfbt{dtI!X_!fyI_qLPM;;;YIfd^Ly,yLXtX;{;tfddd{WQWIq{ItX{Ldq;_Yffty;tIt*tfq!_I!qWbm{CtfI;fLWy;!y;qXXILdqt_{b!{!YIqqXWXfYt{q_Abb5X_y;YdtttyX_dqY!dL!{;_{dytXWyYbqdfL!f{yXtb{L!_!Iqq;!W!fIt_qbJLbtXbyd{!bYtqWqLXq!W{q_ILqB_y<IIfLWdW!yLXqbIL;_;;YXr!_yXIq_kXy!W{tbddbAq;qY_b>!;Y!{;_XbINd_t;{d!t!WL__bWL;yttq;xdbfX;yYXbbX;{WyW_yd_LL;%Y{XYXq{byb_XX!{O{{;;II%W;!YIb_XItf{f;Dbt{!tYYqqbf{Yty{q!!!LLYqIWfytt!qy:qbbXyy{Y_tLtWdydYYfdX!!;y{_yLXL!tWYq%yfI{b_KbXLdtb;YbyddfI;tY{I!W!{;t;dWdf{tWqYlIbXXYyyLdbXW!W{y_{fL0t!XY{IWXWtb{b;Xb!W{WbqYIbfbLbyfdIbX=;tf;bIb!YWYy;qd=fLf{!;{dbtdW_qWI_f_L_yIdYbY>;tddqIff!!{ybXdbbLq_q;_Xw!IyfIdq!X;!{{ybXdy7bWd;LIfXyYty{q!!!tYW;IWIftt!qyVqbbXyy{{IbFYWdybY*qqfL!f{fd_b_^qtXILd!W;!bq;_fLftYtY;;IdoLW;IXqtbJLYyLd{b{v;WI;WM!f;yXyWbXb{{{Yb;bIX,!YBY{qyXqy;{b;Xb!tcWfqYIW!byLqdqLb!Ly_tY0XIftYLq{b{X{tY{;_bdtmfyIYXq;Xf!b{bdYbY2;tdqfI!!LWWYY_;X_Ld{f;!bL!IWX;LqtfWy!{tbybttyWqIIXf!X!fYW_dX{{W;b;!XbfyYWqYbYXYt_{q_fdyLLybybqXX!!Y{XXtdqTyWb;YXIfI!XyLq_!;4OYf_Lb{fytYYqIbbo!f;__dbfg!{LI(I!WtW!qt_;L_tb;d;bbLfqtWILXIbwtI{tbLJ{W{t{qYI;fb!tyfdIbIJdt<dXdWfy!_YLXpb;tY{__bIX?fyIybbbXmWWyWqYd1L_{WqfIH^W!yqYbIX_tWtYI_dqOb!,Yfb_bb!f{fqWd-L{tfqII!Lb!yqWbY7YLYY_;qdffytL_bqbbX!!_4_{d;fItWd!IWXQy3{fd;6Ltt_!Y;IXfI!dItq{X!y!{LY;fWWy;tyqqKXbLXqy;Xfb f{WYtd{!L!W_WqyX_L_{b;ydfv_y{YyI_bd{b_L_ff_fbyfY6dWXyW{;f_WX{L{{_;ydI9{yLy;bWbd{_;bIbdb!fW+;{qdfY{WyW_yd_LL;i;yd_f_Wb{XqfX_tW{Y__d_<bWyYfI_L{Ld;Y;gRbtLYL;LXWftW_{?qI&YLYt;;dHqffW!y{qb!dLb{qbqfXWLyIYYfdX!!;y{_yLX2yY{;YdIXdWby%IWby!{Yf_!b{f;tYIyq;!q!;_q;XFftW;!;WdYXGW_qYXLbfL!t{;b?dc!t{Y{I_bq!Iy{Ifb!L{t{;_I!fIW{YLqLX{L!{Y_LXbft{fy;X{L_t_{_IIddLLW;;WbfXfLeytX!bYa;tddqIfXuWtI!qYb;Ld_q;fI:Zt;!YYqqbb!{qt_qbbob{LY!dWfbW_y_qbbyLf{_IWd{ _WyYIbYXYL;{dbqdf(!W{YbfdXb!qqq__fjtY;LddI!f;W{yyXXX!LWtqbydq!bY!qqXdLb{Yqy_ddI{tt{;!.!fLL;_Wb_LL{Xtt;qdYf;Y YyI_X_!btX_fb_t;;Lq_IdXy!byI_I {L{ty;qXbf_WyqXqdXfLfyW;tb{vfy_qWI{f_!yyIb_d;JXtIYdPtX({IytXLL{t{{{;;IIiW;!yXb_XI!f{;qLfbBbWX;!X{f;!!y_qYbYtL{L;!dy!_W_yd_fXYyy{Y_tcdxqtbYbdLX!WWybdYDLLW{Y;td_WY!yydq_bqy!tXI_d!WfYWqWIWXyL_yLbZddWYt_;bIyff{IyI_db+tW{W;td;tyWIydq !X!W{y;_bLtAtLYXfXLf{t;f_ILTKytd;_Iqt!WWy,X#LWt;;L;bL!f;WXYIqdWt!;{_;nLdwtYWI_XIW!{f_qXdX!LL_q;Id;t;yq{Xb_X{yqt?_ybW#t;d;Wd{f{W_y!qIX{Wf{!_{d{6_!qYII{LL!ttX_{bW-WybYbqXf!{{{X_{bILYtyddIIWtW_q;_XLd7f;};I&tffY;YWXdXY{n{Ibtdht;WtIdIY!-!Lqtq;L;Lf;dY(fofYYtYYX;XLtb{d;bdtt.WfqYXX!d{dqdq!bL{qtI;;>;fY{X__bb!q#p{y_WdttdWbYqfqX_t,;IdbLdx!t;;{IyWX!fydXdL{ttYb;_xXftWqYYq;!mL;{f;XbWLLW;dyIYftYtyWddld{dt!;;d{fyYXybb{LdtIt__!dI,!tWd!ILL;yW__Xtbq5__!;WIDWr!f_;bI!;NX{t_Ld!tqWIY;f;!!tM{IbRdyVdt_Yqg!fW!DqV_fdytL;;b!I;fXWIydftX;L_tKbdbLWWYyqIf!!W{qqdq!bL{qtI;;2;fY{}qtX9byLd{_;qL!hIy_ydbff!LdyWqLbLWItIYdIZ!W!;_{_MQILXt;;fdbfbyYYYq;Xdtf{f_!d{>b;dYyXWXX{_y__qbX{d{L;tIYffYXyyb{XYtI{I;dd(tXtWYyq_fLyHyL_XLXwbYtqffLWC!yydq_bqy!{W;M-+ffyYqLX!W!L;{X_Idd{ttWqIf{!q{IyI_XbLL__;;XCt7WYtyYXILW!W{t_;LyuIWXYLI_W;!_yyXyb{fdYYIXJ;XXWtYLq!!qL!{_;;dbVIW!IQILXXyX_{;tff3I;9YyIdf_!qI!q_^_nX{f_WbL!bWeyqILXfLf;___dqZXYLYWXWX;W_{XqIoYUYt;YddLf;YXyt_&bY!L;{_{d;fItWd!q_L_LXyf_tXLWbtbYXd!WDW{yyqq!;LbtX_!z%ffyYYWXb!LydyL_!by{tWsqIItWLy{_{q{)YL;{b;tdf!IWXy;qfXbLb;Y_Yd;ZdyfY_XL!;{Y{{_XbYjXtfdXIb!tyfq{XOXyL{_X;fddtdYtqtqfWtLq{J_bdX{ytY;tQt!_{d_{qL!yKd{!;fI-t;W_YyfyLXtX{_bXdt6qtYY;fsX;!f{XqWXLc;_y;Ydttty;{qb{XLyytd_!dff^;;YXftfWyt{YbInWLyW3;Yd{f{{fyf_DXttY{LI_jWW;y_y_qqbX!W{qbwdyA!W_;WXYfY!q{bq{!tLq;r;ffSfWYY_fqfbn!tq!_Ydqfbt{dtI{f!y{_IdqhWOf_tYqI,fb!XIy_XX{Lt{__YIXtdWbYqfq!L{!{bX!d;AXtIYdEtfI{I{lILX{!WYf_!IdAWtLYLbIXILd{adWd{W{Wq;IqUfb{_{__qdXLWtqd%Iyf!!_YWbYXYLqtb_{LtfIyIy)dLXyWW;f_fd)Lt_!;YI;fdYqyfq!b{Lb_d;bdqtqW_q!XYW!L;{X_Idd{tWdqIIb!LWLyt_Ybf{Xtf;dffWWyt_bq_!XLt{q_Yd;t5ttY{qdW;!b;fbWFdtXYXI_j;fX!bIyqYXtyt;bYqf{9L;yydI!XfLBq;_!ffCqY{;;I!f_WYyYbLXLL!{yI_db!I!XqLItbX!{yW_WfbBbWX;!X{f{!;{IqW!!GdY_;tXfff!9Ytf!XYL;{dbqdffBttd!ILL_!{_fbWLXLWtt;;vyXI!d{xq{bdy!t;;tIIx{y_Y_qdbf!Yqy_{fbttYWYLIqfW!qyIXqb_WH;IdLvd5!WLIqqIX;y;{YI-AWt:WyYdI_XqY!yW_<LUtqY;;W(;XXWtYLq!!qLI{;b;dYXXy_q-fqb1!yyW_tLd)jtLY;#tf_{I_XbWLqtI;!btdqf_;!YWq7!2Lf;;ddL;fXtt;LI!WqWW_L_t6YLqtt;Id_f_yWYWqtX;tItjIbd;WWtyyUIYf{!{;f_fdhLtYY;YIqXbW{It_XeILy;L_Ld!9y;tY_qdbf!Yqy;Xfb>fYW;WItf;YyyI_XbLL__;;_dytyW{_dbYL_y;tX_tbL#!;qYII;W;!Y;fd_Sq{qWR;ydWftYdyIbWLb{!;W_Wdyf_tLI3Iy!d!I_d;fLWWItIYdI3WXWWyy__XL{<{L;X1Xfb!t_fXy!<Ly{d__dq{!Wq;Lqef{WW{qX;b_Ly_yIbqd!YWWI;_XXt!L{!bqbLWLWy;YIIf_{{y;_!b_LYtYILdLf!Wy___InIlxyL;ybW!f!fycqtX_L0qy;dd;fft_qbIbXz!WyIXqbLtLty_YIdH_y{Y{qyXqy;{b;Xb!tht{YyIqW;!Y;f_IL{t__t;_IqfXYdy;bWbd{_;bIbdb!fW1;{qdfY{WyW_tb;{ytIYXILf_Y;y_qy!yL{WdIYfbt;!XYtILX!yq{X;fdy{!t!q_XX!;y;_ybt!!L;tYd,dLfXYXqtbtXLyytd_!dff4;;YYbf!y{{{W_db{+dtbddII!!ybqWXXXtLW_d;bdqtqY!q!qbW!L;{X_Idd{tt{;!0!!;{qy{XqdpLy{W;tFdfbWqIqq_SDtI;fbdd!s;t{YyfXXy!b{dqLbfZy_t;{d!t!yY_qq{!qnp{y_WdttdWIqWXb!!{Wyy;lbYL{t{qfIfXQWt_Yq;LXLb;X;LZ{!b!byXq!XYLXqt;qdyfbtYqIIIXX!Ly_X;bYWf;_IXXfff!+Ytf!XYLqtb_{LtA{t!d!XdLq!{qq;(byLWttddIGfL!;Itq_3It>;YdqfYWt;tYqq_W!!W{HbVdfWyYId;qXftWLy!XqXLtLty_YdIT_y{Y;q!X_!Y{YdLbL%!tyq_qILILTYL_yXWWf{!YddW#LWL_IqIbdL};W_Wdyf_tLI+qYLYLdyb_!bfWItIYdIUWXWWytq;!yLItX;Ld_t;W_YyfyX{tX;YdXL;fXtt;LI!Wq!!_LqW/YLYtqYbd{ttW{Y!f!XLk;;WdbPWtXWtYqIYX;ypyt_{dd{;tbqffW!XyX_IbX!;LXtbbydYvt;tqb_qL{!Lqy;db!9fWNd;I!Lf!q_{q;b!L_{Y;YfLaLW!Yyb_XbtItXdLbtfXt{;WIWLb!b{Xq! {L{t;YIdWt!!d__qt=fLft?_tL!mYW;YdfqXfLKytX!bLW_t{IffWWXWWytq;!yL!Yb;y&WWYyYYYb_Xq!f{yqLfbBMWq;LIfXf{_y__qbXtLtIIWfq!_!Yy^q_bU!L_?;ffytLYYd!I;XYyJyL_XLXtyYtqfIIWE!yydq_bqy!{W;hAMW_yyYWf;bX!tyL_!LqffYLYtXYfq{_ytdfX{tLtzIYdYfq!bY{ftX{!!q!_Lf;tWYYdtqqXU!b{XXydXL{tt;_dYXXYdybqq!qL_;!dyL!f;WXYIqdWtLd;I_bhLLtWX;{dWfW{byb_XX!t{tIIYIdgbW6YfbIbILdta_{dd{!W;YtqIf{{_y__ddfLY_y;LXbf!tWYyI{LL!L{!_yLt(_WqYXfdfL!t{Y_fLXwftdddf!!t!fIt_qb&LbtXbydY4t;tq_bdXYyd{!_;b{9y;XYbX{!fyt_{q{b;uI{Wb!d;=IWbYbbYXLtb{b;Xb!t7t{Y;qIfWY!yW_?LWt_Y;ILIbt!!;yXqIbdyt{;;_IstdtLqWXYL+y!;%d5LdL!tLdqIIf;Y;yY;Xr_td_qYKdywWWtIdIWLWL;y_;_bIWYtqYtIIf_!__WqWbtL;YI;WXbf-tWy_I{LLL.{L;;LtM_yIILfLXYyt{;q_bfLItXYbgyfW{byYb^LqLXyL_LbW!fWfyxItLY!q{t_Ib_R_YW;WItf;{IyI_XbLL__;;fXfftt{y{IYLW!W{t_;LyUIWdY=fXfW!ty;Xyb{Wbt_dWfYt!WYy;qd!qLy;L;q5YWIyIYIbbXXWW{qq{#LLtWX;{dWfW{byb_XX!t{{{;;II2W;!YLb_L<tftb_ydf6ytYdyI{LdyY_bX;bX1b_y;Ydtttyd_qb{XLyytd_!dffc;;Y_IyWy{f;d__LXPttq;YI;W-!{_Y_q4bLVYf;qf{gIyYYybbXbLz{W_ILq<It;d;IYLXy__bXqdFLy{W;t dftWIyqqfXbLtq!_WdQtMWfq;XdW;LXytqLb!{qt!ILdW!YWqytqIX_L_;W_Wdt.;yIYLbbX!WWyyq{RLjLt!YyIIf!Y;{X_qbLLIYf;fd!f{WbIdqYLWL;y__dbIWYtYY;IdWq!f{^qt!!LYtqYbd{ttW{Y!f!L;tq{{bqIO=ytWYtfdXb!qqqdfn!+b_!Y;IXfI!dItqW I{{;qIIdIfXWLY_f;XXWLyWqWfbJYYW;WItf;YyyI_XbLL__;;_dyW_yf_XbYXWy;tX_tbL^!;qYXqfXyY!yYd_*bty;;Iyfyt!W;yYXaXLLX_X;bIt!fY!IhqyXd!_{qX!b_W_WX;fqfNL{byr_qXLLftfI_d_fqWXqLq_LW!yy_;fbIWYtyYYqXWq!f_LbYLY6b;qYXdfl{tLYtqW!dL_;W;b^yW5tt;YIYf_{{y{_ybqWbtxYqdLff!f__q_bqLX;L_LdtfYWfIXI{L{LqyI;IbbW_t_YqIXWdWLy!qy!tL_tq;X/dfIyWyfX_Lby;{b;Xb!t#WdqYqM!byL_LqLmWLt{_Y*dI!YWYy;qd!qLfti_tL!iYWqybI{Wt!{y!X!bLWqYfdqqhfyWWytXdbItW;qI_IYf,W_ygIL!FLf;ybL/Y{!t;YYf}fL!XqXbyutWftId^IyfdW_yqf!XWLz_pd_fyOW;;yXItfL!!qq_!jLLWYY;YIqXbW{Itq{X!{{;qIqd{tq!.YyIWXtyd{t_IdqJftbYth!fW!Uqi_fdytL;Yb!I;fXWIydftbXtI{ydLbtfXt{;WIWLb!b{Xq!F{L_YYYqXbXb!Xy!qYbXyttq;yIbxYyIYIqXXL!_q;_!ffPqY{;{IyfqY;yb_XX!{o{{;;II7W;!YWqi!O{y;ydLdb{!W;YXIIXdYty{q!!!LLW;IWfYtt!qyZqbbXyy{bIbd!LWtY;{XLfL!t{Y_fLXA{Y{YqdIX/Wb__q_bqLX_d_LdtfYWfIXqfXdyd{I;!fbt!;XYtIqfY!;ql_;bf3X{W_LI;tyWYYtftL;nq;{_LLyfdt!YfqHW;!XqtqWLtsY;IIWdyXGWYY{q{EfLftT_tfYmLy_IWX;L_L_{q;XbW^q;=YyI!X_WW_YqYbqNb{{btdW!IY{qqbIXILd{FbXbW<tt;dyIIXd!TqX_bC{LL;IIf(qff!gYtf!bXt_{!dfiWWWtWq{IyfI!!ybd_b_/dWf;Y-yfYWtqYbISdLY_d;!d;a{WyIXqyXbLdyL_fdy{tt{;!c!fL{;_fXqd#Ly{W;tVdfIyWqqb_bYL5{_; bLt%WfqyfL!YY!y;_YLsLLtXdXf{!yWLIy_dX!LftCb;d_%y;yqIbXX_yX{t_qbYH;;=;LIXWXy{_ydfbI{%ty;dd_fq;!yqILbu!{yW;qL;2_tydyXqLX!_qX_tbqLYt;dCIf!YYLqybYXqLt{I__d_WWtWYtI;LI!dyfqLXLWIW;ILILf!!yyIq!!;4Xtq;LdI!fWfY!q{Xbyd{IdW&bt!YW;WItf;YyyI_XbLL__;;_dytyyI_dq_!XLt{q_Yd;tK!/qYItfbLEYLqtXWLbY_;_IdXfWYIyqb&bL!yW;Wb{WLtLY!IyWt!_{q_XLdLLttYYIfWX!fydXdL{t!Yb;_DXftWqYYq;!Z!L{XbX*;W{yfYIf=Xy!dy__q!!vqY_;IXfffW!y{qb!dLL;W;yf_/_WqYXfdfL!t{Y_fLX ftdddII!W{bqLXXbtLq{Y;;N%f1yYYqbbXbLU{W_ILqL!YLYdXYfY!;ydXqbf*e{tb!dYf;WdIqq_LLLb_YdILy?IWdYTfXXq{{{XbIsfWftfILd!&Y!XY_b{X;L!{__YdYWLtLY!IyL_!W;Ib!9Lfft;;LI;f_Y;yYdXL_tf_q;/Ift;W_YyfyLbtd{_bXdtZqtYY;fufL!XqXb;0yLL_yYdd!ff!>I;q_Xy{_;XYdfYmW;;yXItfL!!qq_Xdf}y_!;YX_!byLq;b{(Dy!{;;Y2%nLWXIXXyLt!Lqy;db!cfW4d;dLLf!!_{q;b!L_{Y;YfL0LW!Yyb_bXtI{ydLbtfXt{;WIWLb!b{Xq!V{L{t;YIdWt!!d__qtUfLft3_tL!gYWqybI{WtLd;I_bhLLLt!;y0tf_!d{fqY!yLY{tbtfq!dWYIdq!X;!{{ybXdf5d;dItXtLb!_qX_tbqLYt;dJI;ff!XYWILb;yy{Y_tLtW_!qq{ILWyLdy!_fdZ{;tYqff_!X{fY!_dXW!L{LIIdIfdWhqWIt!q!__q;bLLW_W_YqqXfW!qqB_yb!B_{WIYdYfq!bY{ftXWtI_{dqfI3IWdYNfXfW!y{_qLL?LLtXdXIb!t{fq{X-byLd{_;qL!fqtLy.I{fWLqq;__by{yt{ydXY!qY;{XqtXLL!_q;LfLfytYydI_L{!;{!__bY:YYL;LI!fy{_yIdId*!L{{_WXfXf!Sytq_bQyytd;;If*_ybYbqiXW!IqqqL^L4y{Y;Id_!{W{yyqq!;LbtX_!kz2{WyYqf;XYtf{Ib{F_{tt_YqIXWd!;_W_dL_tbYb;bXffzt{ydIYLWLW{t;;dbMt;qy0qdXW!b_LqLbt(YtfdXIb!{yd_I__X!LI{!_WL!vLy;IWX_Wt!q{_X!bW7E;iIYXyfWY;{XqtXLL!_q;Id;t;Y!_gqI!MLy{d__dq{!tWYFfW!;Ly_L_b!!r;tX;IIdttW;y__c!d!L;WdYfIt!yfqqfdf!!Lqq_Ib;{;YUqXIIWs!yydq_bqy!{II_Id!ft!ydIWfL!L;I_Idd*NYWY;X{Xr{IyX_;bfLbtbIYdYf;Wd_fqfX!L{{bbddyWWWXq_I_Xq!XqdqLbt.YtfdXIy!{WY_IqIbdLZ_X_Wdyf_tLI3ILXXyX_tdybL{yWd;!IfX}Y;y_qy!ytXYXIYdWt;!XYtILX!yq{!__d;&btIY!f<fL!XqXbWdtWftIdiIyfdW_yqf!XLt__Wd;f_/dWyYbIIXI{{y{_ybqWbtXdtdWWt!YqIbWbWLtt;;bdttq!>ydqWXb{LyL_tdYQf;XYbX{!fyt_{q{byLq_;;bI&fWWIIqqIX;y;{YIXf_Wf;qy.IyfW!tqd_tbIlqtf;bItt!WWymX^bf(y;LdtL!f;WXYIqdWtLI;I;AXLRy{Wqfd!XdWWYLqLsILItd;FfWD{y{yqIIXf!b;_;_dqfXtWYqfPXy!!{_qWQYLYtqYbd{ttWI_I_efL!{yWIfdffcttd!IYX;!dqq_fd(Lt_!;LX_f{yfqWXXXWLt{;byd!!bWyIWXYLY!Y;__qbfPy{LqbIbXXW!q9q{byLq_;;bIX7!Y Y{qyXqy;{O;qbLGfWfq_I_Xq!X_LqLbt7YtfdXIdfWW_Y{qt!qL__!_YDyfdYqybXXX_y!{bbybLtqt{IXI_W!LXqyq!LqL{;X;Yh!f_YyYbXqbX{Xtfb!b{tytqqIIqXI!!qX_bw{td;qIq/qfn!fI;q_Xyyy{{IdfYWI;;yXItfL!!qq_Ib;{;tYqXX_!IYq{PqyXWLt_d;bdqtqYWq!bIXYyd{!_;b{iy;XYyIbXdWLyf_y!tL{{!b!dL!qyqIq_}Xy!W{tbddIWWYqq_qYX,!_{sqLLO.fYydLfYt!W;yYX}XLLX_X;bfyW_;yydI!XfL:q;__by{yY+qXI_WX!tyqqYb;{K{L;X#Xfb!t_fXy!uLy{d__dq{!tyYYqXWq!f_Lbt?_tj;LI;iqf^!fI;q_Xyyy{{IX&!tXWtYqIYX;yhy_dYdqWbtlYqdLff!f__q_bqLX;L;yfWfXy_YdqyXb!I{Id{b{vytqqbIbXC!WyIXqbttLtdIYdYf;WdIqqfX!L{{bbddtWWt{q_I_Xq!XqdqLbt(YtfdXIffdYdyIb!ibtf_X;tdqsYW;IxILXXyX{bd{ffWs;iYyIdf_!qI!qLC_{W;;I_d_fd!fYYfyXdy!yLb!d{t_YL;LI!fyYty__ddfLY_y;YdtttWW{qb{Ldyytd_!dff6;;ySIYXy!Iy_;zLXsftdddfWX!{by_XXbtLq{Y;;QGxYyYydIbfL!f;I_Xd;hftbYbXYfY!;yddfbLtLty_YId7_y{y{qybqLf{ybdd!fXW{YfXWfW!y{_qLLHJYYYYddbf!Wf_IqIbdLu_X_WdtS;;yYIqdXhyX{bd{bLtIYfdqIfXDWtI!_X._L!;fdWfWvWy{YyIIX!!b;__ddyMbtIYIX{f{!yyqdbbYWf;yI{IWfdW{ydqb!dLI;!dbsWtXttYWfdXb!qqqb!)!sb_!Y;IXfI!dItq{X!y!;YIqfWff;tyqqaXbLXqy_Ybt{tYdqdIYWd!!y;q{by{Xty;bId3LWfyyftX{!!q!dyI;WWWfdtqqX+!b{XXybd{!{Ld!I{W_yLYt_XX{!W{WIbdbfXt!q{qfLYyL_ydYdYw;Wd;LI;WX!t{G_YXLt{{{;;IIsW;!Y;XXXb{X{Lb{fb}bWX;!fJf{!;{IqW!!LWtZdWf_!;yLybf!b;LX{I;dLtfdtWY!IYf{Ldqq_Ib;{;Yfq9IIW)!yydq_bqy!{_I_IX=ftW;LbbXjLqyL_fdfW_t_YqIX!L!W_W_;X_AX{IIYIYf;!dYLq;!XLttE;YbLW{t{Y;qIfWY!{_d_dXLftt_LXbfb!XY!X6X{Ly{qb;dbfzWWYIfqXI!;q;_Yf)t{;RYyIdf_!qI!_qr_LIYf;fd!f{WbIdqbXq{b_Ld!fIAY;dY!I;f{!yqXq!bWoq_y;IXbWLyqqdbdLYyy{d;ILtS{t!d!XIb;{W{fXtdqV.tbYX%yXM{by;bWXyEU{Y_{d{!fWfy0ItLY!I;_;dffL!Wd;WdLfL{IyI_dbPtW{W;yI_ LY*yqbYX!tb{b;Xb!tSt{YyIqW;!b{Xq!LzTfYY;WfbWLYdYLq!Xyytt_;qIX+WWqI qyX!L_yWdYbYJqWb;{1tfW{Iq!bLdfL;{L;;d_t;WY_XX_Lfyq{M;fL;e_tydyI{LXyLqX_tbqLYt;djdLfXYXq;byXLyytd_!dffN;;Y_IyWy!{tddYjX{;WX;tdLf!YqyX_fbyy!{YI_fdWLY;q_bJW!!;{YbrbLiX;XYbXy!qYy{dq!bfk9_;_LXff!y{Y;q!X_!Y{YdLbL<!tyq_qXLI!y_LqtdXL{{W;WXbfb!XY!b{X{L;tI_WL!fdy_YtbfXfLHytX!bYVqWb;{StXd{IybbLXLL!{ybtd_fd!fYYfyXY!tqt_WfqW{YYdyqdf!!f{NX;b_Ly_y;{Xb!Yy;I;_XXt!L{!bqd_WLYIqZXLfL!t{Y_fLXLt;q;_fqXbYL__q_bqLX_d_LdtfYWfIXqfXdyd{I;!fbtt;XYtIqfY!;q6_;bf X{W_LI;tyWYYtftLIQq;{_LLyfdt!YfqwW;!f;f_tX{L_{YIWdyX)WYY{q{*fLft1_tfYf_y_yXIfXtWL;b;bdXZ!tYYXktXq!y{bqYpILItX;Ld_t;!f_fqtf{LqyYdWbWPtt;dyIIXd!/qXqWbtL;_y;{Xbf_YWqYf!XYL;{dbqdyWLWqIYXILI!I;b_XXW*q{{ILdLf!WyItq_bdRf{YbydYJt;tYW_qL{{Iqy;db!sfW7d;IdXb!tqg_}>Ytd;ydyftW!Y<Yyq{!XLf{dbd4!W!WfdtqqXP!b{XXyb{Wb;tIWILfqWWyqqI!qL_Y+dIPLtdt!YLfqXI!;q;dDfP>I;aYyIdf_!qI!qWb#{g;yI;dWt;!XYtILX!yq{I_;L;pYyXq_XbWqLPyyqWbt{dtt;IIqffWbytf!XWLx_3d{f;SW;;yXItfL!!qq__rLtIYVILdtXXW{YWqW0bLbtX_!f{4yYdYIXdbfyW;I;Iddf#t{Yd3!X;!t{Iq{i_L_tdYfdYtyW{_bXYLdtb{b;Xb!tTt{Y;qIfWY!yW_VLMtqY;;WZ;XXWtYLq!!qLXtf;yL!.Yy_qXX{!;{{_!X!b;0Y;A;LIXWX!b_tb_!yCd{!;fI+t;Wf_fqtf{!_yYdWbyfVtY;{I{Lf!f{AqtwYz_Y_YXdffttL_bqTbq!L{f;ff_)_WqYXXLfL!t{Y_fLXA{Y{YqdIX#Wb__q_bqLX_d_Ld!Jy;tY_qdbf!Yqy_Ybt{ttWqdX{!dYy{dq!bf9z_;Y1XfNLy{Y{q;bI!Wq!_Wdrt+WfyyXL!IyLqd_!b;L{tydXd!fW!qIyqIkb{L;dddf_Wd;yYdqIWt!{y!X!hIf;YWYf*tXq!gyb_X!y3vYb;;fW)y!?YYI{X{tf{f;TbtWYtIq_qdLfW!{dqWXLLLYI;IIdfnyWYWqyb_!L_/;qfY7!ybYbqXf!yGy{_ybq{;tbYXd!WF!f_YqWLb{L_d_Ld!*y;tyjbIXtyL_{d{b{WYt;;bItff{IyX_;bfLbtbIYdYf;Wd_fq_LL{;;Y;{dXGYWXYffXXb{t_fb{LpLyt{dXIffdYdqtb!CbL__X;tdq6YW;IrILXXyX_YdtbL{yWd;!IfX*Y;y{dfb!t{tIIYd!!btW_fqXL{!{{;;IbW{!tWYof Xf{yqLb{!!k;tX;IIdtt!dYWq!XY!{tdbqdI9;;;YYb}!ty?{y_db_}q_!YqX_fI{fY!_dXW!L{LIIdIfdWxqWqWL{LqyI_LbbW_W_YqqXfW!qq1_yb!M_{WIYdYfq!bY{ftb_tItQqLdYLWyfYfqQftY!yY_;bd{qtf;!I{fbYdybqq!qt+;!;bL!f;WXYIqdWt!{y!X!ZYWqt{dqq,fyWWytXdbItW;bd!fWkWWyy_IL!(!yy__IbIW{tqqIIIXd!1qXqWbyo_{LdldLfXYLqYbyafLI_l;ydd#_Wqd!IyXYLXqq_flLt{YXI+XX!XYqyZ_f!;L_{ybyd{XdyYqqf;bX!tyL_!LqLLYLYydYXfW__{q;b!L_{Y;YfL:LW!Yyb_XdtI{XqLdLLWyfYXqfXyY!yYd_}ftfWfd!IyVYWbY_qdbIyt{dIId>WXY;YdIfXfWL;b_bdXL!Y{;;I!f_WYyYbLXLL!{yI_d_fd!fYYfyXbtb{!qWdIL{YL;LI!fyYty__qbX{d{L;!dyttWW_IqY!L{{_J_{dyhq;;YtbfX;y{__d_b_WItd_LI;JW{fY!_dXW!L{LIIdIfdWkqWIWXyL_yLb2dfWYYXqbqIft!bytq{!tLWYqd{fItyWdyIftX{!!q!dqf;WWWfdtqqX+!b{XXybYLt_tIbXqfYYdy!q;X{Ly_X;If{f;yIYLbbX;{Wy_d{btWItIYXILf_Y;y_qy!yL{YddYfIt;!XYtILX!yq{!__d;mbtIY!fsfL!XqX_bOytq_yYdd!ff!UI;_M+f!L;{_;d!,_tYYYXLfL!!yyd_d_WIWc_LIYzW{f{f_>btL_tAbyIdf;!fY_bbXbLS{W_ILqffYLYydYXbW__{q{byLq_;;bIXE!YHY{q;bI!Wq!_Wd1tQYyq;IWW;LXytqLb!{qtI;;+;!b{<yIX:byLd{_;qL!:Ly_IWX;L_!_{d;fbY{ytd;fdLpL{IySbLXLL!{ybtd_fd!fYYfyXY!t_YdbfdW{tLdyqdf!!f{wX;bd bttd3d{!YyIqtXyLt{t_,_yd{tXWfYdfdXIL!;bd/LX?ttq;YI;WrWY_Y_dXbL{{fIIdXf;WfYbqbLY!Y{;_dffL!YL;tdYXYW__{qtb{rd_;;bXfW{Y{y{X;bd!byW_fb!vL;q;!XLfyyt_Xq!X{L{{YIWdWftW;_IqXb;Lf{b;bfY0YW;YdbfXf!!{{_bLdLWYWY;d_fLWI_YqYb;Ld_q;fIlZt;!YYq;Xdyq{_dLdbtYYIdyIIXd!+qX_qz{sX;IIfXfffyLY!IYbX!_;{_{dyEq;;YbqXf!yjy{_;dILW_!;WI.W}!f_;bb!;:X{t_Ld!tqW_qLX;LYL{{X_YdXDf;XYbXt!fy{qwqyb{{Xtf;didWty!_bq_!XLt{q_Yd;tQtLYXfX!Y{tyLXyddL!tfY*k;Xr{fYLb{X{L;tI_WL!DWWsIWX;L;!Wq;;XbtLLt!dqI!f_!;ybqIb!{G{L;X1Xfb!t_fX{!QLy{d__dq{!Wdq_ItLfW!{dqWXLLLYI;IIdfSyWYYb{b;tItI;dImj{Wdd!q;XtLIy{d_b_KdWf;YVyX:{by;bWXWLt{;bydIfdWFIXIWXyL_yLb/bL X;XItXtLf!Iqz_ybdL_tqb!dWfBY yf_yLL{{q!;;dX-IWddtIILIL7YLq{XWWftf;!I{fbYdyWbWb;!_tX_IfYlYW;YdfqXf!!{{_bLdGbtqdqI_be{I_/Xdb!L;{{;y2XfyWbydILXfLyqt_{b!{!Yyy;XWXfYt{q_0bbcX_y;d6!mLY!y{X_LL!ttX_{bWMWybYbqXf!{{{fdYLLtyYYYYI;XdWLy;XXbt9&tY_Lf{/{W;yIIWW!!L;_bWi;W_t_YqIXWdWLy!qy!tL_tq;XQdfIyWyfX_Lby;{b;Xb!tDWdqYqw!byL_LqL,WLt{_YvdI!YWYyq_bX{yt{{_!){W_yqY{fqbv!yyW_tLdpttIYqIffb!tI!qWbC{atfIyfbt;!XYtILX!yq{_dL-;WYW{YXIYXX!fqX_bTttf;{d,dyf{YXyfqd!d{W;t;fLtfqWJYbqXWy!YytXtg_WdtYddI!f;W{yyXXbfLd_ddWft!bW_IXqtXq!Y{;bSd;hfWX;WdLX;YyyYqt!tt;Yd;Y6df!W;Y{qy!XLb;{dfutW{t;Y!I_fY!Y_LqLb!LyY_;qdbffWf__qysf7ftx;td_fH;yydq;bf!_;b_bdsoWtIdqI_!LyI_<bLXLL!{ybtd_fd!fYYfyXY!tqtd_fq0Y;dY!I;f{!yqX_X}{h!{IYXdff{tLYIbYXYLqtb_{LtTIyIy?dLX_WW;f_fdULt_!;YI;fdYqyfq!b{Lb_d;bdqtqYW_HbIXYyd{!_;b{:y;XYfIdWdyy_Wdbb_{Xtt;qdYf;YCy;bYX_tb{b;1dW.I;qYYXLXt{YyY_;bd{qtf;!I{fbYdybqq!qL_;LIIfftdW!Y;I{XyyXtXd{b;WItIYXILf_Y;yWdfbqt{{{;ydqt;WbyXI!!=!{{y_qL;SYyfYIf{!_Yty__qbX{dt;IWIdW_yb_bqbAfLRy{;dbYWWtyy>IYf{!{;f_fdNLtYY;LX_!V{f{bqybfLy{Ybyd{!dYYqbf;XXLbqy_Ybt{tYIqqIYWd!!y;q{by{Xtf;d)dWyytyfftbqLO{b;XLyNYttIYXdbq{{yLXyddL!tfY^(;fd!bytXsX{tY;IIfJyWWyXI(IyX{yX{f_dLdttY!YfBtXq!Ryb_X!yLfYbYAfW9y!nYYI{X{tf{f;obtWYWdq_ItLfW!{dqWXLLLYI;IIdf,yWYWqyb_!L_U;qfYJ!ybYbqXf!y#y{_;dILW_!YqX_fI{fyf_OXty!{Y;qIbu{;tY{I!W!{;;q_{Lqf+ty;WItWd!byqXqL!t!YI;Y*df!W;Y{qy!XLy{b;dbL(fWydtI{f!Y!_Y;;.WFf_tYqIEfb!XIyq{0b{Y;dIbdZfqtLYfqfL_!_{q_XZLL!;;;Yf;XIyf_Y_Yb;kd{L;;DXft!QyYILL{!{{;;IbW{!tLq_fW!;{_y__qbX{d{L;tIYffYXyfqd!dLI;!IbPWtXWtYqIYX;y4{;_fdXLW{LY;DyfYWtItqWdqt{;;byIdR!Wfy9f;bftf{tq{dqLYYW;yqBfYW{y{dfbfzT{tIYd_!_!XYfIWfLtbtb;Xd!%YWXdtqqXyLbyYdIbIhXtL;_=;ff{fytI{X_!Y;W_WdtE;;yYIqdXGyXyW_tb;{yt{qbI_WWyYI!qYb;Ld_q;yfLfqYYqIbIXItb{XqWdqL{YLYLI!Xy!Iy!X;dXEqtL;IXfffW!y{qb!dLI;Wdqf_fYW4Y_qTfLys{fdyLLtY_!;;IYWNWLyXXXL{tt{LbyIdw!Wfyhf;X_!yqydefX(_;XYtIqfY!;q=qLbX{L;yYtXffIY}yyqdX_Lqq!_ydYfX;qYfXL!{{__#dbj;{qt?Yfr;f_WyIybXVdL__X;tdqgYW;IoI_LYLq;b_kdqLLtfYfX_f_!qyXbLbytWtXI_ddfyWbYIqIL{!{{y_qfb<bWGYWIIWq!t_L_dPYLYt;;d.qffW!y{qb!dLt;W_{f_6_WqYXfdfL!t{Y_fLXjftdddf!!t!fIt_qbeLbtXbydY4t;tqdbdL{!Lqy;db!9fWpd;qzfY!yyIq_da{Xtf;dsdWL!!_bq_!XLt{q_Yd;tvWfqYfL!y{Yyq_tbIL_t_IWdWftW;_Iqd!!!L_!;{}_WLWLY!qyXI!!q;;Xdq9LtIqfIff!!{ybXdbItW;bd!fWwWWtY;fyXILX{L__L;s_tydyI{Ld{Y_bX;dXLt{L;!Oqf!W_y;qbXIL!_c_LdXtXWbytbf!!y6{y_db_%q_!Y_X_XXWfytILFbLAtq_Ldfffy_Y_qqXX{LyWdWd;L_tb;IXYXY!;{dqLb;{XttYrIYzLy{Y{q;bI!Wq!__f_fXtf;WdLLb!b{Xq!LML{ty;q.;fb!XY!X1bftY{Wdb3LtdtLY!IyWtLk;I_tLLt{Y{;{XYf;WbytqfKILItd;zjX>WWtY;fyXILd{AbXbWxtt;dyIIXd!&qXqWbys_{LdldLfXYX_fbyGfLI_>;ydd._Wqd!qqfLL)y{qWdq{;t_;yPy!fy__yqW!;TX{t_Ld!tqW;yfI{fLL qy_Ifb%f{WYtd{f;WIyIqbwYLq{b;bdfWX!QI!qV!!!W_YdIsqfb;LIIIdXy!byI_Ii{L{ty;qXbfy!bYWqfbXyt{WddIEWVt{ItqY!;LX_d_qsLnutLY;ptfy{Iq!bwL{{k{y;{6XffWdqfXtLttb{dbXdt(qtYY;fDX;!f{XqWXL*;_y;YdtttyX{qb{Xtyytd_!dff4;;YXdLfLW{{yqYXLWItf_LdLn{!XYYILVbL1tq_Ldfffy_Y_qqXX{L{XdW6qW_WYY/I_X}WLq?q!Fy{L;Yb!d;fYYmYLqX!XLj;tdqLyfdt!YfqkW;!_yyXy7IWdtddXItfqWYy;XAXLLX_X;nfyW;;yydI!XfLiq;;fffgI{{;_dY!WWWyy__XL{htqIYdWNb!-YfbIXILd{(bXbW=yW_;Lf2fL!XqX_*?{WfYmdoIyfdW_yqf!Xtt__Wd;f_J_WdyfIYWy!dq!_tL!p{;_ILdLf!WyItq_bqLX_d_LdtfYWfIXqfXdyd_{d!b!{tWqYQIbXXYyy{dbbftW{W;yI_,LY3YLqX!XL};tdfQ{t=WyYdI_XqY!yy_YdX{qtfILfyWLyE_fbX!qL#tfb;d_,y;yqXbdXdyX{t_qbYl;;BY;XYXq{by5_qXLLftfI_d_fqWXqLI{LWLX;__ddy}btIYIX{f{!yyqdbbb>utW;IHqf!yLytbYXYL;{dbqdffBttd!IYX;!dqq_d0L:<;YII-yfI!dyJXXbqt{tXdIff!fWfqLI!fYLXy_d{d{lyWqYfIyWd!!{X_{bftW{W;yI_0LY^Y!bYLXtbtI_tdb=tt{dtIyLqy{_IXybduI_t;{d!t!Wt_;bX!qCj{y_WdttdWbYqfqLft({JX!d;FXtIYdTtf{W!I!qt+qtd_qYJdyKWWtIdqWLWLfy__bbIWYtYYqqbf{Yt{XdIbY!Ltt_WXfff!=Ytf!XYLqtb_{Ltm{t!d!ItL_{W_tXtdqCMtbYXQyf;{bqYbd,bLbtD;WdItqWiIyq;!yL__bd{b{/ytqd;IbXXW!q<q{b;AI{Wb!dWfhYzq_byXyy;tX_tbL*!;qY_XLfW{YyY_qdbL{_t;{d!t!Wt_;XWL_yttq;^dbfX;yYqqIX!yXyWd{Tqt{;tIWf!WXWtyWXdbbLq_qd!Xzf0;!y;qXXILdqt;dfIfXYL;tqXf{WWyWdbbb:X{!I{d_!YW!_bqQbq!L{f;ff_o_WqYXXLfL!t{Y_fLXiyY{Y;XIfI!dyNXXXWLt{;bydIfdW+IXqGL{!t_IdfLqAfWx;tc!XX{_y!bfLWtW{WI{dy%IW!Ybb_X_Lq{XbdbL>!tydtq_XqLXyW_qLJxyt!Y_dW!YWYyq_bX{yt{!;_df5IWqI+I{LY!_yb;XbfL!{{;{dY!LWtYYqYX_{;tqdddqWdWbILX{!tLY_Ib{bW#tt;dyIIXd!,qXqWbtL;_y;IIdfGYXYWqyb_!L_1_LdXtXWbqtbf!t{qqq;abyLWttddIbfqYqy_b!L{{!_d;!d;V{WyIXqfXdyd_td;fXWYtWd;qXftWLy!XqbIL;_;I?f;X;yWyfftbqLg{b;XLyfXt{YtI_fYLXqd_bbq{q;!Iyqq!{WLIy_dX!Lftcb;d_Ty;yYdIfXfWW{tq{bfO!t;;{IyWX!q_{_XLItfYf;fd!f{WbIdq;LW!{y__!bIWYtYY;IdLfW!{dqWXLLLYI;IIdfsyWydqWX_!{{tbqI#WLtW;Yq;f_{{{X_{bILYtyddIX!WWyY__qLbt&{fIIdtfItLYbqdW!!y;__dbffT{LIbIq!LW!Y{_yXYtL{!IYdWfJY;Y!byLX{ftX_tbLD!;qYII;!3!d;Hd_bdLfWzdWfY){YWy!q;X{Ly_X;qf{5YtIYtIbL_!qyb;XLLtW{WqbIX!WWWytq;!yLItX;Ld_ffWdItq=L!tb{2qWdttYYI;_fYXy!dy__q!!cXY_;Idff;tL_bqXfLL!_{dYbYWLt!qYIYX;!dqq;fd3itt_YVZyXd!;{fq_EbLbt-;WdItqWIY;f;XXWLyLq{dyLY{LYtIqfY!;q*_dvYvg;bdLfL?LWtyYqf!XLq;{_YbIwttbq_I_Xq!X_LqLb!Ly_t;_IdXfWYIyqYXtyt{WIIf{WqyVIjqyXd!_{qX!b;LItI;fqB3LWI_{q;XILI{f;;bL^ItYY;IIXI!f{dqLbIL{YL;LItXY!fqX_qN{LY{I;tdb!_W_yqqX!d!L{!_yLtn_WdyfIYWy!YytXtbWWdY{I_f{W-!yydq_bqy!{W;%r(W;yb{+bIXYyd{!_;b{My;XYyIbXdWLyf_y!tL{{!b!f_W{!!_bq_!XLt{q_Yd;tcWXY{IIfY!yqd_;oWL{{_YqdIfy!bYWqfbXyttqdddb!fWYI;Iyf_LKyIbqddtXtdIXIyWWyYqyqYXILt{bdI0{Wf!f_fIL!{Ld_YdbL;>yWb;WIfXXYty_dIL!tLt-;LI;tt!D_IqtLPLW_)_yd{tXtWq{IY!I{f;f_CXW1q{{qfI!h{W{YYbWXWLt{;IIdXf;WfYbqbLY!Y{;_dffEUWfd;q5fY!!{I_;by{X{W;td;!I!Iyd_9X{Ldq!;;dtfIt{q_I_XdLfyYXybt1I{L;bIdt!!X__qIXfuZyL;ddW/_t{Ytfqbhy!yWd{dbtXtd;fIy>Ly y!XtX!{ttdd_fbWdWb;LqqfWyL_Ib{d{W{tYIII!!byWqX_dbWL_{{;t/qffyLq;bYXyLYtXbqdyWLWqIyq_Wy!d{IXtb_WItbdLf{!{WyY__ZXIt{t;_IdIQby_Y_qqXX{LyL_!by{tt_YdqffYYyyYqt!ttI;{IyXffIYoyyqdX_Lqq!_Wd4t*Y;qI_JLI!Yqd_!b;L{tydXIyfb!dYLqfbyyt{{_!L!W_Y!y!bbX_yX{t_qbYh;;TYXI{fIWYyyXdbtt{{t;{Idt;WY_fXy!t{tqt_qd_{!tWYgfEXf{;_Lby!!>;tX;IIdttW{Y!f!Ldtq{{bqI=,ytWYtfdXb!q_bbWP!WItYddI!f;W{yyXXX!LWtqbyIX!bYWqyXdLq{_qy_ddI{tt{;!&!fLL;_Wb_!t%qt};bIXtyWdI!qffWLty{dUbLL{WX;Yf{Lb!t;f_;L{t_Y_;_XIfdtLy;IWZf!!td_WbL:LyIYIqdXk{WytqYbYLIWd;bdY!LWtYYqYXILt{b_YbWGWtYYtI_fWtf{ydLdqtYYIqIIILb!XYW_qX{tL{tYXd{VWWW_bqbbX!!;{_{d;fItWd!I;!X!Iyf;GXLtdtb_LIqvWYL___VwILt_Ld{f{x{yYY;IbXt!f;I_IddJ=;X;WIyX_WLq?qyX_L_{bYXdfG_yWYYI_X_!b{y_fb_W{WdqYqH!byL_LqL6WLt{_Y&dI!YWYy;qd!qLf{!;{dbtdWbYqfqL=t ;I_YLd3!t;;{IyWX!fydXdbIt!;YbtIqflWbyXfyXd!f{fqWdtL{tfq_Ibff!fYW_dX{LfYI;!XbfyYWqYbYXYt_{q_fdyLLybYbqcXW!Iqq_!xLLW{YY;d_fdWfy!ILFILXyL;tbWt!Wc;Wqy!Y{Iy_bYddWYWFIbfL!LWL_WqtX_KH{IIYdYf;WdIqqfX!L{{bbddbzq;qI!_lLI!Yqd_!b;L{tydXd!fW!qIy_Xgb{!;IddfIWI;yYdqIWt!{y!X!bLf;YWI{rtXq!eyb_X!yLd{f;fbWftt{Yfb_b{gb;__ddyVbtIYIX{f{!yyqdbbX!L{L_{IyQYtL_IqXfL!Ly{;XbYLLtbYbdLXXWWybd_dwWIttdLf{!{W{_Yq;XbLt{fIIdXf;WfYbqbLY!Y{;_dff4ft!Y{IbWdW!Y{q{X_3q{I_{XfJ!t{Y{I_X!!Iy{qLbLL{t!;YdLLb!t;f_;L{t_Y_;_XIfdtLy;IW<fLftP_tL!0YW;YdfqXfLEytX!bY?;tddqd!XdWWYLqL?ILItd;*fW(ttYYYIIbd!byYdLb{LYtY;IItfbWY_W_Wbt3;tb;t7qXP!dyWqbLL!L{t;YdftXtt;YIYfILdybqY?LL{{Y;YdIftWbYYbWXWLt{;bydIfXWLY_f;XXWLyLq{dyLY{LqIIXJLWLY{_XXY!L_W;bbLfXtW_fqfbP!tq!_Yd;wd;qYfq4ftY!yY_qdbL{_t;{d!t!yqqybtbfyttq;DdbfX;yYYItWt{d_ydtffCI;2YyIdf_!qI!qWb7{ltfYyfLWyYLIdq!X;!{{ybXddwWt_;{ItWq!f_LqWXYv;{_I{IY!YW_qb__Lf{{;{_td{fd;;YtbffLyt{YXtbq:__!YoIYfbW_y;XXXWt{{!_Id!WbWf;LbbXXWL{;qWfblfYW;WItf;{IyI_XbLL__;;yIbuWWfyXftbItIt;qLbLL{WX;YdLLb!y{bqWbfsX_tYXXbfy!bYWqfbXyt{WIIIYXfyIyEbbX!{U{yI_Xb3XWXYqdXXXyk{Y;fLq>{{I_{d{fqWXYY_XLW!ttf;Ub{fXtWYYI!W!!yq!qWL_3&tY;bd_f;YXYWb{XL!I{I_bf_fdtWyXqYXt!!qq_fXWtY{{_LdLZ{y;YYILAbLbtX_!NtHIt{yJIWbI!W{;_db{fdYL;!qbXXWW{dqLb{Q2;D;XfN%LYtydXIX!L_{f_Idqt1t{qYIWfb!byfqLX{t_{Y_WdW6YyqY_IWNbLy;W_Wdt1;yIyWfLL_!;{_;vLd1!YWI_f;f_WbyqqfX!LL_q;yfLfqYYqIbIXtLIyL_bdd{!tYq_Iqff!yYLdbb_Ly_y;IdffbtL_Ib{L;{!_);ydd>_Wqd!ILfILd_bbWXLWIWY;;fqfIWfy;ILdItY{Y;qIbe{;tYWIbbX{f_{qWfbf_tbIdIb,L!qYW;bg_L_tq;XfLf_t{IYqY!W{Yy{IfdIW{t{YyIqLb!XYLqLX{+y{Y_LXIkWYtyWXtbq{;{IdffYQYW;YdfqXf!!{{_bLdhbtqdqf!!q{d_{qL!yvd{!;fI%t;W_YyfyX{td;Ydd&{{!W;YXIIXdYty;__du{dttIWf;W!Y!_2bq!d!!{LbqdIB;;;q^X;Lq!{qq;*byLWttddIqfLWYYWq!!;Px;L;2dLf;;tYWbI!!{9;Sb4byA{;XYfIdWd!I_tdbL!{Xtt;qdYf;YEYLqX!XLb;ydILyfdt!YfqSW;L.;fqLX{7y{Y;qdbXJWf__qdXfL!yLdrdXLLWtI{X_fYy{{qd{dXtIYfqfIf!LW!YY_XX_t{{{;;II>W;!YWqm!CLf;ydXL;fXtt;LI!Wq!!y__;bbLIt!d9dLfXYXqy_t7fLI_,;yddi_Wqd!I;fI!Iyf;hXLLIY{;_dIfIWfy;ILXItYtXI_d!WfYWqWIWL{!yyI_!bbW_tdYyIbfI!I_{q{byLqYb;XbLKLt{yyIYfLtI{XqLbLL{WX;YdLfb!bYL_XXWLbY_YoXIftYLq{b{X{tY{;_bdtzfyIyIqdbs!{{dX!d;&tWI;{X_f_!d{fqY!yLd{f;fbWftt{Yfb_Xb!f{fqWddL{tfqII!Lb!yqWbY^YLYY_;qdffytL_bqbbX!!_l_{dy0q;;Ybq>XW!Iqq_Ib;{;YbqXIIW.!yydq_bqy!{W;}P^ff!yqLXyW!L;{X_Idd{tWd;WI!fYW{{dXqbIL;_;IXXXfIYCyyqdX_Lqq!_;}X%Itfy,dL!d!bYL_qXW{LY_YiXIftYLq{b{X{tY{;_bdtTfyIYXq;Xf!b{bdYbYJ;tdqfI1WyWWYY_;X_{t{{__d!uIY_qLq;LWLd__dbfbpbyfY6d{XdWY_W_WbtP;tb;t*qX?!dyWqbLL!L{t;YdftXttIqIYfILdybb;b_Lbty;ffb!{!d_Y_ZLb{L;L_LfWBtt_ypIILY!Y{;_dLq=ft!Y{IbWd!byqXqb_fnYIIfodf!W;Y{qy!XLy{b;dbLCfWydtI{f!Y!_Ydqb{{qWr;ydWftYdY!X;X{!_tq_I2ykYtIYtIb!I{Wyy;vbYL{t{qfIfXcWt_Yq;LXLI{fY3bLWdWb;LqqfWyL;_;MfIUt;LI{X{f{{Yy;qbbtLfYIYIIdXMW{ydf!b;LttI_{f_Q_WdyfIYWy!dq!_fXWct{{I}dLj{!XYYX{wbLtYf;;R{W_y_Y_bIXdWL{;qWffTfWZ;tG!fY!;ydXqbf.0{tb!dYf;WdIqI!bd!WyL_LfI4IWdYEXWf!!W{qXybIWbtf_WItN{yRYLI{bX!Y{q;_L!F;tIYIIbLYLe{f_y3LLLt!;yX_fd!yybqIbIt{{{;ydq!bWby1qWXIyq{;;fb{LLWrdyqXLf!X{f_y!!LLY_IPfX!XYXYtqW!dLb{qbqd_W!yIq^fdX!!;y{_yLXpftdddII!ty_It_qbxLbtXbyIX!bWf;Wqtf{!;yI;XbbWYtq;bqNffyXydqfb!{W;Y_{mWf;yWydX_Lbtb{bIfdPL{Wd;YXWfW!y{_qLLmLLtXdXIb!tydIy_dX!Lft#b;IT YWyYII_b(yX{f_dLdttW!qbI_WX!tyqqYb;{F{y__d_(b!XYfI_LW!Yy___bbzytf;_X{Xd{Y{)bbLLtL{LIWdtc_!QYIbYXqLt{I__d_WWtWYtI;LI!dyf_fXWkt{{;fX_fdWfyfIWbd!{{f_IdI fWd;LIILYLX;__!9ftWYW;WX{fyWIy!qbj_)_tqYXdWfqYzyyq!b_!W;Y_Ydqfbt{dtIqfb!bYL_!XWLbYY;IdbfbtLyqIWXbt_t%IIdttLY{q{I{LY!;yb_tbfWItIYdI,WXWWytq;!yLItX;Ld_t;W_YyfyLItd{_bXdtMqtYY;fEfL!XqX_bdtWf;td6IyfdW_yqf!bq!Lta_{bWfq;;Y_IyWy{d;d__LXzttq;YI;W*Wyqdq_XboX{fdqdI^fW;;LXfLYLX;__!UftWYW;WX{fyWIy!qb5_Ldty;bdIfIy{Y{qyXqtb{XbtbLL{Wy;Yf!fWWY{Cq_LYWftyILIqWYyI_IqITbLXyW;qb{WLWLY!qyXI!!q;;Xdq^LtIqfIff!!{ybXdX!{;{{__Iq?IYyYYIIXt!b_IdWdqW{WXIIXfLf!f_Lq!XYJX{_I{d{fyWqI;qbb LW{IbqdIC;;;YY_XL_{bqq;^byLWttddItfI!qyfqbbty!{W;xu?W{y;YWf;bX!tyL_!LqDz;y;WdYX;W_qtq{X_L!{Id_fL2t!XY{IWXWtb{b;Xb!W{tyIdI_fbLXyfbqbILft;_Lff!Y!X__q!Lf{W;W_Wf{zytIY!IbL_L_{q;XbWrq;<YyI!X_WW_YqYbq^b{{btdqWaWb;Lq!fW{X{fqWddL{;WqII!Lb!yqWbYrYLYY_;qdffytL_bqbbX!!_,_{dyjq;;YbqXf!yAy{_ybq{;tbYXd!WkW{y;_IXWy!tXI_dIsfW;;LbbXbLXy!bib{4ytqd;IbX1!WyIXqbIL;_;dLfW!;W{Iq_jXy!W{tbddblq;qIWX;Ld{{yLXyddL!tfYzP;fd!bytXeXttY;Id!-yWtY{I5IyX{yX{f_dLdt{Y;ydXYfWY;{XqtXLL!_q;Id;WZWX;LILf{LyyYqLIqW{tY;II;fbyI{q_*bbkX_y;!XbfyYWqYbYXYLqtb_{LtfayIYbdLXqWW;f_fdvLtYY;qItfIW_y_bWXWLt{;IIdtfItLYbqdW!LX;__Ibff>{L;tdYXXW_q;_qLdLq;d;tZLW{YtY{I_X!!I__bWbtfXt{;WIWLb!b{Xq!S{L{t;YIdWt!!ryYqbX_L;_X;qf{SYtIydIbXVWW{qq{Lt7y;;;yf;X<ybqLbnXL!{tX_YD{WfWbyXI!!J!{{;;IbW{!tWY2f%Xf{y_bbW!!o;tX;IIdtt!dYWq!XY!{tdbqdIE;;;qmXdL;!{qq;ebyLWttddIqfLWYYWq!!;LbYf_Lb{fytYYqIbXb!f;__dbfHf{LICIXPLWLq{b_XY{{{yY?dYQ{W{_fqfbn!t;Y_;bI=Itfy2dLfI{{y;qIbILft;_LdIWWW;YIqIXfLdyL_IfYfYW;ydILX;yX{t;-dYLLY{;{I;XIWWI!_PbYLb{_;;BXeWy{YYIIbd!b{5qWbWL{yf;!d{f{WYqyqtXYLY;IIfdbWIW_yqqX!d!L{!_yLt)_WqYXfdfL!!yyXtb_JqtXdddLf!WyItq_bqLX_d;;fWW_Y_y)bbXbLXy!d{b{VytqqbqHfY!!{I_;by{Xtq;b/dZLW!Yyb_X!L_{f_Idqt.WXqYXXbe!dyydIbtvI{L;bIdt!Wt___{dbt_{!;_df/IWqITqfLYyy_Yb_TLlqtL;YdWf!Y;{XdfLf{_Yfddd;fWWtY_q!XYLI{ybydqt_WRYYIbf_!;qXqtw{5X_y;tII^LWbydf!Xyt_;N;!KtWX;;YyqbfW!f{XXtb_WI;!Ytfy!:YqycbLdb{q{y;Ld!KY!#Y{q_Xtyt{tbYbL:X;X;!Xt!dLX_XbL!t4qtS;bIXty!XY{_^b_Ly{tbddttZt{YyIqW;!d;f_<L{t__t;_XIWqWYqIbKb!!L{d_y2{fqYbIIXqbd{q_LX!dqLLWdY{I!X6y=ybXYLy+;;qdLfL!IY!ytXt!-!_{y_qT:HdWYY;IbXy!I{f_qLqL;;b;Ydttt!Uy__X!dL;y{_ybYfqWkYbqXWy!I;b_fLWt;WqIdf{W%!dY_qqXIt{_tdyI;W_YIqWqdfY{qy_dWL!^;{WIyd{W!yXy!q{LdL;tW;td_f!WYyIqy!y{f{qbtib2IWdYUf!X;yq{;bbLYtbty;_f,fytLq{IWLXLt_y;tj_tWYbIYXf!W{W{+qYbLL_YWyfqY!W!d_{_gXItX{bI_dW!IWYILqqL{!{{y_qL;frtYY!qIX;!yqX_td MY{Ld&d{fyWqqfXIfHt{YI;qfWtYtYYtI;Wy!dyfbtdytY{{dtfyX;y;_bbbLb>H_WdbdLf;YdY_fW!!Lt_ydbfbWYYXy+fLWdW{y!qyLdL;tW;td_f!WYyIqy!y!t___Wd4t/WdY{qqW;!tYLq!XWeytd;_Iqt!WY__qILf{ttyd;MLtdW;;{IyfY{L_Qb!dtL{YqdLX_f_!qyXXdbtLItyYfIdfq;!y;qtbI!{qt__dq9X;WIfIbf{!;;YIYLILIt;;dhqf.tWq;_qLq!__;;;N_WX!Dq+XyLXyYqL_{ddtTtbdYfyX;yqqLbLGI{!ttdyFU<_WyYqX%XdLY{;_bdy%IWfYqfqf;ybyYqt!ta2t_YX.df;t{YyIYbqLM{b;XLygIybYffW!;Lq_db{LaFd{_;qdI!{Ytqy_;X_!!_{IbdqLLWI;WbbX;!__Cb_oL?IYWYff_f!{byb_XX!{Tt;;fIqfW!ryXfybdL;tf__L;hbWX;!fYWWtWy{dLbdLL;f;fIdf YXYtIYLd/X;b_bVdfdYbI!qt!W!b_WbIL{)_W=ddItW3W{yyqqLf{y_t;wIIfdtLyqqfXWLX_X;dLLUIt;d;IdLXyy{;b;/I{Xtt;qdYf;YOy;qfbqLWtQ;XLyfd;qYfq?ftY!yyd_bqtf;WdXdW!{YtYLX{LqUd{_d;fIWfW!IYf{!tLy_t_dLdBttIYyqfXd!qqqqY!Ltut!dtfI!Iy{qd_XLfyqyW;(bttqtyYLI!fYLly{__bt{t{!dYdLfXYXyqqWb;yy{!_fdoLLWtYqIYX;y<y{dYb_tb;!Ytfy!fYqyyIWXt!{YfdXfTf!YLq{XfLY!Y{;_dLqP!t_YtqbXq!;q:_yb!=_{Wb!dYf;WdILXbRILLy_;yXdt_t_YyIqW;!XYLbyd;tY{Ydyf;Xqy_Y!qdLf^p_{dfdWfqYXYIf{!tLy_;dfffW_YOY!f!WXWYytq;LXLqt{;ydIftW_ybq;!;!y_I_{b!{!WXYYqdWq!yYWqtX{O;tX;IIdttW__Iqb!L{yt;dqNWtXWq;YI;f_{Wq!btdytt{LdWXIfI!dyZXXbyLbt;;LIXfd;tyqqybb!Yqy_Idd7V;{dLIWXy!XyL_fLbLbtq;XNd/!t{qq_dLd!I_q;;6IWZW!ILXIf{y_qW_YdX{!tfd_f;XqydqWbW?b{ttyd;L!KIW;Ydf!XXL_{q_fd;zbtLYdfdfqyfy_qy!yL!tIYE:XfqtYY;I_bd!!{f;hL;}byf;Lf{!qLd_XbY!!gX{I;ddb!YYyq;_qL;{W_YIfdffRttd!qqfLLd{{_!d1{;WXYqILfIYqyf_9Xt{__{;ydXO_!b_WfLfLLXy!bxbyL_YXyRfLffyX{dbfLthy;Y;Xf;WbYYyIq!!XLtq!_Yd;jd;LI;fyf!Lb{XqWddLLt{Y.fiffYWybqq!qLXYEd;IqWqY{IKqyXd!_{qX!dqLLWdY{I!X3Y;yfXdXLL!{ybtd;!IWdILX{!E!{;YbybWtYYdyXX;f{WLqLq{L_{Y;yY;fyz!YXyyqbb;LLtX;dzdx_;WI!qt!y{b;bdYOXfc;!ddd{f!Wyqdq;bWLt{_;!dYfIWyIyIt!_!W{wb&ddA{Wqd;ItZLW!YW_ybdL_tqb!dY!_WIqfXtby{;_Lbdd;L{ty;YXL!)y!{tbL,b{LY_YqXIWIWZqWb_!Wt_{!IIIYUyWLY!IYb&!{{__tLttbttd!fIf_!qyX;fpIZdYbYFfoWqYIYPX{L({qy;dqz{tIYL;LI!fyYt{dqWdXlYtt;!*qX2!dyWqb!d!L{!_ypItY{__YIqQb!XqWqWdBLt_!;;dI!>!!qLILLl{!ttd{f_r{Y_YIXf!_Lb{tb;b{tfYXy^f!!_{__Wbqddtd_;_LIXZ!Y;Yt_fbs!{tX_WdYv!;!Yrf{Xf!dqd_;bL)y_tY4dbfXWfy!q;X{Ly_X_Wf{=YYIqOq!!t{bq;_tXLL!{Wqbfd!XLk__bILbt{{{;ydqt;!CYYq!bIL;{ybXdtfSWY;Lf3f{!yyqbfLIUtyq_fb_fWYYYYqtX;yy{d_f1tfyYy;{ftfWy{_q;dHIt;YbdWfbfL!;qdq_!W{!ttdyfb!byYqX_p!Lydy{_!bytdt;YWItf_!!yY_Iby{y{td_dWfAYBydq{bqy;{tqLb!LWWyYdI_XqY!yYd_bItf;tYyf;WLYdy;I{Xy!Y;Ld^V!fttLYqfLL_Lq;I;Yd;t;;!dWd;!_{SI!qILf{ttyYYfWfitYYLI_LW!y{fby(fWYtLq_I{!fydqy_qbWG;_yYXfdf_tI;gI_fqWbtfq7<I(bWqYXfd!{yR{I_!LXt;;_ILI!#{y_YYbL!L!y;YIXS_WdYyyqIb!L!f;I_tbft!{LqIf!Xt!}yqdfbf K{tb!IqGL!dy{q!bTy;tX;qdLZI;qYfqMfty_q{qvfyW;{eYaHL}L!XY!X+Xy!_;XY-oLsfYXYbXf!tLy_y_XbItb;YYII!WXW{I!qYb;Ld_LYYdq(bY!ytXWfWy!_t;yFYWXYqqbfYf{!yyqbfdYffYI;tII^LWbydf!XYt_yLb!dttyW.I_fWLI!;yfb!XLWIWYyfXIf;WfqWILlILb_t;Xb{W_tYI{ItX;!L{IIfbL!A{yq!d_,!tX{XIfXXtLtq;_I<!IWI_bI{!yL;_q_t5btYW;YfqqXWL1{XXybI{!;yIhfqW_yLYLq!Xyyttd_WIXfYWtY!fqbl!__1bqbySLt!;Yq.f{!_ytXtLbLttI_Ldbfd;!yXb_b{*b{;;fb{LLWcdyIILbyt{yb;LLtLtq;LdYVWW!I;qXLLLb{qbqd!W6Wb;fbtfbWX;L_Wft{;WX;tdLf!YqyUbLby{t{LqWX;LL{!_{qY0;yt{!_ILLvft!Y{IbWdW!_WXWLbL_tq;X)dfbWqIqq!L=LbYW;fX!fIW_YYIf!U!X_x_tL!!fyt_{quft!%y;d_!L=z{y_WdttdtLqWI{!_{X;b_bdDkWtIdqIf!LWWqYbIUILItd;KuXfqtYYYI_LW{qtddX*yWYWX;II!ff!fYLbbL!ot;yIfdb!YyX{hX!L_tItX_{IZf_WyYtfdX;{{y{_ybqtf;qdWfqW!ydqyX{XWLt{;db.;t!WXy_qqXfL;{b_Lddtdt_IdIt!>W!qt_yL;L!;d;dOWfqWLYYIWX!y;{ddLdbgq;qYfbp!{Y!{;_XbIAd_t;{d!t!yY_qqI!q7Q{y_WdttdWbYqfqLb{!;I_bLdj!t;;{IyWX!fydXd.Xt!{{btIqf*WbyXfyXdLIqt;dbWfXWYYtI!Wq!Ly__tb{LYt!;fIy/WWdydqb!thItWdXI_LW;L;WIbfq{Y_Lq;={tL{yIIfy!;WXqWbX)T{I{fI_dqf{WyYIqtX_Lb{;b;b{t;tqIdqX!,!qqt_dLIL{{!b!IXty!dY!qfb7y;tv_Yd!fIW;YyfXfWWY{Xq_bI+XtL;_IffdYdyqXTbyLd{_;qL!fqtLydq{X!L%q;_bLdLLttYYIfWXWWYYq;X_tWtybtd_fqWXIdILX!!ytYb{bWAtt;dyIIXX!Ly_X;bXab_yYXd{X(!_yyqt!d!!_;_{J;f^WfYyX4f!yY;f_fdeLt_!;YI;fdYqyfq!b{Lb_d_!dLtqW!Y_qtbbLq{;bndXL_tq;IIbXXW!_{q{byLq_;;bIVfWWIIqqIX;y;_!YXf_lI;qymIyfW!tqd_+bLD;_t;;XI!Xytqqb_L;yt{q;_L!uWW%I+XyL;!_q;;XbtLLt!dqI;XfW{YL_?!yLIYbYQfWotWWIdqtXILytf;ddq{!tyYLI!fYLmy{__bt{t;b;tIIsLWbydf!bXt_{!b!d:t!tWIqIY!q!IqLb;b_tHtbIUdLWYYL__q_L+{L_WIIIX&{!Py_qyXtyd{;d{b{mytqqbIbXXW!_{q;b!L_{Y;YfL&LW!Yyb_X!L_{f_Idqt7t{qYqqLb!y{bqWbf?X_t;!fdXXyOy1bWbX{d;ddffYA;WYI6q;XfLq{W;,dX{ytqY{IyfI!ty__bb;{;_L;;IfJ{tLyrfyX!{X{Ub!dNtytLq_I!W!!+q!qWLqLY;q;I2LW;W_qJqbL9!L_YdfoLt{ybYbft!!yY;f_!b_7tWbYqI;W;!fqqq!Lf{Y_t;X4yfyYIIWX5XXy!{^bYJf#yYW;WItf;{IyI_db:tW{yYRdYO{W{_fqfbp!t;Y_Ydqfbt{dtI!X_!fyI_qLwL{YYYqXbfX!bIy_XX{G2t_;ydttdW1yIqdfLLq{f_WdXtX;YYXI{fIWYyyXdb;tWtddddqWdWbItIL!t!{_Ib!bWtqtYIqIIWLyI_WqWLqtI;bI{I;ff!qyW_zbXyy{!IfdffjttqYIYX;!d;f_fd2Lt_!;YI;fdYqyfq!b{Lb_d;bdqtqWf_CbILuyd{!_;b{oy;XYfIdWdWL_!bbLW{Xtt;qdYf;Y&Ytq{bdy;{dIfC!W;YXqfXyW;!X{bXybYLt_t;_Xq!AYdy!q;X{Ly_X_tdWtdWtYIqybfLd{qX!dXtXYfdLf;XZyS_Xbjbq{ttyd;dqWdWtIWXqX!y!;fb!ddtyW;IqIdWL!f{1qtCYLqtt;Id_f_yWYWqtX;tI{d;ILtfdtWyXqYXt!!qqbWr;tLYII{ft!fytq;b;LWtb;_I*utW;yfq;f;XbLXy!d{b;%!t_;YIY!LWLy!qyR_L_tdYfdYtyWdyIftbd!WtX;Ydtm!;qIWX;!L{I_{btBftt;;I;fW!by__2XtL;tf;;b;dbfXt!q{I{Xy!qq;_bd:OWtIdqIIf;yIqL;X(_LI_qYCdylWWtIdqtXILq{f_bdt{!tWYjf*!qLy_LqW!!3;tX;IIdttWqy_f!bq!Ltd;{d!f4;;YdqYX;!b{y_Idf<q;q;;fqfIyXyyX{bfLd_d;;o#fyWdY_qqW!LE{Y_bb_3;;X;WX{WtW!qLb;Xy{y{Wd{fIWbYYI{X!XG{(_q;X^_Wf;LIYfyfWy{_IbbL{t_;IIWIyfb!;yL_Xbdyt{_dIdbtYY{q{I{X;LIyWX!dRGYtb;_I;WXWW_{bqX;{;{{dYfbWfyYyqILbdL{{!;RR/MX;YIXII!f!fq{dq*{LY;b;fIdf^YXqYf!bbLt_7dqf_j_WqYXXLfL!!yyd_b_?qtXILdtXXW{YWqW%bLbtX_!f{MyW{IXqyXbL;{L;Xdd{tW}I fLWWyqy!X!2){!tddyI;WqWdqXqy!{{d{tbtELttWXI;qq!d!XqWqLb!LyY_Y_IqXXWWyqXcbyL!t__WfYQYWqybI{Wt!q{_X!dqLLWdY{I!X#Y;yd_Yb;Lbty;IIffqYqyXXqXI{X{zb{df?d;d;!fDXy!dy__q!!NQtY;bd_f;YXYWb{!tL;_Ld;bytytWI{XI!byYq{b!bNt(;q;;f_!fYLqYXyXW{{;Idb:{W_YIqWqyXbL;{L;Xdd{tt_IIIbWYy{_{q{b;5I{Wb!IzfYWbY_q;!X!W;{dqb;t;t{IYXb!f{Y{qqLdd9{t!Y?foftYYqXqILfLf_{Iqf{ YYbYfqdX,yX_YX!db*t;sIqX_f_!qyXbLXLL!{yI_d_fqWXqLILX!!yqt__dq7X;d;LI!fyYty__qbX{W;qd!fdWyY{';sXkYDruMU_MyivXpMfMnrqrdXAmvuCVJ={"f(V9fM((ZZg9Vg=1VKp9Vaggpaga(?1gp399<9M9?(Zf139fa?p<<3fV<?<JM99=MgMpMJ","=?(Vp1JZ?ZMJf3Mga3ZMffZg1a?1Vgg","ZMKapf?p3fg?MJ9(=fa=1aJ(<1MVaV=ZfJ9Z3J(Vgp=J1JZ?JMp9Vf?paJVMVMaV(9V1fgf<=(?VZ","p<MV1KKg1<M9f(VVp?9?MM?VKaM1<1?ZZ(K(JMg=9(J<aK<3gKZ=Z9M11a19JggV<(V9p=fZ?K<V?<(M9a==","??gM<p?gpM=K33gg(f393<ff(f39JZp=MgaVV9919K1<p=KZ1aKZZ?g9ZM3?<1M9MfK==Ja3ZKKZ?afap=<Z3J<MaKMp(M3a(M=Z?V1=g9pa","=((9pa(f?K(p9=((3VgV=Ka1Jgg(=MM<J(V9ZK(1Kg3f=f((?Z1<?1=9=3Z??3ff==(9(J=f?=a<<JZ1ZJfp?ZVgJMaa=3","K1fK9=39=pVfKgZf9Kg3Zpp?gMKpZ<(Jf?J?ZpM(aaZ<J3g99","a1=a3Z1<J3J3Jf(JVZJV9aV3?M(pf391aKgVpJ==?3Mg1f31?a31f=9K3?M<gg<V(M=M?M?VVa(V((V9fpZfMKV(1M3=aZg(JKJfaVZ?1","(3gM1<39VKfg91((JZ=19fK1p(Z3Z1Z9<Ka=<Vag?g3Z3pa1VgZg(fK(1g<MaK3a39a?9aZ1a(<=MJ<<Kgp?1","agpM3pap?J((aMZfJV<1Z=Va=pa3=a3J9(?1Z?9Kf<KpM(g1?<pK=paM=?(9Va=99(<?g3pV1f3","3apM9J3app?Mp<3KfMg1VM9?M?gM(aVgZZZ(Mg<ZKZKZK(J3JJ9JVKaaVV<<V<?1J9(KgV?99","g=<J9VMgMJpaZZVa1gfZafagK1J?fg<(MfggM(Z3Z?gJ1Z9=aMaf(f??f(3((13g=ag?Vapa=gf(Z1Z3M3fpMaJMZf9VZZ","g<9K=3=(J?Kfa(3MJ?39fZZ=VpZZ<fa9a=3MK3V=Zp=K(fgMZ?M?=g<<f=VJ3ZJ?p?p(?fg1?g??Kafa1?=3pp?Kaf<?Ma9g(9<pfpfpf31MVJ3pf3VVK(pp9<ZKaaaJ3MpZ9M=a=f<=JM?==aJ9(aVa?9f(pZ1VfV<J1=?(g?pJ3<Z1?M1pg(?J39p(1a3g1fZ99(Zp<ZZKp1p3(aaMZ3M9ZVpZJp9=fK=aJMgpMaVfVMg1VVM3VaJfVZa1gV3J(ZpZJZK9JZV9Z(p=ZVapfa3(KJ(V3Z<Kp<1aVKaJV9aKZVVZ=9V39MaZZ?f==fMaZ?g(=9Vff3M1faa?f(Z1ZM3K?V1pKg1J?a1M<aMfK9=pMaMg=1(Magp<pJV1gJagg1K<1(p(gV9afaf<pa1(<=g?VaJgK=Z(Va<aK1?ffpa?a3VfJ?=<ZKMKg1??<(K1gMf1f3gJpa(J3<MK?a<<3a?g1VKJV?J<=ap1fK(J(ZMa3gp?fV3=VK?fZJ1?3JKKJpKKfJ=Z9ffZf9Z(=g9p<K<<(Z(<(a1fZVf9ZV??K?91(<VpKpga3f?(MKgggfpf?aZaVVVM1VgVVV11=aZaaMap(Zagag=ffVp3af9JZJK?=93(J<<MJaK39f=M<KJp=91=p?Jaa9p1ZV<<J(JaZVZ9KJ1JZfV?KVVa<f=?J=a?(J=9?1?MM1a<1???9apf=Kgf<pJaZ?Zggg9=Z??J<ZaJfg1<=KMfMaZa?(1(3MM<9fKZaa33gfKVaV3fMV=<(Vg3(f?1ff1?(1pVf99JV=V<J??1p(g31V13(9aJVJpJ9J?Ja=<paVZ1Zf<ppaV3fZ3Vfpg<ZJag<ZZp?3pfMp9J?1V1Mf33K9M(a3pJ=1<13a(K<3K3ap9gK?1??MMpgfMpZKgp91??9(ggV3J==aK9ggMVpMfg=?<p3Mf?Z=J1KZg1g(=?13g?g<11MJ1ZJ((Mp<13?ga<M<KV1(f?Mp9((<?Z3=VKZ=p9JK?agZ3M9J1Zf<(Jpp=K9<(g=1?a33<K1aJ<=faM1(p(=93?(3KZJ??<193gZa9f?(?Jf=Kgg11ap?K1K3Z=?g<3JpMa1??3g<3pafaaaJ=V(9<==Jg=f3f=fafKf3?f?V1V9<VZaJgVVZJ<Jppg1Z?fa3=(Zp91KgaZ(aMgMJ<<Z1K11<aKffpKZ<3=MKZMK3?g?M311(ZJ1p(=KMpaaffM9Z=MZfJg=Jf<gpZZK=<af3((1<ZMV19Z=<Vf?(<fV=Kf=g?KVVaM(Z?1KK9MZV91<p<3K?p1?=M<KpJaK9ZpV191Z?gK?J?Z(3V311?3aV?g=fZ<=JKM?91V((K1Zaf9Mg?9Zg<K199<9(<pgJ3J3f<=p<K<agVM?a1Z<9?(VKJJ(g3<1J?<gZ9J?(KZf33ff9pp?MZZJ?gaJ?JMZKJK1KpJ<=ZMa(J3g?<JZp9=3KMMZa<M3KZJZgKKJ91fJppK3M?M9f3?ag<J1(3<agJ((?fpg==gJ(?Jg9Kagap=9<J(KJJ3=M9(9V1JM1M19=?pVMp<13p=ZM(<=gaKMJV3Za?1JfppgZKZ=af1g<VZJ=?=JfKM(KM<1V3MKJ?V1(aVJpgZ<Zf9V==f(fgK1?VVfMp??3VZfZJ91<pJ9(pf91=KV(JKV<1f=K?V(M1M=MKp1K??(g3pg(=KZ?<agpfVfap(((<fMaJf3(1M9fg<=a=1=9?pg1?<a93g<<faJ(3(g?g=fKg9Jp=VZJZJ==9MJ33==aaM?(1M(f??1p3aggf1a<<<ff=Z?((<9a<af=K?11VJKM??f11?9pKg9a=VV<pg9(M<1pKg<<g?Zp1pa(M(J((MagJMga?<V3VMKJ9=JpgM91g<f?aaVVK?(K<=aapJZ3?9==g(gg=3ZKKa91pafZZV=(g9fpV1=aZ1JKgf?gf91VM?99a31pK1VJ<Va<ZMgaMM(aV(Zg==Z?=3fJg9fKKfgVMZJf3ZZVaa??g3KfM9aaVVVVZ3aJZKf9<=Z<ZfZ<=Kf<M?3(ppfpK(gZ<MJ=fgpV(91V==(<<?1=J=?V=(ZpJ<JKff?=1gK=p?f<1KV3gKKVp=pM3<pp<9M=(K?(gJ<K<91K(?3aK9aJ1K19=((fZ1(afaZ?Z93<apffZ(3((1M=V9pV?p?K?ZV1pJ=a13=p<1(ZVp1ZK3ZVZpggapK?a?fM11Kp(<1MVMV1K(p?VZ??Mfa9f31VZ9a3JZ<Zf99VJ((gK?1(=(a13M1=<KKJ<?<?pgp<fagVK1VVfMf9J?=3Vp9J(==p9fffpJ<3VMfa1JfZ<3((JZaMM1=91gMa<3pffJ?3JVpg=aVJa=VVp9a=3aggaV(93K(pg=fMVpZf=afaa199ZJ9ff1K9aZ?3p?1Mp?Vpp=?1Z===Kf3?(9?VJ?3JMZf<aMM3<gZ9<f(<KVJ<(1?Mf1Va<?(<9(=Z9VfKM==1K9=93<ZfV=(KKJfM?gZ<?Kf((ZVMVgJ3=(?JZ9?ZV1<=Va1VVJMafpa<(J3fMg?V(Ka<f3Zfg1K<VMff93ga<3MaZ=M<(=??VJ?gM<=aV93gfJ=9<9?=JfJ3VM<39JgpMZVag1fKZVgK<MJ3?=3a<pJJ(119a113M11?3Za<f1<1MK?(f?=<3pfaMZVf=aZMZffa(391apK?VfJ(13p3<==9?gMM??(KpJVKJ3?((KKJ==fZJgp?Z9f3f3Za???33=(JgaVZ=ZK=19=ZMfM3gg<Mp<MaV<?9Jp?MfafZ3ppZJ3KM(13?g3J?V<1fJZV=<M9Jf==9<1ZpJVa93MZ(ZZJ(VMZ<?gKJ3p=1V<KVpV3JJ=J(3=MK33?pMaV?gKK9gKK9(9=g(aM1f9?f1?ffp3K?1=MMZMgfZV39=3913f=J(3VM3(=KpKagMpVMVKZp939(pVJ(J1?g9KgaKZfZ<aKJa1?ZJ191V(fVJK1VJ33??pVJ9<=1?g=9Ja9p9V(fpZf?9=fM(Jpa1ZZJgggJg9J?K(=Z9=9fa9faa3=9M3p<<?a9fgg9M=J(Kaf9JMK??(JfgaKV3191=(J33(<pZ=39pf?3=Vg33M93V?aJZf9(KM(fZK?=K=ZMf(1Zg1fgp3K3VpJf=<Zp1g?31MZ<Mp1pM?39JMa=Jg3V(JZap<VMfVZa<<pf3<f=<ggppp?KaKKgKVVVf<M1??VZ9ZJJK9(ZJ3gJJ(JZ<g9(<3a9VMpfZfZ91Zgf?MJMV<ZVa9J?9Zfg=?13J<<V9J=MfgK3a=Zpg(f1=Vf=9<<=1(Z3VZV=1a?Ma1VMZf?(Vg1?p?gMZZaJp9a=ZJaKK??VZV=M?ZZaZ?J1<gZfJJa33=JJgV9MMf3=J3?g3Z=9JaK3==a9fK(1M=J(91<=f<K<99=1aaaMJ11=9Z?KZ?MfZ<?ppgaJg(gafp3p1=(Z?MJp<(ZVVfKg(3K?f(J<V(K<pgaa3=?aaf((VK3=9g1VK1=9JJ(Z<ga9M<J(?=J(=Z?(fpK?aaZa93aMaZVVMa?af9p33=?1J=VZ=g13=JJ3(=<Z91pp=9J(MpfMa=gaVZf(J?KJa?<aa(91g9?(=MVZg?aJf1==JV3?K?(ZMf1K1<ZVf=fJ1VKJMf?(ppKJZ3=aZ=9K9?(9(JV(f=Jg9J1<a=<f1K=?pMJ3?(J(fMK3aMgagKVgJ9KJMa9J3J9M3V?aJa3f=39fKKgaKa=K=Z=1a1Vg9p<3?gf1VfK?KJ3ZMagf<JKKJ391=(3<<gVMZa3JZ(gg<VVZ3Z=?1Ma1gJJ(=M(Z3Jga<f<=1gKJMZZ?Vg9V<p9paf3ffMZa9Kgg(K9JMMa(g((ZM9ZKfaM=?MZ?aJgK9aKJaMZK?=p<<9(9gfVV1?g?V==9VKaZ<J<MagK<9=?3aV93Vaff9<J=??Zgp39MV?9?pJZ(9aVV(=Zg?VVZfVZa31(K9<p=3ZJ(K1<f=ZK?(a=(MfZgf3aKfJ9(a?f(Ja?ZJKpf1Zag?91f?(==?MpVp1?3M3<Z3affp11J9gZJ<Mg9KMJ?g3=gfZ?gfZMf(V1JMVpgJV<Zaa(KMf(faKgVM<fM9p(pZafZJaK9KKMK(ZVMMp?MfKZJa31p??=J?VafKK=VZJZf=K1g(<gpZp(3g3f3gZV<=9V1gMp<1(J?a(p3KggMJp9K<(==MZJ<9aZ?ZJKJ(VfZZf1agJZ3K<MK=(?MV1?pJ<?11ZK=p<113JaJ9g=a313f(M(Z?31ga9g(9gfZp1Zf=JZ?g9JJgJff3f3=(V<pKM=9?M1?K=a919aV9VJ(?(gK1VKJ3pJ93gaMMK13KZ9(KMfggp?JZ3K=aM113M?ZMf=f9=VJJaKf=MJM(9<g(9J(aVaZ=pZ1ZV?p3pMK(M(Va1?3<1ZaVZ3M(f",""};return(function(t,...)local d;local l;local a;local h;local s;local f;local e=24915;local n=0;local c={};while n<258 do n=n+1;while n<0xbc and e%0xbb2<0x5d9 do n=n+1 e=(e*1019)%45840 local r=n+e if(e%0x1d36)<0xe9b then e=(e-0xfc)%0x45ab while n<0x35a and e%0x37e2<0x1bf1 do n=n+1 e=(e*679)%17049 local d=n+e if(e%0x229c)>0x114e then e=(e-0xba)%0x627b local e=55340 if not c[e]then c[e]=0x1 f=string;end elseif e%2~=0 then e=(e*0x180)%0x3c6c local e=51997 if not c[e]then c[e]=0x1 h=getfenv and getfenv();end else e=(e-0x2f0)%0x7b43 n=n+1 local e=37502 if not c[e]then c[e]=0x1 a={};end end end elseif e%2~=0 then e=(e+0x266)%0x8b9f while n<0x74 and e%0x275a<0x13ad do n=n+1 e=(e*1021)%1091 local r=n+e if(e%0x1070)>0x838 then e=(e-0x288)%0x9b9d local e=48127 if not c[e]then c[e]=0x1 end elseif e%2~=0 then e=(e*0xe6)%0x9260 local e=38341 if not c[e]then c[e]=0x1 d=function(d)local e=0x01 local function c(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=c(0x01)if(n=="\5")then break end local e=f.byte(c(0x01))local e=c(e)if n=="\2"then e=a.dBQIizAZ(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then h[e]=function(e,n)return t(8,nil,t,n,e)end elseif n=="\4"then e=h[e]elseif n=="\0"then e=h[e][c(f.byte(c(0x01)))];end local n=c(0x08)a[n]=e end end end else e=(e-0x10)%0x879e n=n+1 local e=84308 if not c[e]then c[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\100\66\81\73\105\122\65\90\0\6\115\116\114\105\110\103\4\99\104\97\114\107\87\70\101\103\119\73\118\0\6\115\116\114\105\110\103\3\115\117\98\118\77\75\107\68\100\122\90\0\6\115\116\114\105\110\103\4\98\121\116\101\65\118\83\122\108\65\65\105\0\5\116\97\98\108\101\6\99\111\110\99\97\116\90\107\86\87\88\116\119\110\0\5\116\97\98\108\101\6\105\110\115\101\114\116\85\79\110\115\75\68\118\71\5";end end end else e=(e+0x2c3)%0x5dcd n=n+1 while n<0x18a and e%0x4424<0x2212 do n=n+1 e=(e+358)%24748 local d=n+e if(e%0x842)<0x421 then e=(e*0x3fc)%0x97b1 local e=20747 if not c[e]then c[e]=0x1 s=tonumber;end elseif e%2~=0 then e=(e*0x17b)%0x32c0 local e=45870 if not c[e]then c[e]=0x1 h=(not h)and _ENV or h;end else e=(e+0x146)%0x9a7a n=n+1 local e=23950 if not c[e]then c[e]=0x1 end end end end end e=(e-684)%29467 end d(l);local e={};for n=0x0,0xff do local c=a.kWFegwIv(n);e[n]=c;e[c]=n;end local function r(n)return e[n];end local o=(function(t,d)local l,c=0x01,0x10 local n={{},{},{}}local h=-0x01 local e=0x01 local f=t while true do n[0x03][a.vMKkDdzZ(d,e,(function()e=l+e return e-0x01 end)())]=(function()h=h+0x01 return h end)()if h==(0x0f)then h=""c=0x000 break end end local h=#d while e<h+0x01 do n[0x02][c]=a.vMKkDdzZ(d,e,(function()e=l+e return e-0x01 end)())c=c+0x01 if c%0x02==0x00 then c=0x00 a.UOnsKDvG(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+f)%0x100)));f=t+f;end end return a.ZkVWXtwn(n[0x01])end);d(o(50,"P8Ies5wJRzhC-7}G7!hrzCw}eCxs8-78RGsGI5(G75R-8s}87}-5h8JG5e^7}z-eJ5}}CCCzC}w55zI7G7h}z8w5-RzJzswIeo8}}J-8RRsz8J}s7-e}+7a}7Ch7CeRhsRGe-5h85Re-CsR5R)58I8G8CGCGRseeIIG5-}z5w8-wzwz8wwI})Ii578J-5C8e8s78J-jh7z77heJsJCIRGI}zCewzsJI5R?sGsG8R}}}Jz7ReeRIIGJhsJhGw-J-ezk5-I}GR7RCzzGsIsRyJ--JzMR7J7shww}JJ5tG875z5RzIC0RJ}s7s78z}C7hh5JGwsIR}J-}z7Gs-5-IR-57I7Gz7GCsJR5GIeGyhzRe,w757wzGJssCs5Gj}8z-5wIz8sJ-sCsz8s}C-8zewJeGG7}Rh}w}GI-+-IzIR8w-qw}zCJzL5}8-zhwCwwe5ye7eh5RJwzszG5CsRzRJs7h-JCJ}s58CHJ-Cz8zUehIw}-h5IIG8}7-eRhwRe-8-}R-IRIszI-zRwJwsee95!_7+h8sh8C}57}R7F}7G7-h7J5se8I8s}8CC5he-.578C-IpG9}C-8Rh5h5788Bwh5zwwwIC;ewseeeJWe-7C8Rzwhe}^--sC55G7hhzh5J5sIszId-7C-wCs-Iz7I5QI88-}}C}R-5wee88-}z-Rzshew CwIe8IGGG-zCwhRs}s88s7-z85h7RhwhhJRwss8GwCzhC5he8IhRg50sCI8}}CR-JwR57!RGR-JJ}wh-szezJwIIhI7}wh5RsJJesG5}eehlzNR7hh.h8s}esII-hhzR-5kCLJ}RIsGe7I}75-RwCezlsGC5RIRIzGzCGR}RI5CeY}f-5JC5I87z-wCwJe-iw,7Chz5s7eI8e}RCz8I}87GCIJ}wIeJ:J7Iz8RheJ0RRR5z5eIIGI-IRhJhwJ)z}s-szhsIeNzhwhw5ewoz7w7-h5sCs5?777z8Rw7}h7hGJhs75RGh7sC8wCsJIz7h5sIeIw}--8--zhsJeNGJhIzJJI-hzCzJwheA:J-G-sCI5}e-4C7Rzswe7-hChRJ7sRewIs}8RC5zIG8-}75II887}7CCC-z8seVzGsC}Res8-RzzzsweesaL787Rz-JsesyICJReJC7hhhh5JesJ8sG5GIhJzL5-G5-GCJ8}}7}7C}R-J-ehee7w-JzG5hI5zsw8w8wG8J_e7CzJ55ee?Iw}eCehs-8h}zzwJ-e88e-zsR858wIe}7-wRCe8IG7e-III}GG8}C-zzsw}I77I-Gh8G--z---GRCs7eJ}CC-h7sC7wh5hIJesIesIf}zRhRCesII-Gs-8h8R}s7hC7JI5eI}---eJ-GJ"));d(o(217,"dY%eM-93OkIS5z&v%3-M&OYHe--e3vkv9e&I%%MY9SO&O&&ej5US-z3S39-&O9YOe%-3OkSqSMvkvveI3&3zSv53IM5v9YOIIOzM/YY9-Y9-k5S5&3.v%S&5YkIzz-vIYOMM9M%kSOze{z%eMv9eIzSM5vY9Y39M9&M93YHYY5-93Ye-5e&%*IMM9e3vO&5S&YYI-3-kIe-9O-Ye%59%O%IYz3&S%-ek9Yk%S%Szoz%-eX993&59z9SgzI-gO9IS&e+-%vY33SkI5h5vvOev9YO3M39&wOYkMO3I3XIkzy+9Jve--5kz93Oz&5eMM33MS&Szv9%veIY9MYzMv9%YMk9&O5SOzOYYYDe&9!3IkvzMY5zQv5k%I95&vvYv&33zkz59z&f3e9MMOMk,SS&vvO-835%&-3&z>ze9M&33I95&&OY5MY9-kM5ez9k&59-OOYkv5SvO&vY&-y39Ovz-&3Y%&kY%I-53v%YIev-zOkIkISzzvI%v9&kvIM5&I35z-vOOI9z%vvY9MO9&k%Se&&&OY%&&Y3IS5Mv%Y%e39v3ek9SzYY(%-YO!k3-IO-Y-e)9IO-MkzYv&%OMv3kOvIOz9L5eSMOkiIO9S"));yctzFiifZQKanpd=function(e)e((-a.zaQCKg_H+(function()local h,e=a.IWgmYgsW,a.hAgmoRgm;(function(e,n)e(e(e,e),n(n,e))end)(function(c,n)if h>a.RMYREEDn then return c end h=h+a.hAgmoRgm e=(e-a.qzjGKYBX)%a.kbCditmk if(e%a.mkHYCveB)<=a.mLHqmUeu then e=(e*a.cKcJfmLT)%a.BUmBzkbA return n(n(n,c and n),n(c and c,n))else return n end return n end,function(c,n)if h>a.kvI_QwKZ then return n end h=h+a.hAgmoRgm e=(e+a.XUaxn_xy)%a.KRHaWVAM if(e%a.AmJmZFKh)>=a.AEKUEbZL then e=(e+a.YvBWWbbR)%a.MasQBIyq return c else return c(n(n,c),c(c,n))end return n(c(n,n),n(c and n,n))end)return e;end)()))end;dpnaKQZfiiFztcy={a.yQXSFDRs,a.DLWVHgRV};local e=(-a.WMEvRphS+(function()local n,e=a.IWgmYgsW,a.hAgmoRgm;(function(c,h,e,n)n(e(e,e,e,h),h(n,n,h and n,n),e(c and n,c,e,e),h(c and h,c,c,e))end)(function(f,c,h,d)if n>a.BHZXdVOd then return d end n=n+a.hAgmoRgm e=(e+a.dfiDGCnO)%a.feqBVQOl if(e%a.kQxIlneo)>a.ISfllVyU then e=(e*a.ktStUhwR)%a.CSBBaTry return h(h(c,c and c,h and c,c),d(h,d,c,f),f(d,f,h,h),c(c,d,d,h)and c(f,c,f,h))else return h end return f end,function(h,c,d,f)if n>a.PtLqvpWR then return c end n=n+a.hAgmoRgm e=(e*a.VeLAeFOz)%a.uHoLnoXv if(e%a.ePARwfYy)<=a.cBZzTezp then e=(e+a.WzSxMMJs)%a.XcjLcKTQ return h(h(c,d,d,c and d),c(h,h and f,c,f),h(c and d,d,c,h),h(c,d,d,h))else return h end return c end,function(c,f,h,d)if n>a.mLYCZmtw then return c end n=n+a.hAgmoRgm e=(e+a.LSURCnMP)%a.RqERdlFf if(e%a.pkCoikQx)<a.vJVeQ_sV then e=(e*a.ttSngDkx)%a.ZzXhihVW return h(c(f and h,h,c,h),c(h,d,c,f),f(c,d,h,h),d(d,f,c and d,c))else return f end return d end,function(d,h,f,c)if n>a.VveAAIhk then return f end n=n+a.hAgmoRgm e=(e-a.fmQIfbYI)%a.pfpbbIGq if(e%a.Ix_zxCOi)>a.ZJuJmwda then return h(h(c,c,h,f),h(d and h,c,c,c)and f(d,c and c,h,c and c),c(d,d,d,h),h(f,d,d,h))else return d end return f end)return e;end)())local r=a.l_ljgowc or a.RkPTaCty;local fe=(getfenv)or(function()return _ENV end);local d=a.sMkucScd;local _=a.hAgmoRgm;local h=a.vvwVnUiQ;local l=a.sozqIyOp;local function ce(j,...)local y=o(e,"s>G!cCD=^hy8SjJ(DJ!^Cc=/^(8hScJY(S>DCCcc^DyhSCJexoJS!CG=DGCJhjycjSj>(=>CGSc^Dc=JC8jc8=S8k(G(ccDo=S(JG!cGC>Dh^=y^CJ=^hc8oSSJ^-cDj=SCy=chgySS^Jc_ZCC=^C==C^Sy^ScjJj(Sj>^)yD((DycS<jS(D(C>3GSchDc^ghj(D>8G!c>D;=8yy=jj>J8>DG=c^Dy==yQ8^S=JJ>>!!chCCD(hD8G^(Jy)h>=!DD>=Jh^y8SSJ>SC>8c>Ch=S^=8Ij>J^(8GG!Jc8=N=(yJSyJc(=rS!8CDD!!yDDSyhJ8yjD(G_J!>cDDGDJJ>J=>C#c!(Cy==ydy8jGjc_!>8cGCJ^==Gy8jcJ!j8GycDD3=!^^8=jGj(jC0G>S!^Cc=t^SG^K(G/((>j!cC<DS^D^!c8!h=8>=!8cSD^^chJjy(hi=GDC>DJ^^h88Sj>j=(JuSG^ccCJGCJjSC^jDj=^J=CJSy(c(9=!DcJyncGx!SC^=chzSSv^JD />S!^Cc=i^SSS/cJG(S>^!cCuDS^^ySdtjJ(^>c!YcSD^^cSD(Sj8(8>UGSc^DGyCSGjSJ(>tGCGyccDa=Sh^8cCu!Dc^G=c^CS=^hcyJchG>ccJ8y=(gG=h!8>S^JcXx>yc=ch(h>hy8ShJt(S>^!G=J(GJCF!S!JG(^>c!Vcy^yy^88jS(J(D>lGSc^Dc^3=SG=>c(!>>G^ccDn=y8DjCJ!iGo8!Dc2CS=^hGj!jjJSl^ch!CCG=^8=jDS8TJ(cGCD#CGD(^Jy^ScJm(S>^!ch=yS^yycSFjS(^>c!&Dcy^^DyZ8Sj^(c><GSc^Dc^GhS8^jc(A3SG^ccy)=Jh^8cjMJSR^GcCShS=yhc8xSSJ^FcGLDSh^=Dh9ySS^JcaU>S=jhc=!hcy^ScJ/(yhh!8DDj>GC=GcGj((j>c!*cSDDGcyyDjSS(D>bGSc^Dc^YhSl*>c(!GDG^ccD1=yh=jC(>YS_j!8CCDj=j8yjcJ=6^>jcC!D=!^yyDS!J^j=GDcGCSC==^^Sy^ScjJ=JCDgc>j88JJC8S!hJ(y>c!;cyG=c+C(=^h!J=JGcJD!=hyDS!jSJ8SG!G!8D>==hSDySS(cLjG=(DD8=jh(8^^G(C((>^!Cc(==Drc(D^hy8DjGJJOyGDcGDy=yhD8GSJJyMDGG!JCy=DhGyJmh(c>%GS=hCD=G^JyySDJG(J>y!DCGDJ^y8Gy(S^(y>D!GcJDy^D(jSCJ^(D>GGJcyDD^GhJ8yjD}_>CGycDDG=Jhy8jJOJJnyGDcGCJ=yhD8GSJ(^Lj=(G8cc=DhGyJSyJDCj>Jh^CD=hhSyySDJG(J>y!Dh>Syy=yDSGjJ(yCC=>yyyh^DyG8Jjy(D>G!SC>DD^G(S>=S!jSpJGycDDGjhhy>cjGJJD^GDchD8^^jC8GjDGhcCD>=jhh8Cj>Jj-hGCc>G=!yhC^Ah88>GcJG(J=^!DCGS8==hNSGjJ(y=>hpcJDyJcyG8J!^(D>GGJy^=c^hhJ8yjD(G3JGycDDG=Jhy8Djh(SVy^ccGCJ=yhD>.SJJy4DGGh8c=DBhGyJGCJDQG=S!yCD=GJSyySDcr(JGh!DCGDJhhJGSGjJ(y>D!GCjyD^DyG8J>D(D>GGJy^DD^GhJ8y!c(G}J^=!!cS=Jhy>>jGJJ;y^ccGCJ=y(c8GSJ(hZDGG!JCy8Cj>yJSyJDPG>J=hhC=G^JyySD>J(J=^!DCGDJJ^yDSGjJ(y=!>(!^Dy^DyG>hjy(D>G^ScyDDh>jyShjD(G>8cDcJDGSjy!8DjGJJ>GGDh>D=h^y!8GSJGD>CCJ!J8^=DhGyJG^c!J(H^!yCD=G^JgCSDc<(J>y!DDj=D^yyDSGjJ(y>DDJCjDyhcy(SSjy!GG>GJcyDD^GhJ8yj()jaJGycDS5=J(=y!8SJJ4yGDcGCJjChD>wSJc^cGD>!JCy=Jh8yJSyGcgGGD!yCD=Gh=yy)cJG(JGG!(CGDJSh8CSG!S(y>D^(!8Cc^DyG8Jjy(D>G!CC==cS>(S8y>G(G#JGycJyG^8y^(Cjh(8>>DCCeD8^>h(8GSJJy>CGGhShh^ch(8C8=jaEG>J!yCD=G^JyySDJG(JG>c!C(yy^yyDSG>J&>Gc=>CCDS^jJ>SSJ>!D>GGJcy=C^(y8S>S!jSpJGycDDG=Jhy8DjGJJWyGDcGCJ=yjG8GSJJy/DGG=yhy^!hh8jSyJDlG>J!yDCC(=^yySDJG(J>y!DCGDJ^yyDSGjJ(y>D!G^JyD^DyG8Jjy(j>(!CcyDD^GhJShjjj((^GycDDG=Jhy8DjGJJnyGDcGCJ=yhD8GSJGycGGG!JCy=DhGyJSyJDiGGjc>c!CS^JyySDJG(J>y!DCGDJ^yyDSGjJ(y>D!GcJDy^jyhS8J^fcGp!8C>DjD(^^8yjD(GVJGycDDG=Jhy8DjGJJmyGDcGCJyGj=z#>G!j4DC=^JCyyhjj(=qJj!JS 8Gc^=y^8Sj^(cVJCj=(^=^Dh_D=cc(!>>G^ccD+=ycCyC>i=!l8G^cQCS=^hGjC(!(SADGL!SC^=choyS(GGce!G>!^Cc=&^yTG8^!y(j>8!JCnDS^^yG==^>cyh=QcJGJj(jhJ8(jj(c>wGScD=hhyy(jSj=(CYSG^ccCJ!SjDGCDKJ(HSGcc#CSjyrjGc!>J8>!G_!SC^=G!J88j(J^4yjS(jcyy>S8cDCGGJGy>8!yCNDS^^yG^8(cGy8!(yc(Dj^cyo8SjD8>(Ch8D!D=^chS8^jcDc^Ch^yhD!hjh^8cjaJyGjGJCjD=DJ8^j=S8J(>C>(D==!hShySJS=(S((!SCS==hcyG8G8=((Gc!(GhC^D^^8y=SgjS(^^=yCyJD8hcy38Sj^(GjSCc^8(J=yDoy>nDcy8(!Shy(=D!Cc8=J;JSe^Gc!J=Ghy8cS!ShJ8> !^C==!DS8SjGjj0(g!G8!^Cc=qeCb8!^CycG^>hj8DSDjhJ(G>cyD^=^!GcSD^^cy98Sj^G(CtG(cjDc^xhSGS!CCG=^^jc=DD=Sh^8cSJFJ>j!=CJ=y=8hS8*SSJ^LG!hC!=J^Sy=SS(6JDF_>S!^Cc=#^Sh^/!JG(S>^!cCUDS#^JS+gjJ(^>c!ecSD^^cS^(Sj8:^>lGSc^DGHJC^8(Sj!hc^=Gy^Dc(jS!DyC=DGcG!C8y(hCDh=8DSSJ^1ch!8ISyjj(J>!S8(!{:>S!^CG^Jv8>>y>(bCD^hSh>Gy=8(j88>D((8>j!rcSD^^GSDjj(j>y!cc=D^=j^!SS8^jc(l0y!!DC^=y&DyjDJJ((GJ!SD>^Th=DDS8(>8yG8c7c(DShGy==JJJgCjG!!DGD8^C8!SJj88GGG!Gc(=C!Jyj8hJc(=>y!y> c(Dj^cy98SjD8y!hc!(>D=^chS8^jcC!=c^h8DDG=Sh^8cjRJS^^Dy^mC(=jhc8ISSJDCyc8!P!j==y>ySS^Jc(J}j!c=DCJDD8cS>S(T(!Fcj!!=c=!y!yCjJ(^>c!HcSD^^cSG(Sjy(c>KGSc^Dc^byS(^j=((pSG^ccCJ=JchJjGD>Chyc=jjJ!>8^cNcG>(=YDGi!SC^=ch*yS>!Gc)G>S!^Cc=3^Sy^2=GU(J>^!cCqDS^^yc(^>S(y>c!*cSD^^cyoji>^(=>jGSc^Dc=Jh^JGJ=(=>c!ScD=>=jhSjSJ>J(>!Gcc;CS=DGCJ!jS=^(hjJJ^i>SCD=y(SjJcBd>S!Dhjhh=C^hSc!>(j>^!cDGyy^^ycS6>!(^>c!)CG=>^cyp8SjS(c>>GSchDc^cy^8^jc(&>YG^cCDI^&yc8cjkJS!^Gcc>CS=^yS8*SSJ^AcGb!SC^=c8>ySShJcv9>S!^Cc=nyhy^ScJ<(S>^!CCg^SyjycSLjS(^>cDScS=ySSyq8jj^V(>XGSc^=D^chS8yjcG=2SG^ccDDj=h^8=jqJJ;^GCcQCj=^hc>SSSJ^4cG>!SC^=ch+SJS^JD-l>J!^CC=ohJScScJG(Scy!cCuDShy8(SPj((^Cc!zcSD^yc8^8Sj8(c>!GS=SDchG8!8^j^(tcCG^ccDrhSyh8cjcJSUSGcc!CS^yhy8%j>J^ccGz!SC^hc8CySSjJcHC>S=jCc^GS(y^SyJ_!S>^!cCr^S^8ycSDjS(J>cCJcSD^hMy,S!j^(c>0GSc^=D^jhSStjcX8ZSG^cc=G^^h^8jjnMG.^Gcc,DJ^chc8ySSGcAcG_!SCS^>hI8cS^1Ck,>j!^Cc=^^S8cScJC(S>^!cC-J^^^8>S/J=(^>c!McS=(^cyS8Sjy(c>GGSc^=y^_y!8^j((V>^G^cc=8=Sh(8cjSJS>!Gcccy>=^hS8UJ=J^2CGX!S^4=ch^ySj2Jct,>S!Jy(=}hcy^SCJw(j>^!yC.DS(cycS;jS(y>c!ncSD^(Yy,8Sj^(^>6GSc^DcJShS8^jc(^qSG^ccD&J^h^8cj%J(m^GccxCSJchc8qSSJ(dcGg!SC^JPhMySS^JC/e>S!^CcyS^S8>ScJ^(S>^!cC{^D^^yJSLjS(^>c!.cS=D^cyh8Sjy(c>GGSc^D^^IhS8^jj(} SG^ccD!=Sh^8cjGJST^GcctDh=^hc8#SSJ^acG9cF=G=chWyS>^JCE>>ScySS=_^Sy^(yJ&(S>^Cc^=DS^^ycS0jS!c>ccGDGD^^cyX(Jj^(c>Q!JchDc^1hSJJjc(4tSc^c8D)=Sh^8cj42^f^!DC=CS=^hcSCSSJ^vcGOcyC^=chuyjS^Jc?6GJ!JCc=z^SS8ScJo(SGyySC1DS^^j=S3jS(^>cChcSDh^cyf8Sj^(c>i!>c^DD^bhS8^jc(7nS!CccD!=Sh^8cj0JS>y!^c+Dt=^jS8&SSJ^>D!j!SCj=cy8ySS^Jc>GGC!^Cy=XyGy^ScJe:J!C!cC=DSScycS#jS(ScS!gC>D^SjyI8jj^kD^^GSC>Dch#hS8^jc>g^=G^cjD%^Ch^J7jNJS>DGccyCS^?hc8*SSJ^Y^GPcCC^=DhHyJS^Jc>h>S!yCc=^^S8>ScJ,((>^!jC DJ^^ySSejSp(>c!GcS=>^cy^8SjS!h>%!>c^yC^bhj8^JD^8QSGjcchS=Sh^8cJG!(n^GycU=y=^hc8LjJJhFcG=!Shc=chPySSS11f0G>!^yJ=1^jy^JcnD(SG>!cC^DSScycJ*>>(^>J!zCRD^ySyp8SJD(c>SGSCXDc^EhS8^Jt(4>hG^cSDW=Sh^8cJ^JS>GGccjCS=yhc8<j8J^z=GOcCC^=JhzSSSjJc}h>S!SCch^^Sy^SCJI&=>^!SC3DS^^ycS^jS+c>c!^cSD^^cy2GGj^(j>O!^c^DD^{8S8yjc(y%S!IcchS=Sh^S!jTJ(+^Gjc:DD=^h^(CSSJjXcDj!SCh=chDa=S^Jhl+>(!^CC=&hNy^SccS(S>^!cC>DS^^ycS_c^(^>c!EcSD^^cyA8Scc(c>iGSc8Dc^qhS8^cN(dBSG^cDD4=Sh^SDccJSMJGc=8CS=^hc8DJ!J^,yGYy!C^=Ch4ySS^J^;S>S!^Ccj=^SyhSc(G=c>^!yCiy=^^ycS_jS>S>c!DcSDh^cyG8SjJ2>>i!Gc^S8^:hj8^jc(I>;!cccDR=S((8cj>JSUS!6c)CS=^(S8;SjJ^>Dh^!SCJ=ch>ySS^JcRNGc!^C8=&h>y^ScJ-&J^8!cC^DSh>ycSVjSqyGJ!ZCCD^S)y}8Sj^pD>hGSCGDc^JhS8^jcfG>cG^c(DXyzh^8cjW(JGcGccSCS^ahc8RSSJ^>hGec!C^^_h1yJS^Jcmj>Sc&Cc=C^Sy^Sc(GD(>^!jC_hh^^ycS.JJ>f>c!ycS^c^cy38SJy/D>p!=c^=G^MhS8^JD(jpS!cccD8=Sh^8cJG,!I^!>cnDh=^hc8wSSJyicG^!SDC=chGySS^(F#uGC!^Ch=<^Sy^jDC!(SGG!cD!DS^^ycjG(>(^>(!lCyD^^cyvSJJC(c>SGSDGDc^mhSSy(w(z>hG^=cDR=Sh^SDJ^JS>DGcC>CS=^hc8MjCJ^PjGHcyC^=Dh6ySjyJcAy>S!jCc= ^S8yC(Jzl=>^C8C&DS^^8DC8jSOc>c=ycSD^^c8GC=j^V>>:=8c^Dc^-yJ>8jc(JOS=!ccD?=Syy8Sj}(8}^D>c<CS=^hc8hSS(GPcG(!SCy=ch.8>S^J(N#>J!^Cc=Y^Sy8ScJS(S>j!cC9DShyy=S)Jh(^G^!QcSD^hD888SJD(cC(GSc^DchG!!8^J!(kGhG^ccDo^JhJ8cJPJSchGccZCS^y808ZjjJ^C>Gb!SC^=cyWySjcJc>>>S!yCc=LhCy^j>JRt>>^!cCe=JhhycSJjS!(>c!6cS=yhjypS8j^HJ>kGSc^=D>8hSS^jc(SFSG^cc=G>=h^SCjK>8I^GccXDJjShcSGSS!c3cGX!SC^=^hr8hS^(DbY>J!^Cc=!^S8!ScJj(S>h!cDGY=^^8LSn%>(^>c!)cSyy^cyj8Sjj(c>3GSCy=G^Ryy8^jD(kuSG^CDDc=Sy=8cJjJSM^GcCG=h=^yc87>8J^NcGqcJCh=cy>yS(!JcO2>ScyDD=PhJy^>GJb(S>^!cD=DShCycjGjS(y>c!:JGD^h>ylSGj^V>>N!Jy)Dc^JhSj!jc(fdS!yCjDQ^8h^88jkJS<^GccyCS^^hc8DSSJ(LcGDcJC^^chwc(S^JCvH>j!^C^=S^Sy^Sc^!(S>h!cCc=^^^ycS4h8(^>C!eCJw!^c8Y8S>c(c>4GSc^S;^Vyj8^j((+QSG^CD=C=Syy8cNSJS}^Gccc=G=^yc8}^yJ^ICGT!SJJ=cycySj!Jc>!>S!^hJ=PyRy^SyJ3>Y>^!yDSDShSyc=jjS(h>c!6cSDShZyN8Sj^8>>#Gjc^Dc>DhSSSjc(DNSG(ccD&ySh^S^jVl6z^GScICS^^hcSCSS(!qc!!!SC^^yh#S>S^Jy9_!>!^Cc=D^S8SScJG(S>y!cC7=G^^8^S3(I(^>j! cSDy^c8c8SJS(c>3GSDJD=^;8L8^h>(MtjG^CGD_^;yc8cj_JSSCGcc>CS=^hS8,J%J^>>G_!SC^=chCySjjJc*S>S!^Cc=/hJy^j^J*(J>^!CC5=Jh4ycjcjSc^>c!McSD^^Jy#jwj^(C>WGjc^DchyhS8^jc(>xSG^ccD)h^h^S^j&{do^GccfCJ8^hcSCSSJS/cG+!SC^8yh3S>S^JCmW>j!^C^8C^S8^Sc^=(S>h!c=2y=^^8GSTJy(^C0!UcS=U^c8.8Sjj(c>YGSCyj=^5yj8^(J(_:SG^CDDh=Syy8cjSJS_^GcCGDc=^y=8T>8J^lcGTcJD(=cycySM=Jcl)>Scy=>=4y>y^7yJu(S>^!cD^DSh^ycjCjS(y>c!{DcD^^Sy5SSj^(c>FGS^yDchihS8jjc(rBS!ycCDn^jh^(^j:JSU^!DC!CS^yhc(hSSJ^ec!Gc>C^^=h4SDS^Jc{zGJcCCc^c^SjjScJv(SGycjC_^>^^yhSfjS(^>c!JcS=^^c8C8Sjy(c>*!cc^Dj^OyS8^jc(I&S8Jcc=b=ShJ8cj^JS4J=GcND!=^D^8nSjJ^>cG6cfDc=chAyShSJc_>>S!^Jy=YhSy^SyJ2;!>^!cJDDS^(ycjNjS.i>c!OJGD^hcy,SGj^(j>*!GhDDc^^hSh=jc(>%S!^ccDc^^h^8cjzS8)^GCcICS^OhcSOSSJjLcG{!SDyyDh_8jS^!Dq}>S!^DD==^S8yScJj(S>^!cDG^D^^8=SXGD(^>c!mCJDy^c8c8SGh(c>nGSCy^>^l8>8^US(d/SG^ccDS=Sy^8cJCJS)yGccx=G=^hS8ijGJ^>cG9cJ(!=cy*yS3cJcPW>S!^8T=rhjy^S(Jx(S>^cDD!DShyyc(SjS(^>c!cC^D^hcy:y8j^(C>9!JS)DchchS(Gjc(}WSGJh(D5h>h^8yjuJjM^G8cpCSJchc8-SS(YqcGY!SC^JlheySS^J(+e>S!^CcjS^Sy^Sc(!(S>^!cC6j^^^ycSAJ!(^>c!McSjc^cyr8SJD(c>FGSc^jm^MhS8^J>(LASG^ccSS=Sh^8cjSJSX^GccR^8=^y^8%SJJ^:CG6!S=C=cy!ySS^Jc4b>S!Shh=IhSy^y=J}(j>^CySGDShDyc8yjS(h>cc8cSDSh1y38Sj^JJ>%Gjc^Dc^^hSS^jc(j;SG^cc=GG!h^SCjdG(4^Gcc/CShGhcS4SSJy,cG>!SDy^Jhd8SS^!coM>S!^Cc^c^S8^ScJ>(S>h!cC*=B^^ycSgjj(^>c!ncS=S^c8x8SJ^(c>-GScyyc^Eyj8^jS(raSG^ccyD=Syh8cj>JSBhGcD6^>=^yc8fj=J^G/Gm!S(8=ch=ySSJJc>M>ScyDS=.hSy^g?JW(S>^!cDGDShhycS8jS(^>ccGCSD^hDy?(^j^(c>;!bC8DchwhSSDjC(>NSG^jyDbh7h^8(jf((Z^GcS!CS^Shc8DSS(SvcGDCDC^^^hO8hShJCRnGh!^C^=S^Sy^ScJj(j>h!cCz=c^^8^S<Jh(^>c!&cSDj^c8C8SJc(c>%GSc^Dh^R8P8^jD(_ujG^CDDy=SyS8cG.JSz^GccI=h=^y^8dSjJ^:CGR!SCS=cheySShJc#z>S!^DJ=*y%y^j^Jt(S>^!Dh}DShjycSCjS(^>c!ThGD^hhy?8jj^(C>R!O^jDchKhS8^jC(>0SGJh(Dp^Sh^8cjOJj/^GDc/CSJchc8&SSJJicGB!SC^J,h}ySS^JJF.>S!^CcW>^S8hScJ!(S>^!cDG=G^^8DSM(>(^>c!1cS^>^c8!8Sjj(c>oGSCyDy^/8F8^-C(_?SG^CDDD=Syj8cj(JS#^GcCGDJ=^yy8,jyJ^ncGfcJ=G=cy=ySJJJcY+>ScyJ(=kycy^jjJI(S>^!c8hDSh8ycj^jS(y>c!*cJD^h^yrS>j^(c>d!JC>DchChS8Jjc(o{S!yc^DOhGh^(GjRJSX^!Dc=CS^(hc(ySSJ^9c!GccC^^ShI8JS^Jc?6GJ!8Cc^h^SS=ScJl(S>^8>CU^g^^8jSkjJ(^>c=ccS=h^c8c8Sjh(cGGS=c^=D^nj^8^jc(m3S^ccc=!=Syh8cjrJS>ycAcV=9=^jF8NSSJ^-^GC!SDy=cS^yjShJc>G8=!^Dy=7S^y^ScJf(S=c!cD=DSh!ycSqjSYy>(!gDcD^S1y,8Sj^(^>8GSCJDc8=hj8hjc(w>cG^CJD6^Sh^8cjNJSgyGcC8CS^!hcShSSJ^>jGNC^C^^ChPS>S^Jcrh>SCGCc^S^SyyScJD>C>^cJCIyG^hyCSPjS(^>^!ScSD^^cjD8jjh(c>B!cc^=J^6yh8^jc(7?SSRcc=8=Syc8cjvJSZ^GJc9=D=^hD8#SjJ^>DGj!S=G=cJ6ySS^JcM6!=!^DJ={^jy^SCJr(SG8!cC4DS^hycSNjS(SCh!UDGD^yJy>8jj^(^CCGSCyDcyDhj8hjc3G^cG^CDDW^Dh^8cjr(GyCGcCGCS8chC8>SSJ^IcGcc^C^=chHJ^ShJCoMGqccCc=9^SJCSCJ>(SGyySCQ=J^^88SLjS(^>c!^cS=8^c8G8Sj^(c> Gjc^=^^NyJ8^jc(-}S!ycc=C=Shj8cjAJS>yc5c;=G=^8C82SSJ^>D!8!SD(=c8hySS^Jc>GGG!^DS=Yh^y^ScJ:xJ>(!cDhDSy^ycSMjSZyGS!0DDD^yDyH8Sj^(c^jGSCjDchyhS8yjc(u>hG^C^Df=Jh^8Dj*JS>pGcCcCS=hhc8GSS(y#CGZC>C^=^hLySS^(DrG>ScJCc^^^Sy^ScJY(J>^c^C_^G^^ycSxjS2!>cc!cSD^^cyG8Sjy!c>6c-c^D8^bhS8^jcHSzS!8cc=c=Sh^8cj,(J5^!=cqCS=^hc8tSS(GocG_!SC^=chWySS^=c)u>S!^CC=1^Sy^SjJu(S>^!SCPDS^^y=S8jS(^>cGJCj=hyyS>J>(J>^G8cSD>D=^=hS8^jcJJ!>cJD^=8hS8>8DjVJSM^GccUCS=^jc8!jGJ^UcG0!y=y^hy!SyJDJ=2C>S!^CcDJ8Gj!JD(=((GC!cCmDS^DShj=kG>=G8CDC(^Jh=8cjyJ((D>*GSc^Dc^UhSy^>!(!>GG^ccD.=y8JS=Jcny>(GDhCCS=^hcSGJ!J^UDGzcwC^=chkySJCJc2!>S!^Cc=}^Sy^jJJt9x>^!CC0DS^^ycSJjS(8>c!!cSDS^cy%SLj^(^>}GSc^Dc^nhSS^jc(c:SGSccDE=Sh^8Cjn(>m^GccBCS=^hcGjSSJyFcGC!SCy=chDchS^JDvFG^!^CC=)^Sy^S^JS(S>^!cCSDS^hycS1c!(^>=!_cjD^^cyU8S>>(c>!GScyDc^6hSSycS(/;(G^chDd=Sh^8cj^JSTSGcc>CS=^hc8mjDJ^w=G_!JC^=DhXjG!yJc{!>SD=Cc=>^SyyScJcB^>^!cCrh8^^yCS&jSCj>c!!cSD^^cyd8Sj^!J>_G(c^D=^6hj8^jy(JtSG8cc=D=Shh8cjVJS.S!,cZCS=^yy8KSjJ^4^GS!SC^=cy^ySShJc,*^!!^C==W^Sy^ScJ_(SC>!cC!DS^yycSfjS(^=h!1c(D^^cy#8Sj^(cyDGSc8Dc^!hS8hjc(U=!G^c^Dq=Sh^8cjQJSDjGccCCS=^hc8USSJJC(G&cGC^=ChvyjS^JCw2>SycCc=U^SySScJx(S>^yGCm=>^^yCSqJG(^GDy^cSDj^cyD8Sj^(c>_ccc^Dy^5hS8^jc(%oScAccD==Sh^8cj>JSvJ=(c%Dc=^hD8kSjJ^mCGw!SSc=ch5ySSSJc{*>Sc^Dh=Th!y^SCJ_1c>^!cCcDS^jycS=jS(y>ccGcjD^^yyES2j^(c>LGSCjDc^=hS8^jc(_NSG^D>D+^!h^88jxJSP^GcCDCS^_hc8CSSJ^lcGICcC^=yhE8cS^JC,e>ShjCc=D^Sy^ScJw(S>^yGCP=G^^yCSUj((^>cDhcSDS^cyG8Sj^(c>Y^8c^D=^*hS8^jc(;>JyeccD!=Shj8cjAJS/^GScWDI=^hC8_SSJ^TcGy!SC8=chGySSyJcGD^J!^C==vJ3y^SCJOZc>^!^CSDS^^yc>cjS(h>c!f8>D^^=yA8Sj^(c>9cSh!Dc^chS8hjc(=LSG^c^DT=(h^8=j%(Km^ccC=CS=Shc8>SSJ8;cGMChC^==hiy(S^J^Yx>S!JCc=c^Sy^ScJ-(S>^!DCf=>^^ycSajS(^!ccCcSDJ^cy>8Sj((c>pSGc^Dh^0y>8^jy(UGScjccDD=Shh8cj!JSxJ=(czD!=^h=8ASjJ^+CG*!SSc=ch_ySSSJciq>S!^SG=fh>y^SyJ:l!>^cDS^DS^jycSDjS(^>c!;DcD^^yyU8Sj^(c>tGSDHDc^=hS8^jc(>iSGJh(D_^ch^8cj_JjK^GCcXCSJchc8%SSJS.cG6!SD^^hh}8!S^JCl.Gc!^Cc=j^SyjScJ=(S>y!cDG^c^^yyS9JW(^>c!HcSDh^cy=8Sj^(c>iGSc^Dy^ny!8^j8(ovSG^ccD>=SyU8cjCJSr^GccfD(=^hy8XjcJ^}CGl!S8j=chDySS^Jc_l>SC^DJ=Zh!y^SCJkW!>^!cCGDS^JycSDjS((>cCMCCD^^8y?8jj^(=>NGSCyDc^DhS8(jc(!dSG^C!D?^Fh^8DjRJSY^GcCXCS=8hc8zSSJ^?cGQSSC^=chlyjS^Jc?TG<!^Cc=N^Sy^ScJ%(S>8!cCUDS^^68SPjS(^>C!1cSD^^c>J8Sj^(c>HGSc^Dc^ GS8^jc(0fjG^ccDP=Sh^8cj,JSL^Gcc-Cj=Shc8bSSJ^D8G9!jC^=ChZySS^Jc=J>S!hCc=A^Sy^ScJe^S>^!cCUDj^^ycSojS^^>c!/cSDh^cyB8Sj^(c> GSc^Dc^_hS8^j=({LSG^ccS==Sh^8cj>JS1^Gcc%jy=^hc8?SSJ^2cG#!SJ^=chvySShJca2>S!^Cc=R^Sy^ScJq(S>h!^CtDS^^ycG=jS(h>c!>cSD^^cy{!yj^(C>BGSc^Dc^qhSc^jc(MfSGhccDW=Sh^ccj4JSU^GCc.CS=^hc8/SSJ^,8GF!SC^==h%ySS^JcAG>S!^Cc=K^Sy^8c>(((>j!cC;DS(SVCGGc^Cj>D!#cSD^^cy68Sj^!c>GGSc^Dc^UhS8^cc!zV(GhccDW=ShD8=jDJSL^Gc8!jiJy(j>J!!Jh!=Gp!SC^=c(CySShJclZ>S!^Cc=Lhcy^SDJo(S>^!cC)DShGycS>jS(y>c!GcS^Jh(y<8jj^(y> Gjc^D=^Ey?Scjc(EvSGJccD>=ShSSUjTJSo^!>c.Cj=^hc>CSSJhucG>!SC^=ch:8cS^JD+5>S!^Cc=ehG;!ScJ!(S>^!cC>DS^yycSnc^(^>c!dcSD^^cyb8SJ!(c>ZGScyDc^qhS8^!((bFjG^c=D_=jh^8^jSJSi^Gc=>CS=hhc8p!>J^OCGY!SC^=ch3ySjrJcnG>S!^Cc=,^Sy^SJJB(j>^!DC DJ^^Sy!GjS(h>cD>cSDh^cy=8SjS2A>fGSc^hC^}hj8^jc^S9SGhccDK=Sh^8cjJ(Se^GDcn^j=^hC8-SjJ^L^GS!SC^=cS>ySShJcqN^>!^CC=V^(y^ScJY(Sy>!cCGDS^^ycS3jSkyGc!*c(D^^Dya8Sj^rD>yGScSDc^GhS8^jc(LGGG^cCDB^Uh^8Djx>G>>Gcc>CSyhhc8>SSJJFcGcc^C^=chIjjS^JCi_GJj!Cc=>^SyhScJ1(SGyS(CQDJ^^y^S3jS(^>c^ScSD8^cyU8Sj^(cGGchc^D^^phJ8^jc(l>%!8ccDG=SS^8cj>JS3^GScUDG=^hC8VSSJ^Ucy(!SC(=chcySS^Jct/GJ!^CS=ThMy^ScJO(S!!!cChDS^8ycS2jS(^G!!NCDD^^cyY8Sj^(c>(GSC!Dc^ChS8^jc(LG!G^C3DW^>h^8cj%JS>>GcchCS^chc8GSSJ^hyGdccC^=Sh58CS^JchJ>Sc>Cc=C^Sy^ScJ%9y>^!SCf=c^^yjSY(S>C>c!^cS=l^cyC8Sj^(^>B!!c^D8^zyc8^jc(S#SGhccDD=Sh(8cjc!>+^GDcw=j=^hC8:SSG>&cG>!SCy=ch3ySS^>j{W>S!^CD={^Sy^Sc=E(S>^!cC>DS^^ycS>jS(^>c!IcSD^^cyGSGj^(c>HGScJDc^GhS8^jc(aqSG^D>Dv=(h^8Cj6JS:^GccJCS=Shc8>SSJ^:cGdcjC^==h<yJS^JD1Z>SC>Cc=G^Sy^ScJ!(S>^C%CLDS^^yCSZjS(^>c!_cSD^^cyW8Sj^(C>GGSc^Dc^R>y8^jc(wRSG^ccDI=SG^8cjlJS;hGccrCS=^hc8kSS(2zcG+!SCy=ch+ySS^Jc /4S==CD=V^Sy^ScJK(S^^=cC!DS^^ycS<jJ(^>c!rcSD^^cj (Sjy(c>,GSc^Dc^nhS(^jD(2aSG^ccDI=S^^=!jGJS.^Gcc+CS=^hc8dS(JSlcG !SCDhh8=SPSjGcf4>S!^CcjC^SyjScJH(S>^!cCm8D^^yhSfJ>(^>c!nCGDS^cyC8Sj((c>>GSc^Dc^cy^8^jc(<>!G^cCDl=S(j8cjCJSF^GcceCS=^Gy8-j>J^ahG?!SC^=cShySSjJcuG>S!^Cc=u(>y^ShJa(j>^!cC7DS:yycS>jS(j>c!>cS=y^yy:S>j^(8>tGSc^=DhDhS8Jjc(>XSG^cc=G^8h^88jR(G_^GccYCSh>hc8^SSJh4cG9!SC^=jhq8cS^JS dGi!^DD=8^S8>ScJ=(S>^!cDG-=^^yJS1j((^>c!3cSD^^cy88Sjj(c>GGSDJjD^%y=8^JJ(WBjG^c8Dv^byc8cj+JSGGGcc>CS=^(h8lj^J^XDGZ!SC^hc!cySjCJcP>>Sc_Cc=6h4y^j!JgqG>^!cCaDS^SycjKjS(J>c!XcSD^h^yxShj^fc>&GJc^Dch=hSScjc(S#S!Ccc^_^=h^8jjd(^7^G^cz^Gh!hc88SStCkcG>!SCh=chc8^S^Jc.,!h!^CC=bhf8cScJ_(S!S!cC>DS^^ghS:J^(^>D!?cSD^ycG88SJC(c>>GSCUDc^:8h8^J!(N>GG^ccDu=Syj8cJBJSUJGcc0CS=^yh8#jhJ^>cG#!JC^=ch>ySjcJcnS>ScCCc= h!y^SjJ) C>^cXCMhGy!ycS8jS>(>c!>cSDj^cycS^j^(c>PC!c^DC^TyMScjc(p*SC(ccD>=S8^J(jF(!v^G8ckCj=^hc3cSS(cLcG!!SC^=ch 8jS^(MNeG!!^DU=lySy8ScJS(SGc!cC>DS^^8(S%Jh(^>=!dcSD^yc8S8SJD(c>!GSCbDc^/y!8^Jc(A>^G^ccD,=Syy8cJ>JS>cGccwCS=^>>8HjyJ^>CGk!JC^=c(>ySjCJc{j>ScDCc=<yDy^j>JmBC>^c>CxDShSycSJjSxG>c!kcSD^hkyiS8j^(=>_GSc^^chchSS^jc(j)SGyccD7^Gh^S!j3(87^!ccqCS^(hc8ySS(DwcG(!SCJB^hX8GS^GAB&>j!^CS=fh?8cScJv(SCc!cC>DS^^whSuJ^(^>c!YcSD^^cHJ8SJc(c>-GSCGDc^6jC8^jJ(HaJG^ccD7hSj!8cjCJS:jGcc>CSh^S(8:jGJ^ByG,!jC^=^hSySS^Jc>L>S!hCc=B>Sy^ScJi(j>^!cCNDS^^ycSWjj(^>c!RcJD^^cyd8Sj^(cBwD8c^Dh^_hS8^(c(hiSGhccDp=Shh8cjX,Dg^GCcUCj=^hC8<SS(JRcG>!SC^=chKySS^(ye2>j!^CC=O^jy^Sc(G(S>^!cC>DS^^ycSwjS(^>c!>cSD^^cyG8Sj^(c>-GSc^Cc8(hS8jjc(VQSc^cjDq=jh^8cjoJjT^GccSCS=hhc8>SSJh cG5cjC^=ChqySS^JcQt>Sc(Cc=>^SyhScJ>(S>^c7C;DS^^yCSnjS(^>c!;cSD^^^yz8Sj^(D>_GSc^Dc^mhSy^>!(!>hG^ccDV=yhcjJJ!(!> !^cGDj=hh^j^jjJyRcGg!SC^=chzySS^J=rD>S!^CcDJyJ8jj=(J>y>^CGCqDS^^ycJSjS(^>c!fcSD^^cy/j^j^(C>tGjc^Dc^ThSS8jc(GvSGyccDU=Sh^8yj#Jj1^GCcICJ=^hc8hSSJ^xcGG!SCy=chDS2S^Jc1aGJ!^CC=6^jy^S^JS(S>^!cDGDS^hycSu(c(^>c!ecSD^^cyZSJC5(c>>GScSDc^/hS8JG((R_JG^cCDd=jh^8=j7JS>!Gcc.CS=8hc8qSSJ^?(G?!SC^=ChxySS^JcP8>S!^Cc=G^Sy^ScJXy>>^!CCPDJ^^ycSdjS^C>c!pcSD^^cy>8S(^>h>0GSc^Dc^<hj8^jy^jVSG^cc=j=Shh8cj/JSKS!+c<CS=^8>8gSjJ^>D88!SC^=ch!ySS^Jc6QhC!^Cc=3h.y^ScJd(S!T!cCdDS^jycSRjS(^G_!_cjD^^yyi8Sj^(c>=GSc^Dc^GhS8hjcOG>cG^ccDN=Jh^8cjgJS>CGcc CS=hhc8>SSJ^B(Gp!SC^=ChzySS^JcG^>S!^Cc=F^Sy^ScJG!S>^!CC%DS^^ycSOjS!J>c!>cSDh^cy>8Sj^^c>EGSc^DC^}hS8^jD(/MSG^cCD+=Sh^8DjaJSr^GccUCSD^j!8zj>J^4cGfCSD>=ch>ySS^Jc{>>S!^=r=?^jy^SCJ{(j>^!cDGDS^hycS4jS(^>c! D^D^^Cy/8jj^(C>lGSDGDc^mhS8hjc(}_SG^ccD_=Sh^8cjzJS+^G8cOCS=^hcJySSJ^NcG<!SC^=ch 8^S^JCOo>j!^Cc=q^SSCScJG(S>y!cCqDS^^yyS_jj(^>C!AcJD^^cyG8Sj^(c>>GSc^Dc^O8^8^jc(puSG^ccDP=ShS8cjwJSwhGcc,CS=^hc8RSSJ8+cG#!SC8^ChZySS^JG(^!!cJD8hch(SDhDUhO(!j6DDy^!yS88S!JS(^>c!Acyh>^!hSjc(c(Jljc==>^Dy8hyjO(J>Dx(G^ccDz=Shh8jjXJSM^cyC8CS=^hc8!SSJh3cG!!SCS^Eh,ySS^J=uA>j!^C^=S^Sy^ScJD(S>h!cDGJc^^yCSpjJ(^>c!IcSy>^cy>8Sjy(c>/GScS=_^rhS8^jS(+WjG^CD(8=Shh8cj>JS9^GccahC=^hC8)SJJ^%cGo!SJ^=ch7ySShJck.>S!^Cc=p^SyhScJ4(S>y!cCQDS^^ycS9SS!=>c!CcSD^^cS2SCj^(C>eGSc^DC^_hSSGjc(>xSGhccD>=Sh^SJjgJjV^Gcc%CS=^hcSySSJh%cG>!SCh=ch58JS^Jc#Y>j!^Cc=%^Sy^ScJl");local n=a.IWgmYgsW;a.IgFZwOjK(function()a.CUUdFEE_()n=n+a.hAgmoRgm end)local function e(e,c)if c then return n end;n=e+n;end local c,n,o=t(a.IWgmYgsW,t,e,y,a.AvSzlAAi);local function f()local n,c=a.AvSzlAAi(y,e(a.hAgmoRgm,a.sMkucScd),e(a.aqnzkBqu,a.kYMiORuE)+a.vvwVnUiQ);e(a.vvwVnUiQ);return(c*a.ZxsFyTtS)+n;end;local ce=true;local u=a.IWgmYgsW local function g()local h=n();local e=n();local d=a.hAgmoRgm;local h=(c(e,a.hAgmoRgm,a.XmTgtDmX)*(2^32))+h;local n=c(e,21,31);local e=((-1)^c(e,32));if(n==0)then if(h==u)then return e*0;else n=1;d=0;end;elseif(n==2047)then return(h==0)and(e*(1/0))or(e*(0/0));end;return a.eMcRdzUx(e,n-1023)*(d+(h/(2^52)));end;local p=n;local function k(n)local c;if(not n)then n=p();if(n==0)then return'';end;end;c=a.vMKkDdzZ(y,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+u),#c do e=e..a.vMKkDdzZ(c,n,n)end return e;end;local p=#a.yQXSFDRs(s('\49.\48'))~=1 local e=n;local function de(...)return{...},a.QMMzDltd('#',...)end local function ne()local e={};local s={};local y={};local u={y,s,nil,e};local e=n()local t={}for h=1,e do local c=o();local n;if(c==1)then n=(o()~=#{});elseif(c==2)then local e=g();if p and a.UxXLlFlO(a.yQXSFDRs(e),'.(\48+)$')then e=a.aSZiqWxi(e);end n=e;elseif(c==3)then n=k();end;t[h]=n;end;u[3]=o();for s=1,n()do local e=o();if(c(e,1,1)==0)then local a=c(e,2,3);local r=c(e,4,6);local e={f(),f(),nil,nil};if(a==0)then e[d]=f();e[l]=f();elseif(a==#{1})then e[d]=n();elseif(a==j[2])then e[d]=n()-(2^16)elseif(a==j[3])then e[d]=n()-(2^16)e[l]=f();end;if(c(r,1,1)==1)then e[h]=t[e[h]]end if(c(r,2,2)==1)then e[d]=t[e[d]]end if(c(r,3,3)==1)then e[l]=t[e[l]]end y[s]=e;end end;for e=1,n()do s[e-(#{1})]=ne();end;return u;end;local function he(c,e,n)local h=e;local h=n;return s(a.UxXLlFlO(a.UxXLlFlO(({a.IgFZwOjK(c)})[2],e),n))end local function p(m,s,o)local function he(...)local f,k,z,ne,u,n,y,g,b,ee,j,c;local e=0;while-1<e do if 2<e then if e>=5 then if 6~=e then c=t(7);else e=-2;end else if 0<=e then for n=31,85 do if e<4 then g={};b={...};break;end;ee=a.QMMzDltd('#',...)-1;j={};break;end;else g={};b={...};end end else if e>=1 then if 2>e then z=t(6,82,3,32,m);u=de ne=0;else n=-41;y=-1;end else f=t(6,96,1,80,m);k=t(6,17,2,92,m);end end e=e+1;end;for e=0,ee do if(e>=z)then g[e-z]=b[e+1];else c[e]=b[e+1];end;end;local b=ee-z+1 local e;local t;function JxaUVbP_ORv_()ce=false;end;local function z(...)while true do end end while ce do if n<-40 then n=n+42 end e=f[n];t=e[_];if t>84 then if t<127 then if 105>=t then if 94>=t then if 90>t then if 87<=t then if t>87 then if t>=87 then for a=10,87 do if t<89 then for t=0,3 do if t<=1 then if 0~=t then c(e[h],e[d]);n=n+1;e=f[n];else c(e[h],e[d]);n=n+1;e=f[n];end else if t~=1 then for a=26,89 do if t>2 then if not c[e[h]]then n=n+1;else n=e[d];end;break;end;c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];break;end;else c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];end end end break;end;local n=e[h]local h,e=u(c[n](r(c,n+1,e[d])))y=e+n-1 local e=0;for n=n,y do e=e+1;c[n]=h[e];end;break;end;else local n=e[h]local h,e=u(c[n](r(c,n+1,e[d])))y=e+n-1 local e=0;for n=n,y do e=e+1;c[n]=h[e];end;end else local e=e[h]c[e]=c[e]()end else if 85==t then c[e[h]][c[e[d]]]=c[e[l]];else c[e[h]][e[d]]=c[e[l]];end end else if 92>t then if 87<t then repeat if t<91 then local t;for a=0,6 do if a>2 then if 4<a then if 5<a then t=e[h]c[t](r(c,t+1,e[d]))else c[e[h]]=c[e[d]];n=n+1;e=f[n];end else if a>-1 then for t=13,76 do if a<4 then c[e[h]]=s[e[d]];n=n+1;e=f[n];break;end;c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];break;end;else c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];end end else if 0<a then if 1~=a then c[e[h]]=o[e[d]];n=n+1;e=f[n];else t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];end else c[e[h]][e[d]]=c[e[l]];n=n+1;e=f[n];end end end break;end;local y=k[e[d]];local r;local t={};r=a.IrcGVGhQ({},{__index=function(n,e)local e=t[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=t[e]e[1][e[2]]=n;end;});for h=1,e[l]do n=n+1;local e=f[n];if e[_]==108 then t[h-1]={c,e[d]};else t[h-1]={s,e[d]};end;j[#j+1]=t;end;c[e[h]]=p(y,r,o);until true;else local y=k[e[d]];local r;local t={};r=a.IrcGVGhQ({},{__index=function(n,e)local e=t[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=t[e]e[1][e[2]]=n;end;});for h=1,e[l]do n=n+1;local e=f[n];if e[_]==108 then t[h-1]={c,e[d]};else t[h-1]={s,e[d]};end;j[#j+1]=t;end;c[e[h]]=p(y,r,o);end else if 93>t then local y,u,r,s,j,t,l,a,o;for t=0,2 do if t>=1 then if t~=-2 then for p=23,63 do if 1~=t then l=e[h];a=c[l]o=c[l+2];if(o>0)then if(a>c[l+1])then n=e[d];else c[l+3]=a;end elseif(a<c[l+1])then n=e[d];else c[l+3]=a;end break;end;t=0;while t>-1 do if 2<t then if 4>=t then if t~=2 then for e=18,73 do if t<4 then s=y[r];break;end;j=y[u];break;end;else s=y[r];end else if 6==t then t=-2;else c(j,s);end end else if t>0 then if t>-1 then for e=22,52 do if 2>t then u=h;break;end;r=d;break;end;else r=d;end else y=e;end end t=t+1 end n=n+1;e=f[n];break;end;else l=e[h];a=c[l]o=c[l+2];if(o>0)then if(a>c[l+1])then n=e[d];else c[l+3]=a;end elseif(a<c[l+1])then n=e[d];else c[l+3]=a;end end else c[e[h]]=#c[e[d]];n=n+1;e=f[n];end end else if 92<t then repeat if t~=93 then local t,f,l,r,a;local n=0;while n>-1 do if 2>=n then if 0>=n then t=e;else if n~=-3 then for e=27,61 do if 1~=n then l=d;break;end;f=h;break;end;else f=h;end end else if 4>=n then if 4>n then r=t[l];else a=t[f];end else if n>1 then repeat if 5~=n then n=-2;break;end;c(a,r);until true;else n=-2;end end end n=n+1 end break;end;if(c[e[h]]==e[l])then n=n+1;else n=e[d];end;until true;else local f,t,a,r,l;local n=0;while n>-1 do if 2>=n then if 0>=n then f=e;else if n~=-3 then for e=27,61 do if 1~=n then a=d;break;end;t=h;break;end;else t=h;end end else if 4>=n then if 4>n then r=f[a];else l=f[t];end else if n>1 then repeat if 5~=n then n=-2;break;end;c(l,r);until true;else n=-2;end end end n=n+1 end end end end end else if 99<t then if t<=102 then if 101<=t then if t>101 then local t;for a=0,2 do if 1<=a then if a>=0 then for t=19,91 do if 2>a then c[e[h]]=c[e[d]]-e[l];n=n+1;e=f[n];break;end;c[e[h]][c[e[d]]]=c[e[l]];break;end;else c[e[h]]=c[e[d]]-e[l];n=n+1;e=f[n];end else t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];end end else c[e[h]]=s[e[d]];end else local t,l;for o=0,2 do if o>=1 then if-3<o then for y=47,97 do if o>1 then t=e[h];l=c[t];for e=t+1,e[d]do a.UOnsKDvG(l,c[e])end;break;end;t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];break;end;else t=e[h];l=c[t];for e=t+1,e[d]do a.UOnsKDvG(l,c[e])end;end else c(e[h],e[d]);n=n+1;e=f[n];end end end else if 103>=t then c[e[h]]=(e[d]~=0);else if t>101 then repeat if 105>t then c[e[h]]=o[e[d]];break;end;local l;for t=0,6 do if t>2 then if t>=5 then if t==5 then c(e[h],e[d]);n=n+1;e=f[n];else c(e[h],e[d]);end else if 1~=t then repeat if 4>t then c(e[h],e[d]);n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];until true;else c(e[h],e[d]);n=n+1;e=f[n];end end else if t>=1 then if-2<t then for l=22,66 do if t<2 then c[e[h]]=c[e[d]];n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c[e[h]]=c[e[d]];n=n+1;e=f[n];end else l=e[h]c[l]=c[l](r(c,l+1,e[d]))n=n+1;e=f[n];end end end until true;else c[e[h]]=o[e[d]];end end end else if t>96 then if 97<t then if 95<=t then repeat if t<99 then for e=e[h],e[d]do c[e]=nil;end;break;end;local t;for l=0,6 do if 3<=l then if l>=5 then if 5==l then c(e[h],e[d]);n=n+1;e=f[n];else c(e[h],e[d]);end else if 0<=l then for t=18,54 do if 4>l then c[e[h]]={};n=n+1;e=f[n];break;end;c[e[h]]=c[e[d]];n=n+1;e=f[n];break;end;else c[e[h]]={};n=n+1;e=f[n];end end else if l>=1 then if-1~=l then repeat if l<2 then c(e[h],e[d]);n=n+1;e=f[n];break;end;t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];until true;else t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];end else c(e[h],e[d]);n=n+1;e=f[n];end end end until true;else local l;for t=0,6 do if 3<=t then if t>=5 then if 5==t then c(e[h],e[d]);n=n+1;e=f[n];else c(e[h],e[d]);end else if 0<=t then for l=18,54 do if 4>t then c[e[h]]={};n=n+1;e=f[n];break;end;c[e[h]]=c[e[d]];n=n+1;e=f[n];break;end;else c[e[h]]={};n=n+1;e=f[n];end end else if t>=1 then if-1~=t then repeat if t<2 then c(e[h],e[d]);n=n+1;e=f[n];break;end;l=e[h]c[l]=c[l](r(c,l+1,e[d]))n=n+1;e=f[n];until true;else l=e[h]c[l]=c[l](r(c,l+1,e[d]))n=n+1;e=f[n];end else c(e[h],e[d]);n=n+1;e=f[n];end end end end else local a,t;c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]]+c[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]]%e[l];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];a=e[d];t=c[a]for e=a+1,e[l]do t=t..c[e];end;c[e[h]]=t;end else if t~=94 then repeat if 96~=t then local f=e[h];local d={};for e=1,#j do local e=j[e];for n=0,#e do local e=e[n];local h=e[1];local n=e[2];if h==c and n>=f then d[n]=h[n];e[1]=d;end;end;end;break;end;c[e[h]]=c[e[d]]-c[e[l]];until true;else c[e[h]]=c[e[d]]-c[e[l]];end end end end else if t>=116 then if t>=121 then if t>=124 then if 124>=t then local a;for t=0,3 do if t>=2 then if t>=0 then for a=19,59 do if 3~=t then c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];break;end;c[e[h]][c[e[d]]]=c[e[l]];break;end;else c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];end else if 1>t then c[e[h]]=c[e[d]];n=n+1;e=f[n];else a=e[h]c[a]=c[a](c[a+1])n=n+1;e=f[n];end end end else if t>122 then repeat if t<126 then local n=e[h]c[n]=c[n](r(c,n+1,e[d]))break;end;s[e[d]]=c[e[h]];until true;else local n=e[h]c[n]=c[n](r(c,n+1,e[d]))end end else if 122>t then local t;s[e[d]]=c[e[h]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];t=e[h]c[t](c[t+1])n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;else if 120<t then repeat if 123>t then local e=e[h]local h,n=u(c[e](c[e+1]))y=n+e-1 local n=0;for e=e,y do n=n+1;c[e]=h[n];end;break;end;local r,j,s,o,y,u,t,a;for t=0,5 do if t<=2 then if t>=1 then if-1<=t then repeat if 1<t then a=e[h]c[a]=c[a](c[a+1])n=n+1;e=f[n];break;end;t=0;while t>-1 do if 3>=t then if t<=1 then if-4<=t then for n=13,83 do if 0<t then j=h;break;end;r=e;break;end;else r=e;end else if t>=-1 then for e=31,80 do if 3>t then s=d;break;end;o=c;break;end;else o=c;end end else if t<=5 then if t~=3 then repeat if 5>t then y=o[r[s]];break;end;u=r[j];until true;else y=o[r[s]];end else if t~=7 then c[u]=y;else t=-2;end end end t=t+1 end n=n+1;e=f[n];until true;else a=e[h]c[a]=c[a](c[a+1])n=n+1;e=f[n];end else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];end else if 4>t then c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];else if t~=3 then repeat if t<5 then c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];break;end;c[e[h]][c[e[d]]]=c[e[l]];until true;else c[e[h]][c[e[d]]]=c[e[l]];end end end end until true;else local r,j,s,o,y,u,t,a;for t=0,5 do if t<=2 then if t>=1 then if-1<=t then repeat if 1<t then a=e[h]c[a]=c[a](c[a+1])n=n+1;e=f[n];break;end;t=0;while t>-1 do if 3>=t then if t<=1 then if-4<=t then for n=13,83 do if 0<t then j=h;break;end;r=e;break;end;else r=e;end else if t>=-1 then for e=31,80 do if 3>t then s=d;break;end;o=c;break;end;else o=c;end end else if t<=5 then if t~=3 then repeat if 5>t then y=o[r[s]];break;end;u=r[j];until true;else y=o[r[s]];end else if t~=7 then c[u]=y;else t=-2;end end end t=t+1 end n=n+1;e=f[n];until true;else a=e[h]c[a]=c[a](c[a+1])n=n+1;e=f[n];end else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];end else if 4>t then c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];else if t~=3 then repeat if t<5 then c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];break;end;c[e[h]][c[e[d]]]=c[e[l]];until true;else c[e[h]][c[e[d]]]=c[e[l]];end end end end end end end else if t<118 then if 117~=t then for t=0,1 do if-4~=t then for l=17,86 do if 1>t then c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;if c[e[h]]then n=n+1;else n=e[d];end;break;end;else if c[e[h]]then n=n+1;else n=e[d];end;end end else local e=e[h];do return r(c,e,y)end;end else if t<119 then c[e[h]]=c[e[d]]%e[l];else if 115<t then for a=39,61 do if t~=119 then c[e[h]]=o[e[d]];break;end;c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;break;end;else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;end end end end else if t<111 then if 107>=t then if t>103 then for n=37,74 do if t~=106 then local n=e[h]c[n](r(c,n+1,e[d]))break;end;local s,o,y,f,a,r,t;local n=0;while n>-1 do if 3<=n then if 5<=n then if n~=1 then for e=41,89 do if 6~=n then c[r]=t;break;end;n=-2;break;end;else c[r]=t;end else if n~=4 then r=f[s];else t=c[a];for e=1+a,f[y]do t=t..c[e];end;end end else if 1<=n then if n>=-1 then repeat if n~=1 then a=f[o];break;end;f=e;until true;else a=f[o];end else s=h;o=d;y=l;end end n=n+1 end break;end;else local n=e[h]c[n](r(c,n+1,e[d]))end else if 109<=t then if 107<t then for f=43,81 do if 109~=t then c[e[h]][c[e[d]]]=c[e[l]];break;end;if not c[e[h]]then n=n+1;else n=e[d];end;break;end;else if not c[e[h]]then n=n+1;else n=e[d];end;end else local f,o,r,t,a,l;local n=0;while n>-1 do if n>3 then if 5<n then if 4~=n then for e=31,61 do if 7>n then c[l]=a;break;end;n=-2;break;end;else n=-2;end else if n<5 then a=t[f[r]];else l=f[o];end end else if n<=1 then if n~=-1 then repeat if 1>n then f=e;break;end;o=h;until true;else f=e;end else if 0<=n then repeat if n<3 then r=d;break;end;t=c;until true;else t=c;end end end n=n+1 end end end else if 113<=t then if 113>=t then c[e[h]]=c[e[d]]-e[l];else if t>=113 then for a=49,94 do if 115>t then if(c[e[h]]==e[l])then n=n+1;else n=e[d];end;break;end;local b,s,y,o,b,t,j,l,u,k,p,g,a;t=0;while t>-1 do if t>=3 then if t>4 then if t>=1 then repeat if t~=6 then c(a,o);break;end;t=-2;until true;else c(a,o);end else if t~=2 then repeat if t>3 then a=l[s];break;end;o=l[y];until true;else a=l[s];end end else if t<1 then l=e;else if t~=1 then y=d;else s=h;end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t>2 then if 5>t then if t>-1 then repeat if t~=4 then o=l[y];break;end;a=l[s];until true;else o=l[y];end else if t~=3 then repeat if t>5 then t=-2;break;end;c(a,o);until true;else c(a,o);end end else if t>0 then if-3<=t then repeat if t~=2 then s=h;break;end;y=d;until true;else y=d;end else l=e;end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t<3 then if t>0 then if-2<=t then repeat if 2>t then s=h;break;end;y=d;until true;else s=h;end else l=e;end else if 4>=t then if t>=-1 then repeat if t~=4 then o=l[y];break;end;a=l[s];until true;else o=l[y];end else if 1<=t then for e=20,59 do if 6~=t then c(a,o);break;end;t=-2;break;end;else c(a,o);end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if 2>=t then if t>0 then if-2<=t then for e=13,55 do if t<2 then s=h;break;end;y=d;break;end;else s=h;end else l=e;end else if 5>t then if 0<t then repeat if 3~=t then a=l[s];break;end;o=l[y];until true;else o=l[y];end else if 5~=t then t=-2;else c(a,o);end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if 3<=t then if 4>=t then if t<4 then o=l[y];else a=l[s];end else if t~=5 then t=-2;else c(a,o);end end else if 1<=t then if t>=-2 then repeat if t~=1 then y=d;break;end;s=h;until true;else s=h;end else l=e;end end t=t+1 end n=n+1;e=f[n];j=e[h]c[j]=c[j](r(c,j+1,e[d]))n=n+1;e=f[n];t=0;while t>-1 do if t<=3 then if 1>=t then if 0<t then u=h;else l=e;end else if-2~=t then for e=44,76 do if t<3 then k=d;break;end;p=c;break;end;else p=c;end end else if 5<t then if t>5 then repeat if t~=6 then t=-2;break;end;c[a]=g;until true;else t=-2;end else if 0~=t then repeat if 5~=t then g=p[l[k]];break;end;a=l[u];until true;else a=l[u];end end end t=t+1 end break;end;else if(c[e[h]]==e[l])then n=n+1;else n=e[d];end;end end else if t~=110 then for n=38,54 do if t~=112 then local e=e[h]c[e]=c[e](c[e+1])break;end;c[e[h]][e[d]]=c[e[l]];break;end;else c[e[h]][e[d]]=c[e[l]];end end end end end else if t<148 then if t<=136 then if 131>=t then if t<=128 then if t==128 then local l;for t=0,6 do if 3>t then if 0>=t then c(e[h],e[d]);n=n+1;e=f[n];else if t~=0 then for l=23,79 do if t~=1 then c(e[h],e[d]);n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end end else if 5<=t then if 2<t then repeat if 6~=t then l=e[h]c[l]=c[l](r(c,l+1,e[d]))n=n+1;e=f[n];break;end;c[e[h]]=c[e[d]];until true;else c[e[h]]=c[e[d]];end else if t~=3 then c(e[h],e[d]);n=n+1;e=f[n];else c(e[h],e[d]);n=n+1;e=f[n];end end end end else local t;c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=c[e[d]];end else if 130<=t then if 131~=t then c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c[e[h]]=#c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]]-c[e[l]];n=n+1;e=f[n];c(e[h],e[d]);else for t=0,1 do if t~=1 then c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];else if(c[e[h]]==c[e[l]])then n=n+1;else n=e[d];end;end end end else o[e[d]]=c[e[h]];end end else if t>133 then if 135>t then local h=e[h];local n=c[e[d]];c[h+1]=n;c[h]=n[e[l]];else if 136~=t then if not c[e[h]]then n=n+1;else n=e[d];end;else c[e[h]]=c[e[d]][c[e[l]]];end end else if t~=132 then local a,j,o,l,y,t,r,s,u;for t=0,2 do if 0>=t then c[e[h]]=#c[e[d]];n=n+1;e=f[n];else if t>-3 then for p=46,78 do if t<2 then t=0;while t>-1 do if 3>t then if t<1 then a=e;else if t~=2 then j=h;else o=d;end end else if t<=4 then if t~=0 then repeat if t~=4 then l=a[o];break;end;y=a[j];until true;else l=a[o];end else if 2<=t then repeat if t~=5 then t=-2;break;end;c(y,l);until true;else c(y,l);end end end t=t+1 end n=n+1;e=f[n];break;end;r=e[h];s=c[r]u=c[r+2];if(u>0)then if(s>c[r+1])then n=e[d];else c[r+3]=s;end elseif(s<c[r+1])then n=e[d];else c[r+3]=s;end break;end;else t=0;while t>-1 do if 3>t then if t<1 then a=e;else if t~=2 then j=h;else o=d;end end else if t<=4 then if t~=0 then repeat if t~=4 then l=a[o];break;end;y=a[j];until true;else l=a[o];end else if 2<=t then repeat if t~=5 then t=-2;break;end;c(y,l);until true;else c(y,l);end end end t=t+1 end n=n+1;e=f[n];end end end else local f=c[e[l]];if not f then n=n+1;else c[e[h]]=f;n=e[d];end;end end end else if 141<t then if t>144 then if t>145 then if 143~=t then repeat if t<147 then c[e[h]]=c[e[d]]*e[l];break;end;local e=e[h]c[e]=c[e]()until true;else c[e[h]]=c[e[d]]*e[l];end else local g,r,y,o,g,t,l,s,j,u,p,a;c[e[h]]={};n=n+1;e=f[n];t=0;while t>-1 do if 2>=t then if 0<t then if t~=-2 then repeat if 1~=t then y=d;break;end;r=h;until true;else y=d;end else l=e;end else if 4<t then if 6~=t then c(a,o);else t=-2;end else if-1<t then repeat if t~=3 then a=l[r];break;end;o=l[y];until true;else a=l[r];end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t>3 then if 5<t then if t==7 then t=-2;else c[a]=p;end else if 1<t then for e=42,93 do if t<5 then p=u[l[j]];break;end;a=l[s];break;end;else a=l[s];end end else if t<2 then if-4<=t then repeat if 1>t then l=e;break;end;s=h;until true;else l=e;end else if t>=-2 then for e=31,56 do if 3>t then j=d;break;end;u=c;break;end;else j=d;end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t<=2 then if t<=0 then l=e;else if t~=1 then y=d;else r=h;end end else if 4>=t then if 2<=t then repeat if t>3 then a=l[r];break;end;o=l[y];until true;else a=l[r];end else if t~=4 then repeat if 5<t then t=-2;break;end;c(a,o);until true;else c(a,o);end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t>2 then if t>=5 then if 3<=t then for e=24,90 do if 6~=t then c(a,o);break;end;t=-2;break;end;else c(a,o);end else if 4~=t then o=l[y];else a=l[r];end end else if 0<t then if 0~=t then for e=34,58 do if 1~=t then y=d;break;end;r=h;break;end;else y=d;end else l=e;end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t<=2 then if 0>=t then l=e;else if t~=0 then repeat if t<2 then r=h;break;end;y=d;until true;else r=h;end end else if t<=4 then if 1<=t then repeat if t~=3 then a=l[r];break;end;o=l[y];until true;else a=l[r];end else if t>3 then repeat if 5<t then t=-2;break;end;c(a,o);until true;else c(a,o);end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if t<3 then if t>0 then if t~=0 then repeat if t>1 then y=d;break;end;r=h;until true;else y=d;end else l=e;end else if t<=4 then if t~=3 then a=l[r];else o=l[y];end else if 2~=t then for e=26,98 do if t~=6 then c(a,o);break;end;t=-2;break;end;else c(a,o);end end end t=t+1 end end else if 142>=t then local e=e[h];y=e+b-1;for n=e,y do local e=g[n-e];c[n]=e;end;else if 141<=t then for l=43,52 do if t~=143 then do return end;break;end;local t;c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))break;end;else do return end;end end end else if t>138 then if t<140 then local t,a;t=e[h];a=c[e[d]];c[t+1]=a;c[t]=a[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]]+c[e[l]];else if 138<t then for n=27,85 do if t>140 then local e=e[h];local n=c[e];for e=e+1,y do a.UOnsKDvG(n,c[e])end;break;end;c[e[h]]();break;end;else local e=e[h];local n=c[e];for e=e+1,y do a.UOnsKDvG(n,c[e])end;end end else if t>=133 then for a=39,56 do if 137~=t then c[e[h]]=c[e[d]]+c[e[l]];break;end;local t,p,k,g,b,t,t,a,s,j,y,o,u;for t=0,4 do if t<2 then if t>-3 then for l=43,83 do if 1>t then t=0;while t>-1 do if 4>t then if t>1 then if 3~=t then k=d;else g=c;end else if 0<t then p=h;else a=e;end end else if t<=5 then if t>2 then repeat if 5~=t then b=g[a[k]];break;end;o=a[p];until true;else o=a[p];end else if 5<=t then for e=38,88 do if 6<t then t=-2;break;end;c[o]=b;break;end;else t=-2;end end end t=t+1 end n=n+1;e=f[n];break;end;t=0;while t>-1 do if 2>=t then if 1<=t then if-1<=t then repeat if t~=1 then j=d;break;end;s=h;until true;else s=h;end else a=e;end else if t>=5 then if t~=3 then repeat if 5<t then t=-2;break;end;c(o,y);until true;else c(o,y);end else if 1<t then for e=39,95 do if 4~=t then y=a[j];break;end;o=a[s];break;end;else y=a[j];end end end t=t+1 end n=n+1;e=f[n];break;end;else t=0;while t>-1 do if 2>=t then if 1<=t then if-1<=t then repeat if t~=1 then j=d;break;end;s=h;until true;else s=h;end else a=e;end else if t>=5 then if t~=3 then repeat if 5<t then t=-2;break;end;c(o,y);until true;else c(o,y);end else if 1<t then for e=39,95 do if 4~=t then y=a[j];break;end;o=a[s];break;end;else y=a[j];end end end t=t+1 end n=n+1;e=f[n];end else if 2<t then if t>0 then repeat if t>3 then if(c[e[h]]==e[l])then n=n+1;else n=e[d];end;break;end;u=e[h]c[u]=c[u](r(c,u+1,e[d]))n=n+1;e=f[n];until true;else if(c[e[h]]==e[l])then n=n+1;else n=e[d];end;end else t=0;while t>-1 do if 3>t then if 1>t then a=e;else if t>=-3 then for e=25,88 do if 1~=t then j=d;break;end;s=h;break;end;else s=h;end end else if t<=4 then if t>=2 then repeat if t>3 then o=a[s];break;end;y=a[j];until true;else o=a[s];end else if 5==t then c(o,y);else t=-2;end end end t=t+1 end n=n+1;e=f[n];end end end break;end;else c[e[h]]=c[e[d]]+c[e[l]];end end end end else if t<159 then if 153<=t then if 155>=t then if 154<=t then if 155~=t then local e=e[h]c[e](c[e+1])else local f,t,a,r,l;local n=0;while n>-1 do if 3<=n then if n>=5 then if 5~=n then n=-2;else c(l,r);end else if n~=2 then for e=30,66 do if 3~=n then l=f[t];break;end;r=f[a];break;end;else l=f[t];end end else if 0>=n then f=e;else if n<2 then t=h;else a=d;end end end n=n+1 end end else c[e[h]]=c[e[d]]+e[l];end else if 157>t then c[e[h]]=#c[e[d]];else if t>155 then repeat if 158>t then if c[e[h]]then n=n+1;else n=e[d];end;break;end;local r,a;for t=0,4 do if 1<t then if t<=2 then c[e[h]]=c[e[d]]%e[l];n=n+1;e=f[n];else if t>=0 then for o=30,56 do if 3~=t then r=e[d];a=c[r]for e=r+1,e[l]do a=a..c[e];end;c[e[h]]=a;break;end;c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];break;end;else c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];end end else if 1==t then c[e[h]]=c[e[d]]+c[e[l]];n=n+1;e=f[n];else c[e[h]]=s[e[d]];n=n+1;e=f[n];end end end until true;else if c[e[h]]then n=n+1;else n=e[d];end;end end end else if 149>=t then if 149~=t then if(c[e[h]]==c[e[l]])then n=n+1;else n=e[d];end;else local n=e[h]c[n](r(c,n+1,e[d]))end else if t<151 then c[e[h]]=c[e[d]][c[e[l]]];else if 151~=t then local t;c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t](c[t+1])n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;else local t;c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);end end end end else if 164>t then if 160<t then if 162<=t then if t>161 then repeat if 162~=t then local t,r,o;for a=0,4 do if a<2 then if-4<a then repeat if 0~=a then c(e[h],e[d]);n=n+1;e=f[n];break;end;c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];until true;else c(e[h],e[d]);n=n+1;e=f[n];end else if a>2 then if 1<=a then repeat if a~=3 then t=e[h];r=c[t]o=c[t+2];if(o>0)then if(r>c[t+1])then n=e[d];else c[t+3]=r;end elseif(r<c[t+1])then n=e[d];else c[t+3]=r;end break;end;c(e[h],e[d]);n=n+1;e=f[n];until true;else c(e[h],e[d]);n=n+1;e=f[n];end else c[e[h]]=#c[e[d]];n=n+1;e=f[n];end end end break;end;local n=e[h];local h=c[e[d]];c[n+1]=h;c[n]=h[e[l]];until true;else local n=e[h];local h=c[e[d]];c[n+1]=h;c[n]=h[e[l]];end else local a,s,j,o,y,r,t;c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];t=0;while t>-1 do if t>=4 then if t>5 then if t~=3 then for e=17,58 do if 7>t then c[r]=y;break;end;t=-2;break;end;else c[r]=y;end else if 0~=t then repeat if 5~=t then y=o[a[j]];break;end;r=a[s];until true;else r=a[s];end end else if 1<t then if 1<t then for e=39,88 do if t~=3 then j=d;break;end;o=c;break;end;else o=c;end else if t>0 then s=h;else a=e;end end end t=t+1 end n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;end else if 155~=t then repeat if t~=159 then local e=e[h];local n=c[e];for e=e+1,y do a.UOnsKDvG(n,c[e])end;break;end;local n=e[h];do return c[n](r(c,n+1,e[d]))end;until true;else local n=e[h];do return c[n](r(c,n+1,e[d]))end;end end else if t<=166 then if 165<=t then if t~=161 then repeat if t~=165 then c[e[h]]={};break;end;local e=e[h]local h,n=u(c[e](c[e+1]))y=n+e-1 local n=0;for e=e,y do n=n+1;c[e]=h[n];end;until true;else local e=e[h]local h,n=u(c[e](c[e+1]))y=n+e-1 local n=0;for e=e,y do n=n+1;c[e]=h[n];end;end else local t,a;t=e[h];a=c[e[d]];c[t+1]=a;c[t]=a[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]]*e[l];end else if t>167 then if 166<t then for n=38,53 do if t>168 then c[e[h]]=#c[e[d]];break;end;local n=e[h]local h,e=u(c[n](r(c,n+1,e[d])))y=e+n-1 local e=0;for n=n,y do e=e+1;c[n]=h[e];end;break;end;else c[e[h]]=#c[e[d]];end else local t;c(e[h],e[d]);n=n+1;e=f[n];t=e[h]c[t](c[t+1])n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[h],e[d]do c[e]=nil;end;end end end end end end else if t>=42 then if t>62 then if 74<=t then if 79>t then if 75<t then if 77<=t then if 78==t then local f=c[e[l]];if not f then n=n+1;else c[e[h]]=f;n=e[d];end;else n=e[d];end else local n=e[h];local h=c[n];for e=n+1,e[d]do a.UOnsKDvG(h,c[e])end;end else if 70<=t then repeat if 74~=t then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=(e[d]~=0);n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];break;end;for t=0,1 do if-4<t then repeat if 1>t then c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];break;end;if c[e[h]]then n=n+1;else n=e[d];end;until true;else if c[e[h]]then n=n+1;else n=e[d];end;end end until true;else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=(e[d]~=0);n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];end end else if t<=81 then if 79>=t then c[e[h]]=(e[d]~=0);else if 78<t then repeat if 81>t then local y=k[e[d]];local r;local t={};r=a.IrcGVGhQ({},{__index=function(n,e)local e=t[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=t[e]e[1][e[2]]=n;end;});for h=1,e[l]do n=n+1;local e=f[n];if e[_]==108 then t[h-1]={c,e[d]};else t[h-1]={s,e[d]};end;j[#j+1]=t;end;c[e[h]]=p(y,r,o);break;end;local y,s,o,f,a,r,t;local n=0;while n>-1 do if n<3 then if n>=1 then if n==1 then f=e;else a=f[s];end else y=h;s=d;o=l;end else if n>=5 then if n>=1 then repeat if n<6 then c[r]=t;break;end;n=-2;until true;else n=-2;end else if 3==n then r=f[y];else t=c[a];for e=1+a,f[o]do t=t..c[e];end;end end end n=n+1 end until true;else local s,y,o,t,a,r,f;local n=0;while n>-1 do if n<3 then if n>=1 then if n==1 then t=e;else a=t[y];end else s=h;y=d;o=l;end else if n>=5 then if n>=1 then repeat if n<6 then c[r]=f;break;end;n=-2;until true;else n=-2;end else if 3==n then r=t[s];else f=c[a];for e=1+a,t[o]do f=f..c[e];end;end end end n=n+1 end end end else if t<83 then if(c[e[h]]==c[e[l]])then n=n+1;else n=e[d];end;else if 79~=t then for a=49,95 do if 83<t then local a,t;c[e[h]]=#c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]]%c[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]]+e[l];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];a=e[h];t=c[e[d]];c[a+1]=t;c[a]=t[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];break;end;local t,l,a;for r=0,2 do if 1>r then c(e[h],e[d]);n=n+1;e=f[n];else if r>1 then t=e[h];l=c[t]a=c[t+2];if(a>0)then if(l>c[t+1])then n=e[d];else c[t+3]=l;end elseif(l<c[t+1])then n=e[d];else c[t+3]=l;end else c(e[h],e[d]);n=n+1;e=f[n];end end end break;end;else local t,l,a;for r=0,2 do if 1>r then c(e[h],e[d]);n=n+1;e=f[n];else if r>1 then t=e[h];l=c[t]a=c[t+2];if(a>0)then if(l>c[t+1])then n=e[d];else c[t+3]=l;end elseif(l<c[t+1])then n=e[d];else c[t+3]=l;end else c(e[h],e[d]);n=n+1;e=f[n];end end end end end end end else if 67>=t then if 64<t then if t>65 then if t>=62 then repeat if t<67 then local l;for t=0,6 do if 3<=t then if 4<t then if 3<=t then for a=39,76 do if t~=6 then c(e[h],e[d]);n=n+1;e=f[n];break;end;l=e[h]c[l]=c[l](r(c,l+1,e[d]))break;end;else c(e[h],e[d]);n=n+1;e=f[n];end else if t>=2 then for l=19,86 do if t>3 then c(e[h],e[d]);n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end end else if 0<t then if t~=-1 then for l=25,72 do if 1~=t then c(e[h],e[d]);n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end else c[e[h]]=c[e[d]];n=n+1;e=f[n];end end end break;end;local t,a,r;c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]={};n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];t=e[h];a=c[t]r=c[t+2];if(r>0)then if(a>c[t+1])then n=e[d];else c[t+3]=a;end elseif(a<c[t+1])then n=e[d];else c[t+3]=a;end until true;else local l;for t=0,6 do if 3<=t then if 4<t then if 3<=t then for a=39,76 do if t~=6 then c(e[h],e[d]);n=n+1;e=f[n];break;end;l=e[h]c[l]=c[l](r(c,l+1,e[d]))break;end;else c(e[h],e[d]);n=n+1;e=f[n];end else if t>=2 then for l=19,86 do if t>3 then c(e[h],e[d]);n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end end else if 0<t then if t~=-1 then for l=25,72 do if 1~=t then c(e[h],e[d]);n=n+1;e=f[n];break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end else c[e[h]]=c[e[d]];n=n+1;e=f[n];end end end end else local e=e[h];do return r(c,e,y)end;end else if 62<=t then repeat if t>63 then c[e[h]]=p(k[e[d]],nil,o);break;end;if(c[e[h]]~=e[l])then n=n+1;else n=e[d];end;until true;else if(c[e[h]]~=e[l])then n=n+1;else n=e[d];end;end end else if 70>=t then if 68<t then if t==69 then local h=e[h];local t=c[h+2];local f=c[h]+t;c[h]=f;if(t>0)then if(f<=c[h+1])then n=e[d];c[h+3]=f;end elseif(f>=c[h+1])then n=e[d];c[h+3]=f;end else c[e[h]]();end else local n=e[h];local h=c[n];for e=n+1,e[d]do a.UOnsKDvG(h,c[e])end;end else if t>=72 then if 73~=t then for t=0,1 do if t==1 then c[e[h]]=o[e[d]];else c(e[h],e[d]);n=n+1;e=f[n];end end else local e=e[h]c[e]=c[e](r(c,e+1,y))end else local t,o,s,y,t,t,j,l,u,k,p,g,a;for t=0,6 do if t<3 then if 0>=t then t=0;while t>-1 do if t<=2 then if t>=1 then if 0<t then for e=38,73 do if t<2 then o=h;break;end;s=d;break;end;else o=h;end else l=e;end else if 5<=t then if 2<t then for e=36,76 do if 5<t then t=-2;break;end;c(a,y);break;end;else c(a,y);end else if 0<=t then repeat if 4~=t then y=l[s];break;end;a=l[o];until true;else y=l[s];end end end t=t+1 end n=n+1;e=f[n];else if 0<=t then for u=17,82 do if 2>t then t=0;while t>-1 do if 3<=t then if 4>=t then if-1<t then repeat if 4>t then y=l[s];break;end;a=l[o];until true;else a=l[o];end else if t~=4 then repeat if 6~=t then c(a,y);break;end;t=-2;until true;else t=-2;end end else if 0>=t then l=e;else if t==1 then o=h;else s=d;end end end t=t+1 end n=n+1;e=f[n];break;end;j=e[h]c[j]=c[j](r(c,j+1,e[d]))n=n+1;e=f[n];break;end;else t=0;while t>-1 do if 3<=t then if 4>=t then if-1<t then repeat if 4>t then y=l[s];break;end;a=l[o];until true;else a=l[o];end else if t~=4 then repeat if 6~=t then c(a,y);break;end;t=-2;until true;else t=-2;end end else if 0>=t then l=e;else if t==1 then o=h;else s=d;end end end t=t+1 end n=n+1;e=f[n];end end else if t<=4 then if t>2 then repeat if 3<t then t=0;while t>-1 do if 2>=t then if 1<=t then if t~=-1 then repeat if t~=1 then s=d;break;end;o=h;until true;else o=h;end else l=e;end else if t>=5 then if 3<t then for e=47,61 do if t>5 then t=-2;break;end;c(a,y);break;end;else t=-2;end else if t>-1 then repeat if t~=4 then y=l[s];break;end;a=l[o];until true;else a=l[o];end end end t=t+1 end n=n+1;e=f[n];break;end;t=0;while t>-1 do if t<=3 then if 1>=t then if-3~=t then for n=24,84 do if 1~=t then l=e;break;end;u=h;break;end;else u=h;end else if t>-1 then repeat if 3~=t then k=d;break;end;p=c;until true;else p=c;end end else if t<6 then if t>1 then repeat if 5~=t then g=p[l[k]];break;end;a=l[u];until true;else a=l[u];end else if 6==t then c[a]=g;else t=-2;end end end t=t+1 end n=n+1;e=f[n];until true;else t=0;while t>-1 do if 2>=t then if 1<=t then if t~=-1 then repeat if t~=1 then s=d;break;end;o=h;until true;else o=h;end else l=e;end else if t>=5 then if 3<t then for e=47,61 do if t>5 then t=-2;break;end;c(a,y);break;end;else t=-2;end else if t>-1 then repeat if t~=4 then y=l[s];break;end;a=l[o];until true;else a=l[o];end end end t=t+1 end n=n+1;e=f[n];end else if 1~=t then for r=44,62 do if t~=6 then t=0;while t>-1 do if 3>t then if 1<=t then if-2<=t then repeat if 2~=t then o=h;break;end;s=d;until true;else o=h;end else l=e;end else if 4<t then if t>=4 then repeat if t<6 then c(a,y);break;end;t=-2;until true;else c(a,y);end else if 4>t then y=l[s];else a=l[o];end end end t=t+1 end n=n+1;e=f[n];break;end;t=0;while t>-1 do if t<=2 then if t<=0 then l=e;else if 0~=t then repeat if t~=1 then s=d;break;end;o=h;until true;else s=d;end end else if t>4 then if t~=6 then c(a,y);else t=-2;end else if 1<t then repeat if t<4 then y=l[s];break;end;a=l[o];until true;else y=l[s];end end end t=t+1 end break;end;else t=0;while t>-1 do if 3>t then if 1<=t then if-2<=t then repeat if 2~=t then o=h;break;end;s=d;until true;else o=h;end else l=e;end else if 4<t then if t>=4 then repeat if t<6 then c(a,y);break;end;t=-2;until true;else c(a,y);end else if 4>t then y=l[s];else a=l[o];end end end t=t+1 end n=n+1;e=f[n];end end end end end end end end else if 52<=t then if t<=56 then if 54<=t then if 55<=t then if 55==t then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];o[e[d]]=c[e[h]];n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];o[e[d]]=c[e[h]];n=n+1;e=f[n];c[e[h]]=(e[d]~=0);n=n+1;e=f[n];o[e[d]]=c[e[h]];else local h=e[h];local f=c[h]local t=c[h+2];if(t>0)then if(f>c[h+1])then n=e[d];else c[h+3]=f;end elseif(f<c[h+1])then n=e[d];else c[h+3]=f;end end else local e=e[h]c[e]=c[e](r(c,e+1,y))end else if 52<t then local t,a;t=e[h];a=c[e[d]];c[t+1]=a;c[t]=a[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];t=e[h];a=c[e[d]];c[t+1]=a;c[t]=a[e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]];else c[e[h]]=c[e[d]]+c[e[l]];end end else if 59<t then if 61>t then local l,s,o,r,a,y,t,u,z,k,g,b,p;t=0;while t>-1 do if t>3 then if t<=5 then if 1<t then for e=27,67 do if t>4 then y=l[s];break;end;a=r[l[o]];break;end;else a=r[l[o]];end else if t>5 then repeat if 6<t then t=-2;break;end;c[y]=a;until true;else c[y]=a;end end else if t<2 then if t>=-1 then for n=29,65 do if 0<t then s=h;break;end;l=e;break;end;else l=e;end else if 2<t then r=c;else o=d;end end end t=t+1 end n=n+1;e=f[n];t=0;while t>-1 do if 4>t then if t<=1 then if 1>t then l=e;else s=h;end else if 2<t then r=c;else o=d;end end else if 5>=t then if t>=0 then for e=19,73 do if t~=5 then a=r[l[o]];break;end;y=l[s];break;end;else a=r[l[o]];end else if 3<t then repeat if 6<t then t=-2;break;end;c[y]=a;until true;else t=-2;end end end t=t+1 end n=n+1;e=f[n];u=e[h]c[u]=c[u](c[u+1])n=n+1;e=f[n];t=0;while t>-1 do if t<=3 then if t>=2 then if 3>t then o=d;else r=c;end else if 1==t then s=h;else l=e;end end else if 5>=t then if t>2 then repeat if t>4 then y=l[s];break;end;a=r[l[o]];until true;else a=r[l[o]];end else if t~=2 then for e=40,89 do if 6~=t then t=-2;break;end;c[y]=a;break;end;else t=-2;end end end t=t+1 end n=n+1;e=f[n];do return c[e[h]]end n=n+1;e=f[n];u=e[h];z={};for e=1,#j do k=j[e];for e=0,#k do g=k[e];b=g[1];p=g[2];if b==c and p>=u then z[p]=b[p];g[1]=z;end;end;end;n=n+1;e=f[n];n=e[d];else if t==61 then c[e[h]]=c[e[d]]-c[e[l]];else for t=0,1 do if t>-2 then for l=10,80 do if 0<t then if not c[e[h]]then n=n+1;else n=e[d];end;break;end;c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;else if not c[e[h]]then n=n+1;else n=e[d];end;end end end end else if t>=58 then if t~=56 then repeat if t~=58 then c[e[h]]=c[e[d]]+e[l];break;end;local t;c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];t=e[h];do return c[t](r(c,t+1,e[d]))end;n=n+1;e=f[n];t=e[h];do return r(c,t,y)end;n=n+1;e=f[n];do return end;until true;else c[e[h]]=c[e[d]]+e[l];end else do return c[e[h]]end end end end else if 47<=t then if t>48 then if t>=50 then if 47<t then repeat if 51>t then local t;c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];break;end;do return c[e[h]]end until true;else do return c[e[h]]end end else local t;c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t](c[t+1])n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[h],e[d]do c[e]=nil;end;end else if 44<t then repeat if t<48 then local l,o,a,t,r,d;for y=0,1 do if y~=-2 then for s=35,55 do if y>0 then l=e[h];o={};for e=1,#j do a=j[e];for e=0,#a do t=a[e];r=t[1];d=t[2];if r==c and d>=l then o[d]=r[d];t[1]=o;end;end;end;break;end;l=e[h]c[l](c[l+1])n=n+1;e=f[n];break;end;else l=e[h];o={};for e=1,#j do a=j[e];for e=0,#a do t=a[e];r=t[1];d=t[2];if r==c and d>=l then o[d]=r[d];t[1]=o;end;end;end;end end break;end;local t;c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];t=e[h]c[t]=c[t](c[t+1])n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=#c[e[d]];n=n+1;e=f[n];if(c[e[h]]==e[l])then n=n+1;else n=e[d];end;until true;else local l,o,a,d,r,t;for y=0,1 do if y~=-2 then for s=35,55 do if y>0 then l=e[h];o={};for e=1,#j do a=j[e];for e=0,#a do d=a[e];r=d[1];t=d[2];if r==c and t>=l then o[t]=r[t];d[1]=o;end;end;end;break;end;l=e[h]c[l](c[l+1])n=n+1;e=f[n];break;end;else l=e[h];o={};for e=1,#j do a=j[e];for e=0,#a do d=a[e];r=d[1];t=d[2];if r==c and t>=l then o[t]=r[t];d[1]=o;end;end;end;end end end end else if t>43 then if t>=45 then if t>44 then repeat if t<46 then local n=e[h]c[n]=c[n](r(c,n+1,e[d]))break;end;local h=e[h];local t=c[h+2];local f=c[h]+t;c[h]=f;if(t>0)then if(f<=c[h+1])then n=e[d];c[h+3]=f;end elseif(f>=c[h+1])then n=e[d];c[h+3]=f;end until true;else local n=e[h]c[n]=c[n](r(c,n+1,e[d]))end else local t;c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];t=e[h]c[t]=c[t](c[t+1])n=n+1;e=f[n];if not c[e[h]]then n=n+1;else n=e[d];end;end else if 42==t then do return end;else local n=e[h];do return c[n](r(c,n+1,e[d]))end;end end end end end else if 21>t then if 10<=t then if 15>t then if 12>t then if 9~=t then repeat if 10~=t then c[e[h]]=s[e[d]];break;end;local e=e[h]c[e]=c[e](c[e+1])until true;else local e=e[h]c[e]=c[e](c[e+1])end else if 13<=t then if t~=10 then repeat if 14>t then local t,s,j,a;for l=0,5 do if 3>l then if l<=0 then t=e[h]c[t]=c[t](c[t+1])n=n+1;e=f[n];else if-2<=l then for a=14,92 do if l~=1 then c(e[h],e[d]);n=n+1;e=f[n];break;end;t=e[h]c[t]=c[t]()n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end end else if 4<=l then if l>=3 then repeat if l~=5 then t=e[h]s,j=u(c[t](r(c,t+1,e[d])))y=j+t-1 a=0;for e=t,y do a=a+1;c[e]=s[a];end;n=n+1;e=f[n];break;end;t=e[h]c[t]=c[t](r(c,t+1,y))until true;else t=e[h]c[t]=c[t](r(c,t+1,y))end else c[e[h]]=o[e[d]];n=n+1;e=f[n];end end end break;end;c[e[h]]=c[e[d]]%e[l];until true;else c[e[h]]=c[e[d]]%e[l];end else n=e[d];end end else if t<18 then if t>=16 then if 14<=t then for f=35,95 do if t<17 then if(e[h]<c[e[l]])then n=n+1;else n=e[d];end;break;end;local h=e[h];local f=c[h]local t=c[h+2];if(t>0)then if(f>c[h+1])then n=e[d];else c[h+3]=f;end elseif(f<c[h+1])then n=e[d];else c[h+3]=f;end break;end;else if(e[h]<c[e[l]])then n=n+1;else n=e[d];end;end else local t;c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c(e[h],e[d]);end else if 18>=t then c[e[h]]=c[e[d]]%c[e[l]];else if 20~=t then if c[e[h]]then n=n+1;else n=e[d];end;else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;end end end end else if 5>t then if t>1 then if 3>t then local t;for a=0,3 do if 1>=a then if a==1 then c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];else c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];end else if-1<=a then for l=28,77 do if a<3 then t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];break;end;if c[e[h]]then n=n+1;else n=e[d];end;break;end;else t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];end end end else if 3==t then if(e[h]<c[e[l]])then n=n+1;else n=e[d];end;else local e=e[h]c[e](c[e+1])end end else if t==0 then c[e[h]]=c[e[d]]%c[e[l]];else c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);end end else if t>=7 then if t>7 then if 7<t then for a=23,57 do if 8<t then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;break;end;local f,t,a,o,r,l;local n=0;while n>-1 do if n<4 then if 1<n then if 3~=n then a=d;else o=c;end else if n>-4 then repeat if n~=0 then t=h;break;end;f=e;until true;else t=h;end end else if 5>=n then if n~=2 then repeat if 4<n then l=f[t];break;end;r=o[f[a]];until true;else l=f[t];end else if n~=5 then for e=22,74 do if 7~=n then c[l]=r;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end break;end;else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;end else o[e[d]]=c[e[h]];end else if 6>t then local y,r,a,s,j,u,t,l;t=0;while t>-1 do if 4<=t then if t<=5 then if t~=5 then j=s[y[a]];else u=y[r];end else if 7>t then c[u]=j;else t=-2;end end else if 1>=t then if-3~=t then for n=15,85 do if 1~=t then y=e;break;end;r=h;break;end;else r=h;end else if t>-1 then repeat if t~=3 then a=d;break;end;s=c;until true;else a=d;end end end t=t+1 end n=n+1;e=f[n];l=e[h]c[l](c[l+1])n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[h],e[d]do c[e]=nil;end;else local t;c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t]=c[t](c[t+1])n=n+1;e=f[n];c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];do return end;end end end end else if t<=30 then if t>=26 then if 27<t then if 28<t then if t~=28 then repeat if 29<t then c[e[h]]=c[e[d]]*e[l];break;end;c[e[h]]=p(k[e[d]],nil,o);until true;else c[e[h]]=c[e[d]]*e[l];end else local t,o,u,a,s,l;t=e[h];do return c[t](r(c,t+1,e[d]))end;n=n+1;e=f[n];t=e[h];do return r(c,t,y)end;n=n+1;e=f[n];t=e[h];o={};for e=1,#j do u=j[e];for e=0,#u do a=u[e];s=a[1];l=a[2];if s==c and l>=t then o[l]=s[l];a[1]=o;end;end;end;end else if t>22 then repeat if t~=26 then if(c[e[h]]~=e[l])then n=n+1;else n=e[d];end;break;end;local s,y,r,a,o,t;c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];do return c[e[h]]end n=n+1;e=f[n];s=e[h];y={};for e=1,#j do r=j[e];for e=0,#r do a=r[e];o=a[1];t=a[2];if o==c and t>=s then y[t]=o[t];a[1]=y;end;end;end;until true;else local s,r,y,t,o,a;c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];c[e[h]][c[e[d]]]=c[e[l]];n=n+1;e=f[n];do return c[e[h]]end n=n+1;e=f[n];s=e[h];r={};for e=1,#j do y=j[e];for e=0,#y do t=y[e];o=t[1];a=t[2];if o==c and a>=s then r[a]=o[a];t[1]=r;end;end;end;end end else if 23>t then if t~=22 then local t;c[e[h]][e[d]]=c[e[l]];n=n+1;e=f[n];t=e[h]c[t]=c[t](r(c,t+1,e[d]))n=n+1;e=f[n];c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=c[e[d]];n=n+1;e=f[n];t=e[h]c[t](r(c,t+1,e[d]))else local t,l,a;for r=0,2 do if r>=1 then if r~=-3 then repeat if 1<r then t=e[h];l=c[t]a=c[t+2];if(a>0)then if(l>c[t+1])then n=e[d];else c[t+3]=l;end elseif(l<c[t+1])then n=e[d];else c[t+3]=l;end break;end;c(e[h],e[d]);n=n+1;e=f[n];until true;else t=e[h];l=c[t]a=c[t+2];if(a>0)then if(l>c[t+1])then n=e[d];else c[t+3]=l;end elseif(l<c[t+1])then n=e[d];else c[t+3]=l;end end else c[e[h]]=#c[e[d]];n=n+1;e=f[n];end end end else if 24<=t then if 24~=t then local f=e[h];local d={};for e=1,#j do local e=j[e];for n=0,#e do local n=e[n];local h=n[1];local e=n[2];if h==c and e>=f then d[e]=h[e];n[1]=d;end;end;end;else c[e[h]]={};end else c[e[h]]=o[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]=s[e[d]];n=n+1;e=f[n];c[e[h]]=c[e[d]][c[e[l]]];n=n+1;e=f[n];c[e[h]]={};end end end else if 35>=t then if t>=33 then if 33<t then if t~=30 then repeat if 34~=t then local t,l,r;for a=0,2 do if 0<a then if a>=0 then for o=12,79 do if a>1 then t=e[h];l=c[t]r=c[t+2];if(r>0)then if(l>c[t+1])then n=e[d];else c[t+3]=l;end elseif(l<c[t+1])then n=e[d];else c[t+3]=l;end break;end;c(e[h],e[d]);n=n+1;e=f[n];break;end;else c(e[h],e[d]);n=n+1;e=f[n];end else c[e[h]]=#c[e[d]];n=n+1;e=f[n];end end break;end;local a;for t=0,6 do if 2<t then if t<=4 then if 1~=t then for a=47,91 do if 4>t then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];break;end;c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];end else if t>1 then repeat if t<6 then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];break;end;c[e[h]]=o[e[d]];until true;else c[e[h]]=o[e[d]];end end else if t<1 then a=e[h]c[a](c[a+1])n=n+1;e=f[n];else if t>=-2 then for l=41,95 do if 1<t then c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;else c[e[h]]=o[e[d]];n=n+1;e=f[n];end end end end until true;else local a;for t=0,6 do if 2<t then if t<=4 then if 1~=t then for a=47,91 do if 4>t then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];break;end;c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;else c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];end else if t>1 then repeat if t<6 then c[e[h]]=c[e[d]][e[l]];n=n+1;e=f[n];break;end;c[e[h]]=o[e[d]];until true;else c[e[h]]=o[e[d]];end end else if t<1 then a=e[h]c[a](c[a+1])n=n+1;e=f[n];else if t>=-2 then for l=41,95 do if 1<t then c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;c[e[h]]=o[e[d]];n=n+1;e=f[n];break;end;else c[e[h]]=o[e[d]];n=n+1;e=f[n];end end end end end else local d,t,r;for l=0,1 do if l~=-4 then repeat if 1>l then d=e[h];y=d+b-1;for e=d,y do t=g[e-d];c[e]=t;end;n=n+1;e=f[n];break;end;d=e[h];r=c[d];for e=d+1,y do a.UOnsKDvG(r,c[e])end;until true;else d=e[h];y=d+b-1;for e=d,y do t=g[e-d];c[e]=t;end;n=n+1;e=f[n];end end end else if 32==t then local e=e[h];y=e+b-1;for n=e,y do local e=g[n-e];c[n]=e;end;else s[e[d]]=c[e[h]];end end else if t>38 then if t<40 then c[e[h]]=c[e[d]][e[l]];else if t==41 then c[e[h]]={};n=n+1;e=f[n];c[e[h]]={};n=n+1;e=f[n];c[e[h]]={};n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);n=n+1;e=f[n];c(e[h],e[d]);else for e=e[h],e[d]do c[e]=nil;end;end end else if 36>=t then local t;for l=0,1 do if-3<l then repeat if l<1 then t=e[h]c[t]=c[t]()n=n+1;e=f[n];break;end;if c[e[h]]then n=n+1;else n=e[d];end;until true;else if c[e[h]]then n=n+1;else n=e[d];end;end end else if 38==t then c[e[h]]=c[e[d]]-e[l];else c[e[h]]=c[e[d]][e[l]];end end end end end end end end n=1+n;end;end;return he end;local h=0xff;local l={};local f=(1);local d='';(function(n)local c=n local t=0x00 local e=0x00 c={(function(r)if t>0x27 then return r end t=t+1 e=(e+0xe40-r)%0x29 return(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xa);end return true end)'ERVKW'and c[0x1](0xb2+r))or(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xf1);l[f]=fe();f=f+h;end return true end)'TDOAC'and c[0x2](r+0x6a))or(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x2c);d={d..'\58 a',d};l[f]=ne();f=f+((not a.lEsuMxoC)and 1 or 0);d[1]='\58'..d[1];h[2]=0xff;end return true end)'htgfL'and c[0x3](r+0x16a))or r end),(function(f)if t>0x27 then return f end t=t+1 e=(e+0xa8c-f)%0x20 return(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x2);d='\37';h={function()h()end};d=d..'\100\43';end return true end)'dzzYb'and c[0x1](0x385+f))or(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x1b);end return true end)'LGhqB'and c[0x2](f+0x381))or(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xca);end return true end)'_DGUz'and c[0x3](f+0x2f5))or f end),(function(a)if t>0x21 then return a end t=t+1 e=(e+0x109f-a)%0x22 return(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xda);h[2]=(h[2]*(he(function()l()end,r(d))-he(h[1],r(d))))+1;l[f]={};h=h[2];f=f+h;end return true end)'mvrUD'and c[0x2](0x3af+a))or(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x7b);end return true end)'aVZtB'and c[0x1](a+0xb0))or(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x9b);end return true end)'Jpzgt'and c[0x3](a+0xe8))or a end)}c[0x2](0xefa)end){};local e=p(r(l));l[2]={};l[1]=e(l[1])yctzFiifZQKanpd=nil;e=p(r(l))return e(...);end return ce((function()local n={}local e=0x01;local c;if a.lEsuMxoC then c=a.lEsuMxoC(ce)else c=''end if a.UxXLlFlO(c,a.bvcslpqf)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(c,e,n,h,d,f)local f;if 4>c then if 1>=c then if c~=0 then do return function(c,e,n)if n then local e=(c/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(c%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,d,h,n,e),e(5,d,h,n)end;end else if-2<c then for f=32,80 do if 3>c then do return 16777216,65536,256 end;break;end;do return e(1),e(4,d,h,n,e),e(5,d,h,n)end;break;end;else do return e(1),e(4,d,h,n,e),e(5,d,h,n)end;end end else if 6<=c then if c>6 then if 8==c then do return n(c,nil,n);end else do return setmetatable({},{['__\99\97\108\108']=function(e,d,c,h,n)if n then return e[n]elseif h then return e else e[d]=c end end})end end else do return d[n]end;end else if 3<=c then repeat if c<5 then local c=h;local t,l,f=d(2);do return function()local d,e,h,n=e(n,c(c,c),c(c,c)+3);c(4);return(n*t)+(h*l)+(e*f)+d;end;end;break;end;local c=h;do return function()local e=e(n,c(c,c),c(c,c));c(1);return e;end;end;until true;else local c=h;do return function()local e=e(n,c(c,c),c(c,c));c(1);return e;end;end;end end end end),...)
+-- Updater configuration
+local title = "脚本已过期！";
+local url = "https://deltaexploits.net";
+
+local versionsToUpdate = {"2.605.660", "2.605.660"};
+
+-- Updater internals [START]
+local fVersion, fStringFormat = Version, string.format;
+local currentVersion = fVersion();
+local localizationService = game:GetService("LocalizationService");
+
+local sLocaleId = localizationService.SystemLocaleId;
+local translationVector1 = {[0]={code="es",locale="es-es",translated="Copiar URL"},[1]={code="nl",locale="nl-nl",translated="Kopie URL"},[2]={code="pt",locale="pt-br",translated="Copiar URL"},[3]={code="tr",locale="tr-tr",translated="Url'yi kopyala"},[4]={code="fi",locale="fi-fi",translated="Kopioida URL -osoite"},[5]={code="de",locale="de-de",translated="URL kopieren"},[6]={code="it",locale="it-it",translated="Copia URL"},[7]={code="ko",locale="ko-kr",translated="URL을 복사하십시오"},[8]={code="tl",locale="tl-ph",translated="Kopyahin ang URL"},[9]={code="ar",locale="ar-sa",translated="إنسخ الرابط"},[10]={code="hi",locale="hi-in",translated="यूआरएल कॉपी करें"},[11]={code="da",locale="da-dk",translated="Kopier URL"},[12]={code="ru",locale="ru-ru",translated="Копия URL"},[13]={code="el",locale="el-gr",translated="Αντιγραφή URL"},[14]={code="cs",locale="cs-cz",translated="Kopírovat URL"},[15]={code="en",locale="en-us",translated="Copy URL"},[16]={code="pl",locale="pl-pl",translated="Kopiuj URL"},[17]={code="fr",locale="fr-fr",translated="Copier le lien"},[18]={code="sv",locale="sv-se",translated="Kopiera URL"},[19]={code="th",locale="th-th",translated="คัดลอก URL"},[20]={code="ja",locale="ja-jp",translated="URLをコピーします"},[21]={code="zh",locale="zh-cn",translated="复制群号"},[22]={code="zh",locale="zh-tw",translated="複製URL"},[23]={code="vi",locale="vi-vn",translated="Sao chép URL"},[24]={code="ms",locale="ms-my",translated="Salin URL"},[25]={code="hu",locale="hu-hu",translated="Másolja az URL -t"},[26]={code="id",locale="id-id",translated="Salin URL"},[27]={code="ro",locale="ro-ro",translated="URL de copiere"}}
+local translationVector2 = {[0]={code="en",locale="en-us",translated="Your version (%s) of Roblox is out of date and will not work properly. Please update it at Delta's website: https://deltaexploits.net"},[1]={code="hi",locale="hi-in",translated="Roblox का आपका संस्करण (%s) पुराना है और ठीक से काम नहीं करेगा।कृपया इसे डेल्टा की वेबसाइट पर अपडेट करें: https://deltaexploits.net"},[2]={code="zh",locale="zh-cn",translated="该脚本已过期，请加入qq群获取最新版"},[3]={code="es",locale="es-es",translated="Su versión (%s) de Roblox está desactualizada y no funcionará correctamente.Actualizarlo en el sitio web de Delta: 115639379"},[4]={code="vi",locale="vi-vn",translated="Phiên bản của bạn (%s) của Roblox đã lỗi thời và sẽ không hoạt động đúng.Vui lòng cập nhật nó tại trang web của Delta: https://deltaexploits.net"},[5]={code="id",locale="id-id",translated="Versi Anda (%s) dari Roblox sudah ketinggalan zaman dan tidak akan berfungsi dengan baik.Harap perbarui di situs web Delta: https://deltaexploits.net"},[6]={code="el",locale="el-gr",translated="Η έκδοση σας (%s) του Roblox είναι ξεπερασμένη και δεν θα λειτουργήσει σωστά.Ενημερώστε το στην ιστοσελίδα της Delta: https://deltaexploits.net"},[7]={code="da",locale="da-dk",translated="Din version (%s) af Roblox er forældet og fungerer ikke korrekt.Opdater det på Delta's websted: https://deltaexploits.net"},[8]={code="tl",locale="tl-ph",translated="Ang iyong bersyon (%s) ng Roblox ay wala sa oras at hindi gagana nang maayos.Mangyaring i -update ito sa website ng Delta: https://deltaexploits.net"},[9]={code="sv",locale="sv-se",translated="Din version (%s) av Roblox är föråldrad och fungerar inte korrekt.Uppdatera den på Deltas webbplats: https://delaexploits.net"},[10]={code="ko",locale="ko-kr",translated="Roblox의 버전 (%s)은 구식이 아니며 제대로 작동하지 않습니다.델타 웹 사이 트 https://deltaexploits.net에서 업데이트하십시오"},[11]={code="pl",locale="pl-pl",translated="Twoja wersja (%s) Roblox jest nieaktualna i nie będzie działać poprawnie.Zaktualizuj go na stronie internetowej Delta: https://deltaexploits.net"},[12]={code="ru",locale="ru-ru",translated="Ваша версия (%s) Roblox устарела и не будет работать должным образом.Пожалуйста, обновите его на веб -сайте Delta: https://deltaexploits.net"},[13]={code="ja",locale="ja-jp",translated="Robloxのバージョン（%s）は時代遅れであり、適切に機能しません。DeltaのWeb サイトhttps://deltaexploits.netで更新してください"},[14]={code="nl",locale="nl-nl",translated="Uw versie (%s) van Roblox is verouderd en werkt niet goed.Werk het bij op de website van Delta: https://deltaexploits.net"},[15]={code="ms",locale="ms-my",translated="Versi anda (%s) Roblox sudah ketinggalan zaman dan tidak akan berfungsi dengan baik.Sila kemas kini di laman web Delta: https://deltaexploits.net"},[16]={code="pt",locale="pt-br",translated="Sua versão (%s) do Roblox está desatualizada e não funcionará corretamente.Atualize -o no site da Delta: https://deltaexploits.net"},[17]={code="tr",locale="tr-tr",translated="Roblox'un sürümünüz (%s) güncel değil ve düzgün çalışmayacak.Lütfen Delta'nın web sitesinde güncelleyin: https://deltaexploits.net"},[18]={code="hu",locale="hu-hu",translated="A Roblox verziója (%s) elavult, és nem fog megfelelően működni.Kérjük, frissítse a Delta weboldalán: https://deltaexploits.net"},[19]={code="fi",locale="fi-fi",translated="Robloxin versio (%s) on vanhentunut eikä toimi kunnolla.Päivitä se Delta -verkkosivustolla: https://deltaexploits.net"},[20]={code="de",locale="de-de",translated="Ihre Version (%s) von Roblox ist veraltet und funktioniert nicht ordnungsgemäß.Bitte aktualisieren Sie es auf der Website von Delta: https://deltaexploits.net"},[21]={code="th",locale="th-th",translated="เวอร์ชันของคุณ (%s) ของ Roblox ล้าสมัยและจะทำงานไม่ถูกต้องโปรดอัปเดตที่เว          ว็บไซต์ของ Delta: https://deltaexploits.net"},[22]={code="ar",locale="ar-sa",translated="نسختك (%s) من Roblox قديمة ولن تعمل بشكل صحيح.يرجى تحديثه على موقع Delta على الويب: https://deltaexploits.net"},[23]={code="cs",locale="cs-cz",translated="Vaše verze (%s) ROBLOX je zastaralá a nebude fungovat správně.Aktualizujte ji na webových stránkách Delta: https://deltaexploits.net"},[24]={code="zh",locale="zh-tw",translated="您的Roblox版本（%s）已過時，無法正常工作。請在Delta的網站上進行更新：https：//deltaexploits.net"},[25]={code="it",locale="it-it",translated="La tua versione (%s) di Roblox è obsole e non funzionerà correttamente.Aggiornalo sul sito web di Delta: https://deltaexploits.net"}}
+
+function split_locale(input_locale)
+    local result = {}
+    local from = 1
+    local delim_from, delim_to = string.find(input_locale, "-", from)
+    while delim_from do
+        table.insert(result, string.sub(input_locale, from , delim_from-1))
+        from = delim_to + 1
+        delim_from, delim_to = string.find(input_locale, "-", from)
+    end
+    table.insert(result, string.sub(input_locale, from))
+    return result
+end
+
+function searchTranslationVector(vector, locale)
+    --find by locale
+    for _, translation in next, vector do
+        if (string.lower(translation.locale) == string.lower(locale)) then
+            return translation.translated;
+        end
+    end
+
+    --find by code
+    for _, translation in next, vector do
+        if (string.lower(translation.code) == string.lower(locale)) then
+            return translation.translated;
+        end
+    end
+
+    if string.find(locale, "-") then
+        local l1, l2 = unpack(split_locale(locale));
+
+        for _, translation in next, vector do
+            if (string.lower(translation.code) == string.lower(l1)) then
+                return translation.translated;
+            end
+        end
+
+        for _, translation in next, vector do
+            if (string.lower(translation.code) == string.lower(l2)) then
+                return translation.translated;
+            end
+        end
+    end
+
+    for _, translation in next, vector do
+        if (string.lower(translation.code) == "en") then
+            return translation.translated;
+        end
+    end
+end
+
+function showModal(a,b,c)local d={}local e=game:GetService("GuiService")d["1"]=Instance.new("ScreenGui",game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))d["1"]["IgnoreGuiInset"]=true;d["1"]["Enabled"]=false;d["1"]["ScreenInsets"]=Enum.ScreenInsets.DeviceSafeInsets;d["1"]["Name"]=[[LOADERLoadingScreen]]d["1"]["ZIndexBehavior"]=Enum.ZIndexBehavior.Sibling;d["1"]["ResetOnSpawn"]=false;d["2"]=Instance.new("Frame",d["1"])d["2"]["ZIndex"]=-100;d["2"]["BackgroundColor3"]=Color3.fromRGB(0,0,0)d["2"]["BackgroundTransparency"]=0.6600000262260437;d["2"]["Size"]=UDim2.new(2,0,2,0)d["2"]["Position"]=UDim2.new(-1,0,-1,0)d["2"]["Name"]=[[DarkOverlay]]d["3"]=Instance.new("ImageLabel",d["1"])d["3"].BorderSizePixel=0;d["3"].ScaleType=Enum.ScaleType.Crop;d["3"].BackgroundColor3=Color3.fromRGB(255,255,255)d["3"].Image="rbxassetid://13387419794"d["3"].LayoutOrder=10;d["3"].Size=UDim2.new(0.32863849401474,0,0.31259891390800476,0)d["3"].BorderColor3=Color3.fromRGB(0,0,0)d["3"].Name="MainFrame"local f=d["3"].Size;local g=e:GetScreenResolution().X/2;local h=e:GetScreenResolution().Y/2;local i=g-f.X.Offset/2;local j=h-f.Y.Offset/2;d["3"].Position=UDim2.new(0,i,0,j/20)d["4"]=Instance.new("UICorner",d["3"])d["4"]["CornerRadius"]=UDim.new(0.07000000029802322,0)d["5"]=Instance.new("ImageLabel",d["3"])d["5"]["BackgroundColor3"]=Color3.fromRGB(26,27,36)d["5"]["Image"]=[[rbxassetid://13387657138]]d["5"]["LayoutOrder"]=10;d["5"]["Size"]=UDim2.new(1,0,1,0)d["5"]["Name"]=[[Overlay]]d["5"]["BackgroundTransparency"]=0.800000011920929;d["6"]=Instance.new("UICorner",d["5"])d["6"]["CornerRadius"]=UDim.new(0.07000000029802322,0)d["7"]=Instance.new("TextLabel",d["5"])d["7"]["TextWrapped"]=true;d["7"]["TextScaled"]=true;d["7"]["BackgroundColor3"]=Color3.fromRGB(118,192,255)d["7"]["FontFace"]=Font.new([[rbxassetid://11702779517]],Enum.FontWeight.Bold,Enum.FontStyle.Normal)d["7"]["TextSize"]=14;d["7"]["TextColor3"]=Color3.fromRGB(203,244,255)d["7"]["AnchorPoint"]=Vector2.new(0,0.5)d["7"]["Size"]=UDim2.new(0.6451469659805298,0,0.1418459564447403,0)d["7"]["Text"]=a;d["7"]["Name"]=[[Title]]d["7"]["BackgroundTransparency"]=1;d["7"]["Position"]=UDim2.new(0.1773512363433838,0,0.2073548913002014,0)d["8"]=Instance.new("TextLabel",d["5"])d["8"]["TextWrapped"]=true;d["8"]["TextScaled"]=true;d["8"]["BackgroundColor3"]=Color3.fromRGB(255,255,255)d["8"]["FontFace"]=Font.new([[rbxassetid://11702779517]],Enum.FontWeight.Regular,Enum.FontStyle.Normal)d["8"]["TextSize"]=36;d["8"]["TextColor3"]=Color3.fromRGB(203,244,255)d["8"]["AnchorPoint"]=Vector2.new(0,0.5)d["8"]["Size"]=UDim2.new(0.8879498243331909,0,0.4277613639831543,0)d["8"]["Text"]=b;local k=d;k["13"]=Instance.new("ImageButton",k["5"])k["13"]["Active"]=false;k["13"]["BorderSizePixel"]=0;k["13"]["BackgroundColor3"]=Color3.fromRGB(31,37,47)k["13"]["Selectable"]=false;k["13"]["AnchorPoint"]=Vector2.new(0,1)k["13"]["Size"]=UDim2.new(0.6975729584693909,0,0.1604293990135193,0)k["13"]["Name"]=[[Button2]]k["13"]["Position"]=UDim2.new(0.15,0,0.9699996423721313,0)k["14"]=Instance.new("UICorner",k["13"])k["14"]["CornerRadius"]=UDim.new(0.20000000298023224,0)k["15"]=Instance.new("UIStroke",k["13"])k["15"]["Color"]=Color3.fromRGB(31,37,47)k["15"]["Thickness"]=2;k["16"]=Instance.new("TextLabel",k["13"])k["16"]["TextWrapped"]=true;k["16"]["BorderSizePixel"]=0;k["16"]["TextScaled"]=true;k["16"]["BackgroundColor3"]=Color3.fromRGB(31,37,47)k["16"]["FontFace"]=Font.new([[rbxassetid://11702779517]],Enum.FontWeight.Bold,Enum.FontStyle.Normal)k["16"]["TextSize"]=14;k["16"]["TextColor3"]=Color3.fromRGB(162,191,212)k["16"]["AnchorPoint"]=Vector2.new(0.5,0.5)k["16"]["Size"]=UDim2.new(0.8865329027175903,0,0.5,0)k["16"]["Text"]=searchTranslationVector(translationVector1, sLocaleId);k["16"]["Name"]=[[Input]]k["16"]["BackgroundTransparency"]=1;k["16"]["Position"]=UDim2.new(0.5,0,0.5,0)k["13"].MouseButton1Click:Connect(function()setclipboard(c)end)d["8"]["Name"]=[[Desc]]d["8"]["BackgroundTransparency"]=1;d["8"]["Position"]=UDim2.new(0.06185942143201828,0,0.5393086075782776,0)d["9"]=Instance.new("Frame",d["3"])d["9"]["ZIndex"]=0;d["9"]["BorderSizePixel"]=0;d["9"]["BackgroundTransparency"]=1;d["9"]["Size"]=UDim2.new(1,0,1,0)d["9"]["Name"]=[[DropShadowHolder]]d["a"]=Instance.new("ImageLabel",d["9"])d["a"]["ZIndex"]=0;d["a"]["BorderSizePixel"]=0;d["a"]["SliceCenter"]=Rect.new(49,49,450,450)d["a"]["ScaleType"]=Enum.ScaleType.Slice;d["a"]["ImageColor3"]=Color3.fromRGB(0,0,0)d["a"]["ImageTransparency"]=0.699999988079071;d["a"]["AnchorPoint"]=Vector2.new(0.5,0.5)d["a"]["Image"]=[[rbxassetid://6014261993]]d["a"]["Size"]=UDim2.new(1,47,1,47)d["a"]["Name"]=[[DropShadow]]d["a"]["BackgroundTransparency"]=1;d["a"]["Position"]=UDim2.new(0.5,0,0.5,0)d["b"]=Instance.new("UIAspectRatioConstraint",d["3"])d["b"]["AspectRatio"]=1.8712739944458008;local l={}local m=d["1"]local n=game:GetService("TweenService")local o=m.MainFrame;local p=m.DarkOverlay;local q=false;local r=0.6;function l:Start()q=true;m.Enabled=true;o.Position=UDim2.new(0.336,0,-0.372,0)p.Transparency=1;local s=n:Create(o,TweenInfo.new(r,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Position=UDim2.new(0.336,0,0.322,0)})local t=n:Create(p,TweenInfo.new(r,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Transparency=0.66})s:Play()t:Play()t.Completed:Wait()end;coroutine.wrap(function()l:Start()end)()end
+
+local message = fStringFormat(searchTranslationVector(translationVector2, sLocaleId), currentVersion);
+showModal(title, message, url);
+error(message);
+-- Updater internals [END]
+
+--[[
+
+    Title: Delta Version: X
+    Created By: Chillz#0348
+    Author: Lxnny_Termed#0795 & Chillz#0348 (DeltaTeam)
+]]
+
+local httpService = cloneref(game:GetService("HttpService"));
+
+local _tablefind = clonefunction(table.find);
+
+local isA = clonefunction(game.IsA);
+
+local GuiService = game:GetService("GuiService")
+
+
+
+local getversion = clonefunction(arceus.getversion) or nil -- APK version
+local ispermissiongranted = clonefunction(arceus.ispermissiongranted) or nil -- Storage perms
+
+local isarceusfolder = clonefunction(arceus.isarceusfolder)
+local makearceusfolder = clonefunction(arceus.makearceusfolder)
+local deletearceusfolder = clonefunction(arceus.deletearceusfolder)
+
+local getfilesize = clonefunction(arceus.getfilesize) -- Ig this works as "arceusfile"
+local isarceusfile = clonefunction(arceus.isarceusfile)
+--local loadarceusfile = clonefunction(arceus.loadarceusfile) -- Unexisting
+local readarceusfile = clonefunction(arceus.readarceusfile)
+local writearceusfile = clonefunction(arceus.writearceusfile)
+local listarceusfiles = clonefunction(arceus.listarceusfiles)
+local deletearceusfile = clonefunction(arceus.deletearceusfile)
+
+local iscustomasset = clonefunction(arceus.iscustomasset)
+local writecustomasset = clonefunction(arceus.writecustomasset) -- You can also manage assets (arceus thing)
+local deletecustomasset = clonefunction(arceus.deletecustomasset)
+local retrievecustomasset = clonefunction(arceus.retrievecustomasset)
+
+getgenv().arceus = nil
+
+
+
+
+makefolder("d_android_script_dir")
+
+if gethui():FindFirstChild("DeltaGui") then
+    gethui():FindFirstChild("DeltaGui"):Destroy()
+end
+
+
+
+if not isfile("iconsize") then
+    writefile("iconsize", "Medium")
+end
+
+if not isfile("iconshape") then
+    writefile("iconshape", "Squircle")
+end
+
+if not isfile("iconcolor") then
+    writefile("iconcolor", "Blue")
+end
+
+
+getgenv().syn_backup = syn
+
+if not isfile("uses_syn") then
+    getgenv().syn = nil
+end
+
+-- Go to near end line for configs.
+
+local function executescript(sc) executecode(sc) end
+
+--local executeclipboard = readclipboard_hideenv
+
+
+getgenv().readclipboard_hideenv = nil
+
+local DELTA = {};
+getgenv().Vm9vaE59PzVBeTVNdyY4JDsieDglUzdwRDNabyExbjR1ezBmYHNNT2kjOXk = true
+
+
+
+if gethui():FindFirstChild("Delta") then
+    gethui():FindFirstChild("Delta"):Destroy()
+end
+
+-- StarterGui.Delta
+DELTA["1"] = Instance.new("ScreenGui", gethui());
+DELTA["1"]["Name"] = [[Delta]];
+DELTA["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+DELTA["1"]["ResetOnSpawn"] = false;
+DELTA["1"]["DisplayOrder"] = 10;
+DELTA["1"].Enabled = false
+
+-- Dis is for floating icon Players
+DELTA["Ui"] = Instance.new("ScreenGui", gethui())
+DELTA["Ui"].Enabled = false
+DELTA["Ui"].Name = "DeltaIcon"
+
+DELTA["DaIcon"] = Instance.new("ImageButton", DELTA["Ui"])
+
+local iconsize = readfile("iconsize")
+if iconsize == "Medium" then
+    DELTA["DaIcon"].Size = UDim2.new(0,45,0,45)
+elseif iconsize == "Small" then
+    DELTA["DaIcon"].Size = UDim2.new(0,30,0,30)
+elseif iconsize == "Large" then
+    DELTA["DaIcon"].Size = UDim2.new(0,60,0,60)
+else
+    DELTA["DaIcon"].Size = UDim2.new(0,45,0,45)
+end
+
+local DaIconSize = DELTA["DaIcon"].Size
+local ScreenCenterX = GuiService:GetScreenResolution().X / 2
+local ScreenCenterY = GuiService:GetScreenResolution().Y / 2
+
+local DaIconPositionX = ScreenCenterX - DaIconSize.X.Offset / 2
+local DaIconPositionY = ScreenCenterY - DaIconSize.Y.Offset / 2
+DELTA["DaIcon"].Position = UDim2.new(0, DaIconPositionX, 0, DaIconPositionY/20)
+DELTA["DaIcon"].Draggable = true
+DELTA["DaIcon"].Image = "rbxassetid://12730597972"
+DELTA["DaIcon"].BackgroundColor3 = Color3.fromRGB(26, 28, 36)
+
+DELTA["das"] = Instance.new("UICorner", DELTA["DaIcon"]);
+
+local iconsize = readfile("iconshape")
+if iconsize == "Squircle" then
+    DELTA["das"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+elseif iconsize == "Circle" then
+    DELTA["das"]["CornerRadius"] = UDim.new(0.50000000298023224, 0);
+elseif iconsize == "Square" then
+    DELTA["das"]["CornerRadius"] = UDim.new(0, 0);
+else
+    DELTA["das"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+end
+
+
+
+
+DELTA["daStroke"] = Instance.new("UIStroke", DELTA["DaIcon"])
+DELTA["daStroke"].Thickness = 2
+DELTA["daStroke"].ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+local iconsize = readfile("iconcolor")
+if iconsize == "Blue" then
+    DELTA["daStroke"].Color = Color3.fromRGB(65, 169, 255)
+elseif iconsize == "Green" then
+    DELTA["daStroke"].Color = Color3.fromRGB(55, 219, 69)
+elseif iconsize == "Purple" then
+    DELTA["daStroke"].Color = Color3.fromRGB(125, 65, 255)
+else
+    DELTA["daStroke"].Color = Color3.fromRGB(65, 169, 255)
+end
+
+
+-- StarterGui.Delta.KeySystem
+DELTA["2"] = Instance.new("Frame", DELTA["1"]);
+DELTA["2"]["BackgroundColor3"] = Color3.fromRGB(26, 28, 36);
+DELTA["2"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["2"]["Size"] = UDim2.new(0.328000009059906, 0, 1.2, 0);
+DELTA["2"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["2"]["Visible"] = false;
+DELTA["2"]["Name"] = [[KeySystem]];
+
+-- StarterGui.Delta.KeySystem.Holder
+DELTA["3"] = Instance.new("Frame", DELTA["2"]);
+DELTA["3"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["3"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["3"]["BackgroundTransparency"] = 1;
+DELTA["3"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["3"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["3"]["Name"] = [[Holder]];
+
+-- StarterGui.Delta.KeySystem.Holder.UIListLayout
+DELTA["4"] = Instance.new("UIListLayout", DELTA["3"]);
+DELTA["4"]["Padding"] = UDim.new(0.03999999910593033, 0);
+DELTA["4"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.KeySystem.Holder.Title
+DELTA["5"] = Instance.new("Frame", DELTA["3"]);
+DELTA["5"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["5"]["BackgroundTransparency"] = 1;
+DELTA["5"]["Size"] = UDim2.new(1, 0, 0.18677474558353424, 0);
+DELTA["5"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.KeySystem.Holder.Title.UIListLayout
+DELTA["6"] = Instance.new("UIListLayout", DELTA["5"]);
+DELTA["6"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.KeySystem.Holder.Title.Title
+DELTA["7"] = Instance.new("TextLabel", DELTA["5"]);
+DELTA["7"]["TextWrapped"] = true;
+DELTA["7"]["TextScaled"] = true;
+DELTA["7"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["7"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["7"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["7"]["TextSize"] = 14;
+DELTA["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["7"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["7"]["Size"] = UDim2.new(0.8398135900497437, 0, 0.4, 0);
+DELTA["7"]["Text"] = [[Welcome back!]];
+DELTA["7"]["Name"] = [[Title]];
+DELTA["7"]["BackgroundTransparency"] = 1;
+DELTA["7"]["Position"] = UDim2.new(0.4199067950248718, 0, 0, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Title.Paragraph
+DELTA["8"] = Instance.new("TextLabel", DELTA["5"]);
+DELTA["8"]["TextWrapped"] = true;
+DELTA["8"]["TextScaled"] = true;
+DELTA["8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["8"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["8"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["8"]["TextSize"] = 14;
+DELTA["8"]["TextColor3"] = Color3.fromRGB(115, 127, 152);
+DELTA["8"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["8"]["Size"] = UDim2.new(0.8980631828308105, 0, 0.35361653566360474, 0);
+DELTA["8"]["Text"] = [[Access Delta through completing the key system, doesn't take long!]];
+DELTA["8"]["Name"] = [[Paragraph]];
+DELTA["8"]["BackgroundTransparency"] = 1;
+DELTA["8"]["Position"] = UDim2.new(0.4490315914154053, 0, 0.85361647605896, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Input
+DELTA["9"] = Instance.new("Frame", DELTA["3"]);
+DELTA["9"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["9"]["BackgroundTransparency"] = 1;
+DELTA["9"]["LayoutOrder"] = 1;
+DELTA["9"]["Size"] = UDim2.new(1, 0, 0.13557736575603485, 0);
+DELTA["9"]["Position"] = UDim2.new(0, 0, 0.22365736961364746, 0);
+DELTA["9"]["Name"] = [[Input]];
+
+-- StarterGui.Delta.KeySystem.Holder.Input.Title
+DELTA["a"] = Instance.new("TextLabel", DELTA["9"]);
+DELTA["a"]["TextWrapped"] = true;
+DELTA["a"]["TextScaled"] = true;
+DELTA["a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["a"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["a"]["TextSize"] = 14;
+DELTA["a"]["TextColor3"] = Color3.fromRGB(129, 143, 164);
+DELTA["a"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["a"]["Size"] = UDim2.new(0.6213776469230652, 0, 0.2623675465583801, 0);
+DELTA["a"]["Text"] = [[Enter key]];
+DELTA["a"]["Name"] = [[Title]];
+DELTA["a"]["BackgroundTransparency"] = 1;
+DELTA["a"]["Position"] = UDim2.new(0.3106888234615326, 0, -2.339766922432318e-07, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Input.TextBox
+DELTA["b"] = Instance.new("Frame", DELTA["9"]);
+DELTA["b"]["BorderSizePixel"] = 0;
+DELTA["b"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["b"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["b"]["Size"] = UDim2.new(0.9975729584693909, 0, 0.6160375475883484, 0);
+DELTA["b"]["Position"] = UDim2.new(0.49878647923469543, 0, 1, 0);
+DELTA["b"]["Name"] = [[TextBox]];
+
+-- StarterGui.Delta.KeySystem.Holder.Input.TextBox.Input
+DELTA["c"] = Instance.new("TextBox", DELTA["b"]);
+DELTA["c"]["Active"] = true;
+DELTA["c"]["PlaceholderColor3"] = Color3.fromRGB(104, 120, 144);
+DELTA["c"]["BorderSizePixel"] = 0;
+DELTA["c"]["TextSize"] = 14;
+DELTA["c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["c"]["TextWrapped"] = true;
+DELTA["c"]["TextScaled"] = true;
+DELTA["c"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["c"]["FontFace"] = Font.new([[rbxasset://fonts/families/GothamSSm.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["c"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["c"]["BackgroundTransparency"] = 1;
+DELTA["c"]["PlaceholderText"] = [[examplekey123$]];
+DELTA["c"]["Size"] = UDim2.new(0.8865329027175903, 0, 0.5, 0);
+DELTA["c"]["Selectable"] = false;
+DELTA["c"]["Text"] = [[]];
+DELTA["c"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["c"]["Name"] = [[Input]];
+
+-- StarterGui.Delta.KeySystem.Holder.Input.TextBox.UICorner
+DELTA["d"] = Instance.new("UICorner", DELTA["b"]);
+DELTA["d"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons
+DELTA["e"] = Instance.new("Frame", DELTA["3"]);
+DELTA["e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["e"]["BackgroundTransparency"] = 1;
+DELTA["e"]["LayoutOrder"] = 2;
+DELTA["e"]["Size"] = UDim2.new(1, 0, 0.19585928320884705, 0);
+DELTA["e"]["Position"] = UDim2.new(0, 0, 0.39611735939979553, 0);
+DELTA["e"]["Name"] = [[Buttons]];
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button1
+DELTA["f"] = Instance.new("ImageButton", DELTA["e"]);
+DELTA["f"]["Active"] = false;
+DELTA["f"]["BorderSizePixel"] = 0;
+DELTA["f"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["f"]["Selectable"] = false;
+DELTA["f"]["Size"] = UDim2.new(0.9975729584693909, 0, 0.43042951822280884, 0);
+DELTA["f"]["Name"] = [[Button1]];
+DELTA["f"]["BackgroundTransparency"] = 0.8799999952316284;
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button1.UICorner
+DELTA["10"] = Instance.new("UICorner", DELTA["f"]);
+DELTA["10"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button1.UIStroke
+DELTA["11"] = Instance.new("UIStroke", DELTA["f"]);
+DELTA["11"]["Color"] = Color3.fromRGB(60, 137, 196);
+DELTA["11"]["Thickness"] = 2;
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button1.Input
+DELTA["12"] = Instance.new("TextLabel", DELTA["f"]);
+DELTA["12"]["TextWrapped"] = true;
+DELTA["12"]["BorderSizePixel"] = 0;
+DELTA["12"]["TextScaled"] = true;
+DELTA["12"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["12"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["12"]["TextSize"] = 14;
+DELTA["12"]["TextColor3"] = Color3.fromRGB(140, 206, 255);
+DELTA["12"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["12"]["Size"] = UDim2.new(0.8865329027175903, 0, 0.5, 0);
+DELTA["12"]["Text"] = [[Continue]];
+DELTA["12"]["Name"] = [[Input]];
+DELTA["12"]["BackgroundTransparency"] = 1;
+DELTA["12"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button2
+DELTA["13"] = Instance.new("ImageButton", DELTA["e"]);
+DELTA["13"]["Active"] = false;
+DELTA["13"]["BorderSizePixel"] = 0;
+DELTA["13"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["13"]["Selectable"] = false;
+DELTA["13"]["AnchorPoint"] = Vector2.new(0, 1);
+DELTA["13"]["Size"] = UDim2.new(0.9975729584693909, 0, 0.4304293990135193, 0);
+DELTA["13"]["Name"] = [[Button2]];
+DELTA["13"]["Position"] = UDim2.new(0, 0, 0.9999996423721313, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button2.UICorner
+DELTA["14"] = Instance.new("UICorner", DELTA["13"]);
+DELTA["14"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button2.UIStroke
+DELTA["15"] = Instance.new("UIStroke", DELTA["13"]);
+DELTA["15"]["Color"] = Color3.fromRGB(31, 37, 47);
+DELTA["15"]["Thickness"] = 2;
+
+-- StarterGui.Delta.KeySystem.Holder.Buttons.Button2.Input
+DELTA["16"] = Instance.new("TextLabel", DELTA["13"]);
+DELTA["16"]["TextWrapped"] = true;
+DELTA["16"]["BorderSizePixel"] = 0;
+DELTA["16"]["TextScaled"] = true;
+DELTA["16"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["16"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["16"]["TextSize"] = 14;
+DELTA["16"]["TextColor3"] = Color3.fromRGB(162, 191, 212);
+DELTA["16"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["16"]["Size"] = UDim2.new(0.8865329027175903, 0, 0.5, 0);
+DELTA["16"]["Text"] = [[Receive Key]];
+DELTA["16"]["Name"] = [[Input]];
+DELTA["16"]["BackgroundTransparency"] = 1;
+DELTA["16"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Message
+DELTA["17"] = Instance.new("ImageLabel", DELTA["3"]);
+DELTA["17"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["17"]["Image"] = [[rbxassetid://13363093418]];
+DELTA["17"]["LayoutOrder"] = 3;
+DELTA["17"]["Size"] = UDim2.new(1, 0, 0.13, 0);
+DELTA["17"]["Name"] = [[Message]];
+DELTA["17"]["BackgroundTransparency"] = 1;
+DELTA["17"]["Position"] = UDim2.new(0, 0, 0.6288594007492065, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Message.Paragraph
+DELTA["18"] = Instance.new("TextLabel", DELTA["17"]);
+DELTA["18"]["TextWrapped"] = true;
+DELTA["18"]["TextScaled"] = true;
+DELTA["18"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["18"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["18"]["TextSize"] = 14;
+DELTA["18"]["TextColor3"] = Color3.fromRGB(115, 127, 152);
+DELTA["18"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["18"]["Size"] = UDim2.new(0.6844813227653503, 0, 0.4, 0);
+DELTA["18"]["Text"] = [[Start exploiting when you complete our key system!]];
+DELTA["18"]["Name"] = [[Paragraph]];
+DELTA["18"]["BackgroundTransparency"] = 1;
+DELTA["18"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Button2
+DELTA["19"] = Instance.new("ImageButton", DELTA["3"]);
+DELTA["19"]["Active"] = false;
+DELTA["19"]["BorderSizePixel"] = 0;
+DELTA["19"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["19"]["Selectable"] = false;
+DELTA["19"]["LayoutOrder"] = 4;
+DELTA["19"]["AnchorPoint"] = Vector2.new(0, 1);
+DELTA["19"]["Size"] = UDim2.new(0.9975730180740356, 0, 0.08399911224842072, 0);
+DELTA["19"]["Name"] = [[Button2]];
+DELTA["19"]["Position"] = UDim2.new(0, 0, 0.9326172471046448, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Button2.UICorner
+DELTA["1a"] = Instance.new("UICorner", DELTA["19"]);
+DELTA["1a"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.KeySystem.Holder.Button2.Input
+DELTA["1b"] = Instance.new("TextButton", DELTA["19"]);
+DELTA["1b"]["TextWrapped"] = true;
+DELTA["1b"]["Active"] = false;
+DELTA["1b"]["BorderSizePixel"] = 0;
+DELTA["1b"]["AutoButtonColor"] = false;
+DELTA["1b"]["TextScaled"] = true;
+DELTA["1b"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["1b"]["TextSize"] = 14;
+DELTA["1b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["1b"]["TextColor3"] = Color3.fromRGB(162, 191, 212);
+DELTA["1b"]["Selectable"] = false;
+DELTA["1b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["1b"]["Size"] = UDim2.new(0.8865329027175903, 0, 0.5, 0);
+DELTA["1b"]["Name"] = [[Input]];
+DELTA["1b"]["Text"] = [[Discord]];
+DELTA["1b"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["1b"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.KeySystem.Holder.Button2.UIStroke
+DELTA["1c"] = Instance.new("UIStroke", DELTA["19"]);
+DELTA["1c"]["Color"] = Color3.fromRGB(31, 37, 47);
+DELTA["1c"]["Thickness"] = 2;
+
+-- StarterGui.Delta.KeySystem.UIPadding
+DELTA["1d"] = Instance.new("UIPadding", DELTA["2"]);
+DELTA["1d"]["PaddingTop"] = UDim.new(0.05000000074505806, 0);
+DELTA["1d"]["PaddingRight"] = UDim.new(0.15000000596046448, 0);
+DELTA["1d"]["PaddingLeft"] = UDim.new(0.15000000596046448, 0);
+
+-- StarterGui.Delta.KeySystem.ImageButton
+DELTA["1e"] = Instance.new("ImageButton", DELTA["2"]);
+DELTA["1e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["1e"]["AnchorPoint"] = Vector2.new(1, 0);
+DELTA["1e"]["Image"] = [[rbxassetid://13363121645]];
+DELTA["1e"]["Size"] = UDim2.new(0.07999999821186066, 0, 0.07999999821186066, 0);
+DELTA["1e"]["Position"] = UDim2.new(1, 0, 0.02012072503566742, 0);
+DELTA["1e"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.KeySystem.ImageButton.UIAspectRatioConstraint
+DELTA["1f"] = Instance.new("UIAspectRatioConstraint", DELTA["1e"]);
+
+
+-- StarterGui.Delta.KeySystem.Marker
+DELTA["20"] = Instance.new("StringValue", DELTA["2"]);
+DELTA["20"]["Value"] = [[Menu]];
+DELTA["20"]["Name"] = [[Marker]];
+
+-- StarterGui.Delta.KeySystem.LocalScript
+DELTA["21"] = Instance.new("LocalScript", DELTA["2"]);
+
+
+-- StarterGui.Delta.Sidebar
+DELTA["22"] = Instance.new("Frame", DELTA["1"]);
+DELTA["22"]["BorderSizePixel"] = 0;
+DELTA["22"]["BackgroundColor3"] = Color3.fromRGB(24, 25, 33);
+DELTA["22"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["22"]["Size"] = UDim2.new(0.07823482155799866, 0, 1.17552649974823, 0);
+DELTA["22"]["Position"] = UDim2.new(0.9997662901878357, 0, 0.4742202162742615, 0);
+DELTA["22"]["Visible"] = false;
+DELTA["22"]["Name"] = [[Sidebar]];
+
+-- StarterGui.Delta.Sidebar.UIListLayout
+DELTA["23"] = Instance.new("UIListLayout", DELTA["22"]);
+DELTA["23"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["23"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["23"]["Padding"] = UDim.new(0.03999999910593033, 0);
+DELTA["23"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Sidebar.Home
+DELTA["24"] = Instance.new("ImageButton", DELTA["22"]);
+DELTA["24"]["AutoButtonColor"] = false;
+DELTA["24"]["BackgroundColor3"] = Color3.fromRGB(41, 45, 58);
+DELTA["24"]["LayoutOrder"] = 1;
+DELTA["24"]["Image"] = [[rbxassetid://0]];
+DELTA["24"]["Size"] = UDim2.new(0.5135505795478821, 0, 0.08553311228752136, 0);
+DELTA["24"]["Name"] = [[Home]];
+DELTA["24"]["Position"] = UDim2.new(0.274707168340683, 0, 0.29129067063331604, 0);
+
+-- StarterGui.Delta.Sidebar.Home.UIAspectRatioConstraint
+DELTA["25"] = Instance.new("UIAspectRatioConstraint", DELTA["24"]);
+
+
+-- StarterGui.Delta.Sidebar.Home.UICorner
+DELTA["26"] = Instance.new("UICorner", DELTA["24"]);
+DELTA["26"]["CornerRadius"] = UDim.new(0.4000000059604645, 0);
+
+-- StarterGui.Delta.Sidebar.Home.ImageLabel
+DELTA["27"] = Instance.new("ImageLabel", DELTA["24"]);
+DELTA["27"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["27"]["ImageColor3"] = Color3.fromRGB(138, 145, 164);
+DELTA["27"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["27"]["Image"] = [[rbxassetid://13462268450]];
+DELTA["27"]["Size"] = UDim2.new(0.4556732177734375, 0, 0.4556732177734375, 0);
+DELTA["27"]["BackgroundTransparency"] = 1;
+DELTA["27"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Sidebar.Scripthub
+DELTA["28"] = Instance.new("ImageButton", DELTA["22"]);
+DELTA["28"]["AutoButtonColor"] = false;
+DELTA["28"]["BackgroundColor3"] = Color3.fromRGB(41, 45, 58);
+DELTA["28"]["LayoutOrder"] = 3;
+DELTA["28"]["Image"] = [[rbxassetid://0]];
+DELTA["28"]["Size"] = UDim2.new(0.5135507583618164, 0, 0.08553311228752136, 0);
+DELTA["28"]["Name"] = [[Scripthub]];
+DELTA["28"]["Position"] = UDim2.new(0.274707168340683, 0, 0.5514350533485413, 0);
+
+-- StarterGui.Delta.Sidebar.Scripthub.UIAspectRatioConstraint
+DELTA["29"] = Instance.new("UIAspectRatioConstraint", DELTA["28"]);
+
+
+-- StarterGui.Delta.Sidebar.Scripthub.UICorner
+DELTA["2a"] = Instance.new("UICorner", DELTA["28"]);
+DELTA["2a"]["CornerRadius"] = UDim.new(0.4000000059604645, 0);
+
+-- StarterGui.Delta.Sidebar.Scripthub.ImageLabel
+DELTA["2b"] = Instance.new("ImageLabel", DELTA["28"]);
+DELTA["2b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["2b"]["ImageColor3"] = Color3.fromRGB(138, 145, 164);
+DELTA["2b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["2b"]["Image"] = [[rbxassetid://13462270380]];
+DELTA["2b"]["Size"] = UDim2.new(0.40817680954933167, 0, 0.3085578680038452, 0);
+DELTA["2b"]["BackgroundTransparency"] = 1;
+DELTA["2b"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Sidebar.Settings
+DELTA["2c"] = Instance.new("ImageButton", DELTA["22"]);
+DELTA["2c"]["AutoButtonColor"] = false;
+DELTA["2c"]["BackgroundColor3"] = Color3.fromRGB(41, 45, 58);
+DELTA["2c"]["LayoutOrder"] = 4;
+DELTA["2c"]["Image"] = [[rbxassetid://0]];
+DELTA["2c"]["Size"] = UDim2.new(0.5135504603385925, 0, 0.08553305268287659, 0);
+DELTA["2c"]["Name"] = [[Settings]];
+DELTA["2c"]["Position"] = UDim2.new(0.274707168340683, 0, 0.6815073490142822, 0);
+
+-- StarterGui.Delta.Sidebar.Settings.UICorner
+DELTA["2d"] = Instance.new("UICorner", DELTA["2c"]);
+DELTA["2d"]["CornerRadius"] = UDim.new(0.4000000059604645, 0);
+
+-- StarterGui.Delta.Sidebar.Settings.UIAspectRatioConstraint
+DELTA["2e"] = Instance.new("UIAspectRatioConstraint", DELTA["2c"]);
+
+
+-- StarterGui.Delta.Sidebar.Settings.ImageLabel
+DELTA["2f"] = Instance.new("ImageLabel", DELTA["2c"]);
+DELTA["2f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["2f"]["ImageColor3"] = Color3.fromRGB(138, 145, 164);
+DELTA["2f"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["2f"]["Image"] = [[rbxassetid://13462271348]];
+DELTA["2f"]["Size"] = UDim2.new(0.4556732177734375, 0, 0.4556732177734375, 0);
+DELTA["2f"]["BackgroundTransparency"] = 1;
+DELTA["2f"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Sidebar.Executor
+DELTA["30"] = Instance.new("ImageButton", DELTA["22"]);
+DELTA["30"]["AutoButtonColor"] = false;
+DELTA["30"]["BackgroundColor3"] = Color3.fromRGB(41, 45, 58);
+DELTA["30"]["LayoutOrder"] = 2;
+DELTA["30"]["Image"] = [[rbxassetid://0]];
+DELTA["30"]["Size"] = UDim2.new(0.5135505795478821, 0, 0.08553306758403778, 0);
+DELTA["30"]["Name"] = [[Executor]];
+DELTA["30"]["Position"] = UDim2.new(0.274707168340683, 0, 0.42136284708976746, 0);
+
+-- StarterGui.Delta.Sidebar.Executor.UIAspectRatioConstraint
+DELTA["31"] = Instance.new("UIAspectRatioConstraint", DELTA["30"]);
+
+
+-- StarterGui.Delta.Sidebar.Executor.UICorner
+DELTA["32"] = Instance.new("UICorner", DELTA["30"]);
+DELTA["32"]["CornerRadius"] = UDim.new(0.4000000059604645, 0);
+
+-- StarterGui.Delta.Sidebar.Executor.ImageLabel
+DELTA["33"] = Instance.new("ImageLabel", DELTA["30"]);
+DELTA["33"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["33"]["ImageColor3"] = Color3.fromRGB(138, 145, 164);
+DELTA["33"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["33"]["Image"] = [[rbxassetid://13462269327]];
+DELTA["33"]["Size"] = UDim2.new(0.4556732177734375, 0, 0.4556732177734375, 0);
+DELTA["33"]["BackgroundTransparency"] = 1;
+DELTA["33"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Sidebar.Console
+DELTA["34"] = Instance.new("ImageButton", DELTA["22"]);
+DELTA["34"]["AutoButtonColor"] = false;
+DELTA["34"]["BackgroundColor3"] = Color3.fromRGB(41, 45, 58);
+DELTA["34"]["LayoutOrder"] = 4;
+DELTA["34"]["Size"] = UDim2.new(0.5135504603385925, 0, 0.08553305268287659, 0);
+DELTA["34"]["Name"] = [[Console]];
+DELTA["34"]["Position"] = UDim2.new(0.274707168340683, 0, 0.6815073490142822, 0);
+
+-- StarterGui.Delta.Sidebar.Console.UICorner
+DELTA["35"] = Instance.new("UICorner", DELTA["34"]);
+DELTA["35"]["CornerRadius"] = UDim.new(0.4000000059604645, 0);
+
+-- StarterGui.Delta.Sidebar.Console.UIAspectRatioConstraint
+DELTA["36"] = Instance.new("UIAspectRatioConstraint", DELTA["34"]);
+
+
+-- StarterGui.Delta.Sidebar.Console.ImageLabel
+DELTA["37"] = Instance.new("ImageLabel", DELTA["34"]);
+DELTA["37"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["37"]["ImageColor3"] = Color3.fromRGB(137, 139, 172);
+DELTA["37"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["37"]["Image"] = [[rbxassetid://13569242972]];
+DELTA["37"]["Size"] = UDim2.new(0.4556732177734375, 0, 0.4556732177734375, 0);
+DELTA["37"]["BackgroundTransparency"] = 1;
+DELTA["37"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+
+
+-- StarterGui.Delta.Sidebar.ToggleUI
+DELTA["34tf"] = Instance.new("ImageButton", DELTA["22"]);
+DELTA["34tf"]["AutoButtonColor"] = false;
+DELTA["34tf"]["BackgroundColor3"] = Color3.fromRGB(41, 45, 58);
+DELTA["34tf"]["LayoutOrder"] = 4;
+DELTA["34tf"]["Size"] = UDim2.new(0.5135504603385925, 0, 0.08553305268287659, 0);
+DELTA["34tf"]["Name"] = [[ToggleUI]];
+DELTA["34tf"]["Position"] = UDim2.new(0.274707168340683, 0, 0.6815073490142822, 0);
+
+-- StarterGui.Delta.Sidebar.ToggleUI.UICorner
+DELTA["35tf"] = Instance.new("UICorner", DELTA["34tf"]);
+DELTA["35tf"]["CornerRadius"] = UDim.new(0.4000000059604645, 0);
+
+-- StarterGui.Delta.Sidebar.ToggleUI.UIAspectRatioConstraint
+DELTA["36tf"] = Instance.new("UIAspectRatioConstraint", DELTA["34tf"]);
+
+
+-- StarterGui.Delta.Sidebar.ToggleUI.ImageLabel
+DELTA["37tf"] = Instance.new("ImageLabel", DELTA["34tf"]);
+DELTA["37tf"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["37tf"]["ImageColor3"] = Color3.fromRGB(255,255,255);
+DELTA["37tf"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["37tf"]["Image"] = [[http://www.roblox.com/asset?id=13711943220]];
+DELTA["37tf"]["Size"] = UDim2.new(0.4556732177734375, 0, 0.4556732177734375, 0);
+DELTA["37tf"]["BackgroundTransparency"] = 1;
+DELTA["37tf"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+
+
+-- StarterGui.Delta.Sidebar.ActiveColor
+DELTA["38"] = Instance.new("Color3Value", DELTA["22"]);
+DELTA["38"]["Value"] = Color3.fromRGB(34, 160, 255);
+DELTA["38"]["Name"] = [[ActiveColor]];
+
+-- StarterGui.Delta.Sidebar.SidebarHandler
+DELTA["39"] = Instance.new("LocalScript", DELTA["22"]);
+DELTA["39"]["Name"] = [[SidebarHandler]];
+
+-- StarterGui.Delta.Sidebar.InactiveColor
+DELTA["3a"] = Instance.new("Color3Value", DELTA["22"]);
+DELTA["3a"]["Value"] = Color3.fromRGB(41, 45, 58);
+DELTA["3a"]["Name"] = [[InactiveColor]];
+
+-- StarterGui.Delta.Scripthub
+DELTA["3b"] = Instance.new("Frame", DELTA["1"]);
+DELTA["3b"]["ZIndex"] = 100;
+DELTA["3b"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+DELTA["3b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["3b"]["BackgroundTransparency"] = 1;
+DELTA["3b"]["Size"] = UDim2.new(0.8483448028564453, 0, 0.8924814462661743, 0);
+DELTA["3b"]["Position"] = UDim2.new(0.47624671459198, 0, 0.5082324147224426, 0);
+DELTA["3b"]["Visible"] = false;
+DELTA["3b"]["Name"] = [[Scripthub]];
+
+-- StarterGui.Delta.Scripthub.Searchbar
+DELTA["3c"] = Instance.new("Frame", DELTA["3b"]);
+DELTA["3c"]["ZIndex"] = 2;
+DELTA["3c"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["3c"]["Size"] = UDim2.new(1, 0, 0.12585513293743134, 0);
+DELTA["3c"]["Name"] = [[Searchbar]];
+
+-- StarterGui.Delta.Scripthub.Searchbar.UICorner
+DELTA["3d"] = Instance.new("UICorner", DELTA["3c"]);
+DELTA["3d"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Scripthub.Searchbar.ImageLabel
+DELTA["3e"] = Instance.new("ImageLabel", DELTA["3c"]);
+DELTA["3e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["3e"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["3e"]["Image"] = [[rbxassetid://13365156882]];
+DELTA["3e"]["Size"] = UDim2.new(0.025552265346050262, 0, 0.40771156549453735, 0);
+DELTA["3e"]["BackgroundTransparency"] = 1;
+DELTA["3e"]["Position"] = UDim2.new(0.01834862306714058, 0, 0.5, 0);
+
+-- StarterGui.Delta.Scripthub.Searchbar.ImageLabel.UIAspectRatioConstraint
+DELTA["3f"] = Instance.new("UIAspectRatioConstraint", DELTA["3e"]);
+
+
+-- StarterGui.Delta.Scripthub.Searchbar.Input
+DELTA["40"] = Instance.new("TextBox", DELTA["3c"]);
+DELTA["40"]["Active"] = true;
+DELTA["40"]["TextSize"] = 14;
+DELTA["40"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["40"]["TextWrapped"] = true;
+DELTA["40"]["TextScaled"] = true;
+DELTA["40"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["40"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["40"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["40"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["40"]["BackgroundTransparency"] = 1;
+DELTA["40"]["PlaceholderText"] = [[Search on scriptblox.com...]];
+DELTA["40"]["Size"] = UDim2.new(0.8766564130783081, 0, 0.35361653566360474, 0);
+DELTA["40"]["Selectable"] = false;
+DELTA["40"]["Text"] = [[]];
+DELTA["40"]["Position"] = UDim2.new(0.061162080615758896, 0, 0.49999991059303284, 0);
+DELTA["40"]["Name"] = [[Input]];
+
+-- StarterGui.Delta.Scripthub.Holder
+DELTA["41"] = Instance.new("ScrollingFrame", DELTA["3b"]);
+DELTA["41"]["CanvasSize"] = UDim2.new(0, 0, 3, 0);
+DELTA["41"]["ScrollBarImageTransparency"] = 1;
+DELTA["41"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["41"]["VerticalScrollBarInset"] = Enum.ScrollBarInset.Always;
+DELTA["41"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["41"]["BackgroundTransparency"] = 1;
+DELTA["41"]["Size"] = UDim2.new(1, 0, 0.8350700736045837, 0);
+DELTA["41"]["Selectable"] = false;
+DELTA["41"]["ScrollBarThickness"] = 0;
+DELTA["41"]["Position"] = UDim2.new(0.5, 0, 1, 0);
+DELTA["41"]["Name"] = [[Holder]];
+
+-- StarterGui.Delta.Scripthub.Holder.UIGridLayout
+DELTA["42"] = Instance.new("UIGridLayout", DELTA["41"]);
+DELTA["42"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DELTA["42"]["CellSize"] = UDim2.new(0.31299999356269836, 0, 0.10000000149011612, 0);
+DELTA["42"]["CellPadding"] = UDim2.new(0.029999999329447746, 0, 0.009999999776482582, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved
+DELTA["43"] = Instance.new("Folder", DELTA["41"]);
+DELTA["43"]["Name"] = [[Reserved]];
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail
+DELTA["44"] = Instance.new("ImageButton", DELTA["43"]);
+DELTA["44"]["Active"] = false;
+DELTA["44"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+DELTA["44"]["Selectable"] = false;
+DELTA["44"]["Image"] = [[rbxassetid://13365407660]];
+DELTA["44"]["Size"] = UDim2.new(0.313303679227829, 0, 0.31330370903015137, 0);
+DELTA["44"]["Name"] = [[OldThumbnail]];
+DELTA["44"]["Visible"] = false;
+DELTA["44"]["Position"] = UDim2.new(9.43648092999183e-09, 0, 0, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.UICorner
+DELTA["45"] = Instance.new("UICorner", DELTA["44"]);
+DELTA["45"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay
+DELTA["46"] = Instance.new("Frame", DELTA["44"]);
+DELTA["46"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+DELTA["46"]["BackgroundTransparency"] = 0.09200000017881393;
+DELTA["46"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["46"]["Name"] = [[Overlay]];
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.UICorner
+DELTA["47"] = Instance.new("UICorner", DELTA["46"]);
+DELTA["47"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Title
+DELTA["48"] = Instance.new("Frame", DELTA["46"]);
+DELTA["48"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["48"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["48"]["BackgroundTransparency"] = 1;
+DELTA["48"]["Size"] = UDim2.new(0.8982645273208618, 0, 0.5242727994918823, 0);
+DELTA["48"]["Position"] = UDim2.new(0.04966278374195099, 0, 0.3592950105667114, 0);
+DELTA["48"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Title.Title
+DELTA["49"] = Instance.new("TextLabel", DELTA["48"]);
+DELTA["49"]["TextWrapped"] = true;
+DELTA["49"]["TextScaled"] = true;
+DELTA["49"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["49"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["49"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["49"]["TextSize"] = 14;
+DELTA["49"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["49"]["Size"] = UDim2.new(0.4335988163948059, 0, 0.5, 0);
+DELTA["49"]["Text"] = [[Arsenal 🐰]];
+DELTA["49"]["Name"] = [[Title]];
+DELTA["49"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Title.Paragraph
+DELTA["4a"] = Instance.new("TextLabel", DELTA["48"]);
+DELTA["4a"]["TextWrapped"] = true;
+DELTA["4a"]["TextScaled"] = true;
+DELTA["4a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["4a"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["4a"]["TextTransparency"] = 0.30000001192092896;
+DELTA["4a"]["TextSize"] = 14;
+DELTA["4a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4a"]["AnchorPoint"] = Vector2.new(0, 1);
+DELTA["4a"]["Size"] = UDim2.new(0.6313457489013672, 0, 0.5, 0);
+DELTA["4a"]["Text"] = [[Aimbot, triggerbot, aim assist, wall-check gui]];
+DELTA["4a"]["Name"] = [[Paragraph]];
+DELTA["4a"]["BackgroundTransparency"] = 1;
+DELTA["4a"]["Position"] = UDim2.new(0, 0, 1.0000001192092896, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Title.Verified
+DELTA["4b"] = Instance.new("Frame", DELTA["48"]);
+DELTA["4b"]["BackgroundColor3"] = Color3.fromRGB(86, 173, 239);
+DELTA["4b"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["4b"]["Size"] = UDim2.new(0.3242603540420532, 0, 0.3846021890640259, 0);
+DELTA["4b"]["Position"] = UDim2.new(0.9999999403953552, 0, 0.2522916793823242, 0);
+DELTA["4b"]["Name"] = [[Verified]];
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Title.Verified.UICorner
+DELTA["4c"] = Instance.new("UICorner", DELTA["4b"]);
+DELTA["4c"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Title.Verified.Title
+DELTA["4d"] = Instance.new("TextLabel", DELTA["4b"]);
+DELTA["4d"]["TextWrapped"] = true;
+DELTA["4d"]["TextScaled"] = true;
+DELTA["4d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4d"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["4d"]["TextSize"] = 14;
+DELTA["4d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4d"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["4d"]["Size"] = UDim2.new(0.8315319418907166, 0, 0.5, 0);
+DELTA["4d"]["Text"] = [[VERIFIED]];
+DELTA["4d"]["Name"] = [[Title]];
+DELTA["4d"]["BackgroundTransparency"] = 1;
+DELTA["4d"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Views
+DELTA["4e"] = Instance.new("Frame", DELTA["46"]);
+DELTA["4e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4e"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["4e"]["BackgroundTransparency"] = 1;
+DELTA["4e"]["Size"] = UDim2.new(0.8982645869255066, 0, 0.233791321516037, 0);
+DELTA["4e"]["Position"] = UDim2.new(0.04966278374195099, 0, 0.7775326371192932, 0);
+DELTA["4e"]["Name"] = [[Views]];
+
+-- StarterGui.Delta.Scripthub.Holder.Reserved.OldThumbnail.Overlay.Views.Title
+DELTA["4f"] = Instance.new("TextLabel", DELTA["4e"]);
+DELTA["4f"]["TextWrapped"] = true;
+DELTA["4f"]["TextScaled"] = true;
+DELTA["4f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4f"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["4f"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["4f"]["TextSize"] = 14;
+DELTA["4f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4f"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["4f"]["Size"] = UDim2.new(1.0098563432693481, 0, 0.473459392786026, 0);
+DELTA["4f"]["Text"] = [[10 Views]];
+DELTA["4f"]["Name"] = [[Title]];
+DELTA["4f"]["BackgroundTransparency"] = 1;
+DELTA["4f"]["Position"] = UDim2.new(1.0098564624786377, 0, 0.7708343267440796, 0);
+
+-- StarterGui.Delta.Scripthub.Holder.ScriptBloxHandler
+DELTA["50"] = Instance.new("LocalScript", DELTA["41"]);
+DELTA["50"]["Name"] = [[ScriptBloxHandler]];
+
+-- StarterGui.Delta.Scripthub.DarkOverlay
+DELTA["51"] = Instance.new("Frame", DELTA["3b"]);
+DELTA["51"]["ZIndex"] = 99999;
+DELTA["51"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+DELTA["51"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["51"]["BackgroundTransparency"] = 0.5;
+DELTA["51"]["Size"] = UDim2.new(10, 10, 2, 0);
+DELTA["51"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["51"]["Visible"] = false;
+DELTA["51"]["Name"] = [[DarkOverlay]];
+
+-- StarterGui.Delta.Scripthub.Popup
+DELTA["52"] = Instance.new("Frame", DELTA["3b"]);
+DELTA["52"]["ZIndex"] = 100000;
+DELTA["52"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 49);
+DELTA["52"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["52"]["Size"] = UDim2.new(0.43205055594444275, 0, 1.0513142347335815, 0);
+DELTA["52"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["52"]["Name"] = [[Popup]]
+DELTA["52"].Active = true
+DELTA["52"].Visible = false
+
+-- StarterGui.Delta.Scripthub.Popup.Title
+DELTA["53"] = Instance.new("Frame", DELTA["52"]);
+DELTA["53"]["ZIndex"] = 999999999;
+DELTA["53"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["53"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["53"]["BackgroundTransparency"] = 1;
+DELTA["53"]["Size"] = UDim2.new(0.8193565607070923, 0, 0.23179079592227936, 0);
+DELTA["53"]["Position"] = UDim2.new(0.5, 0, 0.09408924728631973, 0);
+DELTA["53"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.Scripthub.Popup.Title.UIListLayout
+DELTA["54"] = Instance.new("UIListLayout", DELTA["53"]);
+DELTA["54"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Scripthub.Popup.Title.Title
+DELTA["55"] = Instance.new("TextLabel", DELTA["53"]);
+DELTA["55"]["TextWrapped"] = true;
+DELTA["55"]["ZIndex"] = 999999999;
+DELTA["55"]["TextScaled"] = true;
+DELTA["55"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["55"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["55"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["55"]["TextSize"] = 14;
+DELTA["55"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["55"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["55"]["Size"] = UDim2.new(0.7438986301422119, 0, 0.5, 0);
+DELTA["55"]["Text"] = [[Select Your Option]];
+DELTA["55"]["Name"] = [[Title]];
+DELTA["55"]["BackgroundTransparency"] = 1;
+DELTA["55"]["Position"] = UDim2.new(0.37194931507110596, 0, 0, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Title.Paragraph
+DELTA["56"] = Instance.new("TextLabel", DELTA["53"]);
+DELTA["56"]["TextWrapped"] = true;
+DELTA["56"]["ZIndex"] = 999999999;
+DELTA["56"]["TextScaled"] = true;
+DELTA["56"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["56"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["56"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["56"]["TextSize"] = 14;
+DELTA["56"]["TextColor3"] = Color3.fromRGB(161, 167, 182);
+DELTA["56"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["56"]["Size"] = UDim2.new(0.7438986301422119, 0, 0.3536166250705719, 0);
+DELTA["56"]["Text"] = [[Choose whether to execute, open in a new tab, etc..]];
+DELTA["56"]["Name"] = [[Paragraph]];
+DELTA["56"]["BackgroundTransparency"] = 1;
+DELTA["56"]["Position"] = UDim2.new(0.37194931507110596, 0, 0.8536167144775391, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons
+DELTA["57"] = Instance.new("Frame", DELTA["52"]);
+DELTA["57"]["ZIndex"] = 999999999;
+DELTA["57"]["BorderSizePixel"] = 0;
+DELTA["57"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["57"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["57"]["BackgroundTransparency"] = 1;
+DELTA["57"]["Size"] = UDim2.new(0.8189999461174011, 0, 0.5725698471069336, 0);
+DELTA["57"]["ClipsDescendants"] = true;
+DELTA["57"]["Position"] = UDim2.new(0.5, 0, 0.9148041009902954, 0);
+DELTA["57"]["Name"] = [[Buttons]];
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.UIListLayout
+DELTA["58"] = Instance.new("UIListLayout", DELTA["57"]);
+DELTA["58"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["58"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["58"]["Padding"] = UDim.new(0.05000000074505806, 0);
+DELTA["58"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button1
+DELTA["59"] = Instance.new("ImageButton", DELTA["57"]);
+DELTA["59"]["Active"] = false;
+DELTA["59"]["ZIndex"] = 999999999;
+DELTA["59"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["59"]["Selectable"] = false;
+DELTA["59"]["Size"] = UDim2.new(0.9621250629425049, 0, 0.16304326057434082, 0);
+DELTA["59"]["Name"] = [[Button1]];
+DELTA["59"]["Position"] = UDim2.new(0.018937479704618454, 0, 0.17102082073688507, 0);
+DELTA["59"]["BackgroundTransparency"] = 0.8899999856948853;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button1.UICorner
+DELTA["5a"] = Instance.new("UICorner", DELTA["59"]);
+DELTA["5a"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button1.Title
+DELTA["5b"] = Instance.new("TextLabel", DELTA["59"]);
+DELTA["5b"]["TextWrapped"] = true;
+DELTA["5b"]["ZIndex"] = 999999999;
+DELTA["5b"]["TextScaled"] = true;
+DELTA["5b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["5b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["5b"]["TextSize"] = 14;
+DELTA["5b"]["TextColor3"] = Color3.fromRGB(140, 206, 255);
+DELTA["5b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["5b"]["Size"] = UDim2.new(0.8766257762908936, 0, 0.3993089199066162, 0);
+DELTA["5b"]["Text"] = [[EXECUTE SELECTED SCRIPT]];
+DELTA["5b"]["Name"] = [[Title]];
+DELTA["5b"]["BackgroundTransparency"] = 1;
+DELTA["5b"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button1.UIStroke
+DELTA["5c"] = Instance.new("UIStroke", DELTA["59"]);
+DELTA["5c"]["Color"] = Color3.fromRGB(60, 137, 196);
+DELTA["5c"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button2
+DELTA["5d"] = Instance.new("ImageButton", DELTA["57"]);
+DELTA["5d"]["Active"] = false;
+DELTA["5d"]["ZIndex"] = 999999999;
+DELTA["5d"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["5d"]["Selectable"] = false;
+DELTA["5d"]["LayoutOrder"] = 1;
+DELTA["5d"]["Size"] = UDim2.new(0.9621250629425049, 0, 0.16304320096969604, 0);
+DELTA["5d"]["Name"] = [[Button2]];
+DELTA["5d"]["Position"] = UDim2.new(0.018937479704618454, 0, 0.3772318959236145, 0);
+DELTA["5d"]["BackgroundTransparency"] = 0.8999999761581421;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button2.UICorner
+DELTA["5e"] = Instance.new("UICorner", DELTA["5d"]);
+DELTA["5e"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button2.Title
+DELTA["5f"] = Instance.new("TextLabel", DELTA["5d"]);
+DELTA["5f"]["TextWrapped"] = true;
+DELTA["5f"]["TextScaled"] = true;
+DELTA["5f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["5f"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["5f"]["TextSize"] = 14;
+DELTA["5f"]["TextColor3"] = Color3.fromRGB(185, 211, 230);
+DELTA["5f"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["5f"]["Size"] = UDim2.new(0.8766260147094727, 0, 0.3993089199066162, 0);
+DELTA["5f"]["Text"] = [[OPEN SCRIPT IN EDITOR]];
+DELTA["5f"]["Name"] = [[Title]];
+DELTA["5f"]["BackgroundTransparency"] = 1;
+DELTA["5f"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button2.UIStroke
+DELTA["60"] = Instance.new("UIStroke", DELTA["5d"]);
+DELTA["60"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["60"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button3
+DELTA["61"] = Instance.new("ImageButton", DELTA["57"]);
+DELTA["61"]["Active"] = false;
+DELTA["61"]["ZIndex"] = 999999999;
+DELTA["61"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["61"]["Selectable"] = false;
+DELTA["61"]["LayoutOrder"] = 2;
+DELTA["61"]["Size"] = UDim2.new(0.9621250629425049, 0, 0.1630433201789856, 0);
+DELTA["61"]["Name"] = [[Button3]];
+DELTA["61"]["Position"] = UDim2.new(0.018937479704618454, 0, 0.5834426283836365, 0);
+DELTA["61"]["BackgroundTransparency"] = 0.8999999761581421;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button3.UICorner
+DELTA["62"] = Instance.new("UICorner", DELTA["61"]);
+DELTA["62"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button3.Title
+DELTA["63"] = Instance.new("TextLabel", DELTA["61"]);
+DELTA["63"]["TextWrapped"] = true;
+DELTA["63"]["TextScaled"] = true;
+DELTA["63"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["63"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["63"]["TextSize"] = 14;
+DELTA["63"]["TextColor3"] = Color3.fromRGB(185, 211, 230);
+DELTA["63"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["63"]["Size"] = UDim2.new(0.8766259551048279, 0, 0.3993089497089386, 0);
+DELTA["63"]["Text"] = [[SAVE SELECTED SCRIPT]];
+DELTA["63"]["Name"] = [[Title]];
+DELTA["63"]["BackgroundTransparency"] = 1;
+DELTA["63"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button3.UIStroke
+DELTA["64"] = Instance.new("UIStroke", DELTA["61"]);
+DELTA["64"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["64"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button4
+DELTA["65"] = Instance.new("ImageButton", DELTA["57"]);
+DELTA["65"]["Active"] = false;
+DELTA["65"]["ZIndex"] = 999999999;
+DELTA["65"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["65"]["Selectable"] = false;
+DELTA["65"]["LayoutOrder"] = 3;
+DELTA["65"]["Size"] = UDim2.new(0.9621250629425049, 0, 0.16304323077201843, 0);
+DELTA["65"]["Name"] = [[Button4]];
+DELTA["65"]["Position"] = UDim2.new(0.018937479704618454, 0, 0.7896538376808167, 0);
+DELTA["65"]["BackgroundTransparency"] = 0.8999999761581421;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button4.UICorner
+DELTA["66"] = Instance.new("UICorner", DELTA["65"]);
+DELTA["66"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button4.Title
+DELTA["67"] = Instance.new("TextLabel", DELTA["65"]);
+DELTA["67"]["TextWrapped"] = true;
+DELTA["67"]["TextScaled"] = true;
+DELTA["67"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["67"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["67"]["TextSize"] = 14;
+DELTA["67"]["TextColor3"] = Color3.fromRGB(185, 211, 230);
+DELTA["67"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["67"]["Size"] = UDim2.new(0.8766259551048279, 0, 0.3993089497089386, 0);
+DELTA["67"]["Text"] = [[COPY TO CLIPBOARD]];
+DELTA["67"]["Name"] = [[Title]];
+DELTA["67"]["BackgroundTransparency"] = 1;
+DELTA["67"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.Button4.UIStroke
+DELTA["68"] = Instance.new("UIStroke", DELTA["65"]);
+DELTA["68"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["68"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Scripthub.Popup.Buttons.ButtonsHandler
+DELTA["69"] = Instance.new("LocalScript", DELTA["57"]);
+DELTA["69"]["Name"] = [[ButtonsHandler]];
+
+-- StarterGui.Delta.Scripthub.Popup.UICorner
+DELTA["6a"] = Instance.new("UICorner", DELTA["52"]);
+DELTA["6a"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Scripthub.Popup.ImageButton
+DELTA["6b"] = Instance.new("ImageButton", DELTA["52"]);
+DELTA["6b"]["ZIndex"] = 999999999;
+DELTA["6b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["6b"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["6b"]["Image"] = [[rbxassetid://13363121645]];
+DELTA["6b"]["Size"] = UDim2.new(0.04585733264684677, 0, 0.04716602712869644, 0);
+DELTA["6b"]["Position"] = UDim2.new(0.8981863260269165, 0, 0.15145258605480194, 0);
+DELTA["6b"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Scripthub.Popup.ImageButton.UIAspectRatioConstraint
+DELTA["6c"] = Instance.new("UIAspectRatioConstraint", DELTA["6b"]);
+
+
+-- StarterGui.Delta.Scripthub.Marker
+DELTA["6d"] = Instance.new("StringValue", DELTA["3b"]);
+DELTA["6d"]["Value"] = [[Menu]];
+DELTA["6d"]["Name"] = [[Marker]];
+
+-- StarterGui.Delta.Settings
+DELTA["6e"] = Instance.new("Frame", DELTA["1"]);
+DELTA["6e"]["ZIndex"] = 100;
+DELTA["6e"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+DELTA["6e"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["6e"]["BackgroundTransparency"] = 1;
+DELTA["6e"]["Size"] = UDim2.new(0.8064976334571838, 0, 0.9616625905036926, 0);
+DELTA["6e"]["Position"] = UDim2.new(0.47783252596855164, 0, 0.5, 0);
+DELTA["6e"]["Visible"] = false;
+DELTA["6e"]["Name"] = [[Settings]];
+
+-- StarterGui.Delta.Settings.Searchbar
+DELTA["6f"] = Instance.new("Frame", DELTA["6e"]);
+DELTA["6f"]["ZIndex"] = 2;
+DELTA["6f"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["6f"]["AnchorPoint"] = Vector2.new(1, 0);
+DELTA["6f"]["Size"] = UDim2.new(0.7300000190734863, 0, 0.12585513293743134, 0);
+DELTA["6f"]["Position"] = UDim2.new(1, 0, 0, 0);
+DELTA["6f"]["Name"] = [[Searchbar]];
+
+-- StarterGui.Delta.Settings.Searchbar.UICorner
+DELTA["70"] = Instance.new("UICorner", DELTA["6f"]);
+DELTA["70"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Settings.Searchbar.ImageLabel
+DELTA["71"] = Instance.new("ImageLabel", DELTA["6f"]);
+DELTA["71"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["71"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["71"]["Image"] = [[rbxassetid://13365156882]];
+DELTA["71"]["Size"] = UDim2.new(0.025552265346050262, 0, 0.40771156549453735, 0);
+DELTA["71"]["BackgroundTransparency"] = 1;
+DELTA["71"]["Position"] = UDim2.new(0.01834862306714058, 0, 0.5, 0);
+
+-- StarterGui.Delta.Settings.Searchbar.ImageLabel.UIAspectRatioConstraint
+DELTA["72"] = Instance.new("UIAspectRatioConstraint", DELTA["71"]);
+
+
+-- StarterGui.Delta.Settings.Searchbar.Input
+DELTA["73"] = Instance.new("TextBox", DELTA["6f"]);
+DELTA["73"]["Active"] = true;
+DELTA["73"]["TextSize"] = 14;
+DELTA["73"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["73"]["TextWrapped"] = true;
+DELTA["73"]["TextScaled"] = true;
+DELTA["73"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["73"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["73"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["73"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["73"]["BackgroundTransparency"] = 1;
+DELTA["73"]["PlaceholderText"] = [[Search for options]];
+DELTA["73"]["Size"] = UDim2.new(0.8766564130783081, 0, 0.35361653566360474, 0);
+DELTA["73"]["Selectable"] = false;
+DELTA["73"]["Text"] = [[]];
+DELTA["73"]["Position"] = UDim2.new(0.061162080615758896, 0, 0.49999991059303284, 0);
+DELTA["73"]["Name"] = [[Input]];
+
+-- StarterGui.Delta.Settings.Searchbar.SettingsSearchHandler
+DELTA["74"] = Instance.new("LocalScript", DELTA["6f"]);
+DELTA["74"]["Name"] = [[SettingsSearchHandler]];
+
+-- StarterGui.Delta.Settings.Sort
+DELTA["75"] = Instance.new("Frame", DELTA["6e"]);
+DELTA["75"]["ZIndex"] = 2;
+DELTA["75"]["BackgroundColor3"] = Color3.fromRGB(24, 25, 33);
+DELTA["75"]["Size"] = UDim2.new(0.25, 0, 0.12585513293743134, 0);
+DELTA["75"]["Name"] = [[Sort]];
+
+-- StarterGui.Delta.Settings.Sort.UICorner
+DELTA["76"] = Instance.new("UICorner", DELTA["75"]);
+DELTA["76"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Settings.Sort.UIListLayout
+DELTA["77"] = Instance.new("UIListLayout", DELTA["75"]);
+DELTA["77"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["77"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DELTA["77"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["77"]["Padding"] = UDim.new(0.029999999329447746, 0);
+DELTA["77"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Settings.Sort.Enabled
+DELTA["78"] = Instance.new("TextButton", DELTA["75"]);
+DELTA["78"]["TextWrapped"] = true;
+DELTA["78"]["TextScaled"] = true;
+DELTA["78"]["BackgroundColor3"] = Color3.fromRGB(51, 56, 70);
+DELTA["78"]["TextSize"] = 14;
+DELTA["78"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["78"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["78"]["Size"] = UDim2.new(0.27783116698265076, 0, 0.5168541073799133, 0);
+DELTA["78"]["LayoutOrder"] = 1;
+DELTA["78"]["Name"] = [[Enabled]];
+DELTA["78"]["Text"] = [[Enabled]];
+DELTA["78"]["Position"] = UDim2.new(0.02489338628947735, 0, 0.24157275259494781, 0);
+DELTA["78"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Settings.Sort.Enabled.UICorner
+DELTA["79"] = Instance.new("UICorner", DELTA["78"]);
+DELTA["79"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Settings.Sort.Enabled.UIPadding
+DELTA["7a"] = Instance.new("UIPadding", DELTA["78"]);
+DELTA["7a"]["PaddingTop"] = UDim.new(0.30000001192092896, 0);
+DELTA["7a"]["PaddingBottom"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Settings.Sort.Disabled
+DELTA["7b"] = Instance.new("TextButton", DELTA["75"]);
+DELTA["7b"]["TextWrapped"] = true;
+DELTA["7b"]["TextScaled"] = true;
+DELTA["7b"]["BackgroundColor3"] = Color3.fromRGB(51, 56, 70);
+DELTA["7b"]["TextSize"] = 14;
+DELTA["7b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["7b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["7b"]["Size"] = UDim2.new(0.2778310179710388, 0, 0.5168541073799133, 0);
+DELTA["7b"]["LayoutOrder"] = 2;
+DELTA["7b"]["Name"] = [[Disabled]];
+DELTA["7b"]["Text"] = [[Disabled]];
+DELTA["7b"]["Position"] = UDim2.new(0.33081313967704773, 0, 0.24157275259494781, 0);
+DELTA["7b"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Settings.Sort.Disabled.UICorner
+DELTA["7c"] = Instance.new("UICorner", DELTA["7b"]);
+DELTA["7c"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Settings.Sort.Disabled.UIPadding
+DELTA["7d"] = Instance.new("UIPadding", DELTA["7b"]);
+DELTA["7d"]["PaddingTop"] = UDim.new(0.30000001192092896, 0);
+DELTA["7d"]["PaddingBottom"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Settings.Sort.All
+DELTA["7e"] = Instance.new("TextButton", DELTA["75"]);
+DELTA["7e"]["TextWrapped"] = true;
+DELTA["7e"]["TextScaled"] = true;
+DELTA["7e"]["BackgroundColor3"] = Color3.fromRGB(51, 56, 70);
+DELTA["7e"]["TextSize"] = 14;
+DELTA["7e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["7e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["7e"]["Size"] = UDim2.new(0.2778310179710388, 0, 0.5168541073799133, 0);
+DELTA["7e"]["LayoutOrder"] = 3;
+DELTA["7e"]["Name"] = [[All]];
+DELTA["7e"]["Text"] = [[All]];
+DELTA["7e"]["Position"] = UDim2.new(0.6367325186729431, 0, 0.24157275259494781, 0);
+
+-- StarterGui.Delta.Settings.Sort.All.UICorner
+DELTA["7f"] = Instance.new("UICorner", DELTA["7e"]);
+DELTA["7f"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Settings.Sort.All.UIPadding
+DELTA["80"] = Instance.new("UIPadding", DELTA["7e"]);
+DELTA["80"]["PaddingTop"] = UDim.new(0.30000001192092896, 0);
+DELTA["80"]["PaddingBottom"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Settings.Sort.SettingsFilterHandler
+DELTA["81"] = Instance.new("LocalScript", DELTA["75"]);
+DELTA["81"]["Name"] = [[SettingsFilterHandler]];
+
+-- StarterGui.Delta.Settings.Holder
+DELTA["82"] = Instance.new("ScrollingFrame", DELTA["6e"]);
+DELTA["82"]["CanvasSize"] = UDim2.new(0, 0, 4, 0);
+DELTA["82"]["ScrollBarImageTransparency"] = 1;
+DELTA["82"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["82"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["82"]["BackgroundTransparency"] = 1;
+DELTA["82"]["Size"] = UDim2.new(1, 0, 0.8416813015937805, 0);
+DELTA["82"]["Selectable"] = false;
+DELTA["82"]["ScrollBarThickness"] = 1;
+DELTA["82"]["Position"] = UDim2.new(0.5, 0, 1.0000001192092896, 0);
+DELTA["82"]["Name"] = [[Holder]];
+
+-- StarterGui.Delta.Settings.Holder.UIListLayout
+DELTA["83"] = Instance.new("UIListLayout", DELTA["82"]);
+DELTA["83"]["Padding"] = UDim.new(0.004999999888241291, 0);
+DELTA["83"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Settings.Marker
+DELTA["84"] = Instance.new("StringValue", DELTA["6e"]);
+DELTA["84"]["Value"] = [[Menu]];
+DELTA["84"]["Name"] = [[Marker]];
+
+-- StarterGui.Delta.DarkOverlay
+DELTA["85"] = Instance.new("Frame", DELTA["1"]);
+DELTA["85"]["ZIndex"] = -100;
+DELTA["85"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+DELTA["85"]["BackgroundTransparency"] = 0.6600000262260437;
+DELTA["85"]["Size"] = UDim2.new(2, 0, 2, 0);
+DELTA["85"]["Position"] = UDim2.new(-1, 0, -1, 0);
+DELTA["85"]["Name"] = [[DarkOverlay]];
+
+-- StarterGui.Delta.Executor
+DELTA["86"] = Instance.new("Frame", DELTA["1"]);
+DELTA["86"]["ZIndex"] = 100;
+DELTA["86"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+DELTA["86"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["86"]["BackgroundTransparency"] = 1;
+DELTA["86"]["Size"] = UDim2.new(0.8397729992866516, 0, 0.7730588316917419, 0);
+DELTA["86"]["Position"] = UDim2.new(0.4824247360229492, 0, 0.524213433265686, 0);
+DELTA["86"]["Visible"] = false;
+DELTA["86"]["Name"] = [[Executor]];
+
+-- StarterGui.Delta.Executor.Executor
+DELTA["87"] = Instance.new("ImageLabel", DELTA["86"]);
+DELTA["87"]["BorderSizePixel"] = 0;
+DELTA["87"]["ScaleType"] = Enum.ScaleType.Crop;
+DELTA["87"]["BackgroundColor3"] = Color3.fromRGB(36, 0, 0);
+DELTA["87"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["87"]["Image"] = [[rbxassetid://13387419794]];
+DELTA["87"]["Size"] = UDim2.new(0.6566376686096191, 0, 0.9981886148452759, 0);
+DELTA["87"]["ClipsDescendants"] = true;
+DELTA["87"]["Name"] = [[Executor]];
+DELTA["87"]["Position"] = UDim2.new(1.0000001192092896, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay
+DELTA["88"] = Instance.new("ImageLabel", DELTA["87"]);
+DELTA["88"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+DELTA["88"]["Image"] = [[rbxassetid://13387657138]];
+DELTA["88"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["88"]["Name"] = [[Overlay]];
+DELTA["88"]["BackgroundTransparency"] = 0.800000011920929;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.UICorner
+DELTA["89"] = Instance.new("UICorner", DELTA["88"]);
+DELTA["89"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu
+DELTA["8a"] = Instance.new("ImageButton", DELTA["88"]);
+DELTA["8a"]["ZIndex"] = 1000;
+DELTA["8a"]["BorderSizePixel"] = 0;
+DELTA["8a"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["8a"]["AnchorPoint"] = Vector2.new(1, 0);
+DELTA["8a"]["Image"] = [[rbxassetid://0]];
+DELTA["8a"]["Size"] = UDim2.new(0.06392838805913925, 0, 0.08036314696073532, 0);
+DELTA["8a"]["Name"] = [[Menu]];
+DELTA["8a"]["Position"] = UDim2.new(0.9912378787994385, 0, 0.026684332638978958, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.ImageButton
+DELTA["8b"] = Instance.new("ImageButton", DELTA["8a"]);
+DELTA["8b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["8b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["8b"]["Image"] = [[rbxassetid://13387875723]];
+DELTA["8b"]["Size"] = UDim2.new(0.0789814367890358, 0, 0.4144761860370636, 0);
+DELTA["8b"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["8b"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.UICorner
+DELTA["8c"] = Instance.new("UICorner", DELTA["8a"]);
+DELTA["8c"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.UIAspectRatioConstraint
+DELTA["8d"] = Instance.new("UIAspectRatioConstraint", DELTA["8a"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown
+DELTA["8e"] = Instance.new("Frame", DELTA["8a"]);
+DELTA["8e"]["BackgroundColor3"] = Color3.fromRGB(41, 44, 52);
+DELTA["8e"]["Size"] = UDim2.new(4.045529842376709, 0, 2.321711778640747, 0);
+DELTA["8e"]["Position"] = UDim2.new(-3.045860767364502, 0, 1.093127965927124, 0);
+DELTA["8e"]["Visible"] = false;
+DELTA["8e"]["Name"] = [[Dropdown]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.UIListLayout
+DELTA["8f"] = Instance.new("UIListLayout", DELTA["8e"]);
+DELTA["8f"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["8f"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["8f"]["Padding"] = UDim.new(0.029999999329447746, 0);
+DELTA["8f"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option1
+DELTA["90"] = Instance.new("ImageButton", DELTA["8e"]);
+DELTA["90"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["90"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["90"]["Image"] = [[rbxassetid://0]];
+DELTA["90"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.22047363221645355, 0);
+DELTA["90"]["Name"] = [[Option1]];
+DELTA["90"]["Position"] = UDim2.new(0.9302427172660828, 0, 0.276297390460968, 0);
+DELTA["90"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option1.UICorner
+DELTA["91"] = Instance.new("UICorner", DELTA["90"]);
+DELTA["91"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option1.Title
+DELTA["92"] = Instance.new("TextLabel", DELTA["90"]);
+DELTA["92"]["TextWrapped"] = true;
+DELTA["92"]["ZIndex"] = 999999999;
+DELTA["92"]["TextScaled"] = true;
+DELTA["92"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["92"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["92"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["92"]["TextSize"] = 14;
+DELTA["92"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["92"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["92"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.8179191946983337, 0);
+DELTA["92"]["Text"] = [[Default]];
+DELTA["92"]["Name"] = [[Title]];
+DELTA["92"]["BackgroundTransparency"] = 1;
+DELTA["92"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option1.Checked
+DELTA["93"] = Instance.new("ImageButton", DELTA["90"]);
+DELTA["93"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["93"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["93"]["Image"] = [[rbxassetid://13441695981]];
+DELTA["93"]["Size"] = UDim2.new(0.0812797099351883, 0, 0.5769613981246948, 0);
+DELTA["93"]["Name"] = [[Checked]];
+DELTA["93"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["93"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option1.Checked.UIAspectRatioConstraint
+DELTA["94"] = Instance.new("UIAspectRatioConstraint", DELTA["93"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Divider
+DELTA["95"] = Instance.new("Frame", DELTA["8e"]);
+DELTA["95"]["BackgroundColor3"] = Color3.fromRGB(59, 63, 74);
+DELTA["95"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.012410691007971764, 0);
+DELTA["95"]["Position"] = UDim2.new(0.06975728273391724, 0, 0.4001886248588562, 0);
+DELTA["95"]["Name"] = [[Divider]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option2
+DELTA["96"] = Instance.new("ImageButton", DELTA["8e"]);
+DELTA["96"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["96"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["96"]["Image"] = [[rbxassetid://0]];
+DELTA["96"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.22047372162342072, 0);
+DELTA["96"]["Name"] = [[Option2]];
+DELTA["96"]["Position"] = UDim2.new(0.9302427172660828, 0, 0.5364913940429688, 0);
+DELTA["96"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option2.UICorner
+DELTA["97"] = Instance.new("UICorner", DELTA["96"]);
+DELTA["97"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option2.Title
+DELTA["98"] = Instance.new("TextLabel", DELTA["96"]);
+DELTA["98"]["TextWrapped"] = true;
+DELTA["98"]["ZIndex"] = 999999999;
+DELTA["98"]["TextScaled"] = true;
+DELTA["98"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["98"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["98"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["98"]["TextSize"] = 14;
+DELTA["98"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["98"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["98"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.8179191946983337, 0);
+DELTA["98"]["Text"] = [[Light]];
+DELTA["98"]["Name"] = [[Title]];
+DELTA["98"]["BackgroundTransparency"] = 1;
+DELTA["98"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option2.Checked
+DELTA["99"] = Instance.new("ImageButton", DELTA["96"]);
+DELTA["99"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["99"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["99"]["Image"] = [[rbxassetid://13441695981]];
+DELTA["99"]["Size"] = UDim2.new(0.0812797099351883, 0, 0.5769613981246948, 0);
+DELTA["99"]["Name"] = [[Checked]];
+DELTA["99"]["Visible"] = false;
+DELTA["99"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["99"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option2.Checked.UIAspectRatioConstraint
+DELTA["9a"] = Instance.new("UIAspectRatioConstraint", DELTA["99"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Divider
+DELTA["9b"] = Instance.new("Frame", DELTA["8e"]);
+DELTA["9b"]["BackgroundColor3"] = Color3.fromRGB(59, 63, 74);
+DELTA["9b"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.012410691007971764, 0);
+DELTA["9b"]["Position"] = UDim2.new(0.06975728273391724, 0, 0.6603825688362122, 0);
+DELTA["9b"]["Name"] = [[Divider]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option3
+DELTA["9c"] = Instance.new("ImageButton", DELTA["8e"]);
+DELTA["9c"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["9c"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["9c"]["Image"] = [[rbxassetid://0]];
+DELTA["9c"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.2204737514257431, 0);
+DELTA["9c"]["Name"] = [[Option3]];
+DELTA["9c"]["Position"] = UDim2.new(0.9302427172660828, 0, 0.7966850399971008, 0);
+DELTA["9c"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option3.UICorner
+DELTA["9d"] = Instance.new("UICorner", DELTA["9c"]);
+DELTA["9d"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option3.Title
+DELTA["9e"] = Instance.new("TextLabel", DELTA["9c"]);
+DELTA["9e"]["TextWrapped"] = true;
+DELTA["9e"]["ZIndex"] = 999999999;
+DELTA["9e"]["TextScaled"] = true;
+DELTA["9e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["9e"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["9e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["9e"]["TextSize"] = 14;
+DELTA["9e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["9e"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["9e"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.8179191946983337, 0);
+DELTA["9e"]["Text"] = [[Amoled]];
+DELTA["9e"]["Name"] = [[Title]];
+DELTA["9e"]["BackgroundTransparency"] = 1;
+DELTA["9e"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option3.Checked
+DELTA["9f"] = Instance.new("ImageButton", DELTA["9c"]);
+DELTA["9f"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["9f"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["9f"]["Image"] = [[rbxassetid://13441695981]];
+DELTA["9f"]["Size"] = UDim2.new(0.0812797099351883, 0, 0.5769613981246948, 0);
+DELTA["9f"]["Name"] = [[Checked]];
+DELTA["9f"]["Visible"] = false;
+DELTA["9f"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["9f"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.Option3.Checked.UIAspectRatioConstraint
+DELTA["a0"] = Instance.new("UIAspectRatioConstraint", DELTA["9f"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.Dropdown.UICorner
+DELTA["a1"] = Instance.new("UICorner", DELTA["8e"]);
+DELTA["a1"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.LocalScript
+DELTA["a2"] = Instance.new("LocalScript", DELTA["8a"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons
+DELTA["a3"] = Instance.new("Frame", DELTA["88"]);
+DELTA["a3"]["ZIndex"] = 200;
+DELTA["a3"]["BorderSizePixel"] = 0;
+DELTA["a3"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["a3"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["a3"]["BackgroundTransparency"] = 1;
+DELTA["a3"]["Size"] = UDim2.new(0.96828693151474, 0, 0.17342007160186768, 0);
+DELTA["a3"]["ClipsDescendants"] = true;
+DELTA["a3"]["Position"] = UDim2.new(0.507856547832489, 0, 0.9821560382843018, 0);
+DELTA["a3"]["Name"] = [[Buttons]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.UIListLayout
+DELTA["a4"] = Instance.new("UIListLayout", DELTA["a3"]);
+DELTA["a4"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["a4"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DELTA["a4"]["Padding"] = UDim.new(0.029999999329447746, 0);
+DELTA["a4"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Execute
+DELTA["a5"] = Instance.new("ImageButton", DELTA["a3"]);
+DELTA["a5"]["Active"] = false;
+DELTA["a5"]["ZIndex"] = 300;
+DELTA["a5"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["a5"]["Selectable"] = false;
+DELTA["a5"]["Size"] = UDim2.new(0.2561585009098053, 0, 0.7000001668930054, 0);
+DELTA["a5"]["Name"] = [[Execute]];
+DELTA["a5"]["Position"] = UDim2.new(0.008000015281140804, 0, 0.20599937438964844, 0);
+DELTA["a5"]["BackgroundTransparency"] = 0.8899999856948853;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Execute.UICorner
+DELTA["a6"] = Instance.new("UICorner", DELTA["a5"]);
+DELTA["a6"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Execute.Title
+DELTA["a7"] = Instance.new("TextLabel", DELTA["a5"]);
+DELTA["a7"]["TextWrapped"] = true;
+DELTA["a7"]["TextScaled"] = true;
+DELTA["a7"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["a7"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["a7"]["TextSize"] = 14;
+DELTA["a7"]["TextColor3"] = Color3.fromRGB(140, 206, 255);
+DELTA["a7"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["a7"]["Size"] = UDim2.new(0.8766257762908936, 0, 0.3993089199066162, 0);
+DELTA["a7"]["Text"] = [[EXECUTE]];
+DELTA["a7"]["Name"] = [[Title]];
+DELTA["a7"]["BackgroundTransparency"] = 1;
+DELTA["a7"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Execute.UIStroke
+DELTA["a8"] = Instance.new("UIStroke", DELTA["a5"]);
+DELTA["a8"]["Color"] = Color3.fromRGB(60, 137, 196);
+DELTA["a8"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Clear
+DELTA["a9"] = Instance.new("ImageButton", DELTA["a3"]);
+DELTA["a9"]["Active"] = false;
+DELTA["a9"]["ZIndex"] = 300;
+DELTA["a9"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["a9"]["Selectable"] = false;
+DELTA["a9"]["LayoutOrder"] = 1;
+DELTA["a9"]["Size"] = UDim2.new(0.22138313949108124, 0, 0.7000001668930054, 0);
+DELTA["a9"]["Name"] = [[Clear]];
+DELTA["a9"]["Position"] = UDim2.new(0.27973994612693787, 0, 0.20599937438964844, 0);
+DELTA["a9"]["BackgroundTransparency"] = 0.9300000071525574;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Clear.UICorner
+DELTA["aa"] = Instance.new("UICorner", DELTA["a9"]);
+DELTA["aa"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Clear.Title
+DELTA["ab"] = Instance.new("TextLabel", DELTA["a9"]);
+DELTA["ab"]["TextWrapped"] = true;
+DELTA["ab"]["TextScaled"] = true;
+DELTA["ab"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["ab"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["ab"]["TextSize"] = 14;
+DELTA["ab"]["TextColor3"] = Color3.fromRGB(185, 211, 230);
+DELTA["ab"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["ab"]["Size"] = UDim2.new(0.8766260147094727, 0, 0.3993089199066162, 0);
+DELTA["ab"]["Text"] = [[CLEAR]];
+DELTA["ab"]["Name"] = [[Title]];
+DELTA["ab"]["BackgroundTransparency"] = 1;
+DELTA["ab"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Clear.UIStroke
+DELTA["ac"] = Instance.new("UIStroke", DELTA["a9"]);
+DELTA["ac"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["ac"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.ExecuteClipboard
+DELTA["ad"] = Instance.new("ImageButton", DELTA["a3"]);
+DELTA["ad"]["Active"] = false;
+DELTA["ad"]["ZIndex"] = 300;
+DELTA["ad"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["ad"]["Selectable"] = false;
+DELTA["ad"]["LayoutOrder"] = 2;
+DELTA["ad"]["Size"] = UDim2.new(0.3552889823913574, 0, 0.699999988079071, 0);
+DELTA["ad"]["Name"] = [[ExecuteClipboard]];
+DELTA["ad"]["Position"] = UDim2.new(0.5057284832000732, 0, 0.20600003004074097, 0);
+DELTA["ad"]["BackgroundTransparency"] = 0.9300000071525574;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.ExecuteClipboard.UICorner
+DELTA["ae"] = Instance.new("UICorner", DELTA["ad"]);
+DELTA["ae"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.ExecuteClipboard.Title
+DELTA["af"] = Instance.new("TextLabel", DELTA["ad"]);
+DELTA["af"]["TextWrapped"] = true;
+DELTA["af"]["TextScaled"] = true;
+DELTA["af"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["af"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["af"]["TextSize"] = 14;
+DELTA["af"]["TextColor3"] = Color3.fromRGB(185, 211, 230);
+DELTA["af"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["af"]["Size"] = UDim2.new(0.8766259551048279, 0, 0.3993089497089386, 0);
+DELTA["af"]["Text"] = [[EXECUTE CLIPBOARD]];
+DELTA["af"]["Name"] = [[Title]];
+DELTA["af"]["BackgroundTransparency"] = 1;
+DELTA["af"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.ExecuteClipboard.UIStroke
+DELTA["b0"] = Instance.new("UIStroke", DELTA["ad"]);
+DELTA["b0"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["b0"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.UIPadding
+DELTA["b1"] = Instance.new("UIPadding", DELTA["a3"]);
+DELTA["b1"]["PaddingTop"] = UDim.new(0.07999999821186066, 0);
+DELTA["b1"]["PaddingRight"] = UDim.new(0.00800000037997961, 0);
+DELTA["b1"]["PaddingBottom"] = UDim.new(0.07999999821186066, 0);
+DELTA["b1"]["PaddingLeft"] = UDim.new(0.00800000037997961, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.ButtonHandlers
+DELTA["b2"] = Instance.new("LocalScript", DELTA["a3"]);
+DELTA["b2"]["Name"] = [[ButtonHandlers]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Button3
+DELTA["b3"] = Instance.new("TextBox", DELTA["a3"]);
+DELTA["b3"]["Active"] = true;
+DELTA["b3"]["ZIndex"] = 300;
+DELTA["b3"]["TextSize"] = 21;
+DELTA["b3"]["TextWrapped"] = true;
+DELTA["b3"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["b3"]["TextColor3"] = Color3.fromRGB(185, 211, 230);
+DELTA["b3"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["b3"]["LayoutOrder"] = 2;
+DELTA["b3"]["BackgroundTransparency"] = 0.9300000071525574;
+DELTA["b3"]["Size"] = UDim2.new(0.07424724847078323, 0, 0.699999988079071, 0);
+DELTA["b3"]["Selectable"] = false;
+DELTA["b3"]["Text"] = [[]];
+DELTA["b3"]["Position"] = UDim2.new(0.9160652756690979, 0, 0.20599988102912903, 0);
+DELTA["b3"]["Visible"] = false;
+DELTA["b3"]["Name"] = [[Button3]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Button3.UICorner
+DELTA["b4"] = Instance.new("UICorner", DELTA["b3"]);
+DELTA["b4"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.Button3.UIStroke
+DELTA["b5"] = Instance.new("UIStroke", DELTA["b3"]);
+DELTA["b5"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["b5"]["Thickness"] = 2;
+DELTA["b5"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs
+DELTA["b6"] = Instance.new("ScrollingFrame", DELTA["88"]);
+DELTA["b6"]["ZIndex"] = 200;
+DELTA["b6"]["BorderSizePixel"] = 0;
+DELTA["b6"]["CanvasSize"] = UDim2.new(2, 0, 0, 0);
+DELTA["b6"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["b6"]["HorizontalScrollBarInset"] = Enum.ScrollBarInset.Always;
+DELTA["b6"]["AutomaticCanvasSize"] = Enum.AutomaticSize.X;
+DELTA["b6"]["Size"] = UDim2.new(0.9840000867843628, 0, 0.12545627355575562, 0);
+DELTA["b6"]["Selectable"] = false;
+DELTA["b6"]["ScrollBarThickness"] = 0;
+DELTA["b6"]["Position"] = UDim2.new(0.007965609431266785, 0, 0.016980938613414764, 0);
+DELTA["b6"]["Name"] = [[Tabs]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.UIPadding
+DELTA["b7"] = Instance.new("UIPadding", DELTA["b6"]);
+DELTA["b7"]["PaddingTop"] = UDim.new(0.07999999821186066, 0);
+DELTA["b7"]["PaddingRight"] = UDim.new(0.00800000037997961, 0);
+DELTA["b7"]["PaddingBottom"] = UDim.new(0.07999999821186066, 0);
+DELTA["b7"]["PaddingLeft"] = UDim.new(0.00800000037997961, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.UIListLayout
+DELTA["b8"] = Instance.new("UIListLayout", DELTA["b6"]);
+DELTA["b8"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["b8"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DELTA["b8"]["Padding"] = UDim.new(0.009999999776482582, 0);
+DELTA["b8"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab
+DELTA["b9"] = Instance.new("ImageButton", DELTA["b6"]);
+DELTA["b9"]["Active"] = false;
+DELTA["b9"]["ZIndex"] = 300;
+DELTA["b9"]["BackgroundColor3"] = Color3.fromRGB(34, 41, 50);
+DELTA["b9"]["Selectable"] = false;
+DELTA["b9"]["LayoutOrder"] = 1000;
+DELTA["b9"]["Size"] = UDim2.new(0.0526634119451046, 0, 0.6154626607894897, 0);
+DELTA["b9"]["Name"] = [[AddTab]];
+DELTA["b9"]["Position"] = UDim2.new(0.26442891359329224, 0, 0.30375349521636963, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab.UICorner
+DELTA["ba"] = Instance.new("UICorner", DELTA["b9"]);
+DELTA["ba"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab.ImageButton
+DELTA["bb"] = Instance.new("ImageButton", DELTA["b9"]);
+DELTA["bb"]["Active"] = false;
+DELTA["bb"]["Modal"] = true;
+DELTA["bb"]["AutoButtonColor"] = false;
+DELTA["bb"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["bb"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["bb"]["Image"] = [[rbxassetid://13387627918]];
+DELTA["bb"]["Size"] = UDim2.new(0.35981613397598267, 0, 0.3613884449005127, 0);
+DELTA["bb"]["Rotation"] = 45;
+DELTA["bb"]["Position"] = UDim2.new(0.699999988079071, 0, 0.5, 0);
+DELTA["bb"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab.ImageButton.UIAspectRatioConstraint
+DELTA["bc"] = Instance.new("UIAspectRatioConstraint", DELTA["bb"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab.LocalScript
+DELTA["bd"] = Instance.new("LocalScript", DELTA["b9"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab.UIAspectRatioConstraint
+DELTA["be"] = Instance.new("UIAspectRatioConstraint", DELTA["b9"]);
+DELTA["be"]["AspectRatio"] = 1.004372477531433;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved
+DELTA["bf"] = Instance.new("Folder", DELTA["88"]);
+DELTA["bf"]["Name"] = [[Reserved]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Textbox
+DELTA["c0"] = Instance.new("TextBox", DELTA["bf"]);
+DELTA["c0"]["LineHeight"] = 1.840000033378601;
+DELTA["c0"]["TextSize"] = 21;
+DELTA["c0"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["c0"]["TextWrapped"] = false;
+DELTA["c0"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+DELTA["c0"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["c0"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["c0"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["c0"]["ShowNativeInput"] = false;
+DELTA["c0"]["MultiLine"] = true;
+DELTA["c0"]["BackgroundTransparency"] = 1;
+DELTA["c0"]["Size"] = UDim2.new(0.9882024526596069, 0, 0.9716954827308655, 0);
+DELTA["c0"]["Text"] = "";
+DELTA["c0"]["PlaceholderText"] = "Thank you for using Delta <3\nDelta is made by Lxnny and #TeamDelta !";
+DELTA["c0"]["Position"] = UDim2.new(0.011494521982967854, 0, 0.012946978211402893, 3);
+DELTA["c0"]["AutomaticSize"] = Enum.AutomaticSize.XY;
+DELTA["c0"]["Visible"] = false;
+DELTA["c0"]["Name"] = [[Textbox]];
+DELTA["c0"]["ClearTextOnFocus"] = false;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn
+DELTA["c1"] = Instance.new("Frame", DELTA["bf"]);
+DELTA["c1"]["BackgroundColor3"] = Color3.fromRGB(31, 51, 80);
+DELTA["c1"]["Size"] = UDim2.new(1, 0, 0.03193088620901108, 0);
+DELTA["c1"]["Visible"] = false;
+DELTA["c1"]["Name"] = [[SettingSwitchOn]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.UICorner
+DELTA["c2"] = Instance.new("UICorner", DELTA["c1"]);
+DELTA["c2"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Title
+DELTA["c3"] = Instance.new("TextLabel", DELTA["c1"]);
+DELTA["c3"]["TextWrapped"] = true;
+DELTA["c3"]["TextScaled"] = true;
+DELTA["c3"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["c3"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["c3"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["c3"]["TextSize"] = 14;
+DELTA["c3"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["c3"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["c3"]["Size"] = UDim2.new(0.18567337095737457, 0, 0.31746408343315125, 0);
+DELTA["c3"]["Text"] = [[Auto Execute]];
+DELTA["c3"]["Name"] = [[Title]];
+DELTA["c3"]["BackgroundTransparency"] = 1;
+DELTA["c3"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.UIPadding
+DELTA["c4"] = Instance.new("UIPadding", DELTA["c1"]);
+DELTA["c4"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["c4"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Desc
+DELTA["c5"] = Instance.new("TextLabel", DELTA["c1"]);
+DELTA["c5"]["TextWrapped"] = true;
+DELTA["c5"]["TextScaled"] = true;
+DELTA["c5"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["c5"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["c5"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["c5"]["TextSize"] = 14;
+DELTA["c5"]["TextColor3"] = Color3.fromRGB(126, 139, 176);
+DELTA["c5"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["c5"]["Size"] = UDim2.new(0.6590386629104614, 0, 0.23099972307682037, 0);
+DELTA["c5"]["Text"] = [[automatically execute scripts in your autoexec file upon attached.]];
+DELTA["c5"]["Name"] = [[Desc]];
+DELTA["c5"]["BackgroundTransparency"] = 1;
+DELTA["c5"]["Position"] = UDim2.new(0.18517163395881653, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Switch
+DELTA["c6"] = Instance.new("ImageButton", DELTA["c1"]);
+DELTA["c6"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["c6"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["c6"]["Image"] = [[rbxassetid://0]];
+DELTA["c6"]["Size"] = UDim2.new(0.06560052931308746, 0, 0.473985493183136, 0);
+DELTA["c6"]["Name"] = [[Switch]];
+DELTA["c6"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Switch.UICorner
+DELTA["c7"] = Instance.new("UICorner", DELTA["c6"]);
+DELTA["c7"]["CornerRadius"] = UDim.new(10, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Switch.ImageButton
+DELTA["c8"] = Instance.new("ImageLabel", DELTA["c6"]);
+DELTA["c8"]["BackgroundColor3"] = Color3.fromRGB(254, 254, 254);
+DELTA["c8"]["Selectable"] = true;
+DELTA["c8"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["c8"]["Image"] = [[rbxassetid://0]];
+DELTA["c8"]["Size"] = UDim2.new(0.34452590346336365, 0, 0.6585104465484619, 0);
+DELTA["c8"]["Active"] = true;
+DELTA["c8"]["Name"] = [[ImageButton]];
+DELTA["c8"]["Position"] = UDim2.new(0.8884302377700806, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Switch.ImageButton.UICorner
+DELTA["c9"] = Instance.new("UICorner", DELTA["c8"]);
+DELTA["c9"]["CornerRadius"] = UDim.new(10, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Switch.ImageButton.UIAspectRatioConstraint
+DELTA["ca"] = Instance.new("UIAspectRatioConstraint", DELTA["c8"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitchOn.Enabled
+DELTA["cb"] = Instance.new("BoolValue", DELTA["c1"]);
+DELTA["cb"]["Value"] = true;
+DELTA["cb"]["Name"] = [[Enabled]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button
+DELTA["cc"] = Instance.new("Frame", DELTA["bf"]);
+DELTA["cc"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["cc"]["LayoutOrder"] = 2;
+DELTA["cc"]["Size"] = UDim2.new(1, 0, 0.03193088620901108, 0);
+DELTA["cc"]["Position"] = UDim2.new(0, 0, 0.079827219247818, 0);
+DELTA["cc"]["Visible"] = false;
+DELTA["cc"]["Name"] = [[Button]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.UICorner
+DELTA["cd"] = Instance.new("UICorner", DELTA["cc"]);
+DELTA["cd"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.Title
+DELTA["ce"] = Instance.new("TextLabel", DELTA["cc"]);
+DELTA["ce"]["TextWrapped"] = true;
+DELTA["ce"]["TextScaled"] = true;
+DELTA["ce"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["ce"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["ce"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["ce"]["TextSize"] = 14;
+DELTA["ce"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["ce"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["ce"]["Size"] = UDim2.new(0.18567337095737457, 0, 0.31746408343315125, 0);
+DELTA["ce"]["Text"] = [[Kill ROBLOX]];
+DELTA["ce"]["Name"] = [[Title]];
+DELTA["ce"]["BackgroundTransparency"] = 1;
+DELTA["ce"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.UIPadding
+DELTA["cf"] = Instance.new("UIPadding", DELTA["cc"]);
+DELTA["cf"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["cf"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.Desc
+DELTA["d0"] = Instance.new("TextLabel", DELTA["cc"]);
+DELTA["d0"]["TextWrapped"] = true;
+DELTA["d0"]["TextScaled"] = true;
+DELTA["d0"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["d0"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["d0"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["d0"]["TextSize"] = 14;
+DELTA["d0"]["TextColor3"] = Color3.fromRGB(103, 109, 126);
+DELTA["d0"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["d0"]["Size"] = UDim2.new(0.6590386629104614, 0, 0.23099972307682037, 0);
+DELTA["d0"]["Text"] = [[self explanitory function right here]];
+DELTA["d0"]["Name"] = [[Desc]];
+DELTA["d0"]["BackgroundTransparency"] = 1;
+DELTA["d0"]["Position"] = UDim2.new(0.18517163395881653, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.Button
+DELTA["d1"] = Instance.new("ImageButton", DELTA["cc"]);
+DELTA["d1"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["d1"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["d1"]["Image"] = [[rbxassetid://0]];
+DELTA["d1"]["Size"] = UDim2.new(0.12388666719198227, 0, 0.473985493183136, 0);
+DELTA["d1"]["Name"] = [[Button]];
+DELTA["d1"]["Position"] = UDim2.new(0.9995027780532837, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.Button.UICorner
+DELTA["d2"] = Instance.new("UICorner", DELTA["d1"]);
+DELTA["d2"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Button.Button.Title
+DELTA["d3"] = Instance.new("TextLabel", DELTA["d1"]);
+DELTA["d3"]["TextWrapped"] = true;
+DELTA["d3"]["ZIndex"] = 999999999;
+DELTA["d3"]["TextScaled"] = true;
+DELTA["d3"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["d3"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["d3"]["TextSize"] = 14;
+DELTA["d3"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["d3"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["d3"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["d3"]["Text"] = [[CLICK HERE]];
+DELTA["d3"]["Name"] = [[Title]];
+DELTA["d3"]["BackgroundTransparency"] = 1;
+DELTA["d3"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch
+DELTA["d4"] = Instance.new("Frame", DELTA["bf"]);
+DELTA["d4"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["d4"]["LayoutOrder"] = 1;
+DELTA["d4"]["Size"] = UDim2.new(1, 0, 0.03193089738488197, 0);
+DELTA["d4"]["Position"] = UDim2.new(0, 0, 0.0399135947227478, 0);
+DELTA["d4"]["Visible"] = false;
+DELTA["d4"]["Name"] = [[SettingSwitch]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.UICorner
+DELTA["d5"] = Instance.new("UICorner", DELTA["d4"]);
+DELTA["d5"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Title
+DELTA["d6"] = Instance.new("TextLabel", DELTA["d4"]);
+DELTA["d6"]["TextWrapped"] = true;
+DELTA["d6"]["TextScaled"] = true;
+DELTA["d6"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["d6"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["d6"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["d6"]["TextSize"] = 14;
+DELTA["d6"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["d6"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["d6"]["Size"] = UDim2.new(0.18567337095737457, 0, 0.31746408343315125, 0);
+DELTA["d6"]["Text"] = [[Auto Execute]];
+DELTA["d6"]["Name"] = [[Title]];
+DELTA["d6"]["BackgroundTransparency"] = 1;
+DELTA["d6"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.UIPadding
+DELTA["d7"] = Instance.new("UIPadding", DELTA["d4"]);
+DELTA["d7"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["d7"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Desc
+DELTA["d8"] = Instance.new("TextLabel", DELTA["d4"]);
+DELTA["d8"]["TextWrapped"] = true;
+DELTA["d8"]["TextScaled"] = true;
+DELTA["d8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["d8"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["d8"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["d8"]["TextSize"] = 14;
+DELTA["d8"]["TextColor3"] = Color3.fromRGB(103, 109, 126);
+DELTA["d8"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["d8"]["Size"] = UDim2.new(0.6590386629104614, 0, 0.23099972307682037, 0);
+DELTA["d8"]["Text"] = [[automatically execute scripts in your autoexec file upon attached.]];
+DELTA["d8"]["Name"] = [[Desc]];
+DELTA["d8"]["BackgroundTransparency"] = 1;
+DELTA["d8"]["Position"] = UDim2.new(0.18517163395881653, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Switch
+DELTA["d9"] = Instance.new("ImageButton", DELTA["d4"]);
+DELTA["d9"]["BackgroundColor3"] = Color3.fromRGB(61, 66, 81);
+DELTA["d9"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["d9"]["Image"] = [[rbxassetid://0]];
+DELTA["d9"]["Size"] = UDim2.new(0.06560052931308746, 0, 0.473985493183136, 0);
+DELTA["d9"]["Name"] = [[Switch]];
+DELTA["d9"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Switch.UICorner
+DELTA["da"] = Instance.new("UICorner", DELTA["d9"]);
+DELTA["da"]["CornerRadius"] = UDim.new(10, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Switch.ImageButton
+DELTA["db"] = Instance.new("ImageLabel", DELTA["d9"]);
+DELTA["db"]["BackgroundColor3"] = Color3.fromRGB(136, 140, 151);
+DELTA["db"]["Selectable"] = true;
+DELTA["db"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["db"]["Image"] = [[rbxassetid://0]];
+DELTA["db"]["Size"] = UDim2.new(0.34452590346336365, 0, 0.6585104465484619, 0);
+DELTA["db"]["Active"] = true;
+DELTA["db"]["Name"] = [[ImageButton]];
+DELTA["db"]["Position"] = UDim2.new(0.11156979203224182, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Switch.ImageButton.UICorner
+DELTA["dc"] = Instance.new("UICorner", DELTA["db"]);
+DELTA["dc"]["CornerRadius"] = UDim.new(10, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Switch.ImageButton.UIAspectRatioConstraint
+DELTA["dd"] = Instance.new("UIAspectRatioConstraint", DELTA["db"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingSwitch.Enabled
+DELTA["de"] = Instance.new("BoolValue", DELTA["d4"]);
+DELTA["de"]["Name"] = [[Enabled]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown
+DELTA["df"] = Instance.new("Frame", DELTA["bf"]);
+DELTA["df"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["df"]["LayoutOrder"] = 3;
+DELTA["df"]["Size"] = UDim2.new(1, 0, 0.03193089738488197, 0);
+DELTA["df"]["Position"] = UDim2.new(0, 0, 0.11974083632230759, 0);
+DELTA["df"]["Visible"] = false;
+DELTA["df"]["Name"] = [[SettingDropdown]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.UICorner
+DELTA["e0"] = Instance.new("UICorner", DELTA["df"]);
+DELTA["e0"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Title
+DELTA["e1"] = Instance.new("TextLabel", DELTA["df"]);
+DELTA["e1"]["TextWrapped"] = true;
+DELTA["e1"]["TextScaled"] = true;
+DELTA["e1"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["e1"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["e1"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["e1"]["TextSize"] = 14;
+DELTA["e1"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["e1"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["e1"]["Size"] = UDim2.new(0.18567337095737457, 0, 0.31746408343315125, 0);
+DELTA["e1"]["Text"] = [[Themes]];
+DELTA["e1"]["Name"] = [[Title]];
+DELTA["e1"]["BackgroundTransparency"] = 1;
+DELTA["e1"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.UIPadding
+DELTA["e2"] = Instance.new("UIPadding", DELTA["df"]);
+DELTA["e2"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["e2"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Button
+DELTA["e3"] = Instance.new("ImageButton", DELTA["df"]);
+DELTA["e3"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["e3"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["e3"]["Image"] = [[rbxassetid://0]];
+DELTA["e3"]["Size"] = UDim2.new(0.12388666719198227, 0, 0.473985493183136, 0);
+DELTA["e3"]["Name"] = [[Button]];
+DELTA["e3"]["Position"] = UDim2.new(0.9995027780532837, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Button.UICorner
+DELTA["e4"] = Instance.new("UICorner", DELTA["e3"]);
+DELTA["e4"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Button.Title
+DELTA["e5"] = Instance.new("TextLabel", DELTA["e3"]);
+DELTA["e5"]["TextWrapped"] = true;
+DELTA["e5"]["ZIndex"] = 999999999;
+DELTA["e5"]["TextScaled"] = true;
+DELTA["e5"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["e5"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["e5"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["e5"]["TextSize"] = 14;
+DELTA["e5"]["TextColor3"] = Color3.fromRGB(138, 146, 167);
+DELTA["e5"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["e5"]["Size"] = UDim2.new(0.5571646094322205, 0, 0.44124072790145874, 0);
+DELTA["e5"]["Text"] = [[DEFAULT]];
+DELTA["e5"]["Name"] = [[Title]];
+DELTA["e5"]["BackgroundTransparency"] = 1;
+DELTA["e5"]["Position"] = UDim2.new(0.5609880685806274, 0, 0.5000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Button.Button
+DELTA["e6"] = Instance.new("ImageButton", DELTA["e3"]);
+DELTA["e6"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["e6"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["e6"]["Image"] = [[rbxassetid://13441628967]];
+DELTA["e6"]["Size"] = UDim2.new(0.07741968333721161, 0, 0.473985493183136, 0);
+DELTA["e6"]["Name"] = [[Button]];
+DELTA["e6"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["e6"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown
+DELTA["e7"] = Instance.new("Frame", DELTA["df"]);
+DELTA["e7"]["BackgroundColor3"] = Color3.fromRGB(41, 44, 52);
+DELTA["e7"]["Size"] = UDim2.new(0.2331225425004959, 0, 1.7701293230056763, 0);
+DELTA["e7"]["Position"] = UDim2.new(0.7665446996688843, 0, 1.0931282043457031, 0);
+DELTA["e7"]["Visible"] = false;
+DELTA["e7"]["ZIndex"] = 9999999999999;
+DELTA["e7"]["Name"] = [[Dropdown]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.UIListLayout
+DELTA["e8"] = Instance.new("UIListLayout", DELTA["e7"]);
+DELTA["e8"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["e8"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["e8"]["Padding"] = UDim.new(0.029999999329447746, 0);
+DELTA["e8"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option2
+DELTA["e9"] = Instance.new("ImageButton", DELTA["e7"]);
+DELTA["e9"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["e9"]["LayoutOrder"] = 1;
+DELTA["e9"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["e9"]["Image"] = [[rbxassetid://0]];
+DELTA["e9"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.22047372162342072, 0);
+DELTA["e9"]["Name"] = [[Option2]];
+DELTA["e9"]["Position"] = UDim2.new(0.9302427172660828, 0, 0.5364913940429688, 0);
+DELTA["e9"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option2.UICorner
+DELTA["ea"] = Instance.new("UICorner", DELTA["e9"]);
+DELTA["ea"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option2.Title
+DELTA["eb"] = Instance.new("TextLabel", DELTA["e9"]);
+DELTA["eb"]["TextWrapped"] = true;
+DELTA["eb"]["ZIndex"] = 999999999;
+DELTA["eb"]["TextScaled"] = true;
+DELTA["eb"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["eb"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["eb"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["eb"]["TextSize"] = 14;
+DELTA["eb"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["eb"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["eb"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.8179191946983337, 0);
+DELTA["eb"]["Text"] = [[Light]];
+DELTA["eb"]["Name"] = [[Title]];
+DELTA["eb"]["BackgroundTransparency"] = 1;
+DELTA["eb"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option2.Checked
+DELTA["ec"] = Instance.new("ImageButton", DELTA["e9"]);
+DELTA["ec"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["ec"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["ec"]["Image"] = [[rbxassetid://13441695981]];
+DELTA["ec"]["Size"] = UDim2.new(0.0812797099351883, 0, 0.5769613981246948, 0);
+DELTA["ec"]["Name"] = [[Checked]];
+DELTA["ec"]["Visible"] = false;
+DELTA["ec"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["ec"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option2.Checked.UIAspectRatioConstraint
+DELTA["ed"] = Instance.new("UIAspectRatioConstraint", DELTA["ec"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Divider
+DELTA["ee"] = Instance.new("Frame", DELTA["e7"]);
+DELTA["ee"]["BackgroundColor3"] = Color3.fromRGB(59, 63, 74);
+DELTA["ee"]["LayoutOrder"] = 1;
+DELTA["ee"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.012410691007971764, 0);
+DELTA["ee"]["Position"] = UDim2.new(0.06975728273391724, 0, 0.6603825688362122, 0);
+DELTA["ee"]["Name"] = [[Divider]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.UICorner
+DELTA["ef"] = Instance.new("UICorner", DELTA["e7"]);
+DELTA["ef"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option1
+DELTA["f0"] = Instance.new("ImageButton", DELTA["e7"]);
+DELTA["f0"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["f0"]["LayoutOrder"] = -1;
+DELTA["f0"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["f0"]["Image"] = [[rbxassetid://0]];
+DELTA["f0"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.22047363221645355, 0);
+DELTA["f0"]["Name"] = [[Option1]];
+DELTA["f0"]["Position"] = UDim2.new(0.9302427172660828, 0, 0.276297390460968, 0);
+DELTA["f0"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option1.UICorner
+DELTA["f1"] = Instance.new("UICorner", DELTA["f0"]);
+DELTA["f1"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option1.Title
+DELTA["f2"] = Instance.new("TextLabel", DELTA["f0"]);
+DELTA["f2"]["TextWrapped"] = true;
+DELTA["f2"]["ZIndex"] = 999999999;
+DELTA["f2"]["TextScaled"] = true;
+DELTA["f2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["f2"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["f2"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["f2"]["TextSize"] = 14;
+DELTA["f2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["f2"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["f2"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.8179191946983337, 0);
+DELTA["f2"]["Text"] = [[Default]];
+DELTA["f2"]["Name"] = [[Title]];
+DELTA["f2"]["BackgroundTransparency"] = 1;
+DELTA["f2"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option1.Checked
+DELTA["f3"] = Instance.new("ImageButton", DELTA["f0"]);
+DELTA["f3"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["f3"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["f3"]["Image"] = [[rbxassetid://13441695981]];
+DELTA["f3"]["Size"] = UDim2.new(0.0812797099351883, 0, 0.5769613981246948, 0);
+DELTA["f3"]["Name"] = [[Checked]];
+DELTA["f3"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["f3"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option1.Checked.UIAspectRatioConstraint
+DELTA["f4"] = Instance.new("UIAspectRatioConstraint", DELTA["f3"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Divider
+DELTA["f5"] = Instance.new("Frame", DELTA["e7"]);
+DELTA["f5"]["BackgroundColor3"] = Color3.fromRGB(59, 63, 74);
+DELTA["f5"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.012410691007971764, 0);
+DELTA["f5"]["Position"] = UDim2.new(0.06975728273391724, 0, 0.4001886248588562, 0);
+DELTA["f5"]["Name"] = [[Divider]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option3
+DELTA["f6"] = Instance.new("ImageButton", DELTA["e7"]);
+DELTA["f6"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["f6"]["LayoutOrder"] = 3;
+DELTA["f6"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["f6"]["Image"] = [[rbxassetid://0]];
+DELTA["f6"]["Size"] = UDim2.new(0.8604854345321655, 0, 0.2204737514257431, 0);
+DELTA["f6"]["Name"] = [[Option3]];
+DELTA["f6"]["Position"] = UDim2.new(0.9302427172660828, 0, 0.7966850399971008, 0);
+DELTA["f6"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option3.UICorner
+DELTA["f7"] = Instance.new("UICorner", DELTA["f6"]);
+DELTA["f7"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option3.Title
+DELTA["f8"] = Instance.new("TextLabel", DELTA["f6"]);
+DELTA["f8"]["TextWrapped"] = true;
+DELTA["f8"]["ZIndex"] = 999999999;
+DELTA["f8"]["TextScaled"] = true;
+DELTA["f8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["f8"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["f8"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["f8"]["TextSize"] = 14;
+DELTA["f8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["f8"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["f8"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.8179191946983337, 0);
+DELTA["f8"]["Text"] = [[Amoled]];
+DELTA["f8"]["Name"] = [[Title]];
+DELTA["f8"]["BackgroundTransparency"] = 1;
+DELTA["f8"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option3.Checked
+DELTA["f9"] = Instance.new("ImageButton", DELTA["f6"]);
+DELTA["f9"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["f9"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["f9"]["Image"] = [[rbxassetid://13441695981]];
+DELTA["f9"]["Size"] = UDim2.new(0.0812797099351883, 0, 0.5769613981246948, 0);
+DELTA["f9"]["Name"] = [[Checked]];
+DELTA["f9"]["Visible"] = false;
+DELTA["f9"]["Position"] = UDim2.new(1, 0, 0.5, 0);
+DELTA["f9"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Dropdown.Option3.Checked.UIAspectRatioConstraint
+DELTA["fa"] = Instance.new("UIAspectRatioConstraint", DELTA["f9"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingDropdown.Desc
+DELTA["fb"] = Instance.new("TextLabel", DELTA["df"]);
+DELTA["fb"]["TextWrapped"] = true;
+DELTA["fb"]["TextScaled"] = true;
+DELTA["fb"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["fb"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["fb"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["fb"]["TextSize"] = 14;
+DELTA["fb"]["TextColor3"] = Color3.fromRGB(103, 109, 126);
+DELTA["fb"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["fb"]["Size"] = UDim2.new(0.6590386629104614, 0, 0.23099972307682037, 0);
+DELTA["fb"]["Text"] = [[select your desireable Delta theme below]];
+DELTA["fb"]["Name"] = [[Desc]];
+DELTA["fb"]["BackgroundTransparency"] = 1;
+DELTA["fb"]["Position"] = UDim2.new(0.18517163395881653, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox
+DELTA["fc"] = Instance.new("Frame", DELTA["bf"]);
+DELTA["fc"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["fc"]["LayoutOrder"] = 2;
+DELTA["fc"]["Size"] = UDim2.new(1, 0, 0.03193088620901108, 0);
+DELTA["fc"]["Position"] = UDim2.new(0, 0, 0.079827219247818, 0);
+DELTA["fc"]["Visible"] = false;
+DELTA["fc"]["Name"] = [[SettingTextbox]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.UICorner
+DELTA["fd"] = Instance.new("UICorner", DELTA["fc"]);
+DELTA["fd"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.Title
+DELTA["fe"] = Instance.new("TextLabel", DELTA["fc"]);
+DELTA["fe"]["TextWrapped"] = true;
+DELTA["fe"]["TextScaled"] = true;
+DELTA["fe"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["fe"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["fe"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["fe"]["TextSize"] = 14;
+DELTA["fe"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["fe"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["fe"]["Size"] = UDim2.new(0.18567337095737457, 0, 0.31746408343315125, 0);
+DELTA["fe"]["Text"] = [[Kill ROBLOX]];
+DELTA["fe"]["Name"] = [[Title]];
+DELTA["fe"]["BackgroundTransparency"] = 1;
+DELTA["fe"]["Position"] = UDim2.new(0, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.UIPadding
+DELTA["ff"] = Instance.new("UIPadding", DELTA["fc"]);
+DELTA["ff"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["ff"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.Desc
+DELTA["100"] = Instance.new("TextLabel", DELTA["fc"]);
+DELTA["100"]["TextWrapped"] = true;
+DELTA["100"]["TextScaled"] = true;
+DELTA["100"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["100"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["100"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["100"]["TextSize"] = 14;
+DELTA["100"]["TextColor3"] = Color3.fromRGB(103, 109, 126);
+DELTA["100"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["100"]["Size"] = UDim2.new(0.6590386629104614, 0, 0.23099972307682037, 0);
+DELTA["100"]["Text"] = [[self explanitory function right here]];
+DELTA["100"]["Name"] = [[Desc]];
+DELTA["100"]["BackgroundTransparency"] = 1;
+DELTA["100"]["Position"] = UDim2.new(0.18517163395881653, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.InputText
+DELTA["101"] = Instance.new("TextBox", DELTA["fc"]);
+DELTA["101"]["Active"] = true;
+DELTA["101"]["BorderSizePixel"] = 0;
+DELTA["101"]["TextSize"] = 17;
+DELTA["101"]["TextWrapped"] = true;
+DELTA["101"]["TextScaled"] = true;
+DELTA["101"]["BackgroundColor3"] = Color3.fromRGB(31, 37, 47);
+DELTA["101"]["TextColor3"] = Color3.fromRGB(162, 191, 212);
+DELTA["101"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["101"]["AnchorPoint"] = Vector2.new(0, 1);
+DELTA["101"]["PlaceholderText"] = [[Input]];
+DELTA["101"]["Size"] = UDim2.new(0.19835805892944336, 0, 0.4205845594406128, 0);
+DELTA["101"]["Selectable"] = false;
+DELTA["101"]["Text"] = [[]];
+DELTA["101"]["Position"] = UDim2.new(0.7891961932182312, 0, 0.7077450752258301, 0);
+DELTA["101"]["Name"] = [[InputText]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.InputText.UICorner
+DELTA["102"] = Instance.new("UICorner", DELTA["101"]);
+DELTA["102"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.SettingTextbox.InputText.UIStroke
+DELTA["103"] = Instance.new("UIStroke", DELTA["101"]);
+DELTA["103"]["Color"] = Color3.fromRGB(59, 71, 90);
+DELTA["103"]["Thickness"] = 2;
+DELTA["103"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.TabX
+DELTA["104"] = Instance.new("ImageButton", DELTA["bf"]);
+DELTA["104"]["Active"] = false;
+DELTA["104"]["ZIndex"] = 300;
+DELTA["104"]["BackgroundColor3"] = Color3.fromRGB(34, 41, 50);
+DELTA["104"]["Selectable"] = false;
+DELTA["104"]["LayoutOrder"] = 1;
+DELTA["104"]["Size"] = UDim2.new(0.23816877603530884, 0, 0.8693817853927612, 0);
+DELTA["104"]["Name"] = [[TabX]];
+DELTA["104"]["Visible"] = false;
+DELTA["104"]["Position"] = UDim2.new(0.016260094940662384, 0, 0.20600000023841858, 0);
+DELTA["104"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.TabX.UICorner
+DELTA["105"] = Instance.new("UICorner", DELTA["104"]);
+DELTA["105"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.TabX.Title
+DELTA["106"] = Instance.new("TextLabel", DELTA["104"]);
+DELTA["106"]["TextWrapped"] = true;
+DELTA["106"]["TextScaled"] = true;
+DELTA["106"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["106"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["106"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["106"]["TextTransparency"] = 0.30000001192092896;
+DELTA["106"]["TextSize"] = 14;
+DELTA["106"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["106"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["106"]["Size"] = UDim2.new(0.6458646059036255, 0, 0.4000000059604645, 0);
+DELTA["106"]["Text"] = [[script.lua]];
+DELTA["106"]["Name"] = [[Title]];
+DELTA["106"]["BackgroundTransparency"] = 1;
+DELTA["106"]["Position"] = UDim2.new(0.11627907305955887, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.TabX.ImageButton
+DELTA["107"] = Instance.new("ImageButton", DELTA["104"]);
+DELTA["107"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["107"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["107"]["Image"] = [[rbxassetid://13387627918]];
+DELTA["107"]["Size"] = UDim2.new(0.06472493708133698, 0, 0.19327585399150848, 0);
+DELTA["107"]["Position"] = UDim2.new(0.9190940260887146, 0, 0.49999985098838806, 0);
+DELTA["107"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.TabX.ImageButton.UIAspectRatioConstraint
+DELTA["108"] = Instance.new("UIAspectRatioConstraint", DELTA["107"]);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script
+DELTA["109"] = Instance.new("ImageLabel", DELTA["bf"]);
+DELTA["109"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["109"]["LayoutOrder"] = 1;
+DELTA["109"]["Size"] = UDim2.new(0.997948408126831, 0, 0.0462365560233593, 0);
+DELTA["109"]["Position"] = UDim2.new(0, 0, 1.0919346493665216e-07, 0);
+DELTA["109"]["Name"] = [[Script]];
+DELTA["109"].Active = true;
+DELTA["109"].Visible = false
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.UICorner
+DELTA["10a"] = Instance.new("UICorner", DELTA["109"]);
+DELTA["10a"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Title
+DELTA["10b"] = Instance.new("TextLabel", DELTA["109"]);
+DELTA["10b"]["TextWrapped"] = true;
+DELTA["10b"]["TextScaled"] = true;
+DELTA["10b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10b"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["10b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["10b"]["TextSize"] = 14;
+DELTA["10b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10b"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["10b"]["Size"] = UDim2.new(0.15939868986606598, 0, 0.31746405363082886, 0);
+DELTA["10b"]["Text"] = [[Enter Your Script...]];
+DELTA["10b"]["Name"] = [[Title]];
+DELTA["10b"]["BackgroundTransparency"] = 1;
+DELTA["10b"]["Position"] = UDim2.new(-0.01293666660785675, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.UIPadding
+DELTA["10c"] = Instance.new("UIPadding", DELTA["109"]);
+DELTA["10c"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["10c"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Button
+DELTA["10d"] = Instance.new("ImageButton", DELTA["109"]);
+DELTA["10d"]["BackgroundColor3"] = Color3.fromRGB(59, 64, 79);
+DELTA["10d"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["10d"]["Image"] = [[rbxassetid://0]];
+DELTA["10d"]["Size"] = UDim2.new(0.09953451156616211, 0, 0.473985493183136, 0);
+DELTA["10d"]["Name"] = [[Button]];
+DELTA["10d"]["Position"] = UDim2.new(1.0157949924468994, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Button.UICorner
+DELTA["10e"] = Instance.new("UICorner", DELTA["10d"]);
+DELTA["10e"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Button.Title
+DELTA["10f"] = Instance.new("TextLabel", DELTA["10d"]);
+DELTA["10f"]["TextWrapped"] = true;
+DELTA["10f"]["ZIndex"] = 999999999;
+DELTA["10f"]["TextScaled"] = true;
+DELTA["10f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10f"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["10f"]["TextSize"] = 14;
+DELTA["10f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10f"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["10f"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["10f"]["Text"] = [[EXECUTE]];
+DELTA["10f"]["Name"] = [[Title]];
+DELTA["10f"]["BackgroundTransparency"] = 1;
+DELTA["10f"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Button1
+DELTA["10da"] = Instance.new("ImageButton", DELTA["109"]);
+DELTA["10da"]["BackgroundColor3"] = Color3.fromRGB(59, 64, 79);
+DELTA["10da"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["10da"]["Image"] = [[rbxassetid://0]];
+DELTA["10da"]["Size"] = UDim2.new(0.09953451156616211, 0, 0.473985493183136, 0);
+DELTA["10da"]["Name"] = [[Button1]];
+DELTA["10da"]["Position"] = UDim2.new(0.9, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Button1.UICorner
+DELTA["10ea"] = Instance.new("UICorner", DELTA["10da"]);
+DELTA["10ea"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Button1.Title
+DELTA["10fa"] = Instance.new("TextLabel", DELTA["10da"]);
+DELTA["10fa"]["TextWrapped"] = true;
+DELTA["10fa"]["ZIndex"] = 999999999;
+DELTA["10fa"]["TextScaled"] = true;
+DELTA["10fa"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10fa"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["10fa"]["TextSize"] = 14;
+DELTA["10fa"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10fa"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["10fa"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["10fa"]["Text"] = [[DELETE]];
+DELTA["10fa"]["Name"] = [[Title]];
+DELTA["10fa"]["BackgroundTransparency"] = 1;
+DELTA["10fa"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Frame
+DELTA["110"] = Instance.new("Frame", DELTA["109"]);
+DELTA["110"]["BackgroundColor3"] = Color3.fromRGB(86, 173, 239);
+DELTA["110"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["110"]["Size"] = UDim2.new(0.08429200947284698, 0, 0.3846021890640259, 0);
+DELTA["110"]["Position"] = UDim2.new(0.14588697254657745, 0, 0.49755123257637024, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Frame.UICorner
+DELTA["111"] = Instance.new("UICorner", DELTA["110"]);
+DELTA["111"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Reserved.Script.Frame.Title
+DELTA["112"] = Instance.new("TextLabel", DELTA["110"]);
+DELTA["112"]["TextWrapped"] = true;
+DELTA["112"]["TextScaled"] = true;
+DELTA["112"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["112"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["112"]["TextSize"] = 14;
+DELTA["112"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["112"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["112"]["Size"] = UDim2.new(0.8315319418907166, 0, 0.5, 0);
+DELTA["112"]["Text"] = [[UTILITY]];
+DELTA["112"]["Name"] = [[Title]];
+DELTA["112"]["BackgroundTransparency"] = 1;
+DELTA["112"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Code
+DELTA["113"] = Instance.new("ScrollingFrame", DELTA["88"]);
+DELTA["113"]["ZIndex"] = 200;
+DELTA["113"]["BorderSizePixel"] = 0;
+DELTA["113"]["CanvasSize"] = UDim2.new(0, 0, 0, 0);
+DELTA["113"]["TopImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+DELTA["113"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["113"]["HorizontalScrollBarInset"] = Enum.ScrollBarInset.Always;
+DELTA["113"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["113"]["AutomaticCanvasSize"] = Enum.AutomaticSize.XY;
+DELTA["113"]["BackgroundTransparency"] = 1;
+DELTA["113"]["Size"] = UDim2.new(0.9764046669006348, 0, 0.6893500685691833, 0);
+DELTA["113"]["Selectable"] = false;
+DELTA["113"].ElasticBehavior = Enum.ElasticBehavior.Never
+DELTA["113"]["ScrollBarThickness"] = 15;
+DELTA["113"]["Position"] = UDim2.new(0.5117977261543274, 0, 0.8393499851226807, 0);
+DELTA["113"]["Name"] = [[Code]];
+DELTA["113"]["BottomImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+
+-- StarterGui.Delta.Executor.Executor.Overlay.Frame
+DELTA["114"] = Instance.new("Frame", DELTA["88"]);
+DELTA["114"]["ZIndex"] = 201;
+DELTA["114"]["BorderSizePixel"] = 0;
+DELTA["114"]["BackgroundColor3"] = Color3.fromRGB(34, 41, 50);
+DELTA["114"]["Size"] = UDim2.new(1.0011208057403564, 0, 0.006693750154227018, 0);
+DELTA["114"]["Position"] = UDim2.new(5.143397530105176e-08, 0, 0.14056874811649323, 0);
+
+-- StarterGui.Delta.Executor.Executor.UICorner
+DELTA["115"] = Instance.new("UICorner", DELTA["87"]);
+DELTA["115"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu
+DELTA["116"] = Instance.new("ImageLabel", DELTA["86"]);
+DELTA["116"]["BorderSizePixel"] = 0;
+DELTA["116"]["ScaleType"] = Enum.ScaleType.Crop;
+DELTA["116"]["BackgroundColor3"] = Color3.fromRGB(36, 0, 0);
+DELTA["116"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["116"]["Image"] = [[rbxassetid://0]];
+DELTA["116"]["Size"] = UDim2.new(0.3273969292640686, 0, 0.9993020296096802, 0);
+DELTA["116"]["ClipsDescendants"] = true;
+DELTA["116"]["Name"] = [[Sidemenu]];
+DELTA["116"]["BackgroundTransparency"] = 1;
+DELTA["116"]["Position"] = UDim2.new(-0.004258748609572649, 0, 0.5005565881729126, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script
+DELTA["117"] = Instance.new("ImageLabel", DELTA["116"]);
+DELTA["117"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+DELTA["117"]["Image"] = [[rbxassetid://0]];
+DELTA["117"]["Size"] = UDim2.new(1.0000001192092896, 0, 0.4340279698371887, 0);
+DELTA["117"]["ClipsDescendants"] = true;
+DELTA["117"]["Name"] = [[Script]];
+DELTA["117"]["Position"] = UDim2.new(-1.131473865711996e-07, 0, 0.09011479467153549, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.UICorner
+DELTA["118"] = Instance.new("UICorner", DELTA["117"]);
+DELTA["118"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay
+DELTA["119"] = Instance.new("Frame", DELTA["117"]);
+DELTA["119"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["119"]["BackgroundTransparency"] = 1;
+DELTA["119"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["119"]["Name"] = [[Overlay]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder
+DELTA["11a"] = Instance.new("Frame", DELTA["119"]);
+DELTA["11a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["11a"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["11a"]["BackgroundTransparency"] = 1;
+DELTA["11a"]["Size"] = UDim2.new(0.8012143969535828, 0, 0.7959624528884888, 0);
+DELTA["11a"]["Position"] = UDim2.new(0.5, 0, 0.49274569749832153, 0);
+DELTA["11a"]["Name"] = [[Holder]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Title
+DELTA["11b"] = Instance.new("Frame", DELTA["11a"]);
+DELTA["11b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["11b"]["BackgroundTransparency"] = 1;
+DELTA["11b"]["Size"] = UDim2.new(1.0907094478607178, 0, 0.3451063930988312, 0);
+DELTA["11b"]["Position"] = UDim2.new(-0.045354731380939484, 0, 0.041554853320121765, 0);
+DELTA["11b"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Title.Title
+DELTA["11c"] = Instance.new("TextLabel", DELTA["11b"]);
+DELTA["11c"]["TextWrapped"] = true;
+DELTA["11c"]["TextScaled"] = true;
+DELTA["11c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["11c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["11c"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["11c"]["TextSize"] = 14;
+DELTA["11c"]["TextColor3"] = Color3.fromRGB(190, 206, 232);
+DELTA["11c"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["11c"]["Size"] = UDim2.new(0.9879999756813049, 0, 0.4830000102519989, 0);
+DELTA["11c"]["Text"] = [[Check out this script!]];
+DELTA["11c"]["Name"] = [[Title]];
+DELTA["11c"]["BackgroundTransparency"] = 1;
+DELTA["11c"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Showcase
+DELTA["11d"] = Instance.new("TextButton", DELTA["11a"]);
+DELTA["11d"]["BackgroundColor3"] = Color3.fromRGB(32, 35, 46);
+DELTA["11d"]["Selectable"] = false;
+DELTA["11d"]["Size"] = UDim2.new(1.0907094478607178, 0, 0.48145753145217896, 0);
+DELTA["11d"]["Name"] = [[Showcase]];
+DELTA["11d"]["Text"] = [[]];
+DELTA["11d"]["Position"] = UDim2.new(-0.0453546978533268, 0, 0.41410815715789795, 0);
+DELTA["11d"]["BackgroundTransparency"] = 0.4000000059604645;
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Showcase.UICorner
+DELTA["11e"] = Instance.new("UICorner", DELTA["11d"]);
+DELTA["11e"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Showcase.UIListLayout
+DELTA["11f"] = Instance.new("UIListLayout", DELTA["11d"]);
+DELTA["11f"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["11f"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["11f"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Showcase.Title
+DELTA["120"] = Instance.new("TextLabel", DELTA["11d"]);
+DELTA["120"]["TextWrapped"] = true;
+DELTA["120"]["TextScaled"] = true;
+DELTA["120"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["120"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["120"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["120"]["TextSize"] = 14;
+DELTA["120"]["TextColor3"] = Color3.fromRGB(190, 206, 232);
+DELTA["120"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["120"]["Size"] = UDim2.new(0.9109266400337219, 0, 0.2100510597229004, 0);
+DELTA["120"]["Active"] = true;
+DELTA["120"]["Text"] = [[INFINITE YIELD]];
+DELTA["120"]["Name"] = [[Title]];
+DELTA["120"]["Active"] = false;
+DELTA["120"]["BackgroundTransparency"] = 1;
+DELTA["120"]["Position"] = UDim2.new(0.5, 0, 0.24653124809265137, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.Overlay.Holder.Showcase.Description
+DELTA["121"] = Instance.new("TextLabel", DELTA["11d"]);
+DELTA["121"]["TextWrapped"] = true;
+DELTA["121"]["TextScaled"] = true;
+DELTA["121"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["121"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["121"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["121"]["TextSize"] = 14;
+DELTA["121"]["TextColor3"] = Color3.fromRGB(157, 162, 199);
+DELTA["121"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["121"]["Size"] = UDim2.new(0.9109266400337219, 0, 0.46432507038116455, 0);
+DELTA["121"]["Active"] = true;
+DELTA["121"]["Text"] = [[an admin script dedicated to provide the necessities of exploiting]];
+DELTA["121"]["Active"] = false;
+DELTA["121"]["Name"] = [[Description]];
+DELTA["121"]["BackgroundTransparency"] = 1;
+DELTA["121"]["Position"] = UDim2.new(0.5, 0, 0.9209074378013611, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Script.ScriptSuggestionHandler
+DELTA["122"] = Instance.new("LocalScript", DELTA["117"]);
+DELTA["122"]["Name"] = [[ScriptSuggestionHandler]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Network
+DELTA["123"] = Instance.new("ImageLabel", DELTA["116"]);
+DELTA["123"]["ZIndex"] = 99999;
+DELTA["123"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+DELTA["123"]["Image"] = [[rbxassetid://0]];
+DELTA["123"]["Size"] = UDim2.new(1.0000001192092896, 0, 0.3936704099178314, 0);
+DELTA["123"]["ClipsDescendants"] = true;
+DELTA["123"]["Name"] = [[Network]];
+DELTA["123"]["Position"] = UDim2.new(-1.3669654208570137e-07, 0, 0.6052098870277405, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.UICorner
+DELTA["124"] = Instance.new("UICorner", DELTA["123"]);
+DELTA["124"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay
+DELTA["125"] = Instance.new("Frame", DELTA["123"]);
+DELTA["125"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["125"]["BackgroundTransparency"] = 1;
+DELTA["125"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["125"]["Name"] = [[Overlay]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder
+DELTA["126"] = Instance.new("Frame", DELTA["125"]);
+DELTA["126"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["126"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["126"]["BackgroundTransparency"] = 1;
+DELTA["126"]["Size"] = UDim2.new(0.8999999761581421, 0, 0.8310460448265076, 0);
+DELTA["126"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["126"]["Name"] = [[Holder]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.UIListLayout
+DELTA["127"] = Instance.new("UIListLayout", DELTA["126"]);
+DELTA["127"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["127"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["127"]["Padding"] = UDim.new(0.15000000596046448, 0);
+DELTA["127"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Frame
+DELTA["128"] = Instance.new("Frame", DELTA["126"]);
+DELTA["128"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["128"]["BackgroundTransparency"] = 1;
+DELTA["128"]["Size"] = UDim2.new(1, 0, 0.40413346886634827, 0);
+DELTA["128"]["Position"] = UDim2.new(0, 0, 0.027302570641040802, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Frame.Description
+DELTA["129"] = Instance.new("TextLabel", DELTA["128"]);
+DELTA["129"]["TextWrapped"] = true;
+DELTA["129"]["TextScaled"] = true;
+DELTA["129"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["129"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["129"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["129"]["TextSize"] = 14;
+DELTA["129"]["TextColor3"] = Color3.fromRGB(157, 162, 199);
+DELTA["129"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["129"]["Size"] = UDim2.new(0.9877889156341553, 0, 0.33333709836006165, 0);
+DELTA["129"]["Text"] = [[Client status information]];
+DELTA["129"]["Name"] = [[Description]];
+DELTA["129"]["BackgroundTransparency"] = 1;
+DELTA["129"]["Position"] = UDim2.new(0.5, 0, 0.9999999403953552, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Frame.Title
+DELTA["12a"] = Instance.new("TextLabel", DELTA["128"]);
+DELTA["12a"]["TextWrapped"] = true;
+DELTA["12a"]["TextScaled"] = true;
+DELTA["12a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["12a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["12a"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["12a"]["TextSize"] = 14;
+DELTA["12a"]["TextColor3"] = Color3.fromRGB(190, 206, 232);
+DELTA["12a"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["12a"]["Size"] = UDim2.new(0.9877890348434448, 0, 0.482876718044281, 0);
+DELTA["12a"]["Text"] = [[Network]];
+DELTA["12a"]["Name"] = [[Title]];
+DELTA["12a"]["BackgroundTransparency"] = 1;
+DELTA["12a"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Information
+DELTA["12b"] = Instance.new("Frame", DELTA["126"]);
+DELTA["12b"]["BackgroundColor3"] = Color3.fromRGB(32, 35, 46);
+DELTA["12b"]["BackgroundTransparency"] = 0.4000000059604645;
+DELTA["12b"]["Size"] = UDim2.new(1, 0, 0.3164331018924713, 0);
+DELTA["12b"]["Position"] = UDim2.new(0, 0, 0.6628726124763489, 0);
+DELTA["12b"]["Name"] = [[Information]];
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Information.UICorner
+DELTA["12c"] = Instance.new("UICorner", DELTA["12b"]);
+DELTA["12c"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Information.UIListLayout
+DELTA["12d"] = Instance.new("UIListLayout", DELTA["12b"]);
+DELTA["12d"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["12d"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DELTA["12d"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DELTA["12d"]["Padding"] = UDim.new(0.029999999329447746, 0);
+DELTA["12d"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Information.Memory
+DELTA["12e"] = Instance.new("TextLabel", DELTA["12b"]);
+DELTA["12e"]["TextWrapped"] = true;
+DELTA["12e"]["RichText"] = true;
+DELTA["12e"]["TextScaled"] = true;
+DELTA["12e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["12e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["12e"]["TextSize"] = 14;
+DELTA["12e"]["TextColor3"] = Color3.fromRGB(157, 162, 199);
+DELTA["12e"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["12e"]["Size"] = UDim2.new(0.28310254216194153, 0, 0.2934793531894684, 0);
+DELTA["12e"]["Text"] = [[<font color="#4FA4F2">68</font> MB]];
+DELTA["12e"]["Name"] = [[Memory]];
+DELTA["12e"]["BackgroundTransparency"] = 1;
+DELTA["12e"]["Position"] = UDim2.new(0.05447632819414139, 0, 0.6467397809028625, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Information.Ping
+DELTA["12f"] = Instance.new("TextLabel", DELTA["12b"]);
+DELTA["12f"]["TextWrapped"] = true;
+DELTA["12f"]["RichText"] = true;
+DELTA["12f"]["TextScaled"] = true;
+DELTA["12f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["12f"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["12f"]["TextSize"] = 14;
+DELTA["12f"]["TextColor3"] = Color3.fromRGB(157, 162, 199);
+DELTA["12f"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["12f"]["LayoutOrder"] = 2;
+DELTA["12f"]["Size"] = UDim2.new(0.3066037893295288, 0, 0.2934792935848236, 0);
+DELTA["12f"]["Text"] = [[<font color="#4FA4F2">68</font> MS Ping]];
+DELTA["12f"]["Name"] = [[Ping]];
+DELTA["12f"]["BackgroundTransparency"] = 1;
+DELTA["12f"]["Position"] = UDim2.new(0.2835494577884674, 0, 0.646739661693573, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.Overlay.Holder.Information.Players
+DELTA["130"] = Instance.new("TextLabel", DELTA["12b"]);
+DELTA["130"]["TextWrapped"] = true;
+DELTA["130"]["RichText"] = true;
+DELTA["130"]["TextScaled"] = true;
+DELTA["130"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["130"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["130"]["TextSize"] = 14;
+DELTA["130"]["TextColor3"] = Color3.fromRGB(157, 162, 199);
+DELTA["130"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["130"]["LayoutOrder"] = 3;
+DELTA["130"]["Size"] = UDim2.new(0.3066039979457855, 0, 0.2934792935848236, 0);
+DELTA["130"]["Text"] = [[<font color="#4FA4F2">11</font> players]];
+DELTA["130"]["Name"] = [[Players]];
+DELTA["130"]["BackgroundTransparency"] = 1;
+DELTA["130"]["Position"] = UDim2.new(0.6138899326324463, 0, 0.646739661693573, 0);
+
+-- StarterGui.Delta.Executor.Sidemenu.Network.NetworkStatsHandler
+DELTA["131"] = Instance.new("LocalScript", DELTA["123"]);
+DELTA["131"]["Name"] = [[NetworkStatsHandler]];
+
+-- StarterGui.Delta.Executor.Sidemenu.UIListLayout
+DELTA["132"] = Instance.new("UIListLayout", DELTA["116"]);
+DELTA["132"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["132"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Right;
+DELTA["132"]["Padding"] = UDim.new(0.05000000074505806, 0);
+DELTA["132"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Executor.Marker
+DELTA["133"] = Instance.new("StringValue", DELTA["86"]);
+DELTA["133"]["Value"] = [[Menu]];
+DELTA["133"]["Name"] = [[Marker]];
+
+-- StarterGui.Delta.Home
+DELTA["134"] = Instance.new("Frame", DELTA["1"]);
+DELTA["134"]["ZIndex"] = 100;
+DELTA["134"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+DELTA["134"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["134"]["BackgroundTransparency"] = 1;
+DELTA["134"]["Size"] = UDim2.new(0.8483448028564453, 0, 0.8924814462661743, 0);
+DELTA["134"]["Position"] = UDim2.new(0.47624671459198, 0, 0.5082324147224426, 0);
+DELTA["134"]["Visible"] = false;
+DELTA["134"]["Name"] = [[Home]];
+
+-- StarterGui.Delta.Home.Searchbar
+DELTA["135"] = Instance.new("Frame", DELTA["134"]);
+DELTA["135"]["ZIndex"] = 2;
+DELTA["135"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["135"]["Size"] = UDim2.new(1, 0, 0.12585513293743134, 0);
+DELTA["135"]["Name"] = [[Searchbar]];
+
+-- StarterGui.Delta.Home.Searchbar.UICorner
+DELTA["136"] = Instance.new("UICorner", DELTA["135"]);
+DELTA["136"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Home.Searchbar.ImageLabel
+DELTA["137"] = Instance.new("ImageLabel", DELTA["135"]);
+DELTA["137"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["137"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["137"]["Image"] = [[rbxassetid://13365156882]];
+DELTA["137"]["Size"] = UDim2.new(0.025552265346050262, 0, 0.40771156549453735, 0);
+DELTA["137"]["BackgroundTransparency"] = 1;
+DELTA["137"]["Position"] = UDim2.new(0.01834862306714058, 0, 0.5, 0);
+
+-- StarterGui.Delta.Home.Searchbar.ImageLabel.UIAspectRatioConstraint
+DELTA["138"] = Instance.new("UIAspectRatioConstraint", DELTA["137"]);
+
+
+-- StarterGui.Delta.Home.Searchbar.Input
+DELTA["139"] = Instance.new("TextBox", DELTA["135"]);
+DELTA["139"]["Active"] = true;
+DELTA["139"]["TextSize"] = 14;
+DELTA["139"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["139"]["TextWrapped"] = true;
+DELTA["139"]["TextScaled"] = true;
+DELTA["139"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["139"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["139"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["139"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["139"]["BackgroundTransparency"] = 1;
+DELTA["139"]["PlaceholderText"] = [[Search for scripts...]];
+DELTA["139"]["Size"] = UDim2.new(0.8766564130783081, 0, 0.35361653566360474, 0);
+DELTA["139"]["Selectable"] = false;
+DELTA["139"]["Text"] = [[]];
+DELTA["139"]["Position"] = UDim2.new(0.061162080615758896, 0, 0.49999991059303284, 0);
+DELTA["139"]["Name"] = [[Input]];
+
+-- StarterGui.Delta.Home.Searchbar.Button
+DELTA["13a"] = Instance.new("ImageButton", DELTA["135"]);
+DELTA["13a"]["ZIndex"] = 999999999;
+DELTA["13a"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["13a"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["13a"]["Image"] = [[rbxassetid://0]];
+DELTA["13a"]["Size"] = UDim2.new(0.08857108652591705, 0, 0.572917103767395, 0);
+DELTA["13a"]["Name"] = [[Button]];
+DELTA["13a"]["Position"] = UDim2.new(0.982576847076416, 0, 0.4999999701976776, 0);
+
+-- StarterGui.Delta.Home.Searchbar.Button.UICorner
+DELTA["13b"] = Instance.new("UICorner", DELTA["13a"]);
+DELTA["13b"]["CornerRadius"] = UDim.new(0.15000000596046448, 0);
+
+-- StarterGui.Delta.Home.Searchbar.Button.Title
+DELTA["13c"] = Instance.new("TextLabel", DELTA["13a"]);
+DELTA["13c"]["TextWrapped"] = true;
+DELTA["13c"]["ZIndex"] = 999999999;
+DELTA["13c"]["TextScaled"] = true;
+DELTA["13c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["13c"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["13c"]["TextSize"] = 14;
+DELTA["13c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["13c"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["13c"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["13c"]["Text"] = [[UPLOAD]];
+DELTA["13c"]["Name"] = [[Title]];
+DELTA["13c"]["BackgroundTransparency"] = 1;
+DELTA["13c"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Home.Holder
+DELTA["13d"] = Instance.new("ScrollingFrame", DELTA["134"]);
+DELTA["13d"]["CanvasSize"] = UDim2.new(0, 0, 3, 0);
+DELTA["13d"]["ScrollBarImageTransparency"] = 1;
+DELTA["13d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["13d"]["VerticalScrollBarInset"] = Enum.ScrollBarInset.Always;
+DELTA["13d"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["13d"]["BackgroundTransparency"] = 1;
+DELTA["13d"]["Size"] = UDim2.new(1, 0, 0.8350700736045837, 0);
+DELTA["13d"]["Selectable"] = false;
+DELTA["13d"]["ScrollBarThickness"] = 0;
+DELTA["13d"]["Position"] = UDim2.new(0.5, 0, 1, 0);
+DELTA["13d"]["Name"] = [[Holder]];
+
+-- StarterGui.Delta.Home.Holder.UIListLayout
+DELTA["13e"] = Instance.new("UIListLayout", DELTA["13d"]);
+DELTA["13e"]["Padding"] = UDim.new(0.004999999888241291, 0);
+DELTA["13e"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Home.Holder.Script
+DELTA["13f"] = Instance.new("Frame", DELTA["13d"]);
+DELTA["13f"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 50);
+DELTA["13f"]["LayoutOrder"] = 1;
+DELTA["13f"]["Size"] = UDim2.new(0.997948408126831, 0, 0.0462365560233593, 0);
+DELTA["13f"]["Position"] = UDim2.new(0, 0, 1.0919346493665216e-07, 0);
+DELTA["13f"]["Name"] = [[Script]];
+
+-- StarterGui.Delta.Home.Holder.Script.UICorner
+DELTA["140"] = Instance.new("UICorner", DELTA["13f"]);
+DELTA["140"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Title
+DELTA["141"] = Instance.new("TextLabel", DELTA["13f"]);
+DELTA["141"]["TextWrapped"] = true;
+DELTA["141"]["TextScaled"] = true;
+DELTA["141"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["141"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["141"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["141"]["TextSize"] = 14;
+DELTA["141"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["141"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["141"]["Size"] = UDim2.new(0.15939868986606598, 0, 0.31746405363082886, 0);
+DELTA["141"]["Text"] = [[Enter Your Title...]];
+DELTA["141"]["Name"] = [[Title]];
+DELTA["141"]["BackgroundTransparency"] = 1;
+DELTA["141"]["Position"] = UDim2.new(-0.01293666660785675, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.UIPadding
+DELTA["142"] = Instance.new("UIPadding", DELTA["13f"]);
+DELTA["142"]["PaddingRight"] = UDim.new(0.029999999329447746, 0);
+DELTA["142"]["PaddingLeft"] = UDim.new(0.029999999329447746, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Button
+DELTA["143"] = Instance.new("ImageButton", DELTA["13f"]);
+DELTA["143"]["BackgroundColor3"] = Color3.fromRGB(59, 64, 79);
+DELTA["143"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["143"]["Image"] = [[rbxassetid://0]];
+DELTA["143"]["Size"] = UDim2.new(0.09953451156616211, 0, 0.473985493183136, 0);
+DELTA["143"]["Name"] = [[Button]];
+DELTA["143"]["Position"] = UDim2.new(1.0157949924468994, 0, 0.5000000596046448, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Button.UICorner
+DELTA["144"] = Instance.new("UICorner", DELTA["143"]);
+DELTA["144"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Button.Title
+DELTA["145"] = Instance.new("TextLabel", DELTA["143"]);
+DELTA["145"]["TextWrapped"] = true;
+DELTA["145"]["ZIndex"] = 999999999;
+DELTA["145"]["TextScaled"] = true;
+DELTA["145"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["145"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["145"]["TextSize"] = 14;
+DELTA["145"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["145"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["145"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["145"]["Text"] = [[OPTIONS]];
+DELTA["145"]["Name"] = [[Title]];
+DELTA["145"]["BackgroundTransparency"] = 1;
+DELTA["145"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Frame
+DELTA["146"] = Instance.new("Frame", DELTA["13f"]);
+DELTA["146"]["BackgroundColor3"] = Color3.fromRGB(86, 173, 239);
+DELTA["146"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["146"]["Size"] = UDim2.new(0.08429200947284698, 0, 0.3846021890640259, 0);
+DELTA["146"]["Position"] = UDim2.new(0.14588697254657745, 0, 0.49755123257637024, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Frame.UICorner
+DELTA["147"] = Instance.new("UICorner", DELTA["146"]);
+DELTA["147"]["CornerRadius"] = UDim.new(1, 0);
+
+-- StarterGui.Delta.Home.Holder.Script.Frame.Title
+DELTA["148"] = Instance.new("TextLabel", DELTA["146"]);
+DELTA["148"]["TextWrapped"] = true;
+DELTA["148"]["TextScaled"] = true;
+DELTA["148"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["148"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["148"]["TextSize"] = 14;
+DELTA["148"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["148"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["148"]["Size"] = UDim2.new(0.8315319418907166, 0, 0.5, 0);
+DELTA["148"]["Text"] = [[UTILITY]];
+DELTA["148"]["Name"] = [[Title]];
+DELTA["148"]["BackgroundTransparency"] = 1;
+DELTA["148"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Home.DarkOverlay
+DELTA["149"] = Instance.new("Frame", DELTA["134"]);
+DELTA["149"]["ZIndex"] = 99999;
+DELTA["149"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+DELTA["149"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["149"]["BackgroundTransparency"] = 0.5;
+DELTA["149"]["Size"] = UDim2.new(10, 10, 2, 0);
+DELTA["149"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["149"]["Name"] = [[DarkOverlay]];
+
+-- StarterGui.Delta.Home.Popup
+DELTA["14a"] = Instance.new("Frame", DELTA["134"]);
+DELTA["14a"]["ZIndex"] = 100000;
+DELTA["14a"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 49);
+DELTA["14a"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["14a"]["Size"] = UDim2.new(0.4596325159072876, 0, 0.9168577194213867, 0);
+DELTA["14a"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["14a"]["Name"] = [[Popup]];
+DELTA["14a"].Active = true;
+
+-- StarterGui.Delta.Home.Popup.Title
+DELTA["14b"] = Instance.new("Frame", DELTA["14a"]);
+DELTA["14b"]["ZIndex"] = 999999999;
+DELTA["14b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["14b"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["14b"]["BackgroundTransparency"] = 1;
+DELTA["14b"]["Size"] = UDim2.new(0.8193565607070923, 0, 0.23179079592227936, 0);
+DELTA["14b"]["Position"] = UDim2.new(0.5, 0, 0.09408924728631973, 0);
+DELTA["14b"]["Name"] = [[Title1]];
+
+-- StarterGui.Delta.Home.Popup.Title.UIListLayout
+DELTA["14c"] = Instance.new("UIListLayout", DELTA["14b"]);
+DELTA["14c"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["14c"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Home.Popup.Title.Title
+DELTA["14d"] = Instance.new("TextLabel", DELTA["14b"]);
+DELTA["14d"]["TextWrapped"] = true;
+DELTA["14d"]["ZIndex"] = 999999999;
+DELTA["14d"]["TextScaled"] = true;
+DELTA["14d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["14d"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["14d"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["14d"]["TextSize"] = 14;
+DELTA["14d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["14d"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["14d"]["Size"] = UDim2.new(0.7438986301422119, 0, 0.2367609590291977, 0);
+DELTA["14d"]["Text"] = [[Enter Details]];
+DELTA["14d"]["Name"] = [[Title]];
+DELTA["14d"]["BackgroundTransparency"] = 1;
+DELTA["14d"]["Position"] = UDim2.new(0.37194931507110596, 0, 0.1145174577832222, 0);
+
+-- StarterGui.Delta.Home.Popup.Title.Paragraph
+DELTA["14e"] = Instance.new("TextLabel", DELTA["14b"]);
+DELTA["14e"]["TextWrapped"] = true;
+DELTA["14e"]["ZIndex"] = 999999999;
+DELTA["14e"]["TextScaled"] = true;
+DELTA["14e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["14e"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["14e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["14e"]["TextSize"] = 14;
+DELTA["14e"]["TextColor3"] = Color3.fromRGB(161, 167, 182);
+DELTA["14e"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["14e"]["Size"] = UDim2.new(0.7438986897468567, 0, 0.5482637882232666, 0);
+DELTA["14e"]["Text"] = [[Complete the necessary parameters to upload your client script]];
+DELTA["14e"]["Name"] = [[Paragraph]];
+DELTA["14e"]["BackgroundTransparency"] = 1;
+DELTA["14e"]["Position"] = UDim2.new(0.37194934487342834, 0, 1.0482637882232666, 0);
+
+-- StarterGui.Delta.Home.Popup.UICorner
+DELTA["14f"] = Instance.new("UICorner", DELTA["14a"]);
+DELTA["14f"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Home.Popup.Close
+DELTA["150"] = Instance.new("ImageButton", DELTA["14a"]);
+DELTA["150"]["ZIndex"] = 999999999;
+DELTA["150"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["150"]["AnchorPoint"] = Vector2.new(1, 0.5);
+DELTA["150"]["Image"] = [[rbxassetid://13363121645]];
+DELTA["150"]["Size"] = UDim2.new(0.04585733264684677, 0, 0.04716602712869644, 0);
+DELTA["150"]["Name"] = [[Close]];
+DELTA["150"]["Position"] = UDim2.new(0.8981863260269165, 0, 0.15145258605480194, 0);
+DELTA["150"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.Delta.Home.Popup.Close.UIAspectRatioConstraint
+DELTA["151"] = Instance.new("UIAspectRatioConstraint", DELTA["150"]);
+
+
+-- StarterGui.Delta.Home.Popup.Title
+DELTA["152"] = Instance.new("Frame", DELTA["14a"]);
+DELTA["152"]["ZIndex"] = 999999999;
+DELTA["152"]["BackgroundColor3"] = Color3.fromRGB(45, 50, 62);
+DELTA["152"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["152"]["Size"] = UDim2.new(0.8156777620315552, 0, 0.14276885986328125, 0);
+DELTA["152"]["Position"] = UDim2.new(0.4967409074306488, 0, 0.4563864767551422, 0);
+DELTA["152"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.Home.Popup.Title.UICorner
+DELTA["153"] = Instance.new("UICorner", DELTA["152"]);
+DELTA["153"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Home.Popup.Title.UIStroke
+DELTA["154"] = Instance.new("UIStroke", DELTA["152"]);
+DELTA["154"]["Color"] = Color3.fromRGB(81, 92, 121);
+
+-- StarterGui.Delta.Home.Popup.Title.TextLabel
+DELTA["155"] = Instance.new("TextLabel", DELTA["152"]);
+DELTA["155"]["TextWrapped"] = true;
+DELTA["155"]["ZIndex"] = 999999999;
+DELTA["155"]["TextScaled"] = true;
+DELTA["155"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["155"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["155"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["155"]["TextSize"] = 14;
+DELTA["155"]["TextColor3"] = Color3.fromRGB(129, 143, 164);
+DELTA["155"]["Size"] = UDim2.new(0.9756902456283569, 0, 0.29466089606285095, 0);
+DELTA["155"]["Text"] = [[Title]];
+DELTA["155"]["BackgroundTransparency"] = 1;
+DELTA["155"]["Position"] = UDim2.new(0.02430974505841732, 0, 0.09480518102645874, 0);
+
+-- StarterGui.Delta.Home.Popup.Title.TextLabel
+DELTA["156"] = Instance.new("TextBox", DELTA["152"]);
+DELTA["156"]["Active"] = true;
+DELTA["156"]["ZIndex"] = 999999999;
+DELTA["156"]["TextSize"] = 14;
+DELTA["156"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["156"]["TextWrapped"] = true;
+DELTA["156"]["TextScaled"] = true;
+DELTA["156"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["156"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["156"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["156"]["BackgroundTransparency"] = 1;
+DELTA["156"]["Size"] = UDim2.new(0.9756902456283569, 0, 0.3262626826763153, 0);
+DELTA["156"]["Selectable"] = false;
+DELTA["156"]["Text"] = [[Enter Your Title...]];
+DELTA["156"]["Position"] = UDim2.new(0.02430974505841732, 0, 0.4845598340034485, 0);
+DELTA["156"]["Name"] = [[TextBox]];
+
+-- StarterGui.Delta.Home.Popup.Source
+DELTA["157"] = Instance.new("Frame", DELTA["14a"]);
+DELTA["157"]["ZIndex"] = 999999999;
+DELTA["157"]["BackgroundColor3"] = Color3.fromRGB(45, 50, 62);
+DELTA["157"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["157"]["Size"] = UDim2.new(0.8156777620315552, 0, 0.14276885986328125, 0);
+DELTA["157"]["Position"] = UDim2.new(0.4967409074306488, 0, 0.6323444843292236, 0);
+DELTA["157"]["Name"] = [[Source]];
+
+-- StarterGui.Delta.Home.Popup.Source.UICorner
+DELTA["158"] = Instance.new("UICorner", DELTA["157"]);
+DELTA["158"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+
+-- StarterGui.Delta.Home.Popup.Source.UIStroke
+DELTA["159"] = Instance.new("UIStroke", DELTA["157"]);
+DELTA["159"]["Color"] = Color3.fromRGB(81, 92, 121);
+
+-- StarterGui.Delta.Home.Popup.Source.TextLabel
+DELTA["15a"] = Instance.new("TextLabel", DELTA["157"]);
+DELTA["15a"]["TextWrapped"] = true;
+DELTA["15a"]["ZIndex"] = 999999999;
+DELTA["15a"]["TextScaled"] = true;
+DELTA["15a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["15a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["15a"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DELTA["15a"]["TextSize"] = 14;
+DELTA["15a"]["TextColor3"] = Color3.fromRGB(129, 143, 164);
+DELTA["15a"]["Size"] = UDim2.new(0.9756902456283569, 0, 0.29466089606285095, 0);
+DELTA["15a"]["Text"] = [[Script]];
+DELTA["15a"]["BackgroundTransparency"] = 1;
+DELTA["15a"]["Position"] = UDim2.new(0.02430974505841732, 0, 0.09480518102645874, 0);
+
+-- StarterGui.Delta.Home.Popup.Source.TextLabel
+DELTA["15b"] = Instance.new("TextBox", DELTA["157"]);
+DELTA["15b"]["Active"] = true;
+DELTA["15b"]["ZIndex"] = 999999999;
+DELTA["15b"]["TextSize"] = 14;
+DELTA["15b"]["MultiLine"] = true;
+DELTA["15b"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["15b"]["TextWrapped"] = true;
+DELTA["15b"]["TextScaled"] = true;
+DELTA["15b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["15b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["15b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["15b"]["BackgroundTransparency"] = 1;
+DELTA["15b"]["Size"] = UDim2.new(0.9756902456283569, 0, 0.3262626528739929, 0);
+DELTA["15b"]["Selectable"] = false;
+DELTA["15b"]["Text"] = [[Enter Your Script...]];
+DELTA["15b"]["Position"] = UDim2.new(0.02430974505841732, 0, 0.4845598340034485, 0);
+DELTA["15b"]["Name"] = [[TextBox]];
+
+-- StarterGui.Delta.Home.Popup.Add
+DELTA["15c"] = Instance.new("ImageButton", DELTA["14a"]);
+DELTA["15c"]["ZIndex"] = 999999999;
+DELTA["15c"]["BackgroundColor3"] = Color3.fromRGB(59, 139, 254);
+DELTA["15c"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["15c"]["Image"] = [[rbxassetid://0]];
+DELTA["15c"]["Size"] = UDim2.new(0.8161376714706421, 0, 0.10715237259864807, 0);
+DELTA["15c"]["Name"] = [[Add]];
+DELTA["15c"]["Position"] = UDim2.new(0.4954189956188202, 0, 0.888956606388092, 0);
+
+-- StarterGui.Delta.Home.Popup.Add.UICorner
+DELTA["15d"] = Instance.new("UICorner", DELTA["15c"]);
+DELTA["15d"]["CornerRadius"] = UDim.new(0.15000000596046448, 0);
+
+-- StarterGui.Delta.Home.Popup.Add.Title
+DELTA["15e"] = Instance.new("TextLabel", DELTA["15c"]);
+DELTA["15e"]["TextWrapped"] = true;
+DELTA["15e"]["ZIndex"] = 999999999;
+DELTA["15e"]["TextScaled"] = true;
+DELTA["15e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["15e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["15e"]["TextSize"] = 14;
+DELTA["15e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["15e"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["15e"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["15e"]["Text"] = [[Add Script]];
+DELTA["15e"]["Name"] = [[Title]];
+DELTA["15e"]["BackgroundTransparency"] = 1;
+DELTA["15e"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Home.Marker
+DELTA["15f"] = Instance.new("StringValue", DELTA["134"]);
+DELTA["15f"]["Value"] = [[Menu]];
+DELTA["15f"]["Name"] = [[Marker]];
+
+-- StarterGui.Delta.UILibrary
+DELTA["160"] = Instance.new("ModuleScript", DELTA["1"]);
+DELTA["160"]["Name"] = [[UILibrary]];
+
+-- StarterGui.Delta.IsTween
+DELTA["161"] = Instance.new("BoolValue", DELTA["1"]);
+DELTA["161"]["Value"] = true;
+DELTA["161"]["Name"] = [[IsTween]];
+
+-- StarterGui.Delta.Console
+DELTA["162"] = Instance.new("Frame", DELTA["1"]);
+DELTA["162"]["ZIndex"] = 100;
+DELTA["162"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+DELTA["162"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["162"]["BackgroundTransparency"] = 1;
+DELTA["162"]["Size"] = UDim2.new(0.8483448028564453, 0, 0.8924814462661743, 0);
+DELTA["162"]["Position"] = UDim2.new(0.47624671459198, 0, 0.5082324147224426, 0);
+DELTA["162"]["Visible"] = false;
+DELTA["162"]["Name"] = [[Console]];
+
+-- StarterGui.Delta.Console.RobloxConsole
+DELTA["163"] = Instance.new("Frame", DELTA["162"]);
+DELTA["163"]["ZIndex"] = 100000;
+DELTA["163"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 49);
+DELTA["163"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["163"]["Size"] = UDim2.new(0.49088254570961, 0, 1.051314353942871, 0);
+DELTA["163"]["Position"] = UDim2.new(0.20692352950572968, 0, 0.49035412073135376, 0);
+DELTA["163"]["Name"] = [[RobloxConsole]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Buttons
+DELTA["164"] = Instance.new("Frame", DELTA["163"]);
+DELTA["164"]["ZIndex"] = 999999999;
+DELTA["164"]["BorderSizePixel"] = 0;
+DELTA["164"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["164"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["164"]["BackgroundTransparency"] = 0.8999999761581421;
+DELTA["164"]["Size"] = UDim2.new(0.9072632789611816, 0, 0.06977342814207077, 0);
+DELTA["164"]["Position"] = UDim2.new(0.4903126060962677, 0, 0.9698548316955566, 0);
+DELTA["164"]["Name"] = [[Buttons]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Buttons.UIListLayout
+DELTA["165"] = Instance.new("UIListLayout", DELTA["164"]);
+DELTA["165"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["165"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DELTA["165"]["Padding"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Buttons.Clear
+DELTA["166"] = Instance.new("ImageButton", DELTA["164"]);
+DELTA["166"]["Active"] = false;
+DELTA["166"]["ZIndex"] = 999999999;
+DELTA["166"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["166"]["Selectable"] = false;
+DELTA["166"]["Size"] = UDim2.new(0.29185107350349426, 0, 0.8751184344291687, 0);
+DELTA["166"]["Name"] = [[Clear]];
+DELTA["166"]["Position"] = UDim2.new(0, 0, -0.3320552110671997, 0);
+DELTA["166"]["BackgroundTransparency"] = 0.8899999856948853;
+
+-- StarterGui.Delta.Console.RobloxConsole.Buttons.Clear.UICorner
+DELTA["167"] = Instance.new("UICorner", DELTA["166"]);
+DELTA["167"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Buttons.Clear.Title
+DELTA["168"] = Instance.new("TextLabel", DELTA["166"]);
+DELTA["168"]["TextWrapped"] = true;
+DELTA["168"]["ZIndex"] = 999999999;
+DELTA["168"]["TextScaled"] = true;
+DELTA["168"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["168"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["168"]["TextSize"] = 14;
+DELTA["168"]["TextColor3"] = Color3.fromRGB(140, 206, 255);
+DELTA["168"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["168"]["Size"] = UDim2.new(0.8766257762908936, 0, 0.3993089199066162, 0);
+DELTA["168"]["Text"] = [[CLEAR]];
+DELTA["168"]["Name"] = [[Title]];
+DELTA["168"]["BackgroundTransparency"] = 1;
+DELTA["168"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Buttons.Clear.UIStroke
+DELTA["169"] = Instance.new("UIStroke", DELTA["166"]);
+DELTA["169"]["Color"] = Color3.fromRGB(60, 137, 196);
+DELTA["169"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Console.RobloxConsole.UICorner
+DELTA["16a"] = Instance.new("UICorner", DELTA["163"]);
+DELTA["16a"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Console
+DELTA["16b"] = Instance.new("Frame", DELTA["163"]);
+DELTA["16b"]["ZIndex"] = 100000;
+DELTA["16b"]["BackgroundColor3"] = Color3.fromRGB(24, 25, 33);
+DELTA["16b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["16b"]["Size"] = UDim2.new(0.9083685874938965, 0, 0.6696294546127319, 0);
+DELTA["16b"]["Position"] = UDim2.new(0.49789950251579285, 0, 0.5417348742485046, 0);
+DELTA["16b"]["Name"] = [[Console]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Console.UICorner
+DELTA["16c"] = Instance.new("UICorner", DELTA["16b"]);
+DELTA["16c"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Console.ScrollingFrame
+DELTA["16d"] = Instance.new("ScrollingFrame", DELTA["16b"]);
+DELTA["16d"]["Active"] = true;
+DELTA["16d"]["BorderSizePixel"] = 0;
+DELTA["16d"]["CanvasSize"] = UDim2.new(0, 0, 0, 0);
+DELTA["16d"]["TopImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+DELTA["16d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["16d"]["AutomaticCanvasSize"] = Enum.AutomaticSize.Y;
+DELTA["16d"]["BackgroundTransparency"] = 1;
+DELTA["16d"].ElasticBehavior = Enum.ElasticBehavior.Never;
+DELTA["16d"]["Size"] = UDim2.new(0.9835176467895508, 0, 0.9677625298500061, 0);
+DELTA["16d"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
+DELTA["16d"]["Position"] = UDim2.new(0.014219495467841625, 0, 0.016284499317407608, 0);
+DELTA["16d"]["BottomImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Console.ScrollingFrame.Header
+DELTA["16e"] = Instance.new("Frame", DELTA["16d"]);
+DELTA["16e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["16e"]["BackgroundTransparency"] = 1;
+DELTA["16e"]["Size"] = UDim2.new(0.9686747193336487, 0, 2.066622734069824, 0);
+DELTA["16e"]["BorderColor3"] = Color3.fromRGB(28, 43, 54);
+DELTA["16e"]["Position"] = UDim2.new(0, 0, 3.6679779213955044e-08, 0);
+DELTA["16e"]["Name"] = [[Header]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Console.ScrollingFrame.Header.UIListLayout
+DELTA["16f"] = Instance.new("UIListLayout", DELTA["16e"]);
+DELTA["16f"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Console.RobloxConsole.Title
+DELTA["170"] = Instance.new("Frame", DELTA["163"]);
+DELTA["170"]["ZIndex"] = 999999999;
+DELTA["170"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["170"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["170"]["BackgroundTransparency"] = 1;
+DELTA["170"]["Size"] = UDim2.new(1.0044941902160645, 0, 0.15659764409065247, 0);
+DELTA["170"]["Position"] = UDim2.new(0.5043055415153503, 0, 0.0041843606159091, 0);
+DELTA["170"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Title.Title
+DELTA["171"] = Instance.new("TextLabel", DELTA["170"]);
+DELTA["171"]["TextWrapped"] = true;
+DELTA["171"]["ZIndex"] = 999999999;
+DELTA["171"]["TextScaled"] = true;
+DELTA["171"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["171"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["171"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["171"]["TextSize"] = 14;
+DELTA["171"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["171"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["171"]["Size"] = UDim2.new(0.7438986897468567, 0, 0.3096470236778259, 0);
+DELTA["171"]["Text"] = [[Roblox Console]];
+DELTA["171"]["Name"] = [[Title]];
+DELTA["171"]["BackgroundTransparency"] = 1;
+DELTA["171"]["Position"] = UDim2.new(0.4120405614376068, 0, 0.19299590587615967, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Title.Paragraph
+DELTA["172"] = Instance.new("TextLabel", DELTA["170"]);
+DELTA["172"]["TextWrapped"] = true;
+DELTA["172"]["ZIndex"] = 999999999;
+DELTA["172"]["TextScaled"] = true;
+DELTA["172"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["172"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["172"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["172"]["TextSize"] = 14;
+DELTA["172"]["TextColor3"] = Color3.fromRGB(161, 167, 182);
+DELTA["172"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["172"]["Size"] = UDim2.new(0.9046008586883545, 0, 0.2446010410785675, 0);
+DELTA["172"]["Text"] = [[Console that get outputs from ROBLOX console and display it in this menu.]];
+DELTA["172"]["Name"] = [[Paragraph]];
+DELTA["172"]["BackgroundTransparency"] = 1;
+DELTA["172"]["Position"] = UDim2.new(0.4923916459083557, 0, 0.7393273115158081, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Searchbar
+DELTA["173"] = Instance.new("TextBox", DELTA["163"]);
+DELTA["173"]["Active"] = true
+DELTA["173"]["ZIndex"] = 999999999;
+DELTA["173"]["TextWrapped"] = true;
+DELTA["173"]["TextScaled"] = true;
+DELTA["173"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["173"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["173"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["173"]["BackgroundTransparency"] = 0.8899999856948853;
+DELTA["173"]["Size"] = UDim2.new(0.3225496709346771, 0, 0.025502502918243408, 0);
+DELTA["173"]["Selectable"] = false;
+DELTA["173"]["Text"] = [[]];
+DELTA["173"]["Position"] = UDim2.new(0.6109463572502136, 0, 0.16887244582176208, 0);
+DELTA["173"]["Name"] = [[Searchbar]];
+
+-- StarterGui.Delta.Console.RobloxConsole.Searchbar.UICorner
+DELTA["174"] = Instance.new("UICorner", DELTA["173"]);
+DELTA["174"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Searchbar.UIStroke
+DELTA["175"] = Instance.new("UIStroke", DELTA["173"]);
+DELTA["175"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["175"]["Thickness"] = 2;
+DELTA["175"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
+
+-- StarterGui.Delta.Console.RobloxConsole.Searchbar.Title
+DELTA["176"] = Instance.new("TextLabel", DELTA["173"]);
+DELTA["176"]["TextWrapped"] = true;
+DELTA["176"]["ZIndex"] = 999999999;
+DELTA["176"]["TextScaled"] = true;
+DELTA["176"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["176"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["176"]["TextSize"] = 14;
+DELTA["176"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["176"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["176"]["Size"] = UDim2.new(0.2933172583580017, 0, 1.001572847366333, 0);
+DELTA["176"]["Text"] = [[Search:]];
+DELTA["176"]["Name"] = [[Title]];
+DELTA["176"]["BackgroundTransparency"] = 1;
+DELTA["176"]["Position"] = UDim2.new(-0.17850913107395172, 0, 0.11472053080797195, 0);
+
+-- StarterGui.Delta.Console.RobloxConsole.Searchbar.LocalScript
+DELTA["177"] = Instance.new("LocalScript", DELTA["173"]);
+
+
+-- StarterGui.Delta.Console.RobloxConsole.LocalScript
+DELTA["178"] = Instance.new("LocalScript", DELTA["163"]);
+
+
+-- StarterGui.Delta.Console.Marker
+DELTA["179"] = Instance.new("StringValue", DELTA["162"]);
+DELTA["179"]["Value"] = [[Menu]];
+DELTA["179"]["Name"] = [[Marker]];
+
+-- StarterGui.Delta.Console.ConsoleElements
+DELTA["17a"] = Instance.new("Folder", DELTA["162"]);
+DELTA["17a"]["Name"] = [[ConsoleElements]];
+
+-- StarterGui.Delta.Console.ConsoleElements.Error
+DELTA["17b"] = Instance.new("Frame", DELTA["17a"]);
+DELTA["17b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["17b"]["BackgroundTransparency"] = 1;
+DELTA["17b"]["Size"] = UDim2.new(1, 0, 0, 20);
+DELTA["17b"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["17b"]["Visible"] = false;
+DELTA["17b"]["Name"] = [[Error]];
+
+-- StarterGui.Delta.Console.ConsoleElements.Error.Content
+DELTA["17c"] = Instance.new("TextLabel", DELTA["17b"]);
+DELTA["17c"]["TextWrapped"] = true;
+DELTA["17c"]["RichText"] = true;
+DELTA["17c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["17c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["17c"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["17c"]["TextSize"] = 14;
+DELTA["17c"]["TextColor3"] = Color3.fromRGB(221, 42, 45);
+DELTA["17c"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["17c"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["17c"]["Text"] = [[[Error] Oh No! Error Happened!]];
+DELTA["17c"]["Name"] = [[Content]];
+DELTA["17c"]["BackgroundTransparency"] = 1;
+DELTA["17c"]["Position"] = UDim2.new(0.01421956717967987, 0, 0, 0);
+
+-- StarterGui.Delta.Console.ConsoleElements.Warn
+DELTA["17d"] = Instance.new("Frame", DELTA["17a"]);
+DELTA["17d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["17d"]["BackgroundTransparency"] = 1;
+DELTA["17d"]["Size"] = UDim2.new(1, 0, 0, 20);
+DELTA["17d"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["17d"]["Visible"] = false;
+DELTA["17d"]["Name"] = [[Warn]];
+
+-- StarterGui.Delta.Console.ConsoleElements.Warn.Content
+DELTA["17e"] = Instance.new("TextLabel", DELTA["17d"]);
+DELTA["17e"]["TextWrapped"] = true;
+DELTA["17e"]["RichText"] = true;
+DELTA["17e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["17e"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["17e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["17e"]["TextSize"] = 14;
+DELTA["17e"]["TextColor3"] = Color3.fromRGB(210, 221, 0);
+DELTA["17e"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["17e"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["17e"]["Text"] = [[[Warn] You got warning!]];
+DELTA["17e"]["Name"] = [[Content]];
+DELTA["17e"]["BackgroundTransparency"] = 1;
+DELTA["17e"]["Position"] = UDim2.new(0.01421956717967987, 0, 0, 0);
+
+-- StarterGui.Delta.Console.ConsoleElements.Output
+DELTA["17f"] = Instance.new("Frame", DELTA["17a"]);
+DELTA["17f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["17f"]["BackgroundTransparency"] = 1;
+DELTA["17f"]["Size"] = UDim2.new(1, 0, 0, 20);
+DELTA["17f"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["17f"]["Visible"] = false;
+DELTA["17f"]["Name"] = [[Output]];
+
+-- StarterGui.Delta.Console.ConsoleElements.Output.Content
+DELTA["180"] = Instance.new("TextLabel", DELTA["17f"]);
+DELTA["180"]["TextWrapped"] = true;
+DELTA["180"]["RichText"] = true;
+DELTA["180"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["180"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["180"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["180"]["TextSize"] = 14;
+DELTA["180"]["TextColor3"] = Color3.fromRGB(221, 221, 221);
+DELTA["180"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["180"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["180"]["Text"] = [[[Output] Hello World!]];
+DELTA["180"]["Name"] = [[Content]];
+DELTA["180"]["BackgroundTransparency"] = 1;
+DELTA["180"]["Position"] = UDim2.new(0.01421956717967987, 0, 0, 0);
+
+-- StarterGui.Delta.Console.ConsoleElements.Info
+DELTA["181"] = Instance.new("Frame", DELTA["17a"]);
+DELTA["181"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["181"]["BackgroundTransparency"] = 1;
+DELTA["181"]["Size"] = UDim2.new(1, 0, 0, 20);
+DELTA["181"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["181"]["Visible"] = false;
+DELTA["181"]["Name"] = [[Info]];
+
+-- StarterGui.Delta.Console.ConsoleElements.Info.Content
+DELTA["182"] = Instance.new("TextLabel", DELTA["181"]);
+DELTA["182"]["TextWrapped"] = true;
+DELTA["182"]["RichText"] = true;
+DELTA["182"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["182"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["182"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["182"]["TextSize"] = 14;
+DELTA["182"]["TextColor3"] = Color3.fromRGB(0, 118, 221);
+DELTA["182"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["182"]["Size"] = UDim2.new(1, 0, 1, 0);
+DELTA["182"]["Text"] = [[[Info] Information.]];
+DELTA["182"]["Name"] = [[Content]];
+DELTA["182"]["BackgroundTransparency"] = 1;
+DELTA["182"]["Position"] = UDim2.new(0.01421956717967987, 0, 0, 0);
+
+-- StarterGui.Delta.Console.ConsoleElements.Input
+DELTA["183"] = Instance.new("Frame", DELTA["17a"]);
+DELTA["183"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["183"]["BackgroundTransparency"] = 1;
+DELTA["183"]["Size"] = UDim2.new(1, 0, 0, 20);
+DELTA["183"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["183"]["Visible"] = false;
+DELTA["183"]["Name"] = [[Input]];
+
+-- StarterGui.Delta.Console.ConsoleElements.Input.Arrow
+DELTA["184"] = Instance.new("TextLabel", DELTA["183"]);
+DELTA["184"]["TextWrapped"] = true;
+DELTA["184"]["RichText"] = true;
+DELTA["184"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["184"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["184"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["184"]["TextSize"] = 16;
+DELTA["184"]["TextColor3"] = Color3.fromRGB(221, 221, 221);
+DELTA["184"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["184"]["Size"] = UDim2.new(0.03482586517930031, 0, 1, 0);
+DELTA["184"]["Text"] = [[>]];
+DELTA["184"]["Name"] = [[Arrow]];
+DELTA["184"]["BackgroundTransparency"] = 1;
+DELTA["184"]["Position"] = UDim2.new(0, 7, 0, 0);
+
+-- StarterGui.Delta.Console.ConsoleElements.Input.Content
+DELTA["185"] = Instance.new("TextBox", DELTA["183"]);
+DELTA["185"]["Active"] = true;
+DELTA["185"]["RichText"] = true;
+DELTA["185"]["TextSize"] = 14;
+DELTA["185"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["185"]["TextWrapped"] = true;
+DELTA["185"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["185"]["TextColor3"] = Color3.fromRGB(221, 221, 221);
+DELTA["185"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["185"]["MultiLine"] = true;
+DELTA["185"]["BackgroundTransparency"] = 1;
+DELTA["185"]["Size"] = UDim2.new(0.9676616787910461, 0, 1, 0);
+DELTA["185"]["Selectable"] = false;
+DELTA["185"]["Text"] = [[]];
+DELTA["185"]["Position"] = UDim2.new(0.04655786231160164, 0, 0, 0);
+DELTA["185"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DELTA["185"]["Name"] = [[Content]];
+
+-- StarterGui.Delta.Console.RConsole
+DELTA["186"] = Instance.new("Frame", DELTA["162"]);
+DELTA["186"]["ZIndex"] = 100000;
+DELTA["186"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 49);
+DELTA["186"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["186"]["Size"] = UDim2.new(0.49088254570961, 0, 1.051314353942871, 0);
+DELTA["186"]["Position"] = UDim2.new(0.7404356598854065, 0, 0.49035412073135376, 0);
+DELTA["186"]["Name"] = [[RConsole]];
+
+-- StarterGui.Delta.Console.RConsole.Buttons
+DELTA["187"] = Instance.new("Frame", DELTA["186"]);
+DELTA["187"]["ZIndex"] = 999999999;
+DELTA["187"]["BorderSizePixel"] = 0;
+DELTA["187"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["187"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["187"]["BackgroundTransparency"] = 0.8999999761581421;
+DELTA["187"]["Size"] = UDim2.new(0.9072632789611816, 0, 0.06977342814207077, 0);
+DELTA["187"]["Position"] = UDim2.new(0.4903126060962677, 0, 0.9698548316955566, 0);
+DELTA["187"]["Name"] = [[Buttons]];
+
+-- StarterGui.Delta.Console.RConsole.Buttons.UIListLayout
+DELTA["188"] = Instance.new("UIListLayout", DELTA["187"]);
+DELTA["188"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DELTA["188"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DELTA["188"]["Padding"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Console.RConsole.Buttons.Clear
+DELTA["189"] = Instance.new("ImageButton", DELTA["187"]);
+DELTA["189"]["Active"] = false;
+DELTA["189"]["ZIndex"] = 999999999;
+DELTA["189"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["189"]["Selectable"] = false;
+DELTA["189"]["Size"] = UDim2.new(0.29185107350349426, 0, 0.8751184344291687, 0);
+DELTA["189"]["Name"] = [[Clear]];
+DELTA["189"]["Position"] = UDim2.new(0, 0, -0.3320552110671997, 0);
+DELTA["189"]["BackgroundTransparency"] = 0.8899999856948853;
+
+-- StarterGui.Delta.Console.RConsole.Buttons.Clear.UICorner
+DELTA["18a"] = Instance.new("UICorner", DELTA["189"]);
+DELTA["18a"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Console.RConsole.Buttons.Clear.Title
+DELTA["18b"] = Instance.new("TextLabel", DELTA["189"]);
+DELTA["18b"]["TextWrapped"] = true;
+DELTA["18b"]["ZIndex"] = 999999999;
+DELTA["18b"]["TextScaled"] = true;
+DELTA["18b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["18b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["18b"]["TextSize"] = 14;
+DELTA["18b"]["TextColor3"] = Color3.fromRGB(140, 206, 255);
+DELTA["18b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["18b"]["Size"] = UDim2.new(0.8766257762908936, 0, 0.3993089199066162, 0);
+DELTA["18b"]["Text"] = [[CLEAR]];
+DELTA["18b"]["Name"] = [[Title]];
+DELTA["18b"]["BackgroundTransparency"] = 1;
+DELTA["18b"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.Delta.Console.RConsole.Buttons.Clear.UIStroke
+DELTA["18c"] = Instance.new("UIStroke", DELTA["189"]);
+DELTA["18c"]["Color"] = Color3.fromRGB(60, 137, 196);
+DELTA["18c"]["Thickness"] = 2;
+
+-- StarterGui.Delta.Console.RConsole.UICorner
+DELTA["18d"] = Instance.new("UICorner", DELTA["186"]);
+DELTA["18d"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Console.RConsole.Console
+DELTA["18e"] = Instance.new("Frame", DELTA["186"]);
+DELTA["18e"]["ZIndex"] = 100000;
+DELTA["18e"]["BackgroundColor3"] = Color3.fromRGB(24, 25, 33);
+DELTA["18e"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["18e"]["Size"] = UDim2.new(0.9083685874938965, 0, 0.6696294546127319, 0);
+DELTA["18e"]["Position"] = UDim2.new(0.49789950251579285, 0, 0.5417348742485046, 0);
+DELTA["18e"]["Name"] = [[Console]];
+
+-- StarterGui.Delta.Console.RConsole.Console.UICorner
+DELTA["18f"] = Instance.new("UICorner", DELTA["18e"]);
+DELTA["18f"]["CornerRadius"] = UDim.new(0.05000000074505806, 0);
+
+-- StarterGui.Delta.Console.RConsole.Console.ScrollingFrame
+DELTA["190"] = Instance.new("ScrollingFrame", DELTA["18e"]);
+DELTA["190"]["Active"] = true;
+DELTA["190"]["BorderSizePixel"] = 0;
+DELTA["190"]["CanvasSize"] = UDim2.new(0, 0, 0, 0);
+DELTA["190"].ElasticBehavior = Enum.ElasticBehavior.Never;
+DELTA["190"]["TopImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+DELTA["190"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["190"]["AutomaticCanvasSize"] = Enum.AutomaticSize.Y;
+DELTA["190"]["BackgroundTransparency"] = 1;
+DELTA["190"]["Size"] = UDim2.new(0.9835176467895508, 0, 0.9677625298500061, 0);
+DELTA["190"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
+DELTA["190"]["Position"] = UDim2.new(0.014219495467841625, 0, 0.016284499317407608, 0);
+DELTA["190"]["BottomImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+
+-- StarterGui.Delta.Console.RConsole.Console.ScrollingFrame.Header
+DELTA["191"] = Instance.new("Frame", DELTA["190"]);
+DELTA["191"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["191"]["BackgroundTransparency"] = 1;
+DELTA["191"]["Size"] = UDim2.new(0.9686747193336487, 0, 2.066622734069824, 0);
+DELTA["191"]["BorderColor3"] = Color3.fromRGB(28, 43, 54);
+DELTA["191"]["Position"] = UDim2.new(0, 0, 3.6679779213955044e-08, 0);
+DELTA["191"]["Name"] = [[Header]];
+
+-- StarterGui.Delta.Console.RConsole.Console.ScrollingFrame.Header.UIListLayout
+DELTA["192"] = Instance.new("UIListLayout", DELTA["191"]);
+DELTA["192"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+
+-- StarterGui.Delta.Console.RConsole.Title
+DELTA["193"] = Instance.new("Frame", DELTA["186"]);
+DELTA["193"]["ZIndex"] = 999999999;
+DELTA["193"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["193"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["193"]["BackgroundTransparency"] = 1;
+DELTA["193"]["Size"] = UDim2.new(1.0044941902160645, 0, 0.15659764409065247, 0);
+DELTA["193"]["Position"] = UDim2.new(0.5043055415153503, 0, 0.0041843606159091, 0);
+DELTA["193"]["Name"] = [[Title]];
+
+-- StarterGui.Delta.Console.RConsole.Title.Title
+DELTA["194"] = Instance.new("TextLabel", DELTA["193"]);
+DELTA["194"]["TextWrapped"] = true;
+DELTA["194"]["ZIndex"] = 999999999;
+DELTA["194"]["TextScaled"] = true;
+DELTA["194"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["194"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["194"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["194"]["TextSize"] = 14;
+DELTA["194"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["194"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["194"]["Size"] = UDim2.new(0.7438986897468567, 0, 0.3096470236778259, 0);
+DELTA["194"]["Text"] = [[Delta Console]];
+DELTA["194"]["Name"] = [[Title]];
+DELTA["194"]["BackgroundTransparency"] = 1;
+DELTA["194"]["Position"] = UDim2.new(0.4120405614376068, 0, 0.19299590587615967, 0);
+
+-- StarterGui.Delta.Console.RConsole.Title.Paragraph
+DELTA["195"] = Instance.new("TextLabel", DELTA["193"]);
+DELTA["195"]["TextWrapped"] = true;
+DELTA["195"]["ZIndex"] = 999999999;
+DELTA["195"]["TextScaled"] = true;
+DELTA["195"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["195"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["195"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["195"]["TextSize"] = 14;
+DELTA["195"]["TextColor3"] = Color3.fromRGB(161, 167, 182);
+DELTA["195"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["195"]["Size"] = UDim2.new(0.849057674407959, 0, 0.17429254949092865, 0);
+DELTA["195"]["Text"] = [[Console that provides output, input from Delta API.]];
+DELTA["195"]["Name"] = [[Paragraph]];
+DELTA["195"]["BackgroundTransparency"] = 1;
+DELTA["195"]["Position"] = UDim2.new(0.46462011337280273, 0, 0.7041730880737305, 0);
+
+-- StarterGui.Delta.Console.RConsole.Searchbar
+DELTA["196"] = Instance.new("TextBox", DELTA["186"]);
+DELTA["196"]["Active"] = true;
+DELTA["196"]["ZIndex"] = 999999999;
+DELTA["196"]["TextWrapped"] = true;
+DELTA["196"]["TextScaled"] = true;
+DELTA["196"]["BackgroundColor3"] = Color3.fromRGB(60, 137, 196);
+DELTA["196"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["196"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["196"]["BackgroundTransparency"] = 0.8899999856948853;
+DELTA["196"]["Size"] = UDim2.new(0.3225496709346771, 0, 0.025502502918243408, 0);
+DELTA["196"]["Selectable"] = false;
+DELTA["196"]["Text"] = [[]];
+DELTA["196"]["Position"] = UDim2.new(0.6109463572502136, 0, 0.16887244582176208, 0);
+DELTA["196"]["Name"] = [[Searchbar]];
+
+-- StarterGui.Delta.Console.RConsole.Searchbar.UICorner
+DELTA["197"] = Instance.new("UICorner", DELTA["196"]);
+DELTA["197"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+
+-- StarterGui.Delta.Console.RConsole.Searchbar.UIStroke
+DELTA["198"] = Instance.new("UIStroke", DELTA["196"]);
+DELTA["198"]["Color"] = Color3.fromRGB(69, 97, 119);
+DELTA["198"]["Thickness"] = 2;
+DELTA["198"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
+
+-- StarterGui.Delta.Console.RConsole.Searchbar.Title
+DELTA["199"] = Instance.new("TextLabel", DELTA["196"]);
+DELTA["199"]["TextWrapped"] = true;
+DELTA["199"]["ZIndex"] = 999999999;
+DELTA["199"]["TextScaled"] = true;
+DELTA["199"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["199"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["199"]["TextSize"] = 14;
+DELTA["199"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["199"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["199"]["Size"] = UDim2.new(0.2933172583580017, 0, 1.001572847366333, 0);
+DELTA["199"]["Text"] = [[Search:]];
+DELTA["199"]["Name"] = [[Title]];
+DELTA["199"]["BackgroundTransparency"] = 1;
+DELTA["199"]["Position"] = UDim2.new(-0.17850913107395172, 0, 0.11472053080797195, 0);
+
+-- StarterGui.Delta.Console.RConsole.Searchbar.LocalScript
+DELTA["19a"] = Instance.new("LocalScript", DELTA["196"]);
+
+
+-- StarterGui.Delta.Console.RConsole.LocalScript
+DELTA["19b"] = Instance.new("LocalScript", DELTA["186"]);
+
+
+-- StarterGui.Delta.MainScript
+DELTA["19c"] = Instance.new("LocalScript", DELTA["1"]);
+DELTA["19c"]["Name"] = [[MainScript]];
+
+-- Require DELTA wrapper
+local DELTA_REQUIRE = require;
+local DELTA_MODULES = {};
+local function require(Module:ModuleScript)
+local ModuleState = DELTA_MODULES[Module];
+if ModuleState then
+if not ModuleState.Required then
+ModuleState.Required = true;
+ModuleState.Value = ModuleState.Closure();
+end
+return ModuleState.Value;
+end;
+return DELTA_REQUIRE(Module);
+end
+
+getgenv().total_tabs = 0
+
+DELTA_MODULES[DELTA["160"]] = {
+    Closure = function()
+    local script = DELTA["160"];
+    local module = {}
+    module.Console = {}
+    module.Settings = {}
+    module.SavedScripts = {}
+    local reserved = script.Parent.Executor.Executor.Overlay.Reserved
+    local ts = game:GetService("TweenService")
+    local isTween = script.Parent.IsTween
+    module.ScriptSearch = {}
+    local executor = script.Parent.Executor.Executor.Overlay
+
+    local function GetTotalTabs()
+        return total_tabs
+    end
+
+
+    function module:AddTab(name: string, source: string)
+    total_tabs +=1
+    local newTab = script.Parent.Executor.Executor.Overlay.Reserved.TabX:Clone()
+    local newTextbox = script.Parent.Executor.Executor.Overlay.Reserved.Textbox:Clone()
+
+    newTextbox.Parent = script.Parent.Executor.Executor.Overlay.Code
+
+    newTab.Parent = script.Parent.Executor.Executor.Overlay.Tabs
+    newTab.Visible = true
+
+    if type(name) == "string" then
+    newTab.Title.Text = name
+    newTab.Name = name
+
+    newTextbox.Name = name
+    else
+        newTab.Title.Text = "script"..(GetTotalTabs())..'.lua'
+    newTab.Name = "script"..(GetTotalTabs())..'.lua'
+    newTextbox.Name = "script"..(GetTotalTabs())..'.lua'
+    end
+
+    if type(source) == "string" then
+    newTextbox.Text = source
+    end
+
+    newTab.MouseButton1Click:Connect(function()
+        for i,v in pairs(script.Parent.Executor.Executor.Overlay.Tabs:GetChildren()) do
+        if v.Name ~= "AddTab" and v.Name ~= newTab.Name and v:IsA("ImageButton") then
+        v.Transparency = 1
+        elseif v.Name ~= "AddTab" and v.Name == newTab.Name and v:IsA("ImageButton") then
+        v.Transparency = 0
+        end
+        end
+        for i,v in pairs(script.Parent.Executor.Executor.Overlay.Code:GetChildren()) do
+        if v.Name ~= "AddTab" and v.Name ~= newTab.Name and v:IsA("TextBox") then
+        v.Visible = false
+        elseif v.Name ~= "AddTab" and v.Name == newTab.Name and v:IsA("TextBox") then
+        v.Visible = true
+        end
+        end
+        newTextbox.Visible = true
+        newTab.Visible = true
+        end)
+    newTab.ImageButton.MouseButton1Click:Connect(function()
+        newTextbox:Destroy()
+        newTab:Destroy()
+        end)
+
+    for i,v in pairs(executor.Code:GetChildren()) do
+    if v.Name ~= newTextbox.Name then
+    v.Visible = false
+    end
+    end
+    for i,v in pairs(script.Parent.Executor.Executor.Overlay.Code:GetChildren()) do
+    if v:IsA("TextBox") then
+    if v.Name ~= newTab.Name then
+    v.Visible = false
+    elseif v.Name == newTab.Name then
+    v.Visible = true
+    end
+    end
+    end
+    for i,v in pairs(script.Parent.Executor.Executor.Overlay.Tabs:GetChildren()) do
+    if v.Name ~= "AddTab" and v.Name ~= newTab.Name and v:IsA("ImageButton") then
+    v.Transparency = 1
+    elseif v.Name ~= "AddTab" and v.Name == newTab.Name and v:IsA("ImageButton") then
+    v.Transparency = 0
+    end
+    end
+    end
+
+
+
+
+    function module:SetCurrentSuggestionScript(title: string, desc: string, source: string)
+    script.Parent.Executor.Sidemenu.Script.Overlay.Holder.Showcase.Title.Text = title
+    script.Parent.Executor.Sidemenu.Script.Overlay.Holder.Showcase.Description.Text = desc
+    getgenv().ExecuteSuggestedScript = function()
+    executescript(source)
+    end
+    end
+
+    function module.Console:GoToConsole()
+    for i,v in pairs(script.Parent:GetChildren()) do
+    if v:IsA("Frame") then
+    if v:FindFirstChild("Menu") then
+    if v.Name ~= "Console" then
+    v.Visible = false
+    end
+    end
+    end
+    end
+    script.Parent.Console.Visible = true
+    end
+
+    function module.Settings:AddSwitch(title: string, description: string, enabled: boolean, func, ...)
+    if enabled == false then
+    local newSwitch = reserved.SettingSwitch:Clone()
+    local args = {
+        ...
+    }
+    newSwitch.Parent = script.Parent.Settings.Holder
+
+    newSwitch.Title.Text = title
+    newSwitch.Desc.Text = description
+    newSwitch.Visible = true
+    newSwitch.Switch.MouseButton1Click:Connect(function()
+        if enabled == true then
+        ts:Create(newSwitch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(37, 40, 49)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(135, 139, 150)
+        }):Play()
+        ts:Create(newSwitch.Switch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(60, 65, 80)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            Position = UDim2.new(0.112, 0,0.5, 0)
+        }):Play()
+
+        ts:Create(newSwitch.Desc, TweenInfo.new(.2), {
+            TextColor3 = Color3.fromRGB(102, 108, 125)
+        }):Play()
+        elseif enabled == false then
+        ts:Create(newSwitch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(30, 50, 79)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(255,255,255)
+        }):Play()
+        ts:Create(newSwitch.Switch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(58, 138, 253)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            Position = UDim2.new(0.55, 0,0.5, 0)
+        }):Play()
+
+        ts:Create(newSwitch.Desc, TweenInfo.new(.2), {
+            TextColor3 = Color3.fromRGB(125, 138, 175)
+        }):Play()
+        end
+        enabled = not enabled
+        newSwitch.Enabled.Value = enabled
+        func(enabled, unpack(args))
+        end)
+    elseif enabled == true then
+    local newSwitch = reserved.SettingSwitchOn:Clone()
+    local args = {
+        ...
+    }
+    newSwitch.Parent = script.Parent.Settings.Holder
+    newSwitch.Visible = true
+    newSwitch.Title.Text = title
+    newSwitch.Desc.Text = description
+
+    newSwitch.Switch.MouseButton1Click:Connect(function()
+        if enabled == true then
+        ts:Create(newSwitch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(37, 40, 49)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(135, 139, 150)
+        }):Play()
+        ts:Create(newSwitch.Switch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(60, 65, 80)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            Position = UDim2.new(0.46, 0,0.5, 0)
+        }):Play()
+
+        ts:Create(newSwitch.Desc, TweenInfo.new(.2), {
+            TextColor3 = Color3.fromRGB(102, 108, 125)
+        }):Play()
+        elseif enabled == false then
+        ts:Create(newSwitch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(30, 50, 79)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(255,255,255)
+        }):Play()
+        ts:Create(newSwitch.Switch, TweenInfo.new(.2), {
+            BackgroundColor3 = Color3.fromRGB(58, 138, 253)
+        }):Play()
+        ts:Create(newSwitch.Switch.ImageButton, TweenInfo.new(.2), {
+            Position = UDim2.new(0.888, 0,0.5, 0)
+        }):Play()
+
+        ts:Create(newSwitch.Desc, TweenInfo.new(.2), {
+            TextColor3 = Color3.fromRGB(125, 138, 175)
+        }):Play()
+        end
+        enabled = not enabled
+        newSwitch.Enabled.Value = enabled
+        func(enabled, unpack(args))
+        end)
+    end
+    end
+
+    function module.Settings:AddButton(title: string, description: string, func)
+    local newButton = reserved.Button:Clone()
+    newButton.Parent = script.Parent.Settings.Holder
+    newButton.Visible = true
+    newButton.Title.Text = title
+    newButton.Desc.Text = description
+
+    newButton.Button.MouseButton1Click:Connect(function()
+        func()
+        local color = ts:Create(newButton, TweenInfo.new(.13), {
+            BackgroundColor3 = Color3.fromRGB(30, 50, 79)
+        })
+        color:Play()
+        color.Completed:Wait()
+        ts:Create(newButton, TweenInfo.new(.13), {
+            BackgroundColor3 = Color3.fromRGB(37, 40, 49)
+        }):Play()
+        end)
+    end
+
+    function module.Settings:AddDropdown(title: string, description: string, defaulttext: string, options: SharedTable, func, ...)
+    if #options > 3 then
+    error("Please add 3 options (err: more than 3, expected 3)")
+    elseif #options < 3 then
+    error("Please add 3 options (err: below 3, expected 3)")
+    end
+    local newDropdown = reserved.SettingDropdown:Clone()
+    local args = {
+        ...
+    }
+    newDropdown.Visible = true
+    newDropdown.Parent = script.Parent.Settings.Holder
+
+    newDropdown.Title.Text = title
+    newDropdown.Desc.Text = description
+    newDropdown.Button.Title.Text = defaulttext
+
+    local objLists = {}
+
+    local function visible()
+        for i, item in pairs(script.Parent.Settings.Holder:GetChildren()) do
+            if not item:IsA("UIListLayout") and objLists[item.Title.Text] == true and item.Visible == false then
+                    objLists[item.Title.Text] = false
+                    item.Visible = true  
+            end
+        end
+    end
+    
+    local function hide()
+        for i, item in pairs(script.Parent.Settings.Holder:GetChildren()) do
+            if not item:IsA("UIListLayout") then
+                if item.AbsolutePosition.Y > newDropdown.AbsolutePosition.Y and item.Visible == true then
+                    objLists[item.Title.Text] = true
+                    item.Visible = false
+                end
+            end
+        end
+    end
+
+    newDropdown.Button.MouseButton1Click:Connect(function()
+        --close
+        if newDropdown.Dropdown.Visible == true then
+            visible()
+            newDropdown.Dropdown.Visible = false
+        elseif newDropdown.Dropdown.Visible == false then -- open
+            hide()
+            newDropdown.Dropdown.Visible = true
+
+        end
+    end)
+
+    for i,v in ipairs(options) do
+        
+        if i == 1 then
+            newDropdown.Dropdown.Option1.Title.Text = v
+        elseif i == 2 then
+            newDropdown.Dropdown.Option2.Title.Text = v
+        elseif i == 3 then
+            newDropdown.Dropdown.Option3.Title.Text = v
+        end
+    end
+
+    newDropdown.Dropdown.Option1.MouseButton1Click:Connect(function()
+        newDropdown.Dropdown.Option1.Checked.Visible = true
+        newDropdown.Dropdown.Option2.Checked.Visible = false
+        newDropdown.Dropdown.Option3.Checked.Visible = false
+        newDropdown.Dropdown.Visible = false
+        newDropdown.Button.Title.Text = newDropdown.Dropdown.Option1.Title.Text
+        visible()
+        func(newDropdown.Dropdown.Option1.Title.Text, unpack(args))
+        end)
+    newDropdown.Dropdown.Option2.MouseButton1Click:Connect(function()
+        newDropdown.Dropdown.Option1.Checked.Visible = false
+        newDropdown.Dropdown.Option2.Checked.Visible = true
+        newDropdown.Dropdown.Option3.Checked.Visible = false
+        newDropdown.Dropdown.Visible = false
+        newDropdown.Button.Title.Text = newDropdown.Dropdown.Option2.Title.Text
+        visible()
+        func(newDropdown.Dropdown.Option2.Title.Text, unpack(args))
+        end)
+
+    newDropdown.Dropdown.Option3.MouseButton1Click:Connect(function()
+        newDropdown.Dropdown.Option1.Checked.Visible = false
+        newDropdown.Dropdown.Option2.Checked.Visible = false
+        newDropdown.Dropdown.Option3.Checked.Visible = true
+        newDropdown.Dropdown.Visible = false
+        newDropdown.Button.Title.Text = newDropdown.Dropdown.Option3.Title.Text
+        visible()
+        func(newDropdown.Dropdown.Option3.Title.Text, unpack(args))
+        end)
+    end
+
+    function module.Settings:AddTextbox(title: string, description: string, func, ...)
+    local newTextbox = reserved.SettingTextbox:Clone()
+    local args = {
+        ...
+    }
+
+    newTextbox.Title.Text = title
+    newTextbox.Desc.Text = description
+
+    newTextbox.Visible = true
+    newTextbox.Parent = script.Parent.Settings.Holder
+
+    newTextbox.InputText.FocusLost:Connect(function()
+        func(newTextbox.InputText.Text, unpack(args))
+        end)
+    end
+
+    function module.ScriptSearch:OpenPopup()
+    script.Parent.Scripthub.Popup.Visible = true
+    script.Parent.Scripthub.DarkOverlay.Visible = true
+    script.Parent.Scripthub.DarkOverlay.Transparency = 1
+    if isTween.Value == true then
+    script.Parent.Scripthub.Popup.Position = UDim2.new(0.5, 0,1.58, 0)
+    ts:Create(script.Parent.Scripthub.Popup, TweenInfo.new(.2), {
+        Position = UDim2.new(0.5, 0,0.5, 0)
+    }):Play()
+    end
+    ts:Create(script.Parent.Scripthub.DarkOverlay, TweenInfo.new(.15), {
+        Transparency = 0.5
+    }):Play()
+    end
+    local Script = ''
+    function module.ScriptSearch:Add(title: string, description: string, source: string, image, isverified: boolean, views)
+    local newSc = script.Parent.Scripthub.Holder.Reserved.OldThumbnail:Clone()
+    newSc.Parent = script.Parent.Scripthub.Holder
+    newSc.Visible = true
+    newSc.Overlay.Title.Title.Text = title
+    newSc.Overlay.Title.Paragraph.Text = description
+    newSc.Image = image
+    newSc.Overlay.Title.Verified.Visible = isverified
+
+    newSc.Overlay.Views.Title.Text = tostring(views).." Views"
+
+
+    newSc.MouseButton1Click:Connect(function()
+        module.ScriptSearch:OpenPopup()
+        Script = source
+        Title = title
+        end)
+    end
+
+    function module:GetSelectedScript()
+    return Script
+    end
+    function module:GetSelectedScriptTitle()
+    return Title
+    end
+
+    function module:GoToExecutor()
+    for i,v in pairs(script.Parent:GetChildren()) do
+    if v:IsA("Frame") then
+    if v:FindFirstChild("Marker") then
+    if v.Marker.Value == "Menu" then
+    v.Visible = false
+    end
+    end
+    end
+    end
+    script.Parent.Executor.Visible = true
+    script.Parent.Executor.Position = UDim2.new(0.4824247360229492, 0, 0.524213433265686, 0)
+    end
+
+
+--local _rpos = script.Parent.Home.Popup.Position
+
+    function module.SavedScripts:OpenPopup()
+    script.Parent.Home.Popup.Visible = true
+    script.Parent.Home.DarkOverlay.Visible = true
+    script.Parent.Home.DarkOverlay.Transparency = 1
+    if isTween.Value == true then
+    script.Parent.Home.Popup.Position = UDim2.new(0.5, 0,1.58, 0)
+    ts:Create(script.Parent.Home.Popup, TweenInfo.new(.2), {
+        Position = UDim2.new(0.5, 0,0.5, 0)
+    }):Play()
+    end
+    ts:Create(script.Parent.Home.DarkOverlay, TweenInfo.new(.15), {
+        Transparency = 0.5
+    }):Play()
+    end
+
+    function module.SavedScripts:Add(title: string, source: string, tag: string)
+    local newscript = reserved.Script:Clone()
+    newscript.Visible = true
+    newscript.Parent = script.Parent.Home.Holder
+    newscript.Title.Text = title
+    if type(tag) == "string" then
+    newscript.Frame.Title.Text = tag
+    if tag == "Built-In" then
+    newscript.LayoutOrder = 999999999
+    end
+
+    else
+        newscript.Frame.Visible = false
+
+    end
+
+
+
+    newscript.Button.MouseButton1Click:Connect(function()
+        executescript(source)
+        end)
+
+        newscript.Button1.MouseButton1Click:Connect(function()
+            newscript:Destroy()
+            if isfile("d_android_script_dir/"..title) then
+                delfile("d_android_script_dir/"..title)
+            end
+        end)
+    end
+    return module;
+
+    end;
+};
+-- StarterGui.Delta.KeySystem.LocalScript
+local function C_21()
+local script = DELTA["21"];
+local buttons = script.Parent.Holder
+local KeyInput = buttons.Input.TextBox.Input
+local tweenserv = game:GetService("TweenService")
+local istween = script.Parent.Parent.IsTween
+
+repeat
+
+until game:IsLoaded()
+getgenv().StartUp = function()
+
+
+script.Parent.Visible = true
+local twinfo = TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+if istween.Value == true then
+script.Parent.Position = UDim2.new(1.3, 0, 0.5 ,0)
+local tween = tweenserv:Create(script.Parent, twinfo, {
+    Position = UDim2.new(1, 0,.5, 0)})
+tween:Play()
+end
+--tween.Completed:Wait()
+
+end
+StartUp()
+
+getgenv().is_unlocked = false
+
+getgenv().GrantAccess = function()
+    getgenv().rLib:End()
+    DELTA["Ui"].Enabled = false
+    if(not isfile("is_versx_beta")) then
+		writefile("is_versx_beta", "true")
+		wait()
+	end
+    getgenv().is_unlocked = true
+    if istween.Value == true then
+        -- tween closing key sys
+        local twinfo = TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+        local tween = tweenserv:Create(script.Parent, twinfo, {Position = UDim2.new(1.3, 0, 0.5 ,0)})
+        tween:Play()
+        tween.Completed:Wait()
+        script.Parent.Visible = false
+        task.wait(.1)
+        -- tween open main menu
+        script.Parent.Parent.Sidebar.Position = UDim2.new(1.078, 0,0.474, 0)
+        script.Parent.Parent.Sidebar.Visible = true
+        local twinfo2 = TweenInfo.new(.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+        local tween2 = tweenserv:Create(script.Parent.Parent.Sidebar, twinfo2, {Position = UDim2.new(1, 0,0.474, 0)})
+        tween2:Play()
+    else
+        script.Parent.Visible = false
+        script.Parent.Parent.Sidebar.Visible = true
+    end
+
+    if(not isfile("disableautoexec")) then
+        for _, file in ipairs(listarceusfiles("/Autoexec")) do
+            executecode(readarceusfile(file))
+        end
+    end
+end
+local visiblelists = {}
+visiblelists.Home = false
+visiblelists.Executor = false
+visiblelists.Scripthub = false
+visiblelists.Settings = false
+visiblelists.Console = false
+
+function OpenDelta()
+    for i,v in pairs(script.Parent.Parent:GetChildren()) do
+        if v:FindFirstChild("Marker") then
+            if v.Marker.Value == "Menu" then
+                v.Visible = visiblelists[v.Name]
+            end
+        end
+    end
+
+    script.Parent.Parent.Sidebar.Position = UDim2.new(1.078, 0,0.474, 0)
+    script.Parent.Parent.Sidebar.Visible = true
+    local twinfo = TweenInfo.new(.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+    local tweenMenu = tweenserv:Create(script.Parent.Parent.Sidebar, twinfo, {Position = UDim2.new(1, 0,0.474, 0)})
+    
+    script.Parent.Parent.DarkOverlay.Transparency = 1
+    script.Parent.Parent.DarkOverlay.Visible = true
+    local tweenBg = tweenserv:Create(script.Parent.Parent.DarkOverlay, TweenInfo.new(.25), {Transparency = .5})
+
+    tweenMenu:Play()
+    tweenBg:Play()
+end
+
+function CloseDelta()
+
+    for i,v in pairs(script.Parent.Parent:GetChildren()) do
+        if v:FindFirstChild("Marker") then
+            if v.Marker.Value == "Menu" then
+                visiblelists[v.Name] = v.Visible
+                v.Visible = false
+            end
+        end
+    end
+
+    script.Parent.Parent.Sidebar.Position = UDim2.new(1, 0,0.474, 0)
+    script.Parent.Parent.Sidebar.Visible = true
+    local twinfo = TweenInfo.new(.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+    local tweenMenu = tweenserv:Create(script.Parent.Parent.Sidebar, twinfo, {Position = UDim2.new(1.078, 0,0.474, 0)})
+    
+    script.Parent.Parent.DarkOverlay.Transparency = .5
+    script.Parent.Parent.DarkOverlay.Visible = true
+    local tweenBg = tweenserv:Create(script.Parent.Parent.DarkOverlay, TweenInfo.new(.25), {Transparency = 1})
+
+    tweenMenu:Play()
+    tweenBg:Play()
+    tweenBg.Completed:Wait()
+    DELTA["Ui"].Enabled = true
+end
+
+-- Discord
+buttons.Button2.MouseButton1Click:Connect(function()
+    setclipboard("https://discord.gg/deltaex")
+    end)
+
+
+
+
+
+if gethui():FindFirstChild("DeltaGui") then
+    gethui():FindFirstChild("DeltaGui"):Destroy()
+end
+
+
+
+local AccountId = 8;
+
+
+function GetLink()
+    return string.format("https://gateway.platoboost.com/a/%i?id=%i", AccountId, gethwid());
+end
+
+local rateLimit = false;
+local rateLimitCountdown = 0;
+local errorWait = false;
+
+function Verify()
+    local key = KeyInput.Text;
+
+    if errorWait or rateLimit then 
+        return false
+    end;
+
+    DELTA["18"]["Text"] = "Checking key...";
+
+    local response = request({
+        Url = "https://api-gateway.platoboost.com/v1/public/whitelist/8/" .. gethwid() .. "?s",
+        Method = "GET"
+    })
+
+    if response.StatusCode == 200 then
+        if string.find(response.Body, "true") then
+            DELTA["18"]["Text"] = "Successfully whitelisted key!";
+            return true
+        else
+            if (#key > 0) then
+                local redeemResponse = request({
+                    Url = "https://api-gateway.platoboost.com/v1/authenticators/redeem/8/" .. gethwid() .. "/" .. key,
+                    Method = "POST"
+                });
+
+                if redeemResponse.StatusCode == 200 then
+                    if string.find(redeemResponse.Body, "true") then
+                        DELTA["18"]["Text"] = "Successfully redeemed key!";
+                        return true
+                    end
+                end           
+            end
+            DELTA["18"]["Text"] = "Invalid key detected, please try again!";
+            return false
+        end
+    elseif response.StatusCode == 204 then
+		DELTA["18"]["Text"] = "Invalid key detected, please try again!";
+        return false;
+    elseif response.StatusCode == 429 then
+        if not rateLimit then 
+            rateLimit = true
+            rateLimitCountdown = 10
+            task.spawn(function() 
+                --cloudflare limits for 10seconds.
+                while rateLimit do
+                    DELTA["18"]["Text"] = "You are being rate-limited, please slow down. Try again in " .. rateLimitCountdown .. " seconds.";
+                    wait(1)
+                    rateLimitCountdown = rateLimitCountdown - 1;
+                    
+                    if rateLimitCountdown < 0 then
+                        rateLimit = false;
+                        rateLimitCountdown = 0;
+                        DELTA["18"]["Text"] = "Rate limit is over, please try again.";
+                    end
+                end
+            end) 
+        end
+    elseif response.StatusCode == 500 then
+        errorWait = true
+        task.spawn(function() 
+            DELTA["18"]["Text"] = "An error has occured in the server, please wait 3 seconds and try again.";
+            wait(3) 
+            errorWait = false 
+        end)
+    end
+end
+
+
+
+-- Continue
+buttons.Buttons.Button1.MouseButton1Click:Connect(function()
+    local key = KeyInput.Text
+    
+    
+    -- whitelist test
+    if key == "WHITELIST" then
+        whitelist()
+    elseif string.find(key, "BOOST") then
+        boost_whitelist()
+    end
+
+    if Verify() then
+        GrantAccess()
+    end
+end)
+
+
+-- Get Key
+buttons.Buttons.Button2.MouseButton1Click:Connect(function()
+    setclipboard(GetLink())
+    buttons.Buttons.Button2.Input.Text = "Copied Link"
+    end)
+
+-- Close
+script.Parent.ImageButton.MouseButton1Click:Connect(function()
+    gethui().Delta.Enabled = false
+    end)
+end;
+task.spawn(C_21);
+
+local function C_39()
+local script = DELTA["39"]
+local buttons = script.Parent
+local inactivecolor = buttons.InactiveColor
+local activecolor = buttons.ActiveColor
+local ts = game.TweenService
+local isTween = script.Parent.Parent.IsTween
+
+for i, v in pairs(buttons:GetChildren()) do
+    if v:IsA("ImageButton") then
+        if v.Name ~= "ToggleUI" then
+            originalPos = script.Parent.Parent[v.Name].Position
+        end
+        v.MouseButton1Click:Connect(function()
+            if v.Name == "ToggleUI" then
+                
+                CloseDelta()
+            elseif v.Name ~= "ToggleUI" then
+                for _, btns in pairs(buttons:GetChildren()) do
+                    if btns:IsA("ImageButton") and btns.Name ~= "ToggleUI" then
+                        if btns.Name ~= v.Name then
+                            ts:Create(btns.ImageLabel, TweenInfo.new(.3), {
+                                ImageColor3 = Color3.fromRGB(137, 144, 163)
+                            }):Play()
+                            ts:Create(btns, TweenInfo.new(.3), {
+                                BackgroundColor3 = inactivecolor.Value
+                            }):Play()
+                            script.Parent.Parent[btns.Name].Visible = false
+                            if isTween.Value == true then
+                                ts:Create(script.Parent.Parent[btns.Name], TweenInfo.new(.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+                                    Position = UDim2.new(.4, originalPos.X.Offset, originalPos.Y.Scale, originalPos.Y.Offset)
+                                }):Play()
+                            end
+                        else
+                            ts:Create(btns.ImageLabel, TweenInfo.new(.3), {
+                                ImageColor3 = Color3.fromRGB(255, 255, 255)
+                            }):Play()
+                            ts:Create(btns, TweenInfo.new(.3), {
+                                BackgroundColor3 = activecolor.Value
+                            }):Play()
+                            script.Parent.Parent[btns.Name].Visible = true
+                            if isTween.Value == true then
+                                script.Parent.Parent[btns.Name].Position = UDim2.new(.4, originalPos.X.Offset, originalPos.Y.Scale, originalPos.Y.Offset)
+                                ts:Create(script.Parent.Parent[btns.Name], TweenInfo.new(.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+                                    Position = originalPos
+                                }):Play()
+                            end
+                        end
+                    end
+                end
+            end
+        end)
+    end
+end
+
+end
+
+task.spawn(C_39)
+
+
+
+DELTA["DaIcon"].MouseButton1Click:Connect(function()
+    if(getgenv().is_unlocked) then
+        OpenDelta()
+    end
+    
+    DELTA["1"].Enabled = true
+    DELTA["Ui"].Enabled = false
+end)
+
+DELTA["1e"].MouseButton1Click:Connect(function()
+    DELTA["1"].Enabled = false
+    DELTA["Ui"].Enabled = true
+end)
+
+
+-- StarterGui.Delta.Scripthub.Holder.ScriptBloxHandler
+local function C_50()
+local script = DELTA["50"];
+local textbox = script.Parent.Parent.Searchbar.Input
+
+local uilib = require(script.Parent.Parent.Parent.UILibrary)
+
+makefolder("ImageCache")
+
+
+textbox.FocusLost:Connect(function()
+    for i,v in pairs(script.Parent:GetChildren()) do
+    if v:IsA("ImageButton") then
+    v:Destroy()
+    end
+    end
+--print"Searching"
+    local KeyWordSearch = textbox.Text
+    local url = "https://scriptblox.com/api/script/search?q="..string.gsub(KeyWordSearch, " ", "%%20")
+    local response = game:HttpGetAsync(url)
+    local http = game:GetService("HttpService")
+    local decoded = http:JSONDecode(response)
+    for _, script in pairs(decoded.result.scripts) do
+    --print"found"
+    if script.scriptType == "free" and script.isPatched == false then
+    if (script.isUniversal == true) then
+    local random = math.random(0, 10000)
+    local randomname = "ImageCache/image"..tostring(random)..".png"
+    pcall(function()
+        --writefile(randomname, game:HttpGet("https://scriptblox.com" .. script.game.imageUrl))
+        end)
+    wait(0.1)
+
+    if isfile(randomname) then
+    uilib.ScriptSearch:Add(script.title, script.game.name, script.script, randomname, script.verified, script.views)
+
+    else
+        uilib.ScriptSearch:Add(script.title, script.game.name, script.script, "", script.verified, script.views)
+    end
+--print'yey'
+
+    else
+        uilib.ScriptSearch:Add(script.title, script.game.name, script.script, "https://assetgame.roblox.com/Game/Tools/ThumbnailAsset.ashx?aid="..script.game.gameId.."&fmt=png&wd=420&ht=420", script.verified, script.views)
+--parint"gamur"
+    end
+    --print"oki"
+    end
+    end
+    end)
+
+
+end;
+task.spawn(C_50);
+-- StarterGui.Delta.Scripthub.Popup.Buttons.ButtonsHandler
+local function C_69()
+local script = DELTA["69"];
+
+local lib = require(script.Parent.Parent.Parent.Parent.UILibrary)
+local btns = script.Parent
+btns.Parent.Parent.Visible = false
+btns.Button1.MouseButton1Click:Connect(function()
+    executescript(lib:GetSelectedScript())
+
+    if(not isfile("preventautoclose")) then
+        btns.Parent.Visible = false
+        btns.Parent.Parent.DarkOverlay.Visible = false
+    end
+
+    end)
+btns.Button2.MouseButton1Click:Connect(function()
+    lib:GoToExecutor()
+    lib:AddTab(lib:GetSelectedScriptTitle(), lib:GetSelectedScript())
+
+    if(not isfile("preventautoclose")) then
+        btns.Parent.Visible = false
+        btns.Parent.Parent.DarkOverlay.Visible = false
+    end
+
+    end)
+btns.Button3.MouseButton1Click:Connect(function()
+    lib.SavedScripts:Add(lib:GetSelectedScriptTitle(), lib:GetSelectedScript())
+    writefile("d_android_script_dir/" .. lib:GetSelectedScriptTitle(), lib:GetSelectedScript())
+    
+    if(not isfile("preventautoclose")) then
+        btns.Parent.Visible = false
+        btns.Parent.Parent.DarkOverlay.Visible = false
+    end
+
+    end)
+btns.Button4.MouseButton1Click:Connect(function()
+    setclipboard(lib:GetSelectedScript())
+
+    if(not isfile("preventautoclose")) then
+        btns.Parent.Visible = false
+        btns.Parent.Parent.DarkOverlay.Visible = false
+    end
+
+    end)
+btns.Parent.ImageButton.MouseButton1Click:Connect(function()
+    btns.Parent.Visible = false
+    btns.Parent.Parent.DarkOverlay.Visible = false
+    end)
+end;
+task.spawn(C_69);
+-- StarterGui.Delta.Settings.Searchbar.SettingsSearchHandler
+local function C_74()
+local script = DELTA["74"];
+local textbox = script.Parent.Input
+textbox:GetPropertyChangedSignal("Text"):Connect(function()
+    local matched = textbox.Text
+    if matched ~= '' then
+    for _,v in pairs(script.Parent.Parent.Holder:GetChildren()) do
+    if v:IsA("Frame") then
+    if v:FindFirstChild("Title") and v:FindFirstChild("Desc") then
+    if string.find(string.lower(v.Title.Text), string.lower(matched)) or string.find(string.lower(v.Desc.Text), string.lower(matched)) then
+    v.Visible = true
+    else
+        v.Visible = false
+    end
+    end
+    end
+    end
+    else
+        for _,v in pairs(script.Parent.Parent.Holder:GetChildren()) do
+    if v:IsA("Frame") then
+    v.Visible = true
+    end
+    end
+    end
+    end)
+end;
+task.spawn(C_74);
+-- StarterGui.Delta.Settings.Sort.SettingsFilterHandler
+local function C_81()
+local script = DELTA["81"];
+local btns = script.Parent
+local reserved = script.Parent.Parent.Parent.Executor.Executor.Overlay.Reserved
+local ts = game:GetService("TweenService")
+
+btns.All.MouseButton1Click:Connect(function()
+    ts:Create(btns.Disabled, TweenInfo.new(.15), {
+        BackgroundTransparency = 1
+    }):Play()
+    ts:Create(btns.Enabled, TweenInfo.new(.15), {
+        BackgroundTransparency = 1
+    }):Play()
+    ts:Create(btns.All, TweenInfo.new(.15), {
+        BackgroundTransparency = 0
+    }):Play()
+    for i,v in pairs(btns.Parent.Holder:GetChildren()) do
+    if v:IsA("Frame") then
+    v.Visible = true
+    end
+    end
+    end)
+btns.Enabled.MouseButton1Click:Connect(function()
+    ts:Create(btns.Disabled, TweenInfo.new(.15), {
+        BackgroundTransparency = 1
+    }):Play()
+    ts:Create(btns.Enabled, TweenInfo.new(.15), {
+        BackgroundTransparency = 0
+    }):Play()
+    ts:Create(btns.All, TweenInfo.new(.15), {
+        BackgroundTransparency = 1
+    }):Play()
+    for i,v in pairs(btns.Parent.Holder:GetChildren()) do
+    if v:IsA("Frame") then
+    if v:FindFirstChild("Enabled") then
+    if v.Enabled.value == true then
+    v.Visible = true
+    else
+        v.Visible = false
+    end
+    else
+        v.Visible = false
+    end
+    end
+    end
+    end)
+btns.Disabled.MouseButton1Click:Connect(function()
+    ts:Create(btns.Disabled, TweenInfo.new(.15), {
+        BackgroundTransparency = 0
+    }):Play()
+    ts:Create(btns.Enabled, TweenInfo.new(.15), {
+        BackgroundTransparency = 1
+    }):Play()
+    ts:Create(btns.All, TweenInfo.new(.15), {
+        BackgroundTransparency = 1
+    }):Play()
+    for i,v in pairs(btns.Parent.Holder:GetChildren()) do
+    if v:IsA("Frame") then
+    if v:FindFirstChild("Enabled") then
+    if v.Enabled.value == false then
+    v.Visible = true
+    else
+        v.Visible = false
+    end
+    else
+        v.Visible = false
+    end
+    end
+    end
+    end)
+end;
+task.spawn(C_81);
+-- StarterGui.Delta.Executor.Executor.Overlay.Menu.LocalScript
+local function C_a2()
+local script = DELTA["a2"];
+local btns = script.Parent.Dropdown
+
+btns.Option1.MouseButton1Click:Connect(function()
+    btns.Option1.Checked.Visible = true
+    btns.Option2.Checked.Visible = false
+    btns.Option3.Checked.Visible = false
+    btns.Visible = false
+    --print"Default"
+    end)
+btns.Option2.MouseButton1Click:Connect(function()
+    btns.Option1.Checked.Visible = false
+    btns.Option2.Checked.Visible = true
+    btns.Option3.Checked.Visible = false
+    btns.Visible = false
+    --print"Light"
+    end)
+btns.Option3.MouseButton1Click:Connect(function()
+    btns.Option1.Checked.Visible = false
+    btns.Option2.Checked.Visible = false
+    btns.Option3.Checked.Visible = true
+    btns.Visible = false
+    --print"Amoled"
+    end)
+
+script.Parent.MouseButton1Click:Connect(function()
+    if btns.Visible == true then
+    btns.Visible = false
+    elseif btns.Visible == false then
+    btns.Visible = true
+    end
+    end)
+end;
+task.spawn(C_a2);
+-- StarterGui.Delta.Executor.Executor.Overlay.Buttons.ButtonHandlers
+local function C_b2()
+local script = DELTA["b2"];
+local btns = script.Parent
+
+local function getsize()
+for i,v in pairs(script.Parent.Parent.Code:GetChildren()) do
+if v:IsA("TextBox") then
+return v.TextSize
+end
+end
+end
+--[[btns.Button3.Text = tostring(getsize())
+	btns.Button3.FocusLost:Connect(function()
+		for i,v in pairs(script.Parent.Parent.Code:GetChildren()) do
+			if v:IsA("TextBox") then
+				v.TextSize = tonumber(script.Parent.Text)
+			end
+		end
+	end)]]
+btns.Execute.MouseButton1Click:Connect(function()
+    for i,v in pairs(btns.Parent.Code:GetChildren()) do
+    if v:IsA("TextBox") then
+    if v.Visible == true then
+    executescript(v.Text)
+    end
+    end
+    end
+    end)
+
+btns.Clear.MouseButton1Click:Connect(function()
+    for i,v in pairs(btns.Parent.Code:GetChildren()) do
+    if v:IsA("TextBox") then
+    if v.Visible == true then
+    v.Text = ""
+    end
+    end
+    end
+    end)
+btns.ExecuteClipboard.MouseButton1Click:Connect(function()
+    executeclipboard()
+    end)
+end;
+task.spawn(C_b2);
+-- StarterGui.Delta.Executor.Executor.Overlay.Tabs.AddTab.LocalScript
+local function C_bd()
+local script = DELTA["bd"];
+local module = require(script.Parent.Parent.Parent.Parent.Parent.Parent.UILibrary)
+script.Parent.MouseButton1Click:Connect(function()
+    module:AddTab()
+    end)
+end;
+task.spawn(C_bd);
+-- StarterGui.Delta.Executor.Sidemenu.Script.ScriptSuggestionHandler
+local function C_122()
+local script = DELTA["122"];
+local ScriptSuggestion = script.Parent
+local uilib = require(script.Parent.Parent.Parent.Parent.UILibrary)
+getgenv().is_iy = false
+
+
+ScriptSuggestion.Overlay.Holder.Showcase.MouseButton1Click:Connect(function()
+    print("showcase clicked")
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/lxnnydev/c533c374ca4c1dcef4e1e10e33fa4a0c/raw/03e74f184f801dad77d3ebe1e2f18c6ac87ca612/delta___IY.gistfile1.txt.lua",true))()
+
+    end)
+end;
+task.spawn(C_122);
+-- StarterGui.Delta.Executor.Sidemenu.Network.NetworkStatsHandler
+local function C_131()
+local script = DELTA["131"];
+local Network = script.Parent
+local localplr = game:GetService("Players").LocalPlayer
+
+-- Get players in real-time
+local function GetPlrs()
+return #game.Players:GetPlayers()
+end
+local function SetTextForPlr()
+Network.Overlay.Holder.Information.Players.Text = "<font color=\"#4FA4F2\">" .. tostring(GetPlrs()) .. "</font> players"
+end
+SetTextForPlr()
+
+game.Players.PlayerAdded:Connect(function()
+    SetTextForPlr()
+    end)
+game.Players.PlayerAdded:Connect(function()
+    SetTextForPlr()
+    end)
+
+-- Get Real time ping
+local function GetPing()
+return localplr:GetNetworkPing()
+end
+
+
+local RunService = game:GetService("RunService")
+local FpsLabel = Network.Overlay.Holder.Information.Memory
+local TimeFunction = RunService:IsRunning() and time or os.clock
+
+local LastIteration, Start
+local FrameUpdateTable = {}
+
+local function HeartbeatUpdate()
+    LastIteration = TimeFunction()
+    for Index = #FrameUpdateTable, 1, -1 do
+        FrameUpdateTable[Index + 1] = FrameUpdateTable[Index] >= LastIteration - 1 and FrameUpdateTable[Index] or nil
+    end
+
+    FrameUpdateTable[1] = LastIteration
+
+    local elapsedTime = TimeFunction() - Start
+    local updateInterval = 1 -- Update interval in seconds (e.g., 0.5 or 1)
+    if elapsedTime >= updateInterval then
+        FpsLabel.Text = "<font color=\"#4FA4F2\">"..tostring(math.floor(#FrameUpdateTable / elapsedTime)) .. "</font> FPS"
+        Start = TimeFunction()
+    end
+end
+
+Start = TimeFunction()
+RunService.Heartbeat:Connect(HeartbeatUpdate)
+
+
+
+end;
+task.spawn(C_131);
+-- StarterGui.Delta.Console.RobloxConsole.Searchbar.LocalScript
+local function C_177()
+local script = DELTA["177"];
+script.Parent:GetPropertyChangedSignal("Text"):Connect(function()
+    if script.Parent.Text ~= '' then
+    for i, v in pairs(script.Parent.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+    if v:IsA("Frame") then
+    local lowered = string.lower(v.Content.Text)
+    local lowered1 = string.lower(script.Parent.Text)
+
+    local matched = string.find(lowered, lowered1)
+    if matched then
+    v.Visible = true
+    else
+        v.Visible = false
+    end
+    end
+    end
+    else
+        for i, v in pairs(script.Parent.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+    if v:IsA("Frame") then
+    v.Visible = true
+    end
+    end
+    end
+    end)
+
+end;
+task.spawn(C_177);
+-- StarterGui.Delta.Console.RobloxConsole.LocalScript
+local function C_178()
+if not isfile("useconsole") then
+    return -- This will exit the script
+end
+
+local script = DELTA["178"];
+local logserv = game:GetService("LogService")
+local elements = script.Parent.Parent.ConsoleElements
+
+local function GetTotalOutputs()
+local total = 0
+for i,_ in pairs(script.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+if _:IsA("Frame") then
+total += 1
+end
+end
+return total
+end
+
+logserv.MessageOut:Connect(function(output, OutputType)
+    if OutputType == Enum.MessageType.MessageOutput then
+    local msg = elements.Output:Clone()
+    msg.Parent = script.Parent.Console.ScrollingFrame.Header
+    msg.Name = tostring(GetTotalOutputs())..msg.Name
+    msg.Visible = true
+    msg.Content.Text = output
+
+    elseif OutputType == Enum.MessageType.MessageError then
+    local msg = elements.Error:Clone()
+    msg.Parent = script.Parent.Console.ScrollingFrame.Header
+    msg.Name = tostring(GetTotalOutputs())..msg.Name
+    msg.Visible = true
+    msg.Content.Text = output
+    elseif OutputType == Enum.MessageType.MessageWarning then
+    local msg = elements.Warn:Clone()
+    msg.Parent = script.Parent.Console.ScrollingFrame.Header
+    msg.Name = tostring(GetTotalOutputs())..msg.Name
+    msg.Visible = true
+    msg.Content.Text = output
+    elseif OutputType == Enum.MessageType.MessageInfo then
+    local msg = elements.Info:Clone()
+    msg.Parent = script.Parent.Console.ScrollingFrame.Header
+    msg.Name = tostring(GetTotalOutputs())..msg.Name
+    msg.Visible = true
+    msg.Content.Text = output
+    end
+    end)
+script.Parent.Buttons.Clear.MouseButton1Click:Connect(function()
+    for i,v in pairs(script.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+    if v:IsA("Frame") then
+    v:Destroy()
+    end
+    end
+    end)
+end;
+task.spawn(C_178);
+-- StarterGui.Delta.Console.RConsole.Searchbar.LocalScript
+local function C_19a()
+local script = DELTA["19a"];
+script.Parent:GetPropertyChangedSignal("Text"):Connect(function()
+    if script.Parent.Text ~= '' then
+    for i, v in pairs(script.Parent.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+    if v:IsA("Frame") then
+    local lowered = string.lower(v.Content.Text)
+    local lowered1 = string.lower(script.Parent.Text)
+
+    local matched = string.find(lowered, lowered1)
+    if matched then
+    v.Visible = true
+    else
+        v.Visible = false
+    end
+    end
+    end
+    else
+        for i, v in pairs(script.Parent.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+    if v:IsA("Frame") then
+    v.Visible = true
+    end
+    end
+    end
+    end)
+
+end;
+task.spawn(C_19a);
+-- StarterGui.Delta.Console.RConsole.LocalScript
+local function C_19b()
+local script = DELTA["19b"];
+local elements = script.Parent.Parent.ConsoleElements
+local lib = require(script.Parent.Parent.Parent.UILibrary)
+
+local function rprint(text: string)
+local msg = elements.Output:Clone()
+msg.Parent = script.Parent.Console.ScrollingFrame.Header
+msg.Visible = true
+msg.Content.Text = text
+end
+local function rerror(text: string)
+local msg = elements.Error:Clone()
+msg.Parent = script.Parent.Console.ScrollingFrame.Header
+msg.Visible = true
+msg.Content.Text = text
+end
+local function rwarn(text: string)
+local msg = elements.Warn:Clone()
+msg.Parent = script.Parent.Console.ScrollingFrame.Header
+msg.Visible = true
+msg.Content.Text = text
+end
+local function rinfo(text: string)
+local msg = elements.Info:Clone()
+msg.Parent = script.Parent.Console.ScrollingFrame.Header
+msg.Visible = true
+msg.Content.Text = text
+end
+local function rinput()
+local msg = elements.Input:Clone()
+msg.Parent = script.Parent.Console.ScrollingFrame.Header
+msg.Visible = true
+msg.Content:CaptureFocus()
+lib.Console:GoToConsole()
+msg.Content.FocusLost:Wait()
+msg.Content.TextEditable = false
+return msg.Content.Text
+end
+--[[
+	local msg = elements.Info:Clone()
+	msg.Parent = script.Parent.Console.ScrollingFrame.Header
+	msg.Visible = true
+	msg.Content.Text = output
+	]]
+
+
+
+-- Expose the function as global env
+getgenv().rconsoleprint = rprint
+getgenv().rconsoleerror = rerror
+getgenv().rconsolewarn = rwarn
+getgenv().rconsoleinfo = rinfo
+
+getgenv().consoleprint = rprint
+getgenv().consoleerror = rerror
+getgenv().consolewarn = rwarn
+getgenv().consoleinfo = rinfo
+
+getgenv().rconsoleinput = rinput
+getgenv().consoleinput = rinput
+
+getgenv().rconsoleclear = function()
+for i,v in pairs(script.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+if v:IsA("Frame") then
+v:Destroy()
+end
+
+end
+end
+getgenv().consoleclear = function()
+for i,v in pairs(script.Parent.Console.ScrollingFrame.Header:GetChildren()) do
+if v:IsA("Frame") then
+v:Destroy()
+end
+
+end
+end
+end;
+task.spawn(C_19b);
+-- StarterGui.Delta.MainScript
+local function C_19c()
+local script = DELTA["19c"];
+
+----------------------------- Startup Configs (not important to change.) -----------------------------
+local ts = game:GetService("TweenService")
+local isTween = script.Parent.IsTween
+--repeat until game:IsLoaded()
+script.Parent.Home.Holder.Script:Destroy()
+
+script.Parent.Scripthub.Popup.Visible = false
+script.Parent.Scripthub.DarkOverlay.Visible = true
+script.Parent.Scripthub.DarkOverlay.Transparency = 1
+local UILib = require(script.Parent.UILibrary)
+
+
+-- Actual Init stuffs
+
+game.Players.LocalPlayer.Chatted:Connect(function(msg)
+    if msg:match("/e sd") then
+        
+        if DELTA["1"].Enabled == true then
+            DELTA["1"].Enabled = false
+        elseif DELTA["Ui"] == true then
+            DELTA["Ui"].Enabled = false
+        end
+    elseif msg:match("/e hd") then
+        DELTA["1"].Enabled = false
+    end
+end)
+
+
+---------------------------- Built-In configs ----------------------------
+pcall(function() makefolder("DeltaConfigs") end)
+
+UILib:AddTab()
+UILib.Settings:AddSwitch("Auto Execute", "Toggle auto-execution of scripts in the autoexec folder", not isfile("disableautoexec"), function(state)
+
+    if(state) then
+        if(isfile("disableautoexec")) then
+            delfile("disableautoexec")
+        end
+    else
+        writefile("disableautoexec", "hi")
+    end
+
+end)
+
+UILib.Settings:AddSwitch("Auto Close", "Toggle X button requirement to close popups", not isfile("preventautoclose"), function(state)
+
+    if(state) then
+        if(isfile("preventautoclose")) then
+            delfile("preventautoclose")
+        end
+    else
+        writefile("preventautoclose", "hi")
+    end
+
+end)
+
+UILib.Settings:AddSwitch("Syn Env", "Uses Synapse X' naming standard", isfile("uses_syn"), function(state)
+
+    if(state) then
+        writefile("uses_syn", "hi")
+        getgenv().syn = syn_backup
+        
+    else
+        if(isfile("uses_syn")) then
+            delfile("uses_syn")
+            getgenv().syn = nil
+        end
+    end
+
+end)
+
+UILib.Settings:AddSwitch("Console", "Toggle roblox console logs in the GUI", isfile("useconsole"), function(state)
+
+    if(state) then
+        if(isfile("useconsole")) then
+            delfile("useconsole")
+        end
+    else
+        writefile("useconsole", "hi")
+    end
+
+end)
+
+UILib.Settings:AddDropdown("FPS Cap", "Change the FPS cap for a smoother experience", "60 FPS", {"60 FPS", "120 FPS", "Max FPS"}, function(selection)
+		if selection == "60 FPS" then
+			setfpscap(60)
+		elseif selection == "120 FPS" then
+			setfpscap(120)
+		elseif selection == "Max FPS" then
+			setfpscap(getfpsmax())
+		end
+	end)
+
+UILib.Settings:AddDropdown("Icon Size", "Change the floating Icon's size", readfile("iconsize"), {"Medium", "Small", "Large"}, function(selection)
+		if selection == "Small" then
+			DELTA["DaIcon"].Size = UDim2.new(0,30,0,30)
+            writefile("iconsize", "Small")
+		elseif selection == "Medium" then
+			DELTA["DaIcon"].Size = UDim2.new(0,45,0,45)
+            writefile("iconsize", "Medium")
+		elseif selection == "Large" then
+			DELTA["DaIcon"].Size = UDim2.new(0,60,0,60)
+            writefile("iconsize", "Large")
+		end
+	end)
+
+UILib.Settings:AddDropdown("Icon Shape", "Change the floating Icon's shape", readfile("iconshape"), {"Squircle", "Circle", "Square"}, function(selection)
+		if selection == "Squircle" then
+			DELTA["das"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+            writefile("iconshape", "Squircle")
+		elseif selection == "Circle" then
+			DELTA["das"]["CornerRadius"] = UDim.new(0.50000000298023224, 0);
+            writefile("iconshape", "Circle")
+		elseif selection == "Square" then
+			DELTA["das"]["CornerRadius"] = UDim.new(0, 0);
+            writefile("iconshape", "Square")
+		end
+	end)
+
+UILib.Settings:AddDropdown("Icon Color", "Change the floating Icon's color", readfile("iconcolor"), {"Blue", "Green", "Purple"}, function(selection)
+		if selection == "Blue" then
+            DELTA["daStroke"].Color = Color3.fromRGB(65, 169, 255)
+            writefile("iconcolor", "Blue")
+		elseif selection == "Green" then
+            DELTA["daStroke"].Color = Color3.fromRGB(55, 219, 69)
+            writefile("iconcolor", "Green")
+		elseif selection == "Purple" then
+            DELTA["daStroke"].Color = Color3.fromRGB(125, 65, 255)
+            writefile("iconcolor", "Purple")
+		end
+	end)
+
+UILib.Settings:AddButton("Join Discord", "Copies our discord invite", function()
+        setclipboard("https://discord.gg/deltaex")
+        end)  
+
+UILib.Settings:AddButton("Rejoin", "Rejoins your current server", function()
+    game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
+    end)  
+
+    UILib.Settings:AddButton("Small Server", "Joins a server with a low playercount", function()
+        local Http = game:GetService("HttpService")
+local TPS = game:GetService("TeleportService")
+local Api = "https://games.roblox.com/v1/games/"
+
+local _place = game.PlaceId
+local _servers = Api.._place.."/servers/Public?sortOrder=Asc&limit=100"
+function ListServers(cursor)
+   local Raw = game:HttpGet(_servers .. ((cursor and "&cursor="..cursor) or ""))
+   return Http:JSONDecode(Raw)
+end
+
+local Server, Next; repeat
+   local Servers = ListServers(Next)
+   Server = Servers.data[1]
+   Next = Servers.nextPageCursor
+until Server
+
+TPS:TeleportToPlaceInstance(_place,Server.id,game.Players.LocalPlayer)
+        end)  
+
+UILib.Settings:AddButton("Serverhop", "Teleport to a new server", function()
+    local PlaceID = game.PlaceId
+local AllIDs = {}
+local foundAnything = ""
+local actualHour = os.date("!*t").hour
+local Deleted = false
+local File = pcall(function()
+    AllIDs = game:GetService('HttpService'):JSONDecode(readfile("NotSameServers.json"))
+end)
+if not File then
+    table.insert(AllIDs, actualHour)
+    writefile("NotSameServers.json", game:GetService('HttpService'):JSONEncode(AllIDs))
+end
+function TPReturner()
+    local Site;
+    if foundAnything == "" then
+        Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+    else
+        Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+    end
+    local ID = ""
+    if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+        foundAnything = Site.nextPageCursor
+    end
+    local num = 0;
+    for i,v in pairs(Site.data) do
+        local Possible = true
+        ID = tostring(v.id)
+        if tonumber(v.maxPlayers) > tonumber(v.playing) then
+            for _,Existing in pairs(AllIDs) do
+                if num ~= 0 then
+                    if ID == tostring(Existing) then
+                        Possible = false
+                    end
+                else
+                    if tonumber(actualHour) ~= tonumber(Existing) then
+                        local delFile = pcall(function()
+                            delfile("NotSameServers.json")
+                            AllIDs = {}
+                            table.insert(AllIDs, actualHour)
+                        end)
+                    end
+                end
+                num = num + 1
+            end
+            if Possible == true then
+                table.insert(AllIDs, ID)
+                wait()
+                pcall(function()
+                    writefile("NotSameServers.json", game:GetService('HttpService'):JSONEncode(AllIDs))
+                    wait()
+                    game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID, game.Players.LocalPlayer)
+                end)
+                wait(4)
+            end
+        end
+    end
+end
+
+function Teleport()
+    while wait() do
+        pcall(function()
+            TPReturner()
+            if foundAnything ~= "" then
+                TPReturner()
+            end
+        end)
+    end
+end
+
+-- If you'd like to use a script before server hopping (Like a Automatic Chest collector you can put the Teleport() after it collected everything.
+Teleport()
+    end)
+
+-- Built-In scripts
+UILib.SavedScripts:Add("Keyboard", "loadstring(game:HttpGet('https://raw.githubusercontent.com/AZYsGithub/Delta-Scripts/main/MobileKeyboard.txt'))()","Built-In")
+UILib.SavedScripts:Add("HoHo Hub", "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()","Featured")
+
+
+-- Get all scripts and load em' (make sure Built-In scripts first otherwise Built-In scripts gonna under thr saved scripts) --nvm this shit
+for _,file in ipairs(listfiles("d_android_script_dir")) do
+UILib.SavedScripts:Add(file:sub(22, #file), readfile(file))
+end
+
+
+
+------------------------ Expose the modules as global env for plugins. -----------------------------------------getgenv().delta = {}
+
+getgenv().delta = {}
+
+function delta:AddTab(a,b)
+    UILib:AddTab(a,b)
+end
+
+function delta:SetCurrentSuggestionScript(a,b)
+    UILib:SetCurrentSuggestionScript(a,b)
+end
+
+delta.SavedScripts = {}
+
+function delta:SaveScript(a,b,c)
+    UILib.SavedScripts:Add(a,b,c)
+end
+
+delta.Settings = {}
+
+function delta.Settings:AddButton(a,b,c)
+    UILib.Settings:AddButton(a,b,c)
+end
+
+function delta.Settings:AddSwitch(a,b,c,d)
+    UILib.Settings:AddSwitch(a,b,c,d)
+end
+
+function delta.Settings:AddInput(a,b,c)
+    UILib.Settings:AddTextbox(a,b,c)
+end
+
+function delta.Settings:AddDropdown(a,b,c,d)
+    UILib.Settings:AddDropdown(a,b,c,d)
+end
+
+makefolder("DeltaPlugins")
+for _,file in pairs(listfiles("DeltaPlugins")) do
+    loadstring(readfile(file))()
+end
+
+-------------------------------------------------------------------------
+-- Home: Popup Handler
+script.Parent.Home.Popup.Visible = false
+script.Parent.Home.DarkOverlay.Visible = false
+
+script.Parent.Home.Popup.Close.MouseButton1Click:Connect(function()
+    if isTween.Value == true then
+
+--ts:Create(script.Parent.Home.Popup, TweenInfo.new(.2), {Position = UDim2.new(0.5, 0,1.58, 0) })
+--task.wait(.2)
+    script.Parent.Home.Popup.Visible = false
+
+    else
+        script.Parent.Home.Popup.Visible = false
+    end
+    local tw2 = ts:Create(script.Parent.Home.DarkOverlay, TweenInfo.new(.15), {
+        Transparency = 1
+    })
+    tw2:Play()
+    tw2.Completed:Wait()
+    script.Parent.Home.DarkOverlay.Visible = false
+    end)
+script.Parent.Home.Popup.Add.MouseButton1Click:Connect(function()
+    UILib.SavedScripts:Add(script.Parent.Home.Popup.Title.TextBox.Text, script.Parent.Home.Popup.Source.TextBox.Text)
+    writefile("d_android_script_dir/" .. script.Parent.Home.Popup.Title.TextBox.Text, script.Parent.Home.Popup.Source.TextBox.Text)
+
+    if(not isfile("preventautoclose")) then
+        script.Parent.Home.DarkOverlay.Visible = false
+        script.Parent.Home.Popup.Visible = false
+    end
+
+    end)
+
+script.Parent.Home.Searchbar.Button.MouseButton1Click:Connect(function()
+    UILib.SavedScripts:OpenPopup()
+    end)
+
+script.Parent.Home.Searchbar.Input:GetPropertyChangedSignal("Text"):Connect(function()
+    for i,v in pairs(script.Parent.Home.Holder:GetChildren()) do
+    if v:IsA("ImageLabel") then
+    if string.find(string.lower(v.Title.Text),string.lower(script.Parent.Home.Searchbar.Input.Text)) then
+    v.Visible = true
+    else
+        v.Visible = false
+    end
+    end
+    end
+    if script.Parent.Home.Searchbar.Input.Text == "" then
+    for i,v in pairs(script.Parent.Home.Holder:GetChildren()) do
+    if v:IsA("ImageLabel") then
+    v.Visible = true
+    end
+    end
+    end
+    end)
+
+end;
+task.spawn(C_19c);
+
+
+
+local LOADER = {};
+
+
+local GuiService2 = game:GetService("GuiService")
+
+-- LOADERLoadingScreen
+LOADER["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
+LOADER["1"]["IgnoreGuiInset"] = true;
+LOADER["1"]["Enabled"] = false;
+LOADER["1"]["ScreenInsets"] = Enum.ScreenInsets.DeviceSafeInsets;
+LOADER["1"]["Name"] = [[LOADERLoadingScreen]];
+LOADER["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+LOADER["1"]["ResetOnSpawn"] = false;
+
+-- LOADERLoadingScreen.DarkOverlay
+LOADER["2"] = Instance.new("Frame", LOADER["1"]);
+LOADER["2"]["ZIndex"] = -100;
+LOADER["2"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+LOADER["2"]["BackgroundTransparency"] = 0.6600000262260437;
+LOADER["2"]["Size"] = UDim2.new(2, 0, 2, 0);
+LOADER["2"]["Position"] = UDim2.new(-1, 0, -1, 0);
+LOADER["2"]["Name"] = [[DarkOverlay]];
+
+-- LOADERLoadingScreen.MainFrame
+LOADER["3"] = Instance.new("ImageLabel", LOADER["1"]);
+LOADER["3"].BorderSizePixel = 0;
+LOADER["3"].ScaleType = Enum.ScaleType.Crop;
+LOADER["3"].BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+LOADER["3"].Image = "rbxassetid://13387419794";
+LOADER["3"].LayoutOrder = 10;
+LOADER["3"].Size = UDim2.new(0.32863849401474, 0, 0.31259891390800476, 0);
+LOADER["3"].BorderColor3 = Color3.fromRGB(0, 0, 0);
+LOADER["3"].Name = "MainFrame";
+
+local DaIconSize = LOADER["3"].Size
+local ScreenCenterX = GuiService2:GetScreenResolution().X / 2
+local ScreenCenterY = GuiService2:GetScreenResolution().Y / 2
+
+local DaIconPositionX = ScreenCenterX - DaIconSize.X.Offset / 2
+local DaIconPositionY = ScreenCenterY - DaIconSize.Y.Offset / 2
+LOADER["3"].Position = UDim2.new(0, DaIconPositionX, 0, DaIconPositionY/20)
+
+
+-- LOADERLoadingScreen.MainFrame.UICorner
+LOADER["4"] = Instance.new("UICorner", LOADER["3"]);
+LOADER["4"]["CornerRadius"] = UDim.new(0.07000000029802322, 0);
+
+-- LOADERLoadingScreen.MainFrame.Overlay
+LOADER["5"] = Instance.new("ImageLabel", LOADER["3"]);
+LOADER["5"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+LOADER["5"]["Image"] = [[rbxassetid://13387657138]];
+LOADER["5"]["LayoutOrder"] = 10;
+LOADER["5"]["Size"] = UDim2.new(1, 0, 1, 0);
+LOADER["5"]["Name"] = [[Overlay]];
+LOADER["5"]["BackgroundTransparency"] = 0.800000011920929;
+
+-- LOADERLoadingScreen.MainFrame.Overlay.UICorner
+LOADER["6"] = Instance.new("UICorner", LOADER["5"]);
+LOADER["6"]["CornerRadius"] = UDim.new(0.07000000029802322, 0);
+
+-- LOADERLoadingScreen.MainFrame.Overlay.Title
+LOADER["7"] = Instance.new("TextLabel", LOADER["5"]);
+LOADER["7"]["TextWrapped"] = true;
+LOADER["7"]["TextScaled"] = true;
+LOADER["7"]["BackgroundColor3"] = Color3.fromRGB(118, 192, 255);
+LOADER["7"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+LOADER["7"]["TextSize"] = 14;
+LOADER["7"]["TextColor3"] = Color3.fromRGB(203, 244, 255);
+LOADER["7"]["AnchorPoint"] = Vector2.new(0, 0.5);
+LOADER["7"]["Size"] = UDim2.new(0.6451469659805298, 0, 0.1418459564447403, 0);
+LOADER["7"]["Text"] = [[Please wait a while!]];
+LOADER["7"]["Name"] = [[Title]];
+LOADER["7"]["BackgroundTransparency"] = 1;
+LOADER["7"]["Position"] = UDim2.new(0.1773512363433838, 0, 0.4073548913002014, 0);
+
+-- LOADERLoadingScreen.MainFrame.Overlay.Desc
+LOADER["8"] = Instance.new("TextLabel", LOADER["5"]);
+LOADER["8"]["TextWrapped"] = true;
+LOADER["8"]["TextScaled"] = true;
+LOADER["8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+LOADER["8"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+LOADER["8"]["TextSize"] = 14;
+LOADER["8"]["TextColor3"] = Color3.fromRGB(199, 220, 255);
+LOADER["8"]["AnchorPoint"] = Vector2.new(0, 0.5);
+LOADER["8"]["Size"] = UDim2.new(0.8879498243331909, 0, 0.1277613639831543, 0);
+LOADER["8"]["Text"] = [[We are currently setting everything up for you]];
+LOADER["8"]["Name"] = [[Desc]];
+LOADER["8"]["BackgroundTransparency"] = 1;
+LOADER["8"]["Position"] = UDim2.new(0.06185942143201828, 0, 0.5393086075782776, 0);
+
+-- LOADERLoadingScreen.MainFrame.DropShadowHolder
+LOADER["9"] = Instance.new("Frame", LOADER["3"]);
+LOADER["9"]["ZIndex"] = 0;
+LOADER["9"]["BorderSizePixel"] = 0;
+LOADER["9"]["BackgroundTransparency"] = 1;
+LOADER["9"]["Size"] = UDim2.new(1, 0, 1, 0);
+LOADER["9"]["Name"] = [[DropShadowHolder]];
+
+-- LOADERLoadingScreen.MainFrame.DropShadowHolder.DropShadow
+LOADER["a"] = Instance.new("ImageLabel", LOADER["9"]);
+LOADER["a"]["ZIndex"] = 0;
+LOADER["a"]["BorderSizePixel"] = 0;
+LOADER["a"]["SliceCenter"] = Rect.new(49, 49, 450, 450);
+LOADER["a"]["ScaleType"] = Enum.ScaleType.Slice;
+LOADER["a"]["ImageColor3"] = Color3.fromRGB(0, 0, 0);
+LOADER["a"]["ImageTransparency"] = 0.699999988079071;
+LOADER["a"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+LOADER["a"]["Image"] = [[rbxassetid://6014261993]];
+LOADER["a"]["Size"] = UDim2.new(1, 47, 1, 47);
+LOADER["a"]["Name"] = [[DropShadow]];
+LOADER["a"]["BackgroundTransparency"] = 1;
+LOADER["a"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- LOADERLoadingScreen.MainFrame.UIAspectRatioConstraint
+LOADER["b"] = Instance.new("UIAspectRatioConstraint", LOADER["3"]);
+LOADER["b"]["AspectRatio"] = 1.8712739944458008;
+
+-- LOADERLoadingScreen.LoadingModule
+LOADER["c"] = Instance.new("ModuleScript", LOADER["1"]);
+LOADER["c"]["Name"] = [[LoadingModule]];
+
+
+-- Require LOADER wrapper
+local LOADER_REQUIRE = require;
+local LOADER_MODULES = {};
+local function require(Module:ModuleScript)
+    local ModuleState = LOADER_MODULES[Module];
+    if ModuleState then
+        if not ModuleState.Required then
+            ModuleState.Required = true;
+            ModuleState.Value = ModuleState.Closure();
+        end
+        return ModuleState.Value;
+    end;
+    return LOADER_REQUIRE(Module);
+end
+
+LOADER_MODULES[LOADER["c"]] = {
+    Closure = function()
+        local script = LOADER["c"];
+        local lib = {}
+
+        local tweenserv = game:GetService("TweenService")
+        local frame = script.Parent.MainFrame
+        local DarkOverlay = script.Parent.DarkOverlay
+
+        local isLoading = false
+        local delayz = 0.6
+
+        local function TextFadeLoop()
+            local title = frame.Overlay.Title
+            local desc = frame.Overlay.Desc
+
+            local timeToFade = 1
+
+            local titleStart = tweenserv:Create(title, TweenInfo.new(timeToFade, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0.8})
+            local titleEnd = tweenserv:Create(title, TweenInfo.new(timeToFade, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0})
+
+            local descStart = tweenserv:Create(desc, TweenInfo.new(timeToFade, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0.8})
+            local descEnd = tweenserv:Create(desc, TweenInfo.new(timeToFade, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0})
+
+            while isLoading == true do
+                titleStart:Play()
+                descStart:Play()
+                titleStart.Completed:Wait()
+                titleEnd:Play()
+                descEnd:Play()
+                titleEnd.Completed:Wait()
+            end
+        end
+
+        function lib:Start()
+            isLoading = true
+
+            script.Parent.Enabled = true
+            frame.Position = UDim2.new(0.336, 0, -0.372, 0)
+            DarkOverlay.Transparency = 1
+
+            local tw1 = tweenserv:Create(frame, TweenInfo.new(delayz, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Position = UDim2.new(0.336, 0, 0.322, 0)})
+            local tw2 = tweenserv:Create(DarkOverlay, TweenInfo.new(delayz, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Transparency = 0.66})
+            tw1:Play()
+            tw2:Play()
+            tw2.Completed:Wait()
+            TextFadeLoop()
+        end
+
+        function lib:End()
+            isLoading = false
+
+            DarkOverlay.Transparency = 1
+
+            local tw1 = tweenserv:Create(frame, TweenInfo.new(delayz, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Position = UDim2.new(0.336, 0, -0.372, 0)})
+            local tw2 = tweenserv:Create(DarkOverlay, TweenInfo.new(delayz, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Transparency = 1})
+            tw1:Play()
+            tw2:Play()
+        end
+
+        return lib
+    end;
+}
+
+getgenv().rLib = require(LOADER["c"])
+
+-- Create a coroutine to run the loading animation asynchronously
+coroutine.wrap(function()
+    getgenv().rLib:Start()
+end)()
+
+
+function whitelist()
+    local username = game.Players.LocalPlayer.Name
+    local response = game:HttpGet("https://whitelist.deltaexploits.net/api/whitelisted?username=" .. username)
+    local success, data = pcall(function()
+        return game:GetService('HttpService'):JSONDecode(response)
+    end)
+    if success and data and data["data"] and data["data"]["whitelisted"] == true then
+        --print("whitelisted")
+        writefile("dsigfiureikuger.txt", "WHITELIST")
+        GrantAccess()
+        return true
+    end
+    return false
+end
+
+function boost_whitelist()
+    local username = game.Players.LocalPlayer.Name
+    local response = game:HttpGet("https://deltafunny.dosware.repl.co/checkKey/" .. username)
+    if string.find(response, "cock_cock_cock") then
+        writefile("dsigfiureikuger.txt", "BOOST")
+        --GrantAccess()
+        return true
+    end
+    return false
+end
+
+
+
+
+
+if not isfile("dsigfiureikuger.txt") then
+    writefile("dsigfiureikuger.txt", "hi")
+end
+
+
+
+
+function checkkey()
+
+    local savedkey = readfile("dsigfiureikuger.txt")
+
+	local keyless = game:HttpGet("https://raw.githubusercontent.com/lxnnydev/DeltaAndroid/main/iskeyless")
+	if string.find(keyless, "true") then
+		GrantAccess()
+        return true
+	end
+
+    if Verify() then
+        GrantAccess()
+        return true
+    end
+
+    if(savedkey == "WHITELIST") then
+        if whitelist() then
+            GrantAccess()
+            return true
+        end
+    end
+
+    if(savedkey == "BOOST") then
+        if boost_whitelist() then
+            GrantAccess()
+            return true
+        end
+    end
+
+end
+
+
+coroutine.wrap(function()
+    --print("starting up")
+	local bool = checkkey()
+    
+    -- This is being ran when no saved key is found
+    if not bool then
+        --print("no valid key")
+        wait(1)
+	    getgenv().rLib:End()
+        DELTA["1"].Enabled = true
+        StartUp()
+    else
+        DELTA["1"].Enabled = true
+    end
+end)()
+
+return DELTA["1"], require;
